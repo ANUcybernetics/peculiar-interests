@@ -142,6 +142,35 @@ export const CATEGORY_INFO: Record<Category, { item: number; short: string; labe
   },
 };
 
+/** Canonical field order per category (schema.py CATEGORY_FIELDS). */
+export const CATEGORY_FIELDS: Record<Category, readonly string[]> = {
+  shareholdings: ["company"],
+  trusts: ["name", "nature", "beneficial_interest", "role"],
+  "real-estate": ["location", "purpose"],
+  directorships: ["company", "activities"],
+  partnerships: ["name", "nature", "activities"],
+  liabilities: ["nature", "creditor"],
+  investments: ["type", "body"],
+  accounts: ["nature", "institution"],
+  "other-assets": ["nature"],
+  "other-income": ["nature"],
+  gifts: ["details"],
+  "travel-hospitality": ["details"],
+  memberships: ["organisation"],
+  "other-interests": ["nature"],
+};
+
+/** The fields present across a set of interests, in canonical order. */
+export function fieldOrder(
+  category: Category,
+  interests: { fields: Record<string, string> }[],
+): string[] {
+  const present = new Set(interests.flatMap((i) => Object.keys(i.fields)));
+  const ordered = CATEGORY_FIELDS[category].filter((f) => present.has(f));
+  const extra = [...present].filter((f) => !CATEGORY_FIELDS[category].includes(f)).toSorted();
+  return [...ordered, ...extra];
+}
+
 /** Field labels per canonical field name (schema.py CATEGORY_FIELDS). */
 export const FIELD_LABELS: Record<string, string> = {
   company: "Company",

@@ -6,7 +6,7 @@ import { dataset } from "@/lib/data";
 import { mentionPeople } from "@/lib/derive";
 import { pluralise } from "@/lib/format";
 import { categoryPath } from "@/lib/paths";
-import { CATEGORY_INFO, FIELD_LABELS, HOLDER_LABELS } from "@/lib/schema";
+import { CATEGORY_INFO, FIELD_LABELS, HOLDER_LABELS, fieldOrder } from "@/lib/schema";
 
 export function getStaticPaths() {
   return dataset().mentions.map((m) => ({ params: { slug: m.slug }, props: { mention: m } }));
@@ -66,9 +66,9 @@ const rows = mention.rows.toSorted((a, b) => a.display_name.localeCompare(b.disp
                 </td>
                 <td class="muted">{HOLDER_LABELS[r.holder]}</td>
                 <td>
-                  {Object.entries(r.interest.fields).map(([k, v]) => (
+                  {fieldOrder(r.category, [r.interest]).map((k) => (
                     <div>
-                      <span class="muted small">{FIELD_LABELS[k] ?? k}:</span> {v}
+                      <span class="muted small">{FIELD_LABELS[k] ?? k}:</span> {r.interest.fields[k]}
                     </div>
                   ))}
                 </td>

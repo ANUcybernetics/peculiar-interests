@@ -5,7 +5,14 @@ import Ledger from "@/components/Ledger.astro";
 import PersonLink from "@/components/PersonLink.astro";
 import { dataset } from "@/lib/data";
 import { pluralise } from "@/lib/format";
-import { CATEGORIES, CATEGORY_INFO, FIELD_LABELS, HOLDER_LABELS, type Category } from "@/lib/schema";
+import {
+  CATEGORIES,
+  CATEGORY_INFO,
+  FIELD_LABELS,
+  HOLDER_LABELS,
+  fieldOrder,
+  type Category,
+} from "@/lib/schema";
 
 export function getStaticPaths() {
   return CATEGORIES.map((category) => ({ params: { category } }));
@@ -17,7 +24,10 @@ const { statements, ledger } = dataset();
 const rows = statements.flatMap((s) =>
   s.interests.filter((i) => i.category === category).map((i) => ({ s, i })),
 );
-const fieldNames = [...new Set(rows.flatMap(({ i }) => Object.keys(i.fields)))];
+const fieldNames = fieldOrder(
+  category,
+  rows.map(({ i }) => i),
+);
 const anyHolder = rows.some(({ i }) => i.holder !== "unspecified");
 const changes = ledger.filter((e) => e.alteration.category === category);
 const people = new Set(rows.map((r) => r.s.aph_id)).size;

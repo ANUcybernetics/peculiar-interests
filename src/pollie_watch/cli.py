@@ -24,17 +24,19 @@ from pollie_watch.schema import Chamber, ExtractionMethod, Statement
 
 app = typer.Typer(no_args_is_help=True, add_completion=False, help=__doc__)
 
-PARLIAMENT_OPTION = typer.Option(48, "--parliament", "-p", help="Parliament number")
-DEST_OPTION = typer.Option(
-    None, help="Override TOML to write (default: raw/ocr/<stem>.toml)"
-)
-
 
 class Target(StrEnum):
     HOUSE = "house"
     SENATE = "senate"
     ROSTER = "roster"
     ALL = "all"
+
+
+PARLIAMENT_OPTION = typer.Option(48, "--parliament", "-p", help="Parliament number")
+TARGET_ARGUMENT = typer.Argument(Target.ALL, help="house, senate, roster or all")
+DEST_OPTION = typer.Option(
+    None, help="Override TOML to write (default: raw/ocr/<stem>.toml)"
+)
 
 
 @app.callback()
@@ -44,7 +46,9 @@ def _configure(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
 
 
 @app.command()
-def fetch(target: Target = Target.ALL, parliament: int = PARLIAMENT_OPTION) -> None:
+def fetch(
+    target: Target = TARGET_ARGUMENT, parliament: int = PARLIAMENT_OPTION
+) -> None:
     """Fetch register indexes and documents into raw/."""
     if target in (Target.ROSTER, Target.ALL):
         from pollie_watch import people
@@ -63,7 +67,9 @@ def fetch(target: Target = Target.ALL, parliament: int = PARLIAMENT_OPTION) -> N
 
 
 @app.command()
-def parse(target: Target = Target.ALL, parliament: int = PARLIAMENT_OPTION) -> None:
+def parse(
+    target: Target = TARGET_ARGUMENT, parliament: int = PARLIAMENT_OPTION
+) -> None:
     """Regenerate data/ from the committed raw/ files and overrides/."""
     if target in (Target.SENATE, Target.ALL):
         from pollie_watch import senate

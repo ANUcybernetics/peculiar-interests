@@ -3,7 +3,14 @@
 // out: a rubric (number and name) beside the declared rows, each row showing
 // whose interest it is and the declared fields.
 import { categoryPath } from "@/lib/paths";
-import { CATEGORY_INFO, FIELD_LABELS, HOLDER_LABELS, type Category, type Interest } from "@/lib/schema";
+import {
+  CATEGORY_INFO,
+  FIELD_LABELS,
+  HOLDER_LABELS,
+  fieldOrder,
+  type Category,
+  type Interest,
+} from "@/lib/schema";
 
 interface Props {
   category: Category;
@@ -13,7 +20,7 @@ interface Props {
 }
 const { category, interests, showHolder } = Astro.props;
 const info = CATEGORY_INFO[category];
-const fieldNames = [...new Set(interests.flatMap((i) => Object.keys(i.fields)))];
+const fieldNames = fieldOrder(category, interests);
 const id = `item-${info.item}`;
 ---
 
