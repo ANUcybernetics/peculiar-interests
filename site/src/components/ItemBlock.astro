@@ -1,0 +1,130 @@
+---
+// One of the fourteen items on a person page, laid out as the form lays it
+// out: a rubric (number and name) beside the declared rows, each row showing
+// whose interest it is and the declared fields.
+import { categoryPath } from "@/lib/paths";
+import { CATEGORY_INFO, FIELD_LABELS, HOLDER_LABELS, type Category, type Interest } from "@/lib/schema";
+
+interface Props {
+  category: Category;
+  interests: Interest[];
+  /** Whether this statement records holders at all (House yes, Senate no). */
+  showHolder: boolean;
+}
+const { category, interests, showHolder } = Astro.props;
+const info = CATEGORY_INFO[category];
+const fieldNames = [...new Set(interests.flatMap((i) => Object.keys(i.fields)))];
+const id = `item-${info.item}`;
+---
+
+<section class="item" aria-labelledby={id}>
+  <h3 class="item__rubric" id={id}>
+    <span class="item__number">{info.item}.</span>
+    <a href={categoryPath(category)}>{info.short}</a>
+    <span class="item__label muted small">{info.label}</span>
+  </h3>
+  <div class="item__body">
+    {
+      interests.length === 0 ? (
+        <p class="item__nil muted">Nothing declared</p>
+      ) : (
+        <table>
+          <thead class="visually-hidden">
+            <tr>
+              {showHolder && <th scope="col">Held by</th>}
+              {fieldNames.map((f) => (
+                <th scope="col">{FIELD_LABELS[f] ?? f}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {interests.map((i) => (
+              <tr>
+                {showHolder && <td class="item__holder muted">{HOLDER_LABELS[i.holder] || "—"}</td>}
+                {fieldNames.map((f, idx) => (
+                  <td class:list={{ "item__primary": idx === 0 }}>{i.fields[f] ?? ""}</td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .item {
+    display: grid;
+    grid-template-columns: minmax(12rem, 16rem) 1fr;
+    gap: var(--space-2) var(--space-6);
+    padding-block: var(--space-4);
+    border-top: 1px solid var(--rule);
+  }
+
+  .item__rubric {
+    margin: 0;
+    font-size: var(--text-base);
+    font-weight: 600;
+    line-height: 1.4;
+    display: grid;
+    grid-template-columns: 2.2rem 1fr;
+    column-gap: var(--space-1);
+    align-items: baseline;
+  }
+
+  .item__number {
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .item__rubric a {
+    text-decoration: none;
+  }
+
+  .item__rubric a:hover {
+    text-decoration: underline;
+  }
+
+  .item__label {
+    grid-column: 2;
+    font-weight: 400;
+    text-wrap: pretty;
+  }
+
+  .item__nil {
+    margin: 0;
+    padding-top: 0.1rem;
+  }
+
+  table {
+    font-size: var(--text-base);
+  }
+
+  td {
+    border-bottom-color: var(--rule);
+  }
+
+  tr:last-child td {
+    border-bottom: 0;
+  }
+
+  .item__holder {
+    width: 10rem;
+    white-space: nowrap;
+  }
+
+  .item__primary {
+    font-weight: 500;
+  }
+
+  @container (width < 48rem) {
+    .item {
+      grid-template-columns: 1fr;
+    }
+
+    .item__holder {
+      width: auto;
+    }
+  }
+</style>

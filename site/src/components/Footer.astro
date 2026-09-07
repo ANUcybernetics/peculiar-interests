@@ -1,0 +1,32 @@
+---
+import { withBase } from "@/lib/paths";
+---
+
+<footer class="page">
+  <p>
+    Peculiar Interests is a <a href="https://cybernetics.anu.edu.au">Cybernetic Studio</a> project by
+    <a href="https://benswift.me">Ben Swift</a>. The data is extracted from the official
+    <a href="https://www.aph.gov.au/Senators_and_Members/Members/Register">Register of Members' Interests</a>
+    and
+    <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests/Senators_Interests_Register"
+      >Register of Senators' Interests</a
+    >; every entry links to its source. Dataset licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>;
+    code on <a href="https://github.com/benswift/pollie-watch">GitHub</a>. Spotted an error?
+    <a href={withBase("/about#corrections")}>Tell us</a>.
+  </p>
+</footer>
+
+<style>
+  footer {
+    margin-top: var(--space-12);
+    padding-block: var(--space-6) var(--space-8);
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-size: var(--text-sm);
+  }
+
+  footer p {
+    max-width: var(--measure);
+    margin: 0;
+  }
+</style>

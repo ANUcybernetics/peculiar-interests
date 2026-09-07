@@ -1,0 +1,18 @@
+---
+import { fullName } from "@/lib/format";
+import { personPath } from "@/lib/paths";
+import type { Chamber } from "@/lib/schema";
+
+interface Props {
+  aph_id: string;
+  given_names: string;
+  family_name: string;
+  chamber: Chamber;
+  /** Register order ("Aldred, Mary") instead of natural order. */
+  surnameFirst?: boolean;
+}
+const { aph_id, given_names, family_name, chamber, surnameFirst = false } = Astro.props;
+const text = surnameFirst ? `${family_name}, ${given_names}` : fullName(given_names, family_name);
+---
+
+<a class={chamber} href={personPath(aph_id)}>{text}</a>

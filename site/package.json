@@ -1,0 +1,44 @@
+{
+  "name": "peculiar-interests-site",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Peculiar Interests: the registers of interests of Australian federal parliamentarians, browsable and downloadable",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "typecheck": "astro check && svelte-check --tsconfig ./tsconfig.json",
+    "test": "vitest run",
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "lint:css": "stylelint \"src/**/*.css\"",
+    "format": "oxfmt .",
+    "format:check": "oxfmt --check ."
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "@astrojs/svelte": "^9.0.1",
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "astro": "^7.3.1",
+    "pagefind": "^1.5.2",
+    "svelte": "^5.57.0",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@types/node": "^26.4.0",
+    "oxfmt": "^0.66.0",
+    "oxlint": "^1.81.0",
+    "stylelint": "^17.15.0",
+    "stylelint-config-standard": "^40.0.0",
+    "svelte-check": "^4.7.6",
+    "tsx": "^4.23.13",
+    "typescript": "^6.0.3",
+    "vitest": "^5.0.0"
+  },
+  "engines": {
+    "pnpm": ">=11"
+  }
+}

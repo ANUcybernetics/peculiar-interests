@@ -1,0 +1,78 @@
+---
+// The one place the site quotes the form literally: the identity fields at the
+// top of the statement, ruled above in the chamber colour.
+import ChamberMark from "@/components/ChamberMark.astro";
+import type { Person, Statement } from "@/lib/schema";
+
+interface Props {
+  statement: Statement;
+  person: Person | undefined;
+}
+const { statement: s, person } = Astro.props;
+const party = person?.party ?? s.party;
+const fields: [string, string | null | undefined][] =
+  s.chamber === "house"
+    ? [
+        ["Family name", s.family_name],
+        ["Given names", s.given_names],
+        ["Electoral division", s.electorate ?? person?.electorate],
+        ["State", s.state ?? person?.state],
+        ["Party", party],
+      ]
+    : [
+        ["Family name", s.family_name],
+        ["Given names", s.given_names],
+        ["State", s.state ?? person?.state],
+        ["Party", party],
+      ];
+---
+
+<dl class:list={["identity", s.chamber]}>
+  {
+    fields
+      .filter(([, v]) => v)
+      .map(([k, v]) => (
+        <div class="identity__field">
+          <dt>{k}</dt>
+          <dd>{v}</dd>
+        </div>
+      ))
+  }
+  <div class="identity__field">
+    <dt>Chamber</dt>
+    <dd><ChamberMark chamber={s.chamber} /></dd>
+  </div>
+</dl>
+
+<style>
+  .identity {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3) var(--space-8);
+    margin: 0 0 var(--space-6);
+    padding-block: var(--space-3) var(--space-4);
+    border-top: 4px solid var(--rule-strong);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .identity.house {
+    border-top-color: var(--house);
+  }
+
+  .identity.senate {
+    border-top-color: var(--senate);
+  }
+
+  dt {
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0.04em;
+    font-size: var(--text-base);
+    color: var(--muted);
+  }
+
+  dd {
+    margin: 0;
+    font-weight: 600;
+    font-size: var(--text-lg);
+  }
+</style>

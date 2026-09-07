@@ -1,0 +1,160 @@
+---
+// The dated ledger of alterations: the site's signature element. Each row is
+// date, who (optional), the item rubric with a + or − for addition or
+// deletion, and the details verbatim.
+import PersonLink from "@/components/PersonLink.astro";
+import type { LedgerEntry } from "@/lib/derive";
+import { formatDate, oneLine } from "@/lib/format";
+import { categoryPath } from "@/lib/paths";
+import { CATEGORY_INFO, HOLDER_LABELS } from "@/lib/schema";
+
+interface Props {
+  entries: LedgerEntry[];
+  showPerson?: boolean;
+  /** Group rows under month headings. */
+  byMonth?: boolean;
+}
+const { entries, showPerson = true, byMonth = false } = Astro.props;
+
+const monthFormat = new Intl.DateTimeFormat("en-AU", { month: "long", year: "numeric", timeZone: "UTC" });
+function monthOf(iso: string): string {
+  return monthFormat.format(new Date(`${iso}T00:00:00Z`));
+}
+---
+
+<ol class="ledger" reversed>
+  {
+    entries.map((e, i) => {
+      const a = e.alteration;
+      const info = a.category ? CATEGORY_INFO[a.category] : null;
+      const holder = HOLDER_LABELS[a.holder];
+      const newMonth = byMonth && (i === 0 || monthOf(entries[i - 1]!.date) !== monthOf(e.date));
+      return (
+        <>
+          {newMonth && (
+            <li class="ledger__month" aria-hidden="true">
+              {monthOf(e.date)}
+            </li>
+          )}
+          <li class:list={["ledger__row", a.kind]}>
+            <time class="ledger__date" datetime={e.date}>
+              {formatDate(e.date)}
+            </time>
+            <span class="ledger__rubric">
+              <span class="ledger__sign" aria-hidden="true">
+                {a.kind === "addition" ? "+" : "−"}
+              </span>
+              <span class="visually-hidden">{a.kind === "addition" ? "Added" : "Removed"}</span>
+              {info ? (
+                <a href={categoryPath(a.category!)}>
+                  {info.item}. {info.short}
+                </a>
+              ) : (
+                <span class="muted">Unspecified item</span>
+              )}
+            </span>
+            <span class="ledger__body">
+              {showPerson && (
+                <span class="ledger__who">
+                  <PersonLink
+                    aph_id={e.aph_id}
+                    given_names={e.given_names}
+                    family_name={e.family_name}
+                    chamber={e.chamber}
+                  />
+                </span>
+              )}
+              <span class="ledger__details">{oneLine(a.details)}</span>
+              {holder && a.holder !== "self" && <span class="ledger__holder muted small">{holder}</span>}
+            </span>
+          </li>
+        </>
+      );
+    })
+  }
+</ol>
+
+<style>
+  .ledger {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    container-type: inline-size;
+  }
+
+  .ledger__month {
+    font-weight: 700;
+    font-size: var(--text-sm);
+    color: var(--muted);
+    padding: var(--space-6) 0 var(--space-2);
+    border-bottom: 1px solid var(--rule-strong);
+  }
+
+  .ledger__row {
+    display: grid;
+    grid-template-columns: 7.5rem 11rem 1fr;
+    gap: var(--space-2) var(--space-4);
+    padding: var(--space-3) 0;
+    border-bottom: 1px solid var(--rule);
+    align-items: baseline;
+  }
+
+  .ledger__date {
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .ledger__rubric {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .ledger__rubric a {
+    text-decoration: none;
+  }
+
+  .ledger__rubric a:hover {
+    text-decoration: underline;
+  }
+
+  .ledger__sign {
+    display: inline-block;
+    width: 1.1em;
+    font-weight: 800;
+  }
+
+  .deletion .ledger__sign {
+    color: var(--muted);
+  }
+
+  .ledger__body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 var(--space-3);
+    align-items: baseline;
+  }
+
+  .ledger__who {
+    font-weight: 600;
+  }
+
+  .ledger__details {
+    flex: 1 1 24ch;
+    text-wrap: pretty;
+  }
+
+  .deletion .ledger__details {
+    color: var(--muted);
+  }
+
+  @container (width < 44rem) {
+    .ledger__row {
+      grid-template-columns: 7.5rem 1fr;
+    }
+
+    .ledger__body {
+      grid-column: 1 / -1;
+    }
+  }
+</style>

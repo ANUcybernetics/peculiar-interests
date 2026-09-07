@@ -1,0 +1,12 @@
+---
+import { CHAMBER_LABELS, type Chamber } from "@/lib/schema";
+
+interface Props {
+  chamber: Chamber;
+  /** "House" / "Senate" (default) or "Member" / "Senator". */
+  form?: "noun" | "member";
+}
+const { chamber, form = "noun" } = Astro.props;
+---
+
+<span class:list={["chamber", chamber]}>{CHAMBER_LABELS[chamber][form]}</span>

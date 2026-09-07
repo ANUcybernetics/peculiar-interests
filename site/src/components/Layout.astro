@@ -1,0 +1,51 @@
+---
+import "@fontsource-variable/bricolage-grotesque/standard.css";
+import "@fontsource/ibm-plex-mono/400.css";
+import "@/styles/global.css";
+import Footer from "@/components/Footer.astro";
+import Nav from "@/components/Nav.astro";
+import { withBase } from "@/lib/paths";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = "The registers of interests of Australian federal MPs and senators, in one searchable place: property, shares, trusts, gifts, sponsored travel, and every alteration since.",
+} = Astro.props;
+
+const siteName = "Peculiar Interests";
+const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
+const origin = Astro.site ?? new URL(Astro.url.origin);
+const canonical = new URL(Astro.url.pathname, origin).href;
+---
+
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#faf9f5" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={siteName} />
+    <link rel="icon" href={withBase("/favicon.svg")} type="image/svg+xml" />
+    <link rel="sitemap" type="application/xml" href={withBase("/sitemap-index.xml")} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <Nav />
+    <main id="main" tabindex="-1" class="page">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

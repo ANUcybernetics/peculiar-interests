@@ -1,0 +1,96 @@
+---
+// How we know: the official document, when we fetched it, and how it was read.
+import { formatDateLong } from "@/lib/format";
+import { withBase } from "@/lib/paths";
+import type { Statement } from "@/lib/schema";
+
+interface Props {
+  statement: Statement;
+}
+const { statement: s } = Astro.props;
+
+const METHOD: Record<Statement["extraction"]["method"], string> = {
+  "senate-api": "read field by field from the Senate register's data service",
+  "pdf-text": "read from the text of the official PDF; the tables are machine-generated so this is exact",
+  ocr: "read from a scanned document by a local text-recognition model and not yet checked by a person",
+  manual: "read from a scanned document and checked line by line by a person",
+  pending: "a scanned document we have not yet transcribed",
+};
+const officialName = s.chamber === "house" ? "Register of Members' Interests" : "Register of Senators' Interests";
+const repoRaw = `https://github.com/benswift/pollie-watch/blob/main/${s.source.raw_path}`;
+---
+
+<aside class="source" aria-labelledby="source-heading">
+  <h2 id="source-heading">Source</h2>
+  <dl>
+    <div>
+      <dt>Official document</dt>
+      <dd>
+        <a href={s.source.url} rel="external">{officialName}, {s.parliament}th Parliament</a>
+      </dd>
+    </div>
+    <div>
+      <dt>Register last updated</dt>
+      <dd>{formatDateLong(s.last_updated) || "not stated"}</dd>
+    </div>
+    <div>
+      <dt>Statement lodged</dt>
+      <dd>{formatDateLong(s.date_lodged) || "not stated"}</dd>
+    </div>
+    <div>
+      <dt>Fetched</dt>
+      <dd>{formatDateLong(s.source.fetched_at)} (<a href={repoRaw}>our copy</a>)</dd>
+    </div>
+    <div>
+      <dt>How it was read</dt>
+      <dd>
+        This statement was {METHOD[s.extraction.method]} (parser version {s.extraction.version}).
+        {s.extraction.notes.length > 0 && <ul>{s.extraction.notes.map((n) => <li>{n}</li>)}</ul>}
+      </dd>
+    </div>
+    <div>
+      <dt>Machine-readable</dt>
+      <dd>
+        <a href={withBase(`/api/v1/statements/${s.aph_id}.json`)}>JSON for this statement</a>
+      </dd>
+    </div>
+  </dl>
+</aside>
+
+<style>
+  .source {
+    margin-top: var(--space-section);
+    padding-top: var(--space-5);
+    border-top: 1px solid var(--rule-strong);
+    max-width: var(--measure);
+    font-size: var(--text-sm);
+  }
+
+  h2 {
+    font-size: var(--text-lg);
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: var(--space-2) var(--space-5);
+    margin: 0;
+  }
+
+  dl > div {
+    display: contents;
+  }
+
+  dt {
+    color: var(--muted);
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  dd ul {
+    margin: var(--space-1) 0 0;
+    padding-left: 1.1em;
+  }
+</style>
