@@ -143,13 +143,6 @@ th {
   border-bottom-color: var(--rule-strong);
 }
 
-thead th {
-  position: sticky;
-  top: 0;
-  background: var(--bg);
-  z-index: 1;
-}
-
 td.num,
 th.num {
   text-align: right;
@@ -196,7 +189,7 @@ th.num {
 
 .skip-link {
   position: absolute;
-  left: var(--space-4);
+  inset-inline-start: var(--space-4);
   top: -100%;
   padding: var(--space-2) var(--space-3);
   background: var(--text);
@@ -242,9 +235,10 @@ th.num {
 .notice {
   background: var(--manila);
   color: var(--text);
-  border-left: 4px solid var(--manila-ink);
+  border-inline-start: 4px solid var(--manila-ink);
   padding: var(--space-3) var(--space-4);
-  border-radius: 0 var(--radius) var(--radius) 0;
+  border-start-end-radius: var(--radius);
+  border-end-end-radius: var(--radius);
   max-width: var(--measure);
 }
 

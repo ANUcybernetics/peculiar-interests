@@ -42,7 +42,7 @@ const people = new Set(rows.map((r) => r.s.aph_id)).size;
     </p>
   </header>
 
-  <section class="section" aria-labelledby="declared">
+  <section class="section">
     <h2 id="declared">As lodged</h2>
     {
       rows.length === 0 ? (
@@ -50,6 +50,7 @@ const people = new Set(rows.map((r) => r.s.aph_id)).size;
       ) : (
         <div class="table-scroll">
           <table>
+            <caption class="visually-hidden">Everything declared under item {info.item}, {info.short}</caption>
             <thead>
               <tr>
                 <th scope="col">Who</th>
@@ -88,7 +89,7 @@ const people = new Set(rows.map((r) => r.s.aph_id)).size;
     }
   </section>
 
-  <section class="section" aria-labelledby="changes">
+  <section class="section">
     <h2 id="changes">Alterations</h2>
     {changes.length === 0 ? <p class="muted">No alterations under this item.</p> : <Ledger entries={changes} byMonth />}
   </section>

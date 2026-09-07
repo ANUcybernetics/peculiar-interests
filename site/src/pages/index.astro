@@ -29,7 +29,7 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
     </p>
   </section>
 
-  <section class="section" aria-labelledby="recent">
+  <section class="section">
     <div class="section__head">
       <h2 id="recent">Latest alterations</h2>
       <p class="muted">
@@ -40,12 +40,12 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
     <Ledger entries={recent} />
   </section>
 
-  <section class="section" aria-labelledby="browse">
+  <section class="section">
     <h2 id="browse">Browse the register</h2>
     <div class="browse">
       <div>
         <h3>By item</h3>
-        <ol class="items">
+        <ol class="items" role="list">
           {
             CATEGORIES.map((c) => (
               <li>
@@ -60,7 +60,7 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
       </div>
       <div>
         <h3>By who</h3>
-        <ul class="plain">
+        <ul class="plain" role="list">
           <li>
             <a href={withBase("/people?chamber=house")}>{pluralise(house.length, "member")} of the House</a>
           </li>
@@ -72,7 +72,7 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
           Companies, banks and organisations named by three or more parliamentarians.
           <a href={withBase("/mentions")}>All names</a>
         </p>
-        <ul class="plain">
+        <ul class="plain" role="list">
           {
             busiest.map((m) => (
               <li>

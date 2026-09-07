@@ -22,7 +22,7 @@ function monthOf(iso: string): string {
 }
 ---
 
-<ol class="ledger" reversed>
+<ol class="ledger" role="list" reversed>
   {
     entries.map((e, i) => {
       const a = e.alteration;
@@ -97,6 +97,8 @@ function monthOf(iso: string): string {
     padding: var(--space-3) 0;
     border-bottom: 1px solid var(--rule);
     align-items: baseline;
+    content-visibility: auto;
+    contain-intrinsic-block-size: auto 3.2rem;
   }
 
   .ledger__date {

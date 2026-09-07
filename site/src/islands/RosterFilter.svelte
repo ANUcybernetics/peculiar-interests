@@ -36,33 +36,35 @@
   });
 </script>
 
-<form class="filter" role="search" onsubmit={(e) => e.preventDefault()}>
-  <label>
-    <span>Find</span>
-    <input
-      type="search"
-      bind:value={query}
-      placeholder="Name, party, electorate…"
-      autocomplete="off"
-    />
-  </label>
-  <fieldset>
-    <legend>Chamber</legend>
-    <label><input type="radio" bind:group={chamber} value="" /> Both</label>
-    <label><input type="radio" bind:group={chamber} value="house" /> House</label>
-    <label><input type="radio" bind:group={chamber} value="senate" /> Senate</label>
-  </fieldset>
-  <label>
-    <span>Party</span>
-    <select bind:value={party}>
-      <option value="">All parties</option>
-      {#each parties as p (p)}
-        <option value={p}>{p}</option>
-      {/each}
-    </select>
-  </label>
-  <output aria-live="polite" class="muted">{shown === null ? "" : `${shown} shown`}</output>
-</form>
+<search>
+  <form class="filter" onsubmit={(e) => e.preventDefault()}>
+    <div>
+      <label for="roster-find">Find</label>
+      <input
+        id="roster-find"
+        type="search"
+        bind:value={query}
+        placeholder="Name, party, electorate…"
+      />
+    </div>
+    <fieldset>
+      <legend>Chamber</legend>
+      <label><input type="radio" bind:group={chamber} value="" /> Both</label>
+      <label><input type="radio" bind:group={chamber} value="house" /> House</label>
+      <label><input type="radio" bind:group={chamber} value="senate" /> Senate</label>
+    </fieldset>
+    <div>
+      <label for="roster-party">Party</label>
+      <select id="roster-party" bind:value={party}>
+        <option value="">All parties</option>
+        {#each parties as p (p)}
+          <option value={p}>{p}</option>
+        {/each}
+      </select>
+    </div>
+    <output class="muted">{shown === null ? "" : `${shown} shown`}</output>
+  </form>
+</search>
 
 <style>
   .filter {
@@ -75,7 +77,7 @@
     border-block: 1px solid var(--rule);
   }
 
-  label > span,
+  div > label,
   legend {
     display: block;
     font-size: var(--text-sm);
@@ -117,6 +119,6 @@
 
   output {
     font-size: var(--text-sm);
-    margin-left: auto;
+    margin-inline-start: auto;
   }
 </style>

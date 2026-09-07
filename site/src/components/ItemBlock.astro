@@ -24,7 +24,7 @@ const fieldNames = fieldOrder(category, interests);
 const id = `item-${info.item}`;
 ---
 
-<section class="item" aria-labelledby={id}>
+<section class="item">
   <h3 class="item__rubric" id={id}>
     <span class="item__number">{info.item}.</span>
     <a href={categoryPath(category)}>{info.short}</a>
