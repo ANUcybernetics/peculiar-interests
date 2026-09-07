@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+logs/
+# OCR working files (page renders, model output) live under raw/ocr; only the
+# reviewed overrides are committed.
+raw/ocr/
+site/node_modules/
+site/dist/
+site/.astro/
+site/src/generated/

@@ -1,0 +1,33 @@
+[project]
+name = "pollie-watch"
+version = "0.1.0"
+description = "Peculiar Interests: an open, versioned dataset of the registers of interests of Australian federal parliamentarians"
+authors = [{ name = "Ben Swift", email = "ben@benswift.me" }]
+requires-python = ">=3.14"
+dependencies = [
+  "beautifulsoup4>=4.14",
+  "httpx>=0.28",
+  "loguru>=0.7",
+  "lxml>=6.0",
+  "pdfplumber>=0.11",
+  "pydantic>=2.12",
+  "typer>=0.20",
+]
+
+[project.scripts]
+pollie = "pollie_watch.cli:app"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = ["pytest>=9.0", "pytest-xdist>=3.6", "ruff>=0.14"]
+# Only the `pollie ocr` command needs a local vision model; kept out of the
+# default install so the scraper stays lean. Run with `uv run --group ocr`.
+ocr = []
+
+[tool.pytest.ini_options]
+addopts = "-n auto -m 'not live'"
+markers = ["live: hits aph.gov.au (deselected by default; run with -m live)"]
+testpaths = ["tests"]
