@@ -9,6 +9,9 @@ export default defineConfig({
   site: "https://anucybernetics.github.io",
   base: "/peculiar-interests",
   trailingSlash: "ignore",
+  // compressHTML drops the newline between a line of prose and a link that
+  // starts the next line, running the words together.
+  compressHTML: false,
   output: "static",
   prefetch: { prefetchAll: true, defaultStrategy: "viewport" },
   vite: {
