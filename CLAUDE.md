@@ -50,7 +50,7 @@ one `Statement` JSON per person per parliament and is regenerated from `raw/` by
 the parsers, so never hand-edit `data/`. Hand corrections go in `overrides/`,
 which the parser applies last.
 
-aph.gov.au content is CC BY-NC-ND 3.0 AU: keep the PDFs in the repo as evidence
+aph.gov.au content is CC BY-NC-ND 4.0: keep the PDFs in the repo as evidence
 and link to APH as the canonical copy, don't serve them from the site. The
 extracted dataset itself is CC BY 4.0.
 

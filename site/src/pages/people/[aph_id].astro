@@ -61,13 +61,13 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
 
   {
     !pending && (
-      <section class="items" aria-labelledby="statement">
+      <section class="items">
         <h2 id="statement">Statement of registrable interests</h2>
         <p class="muted small">
           The fourteen items in the order the form asks them.{" "}
           {s.chamber === "house"
             ? "Each row says whose interest it is: the member's own, their spouse or partner's, or a dependent child's."
-            : "The Senate's register does not record whether an interest is the senator's own or a family member's."}
+            : "The Senate publishes only the senator's own interests; those of a spouse, partner or dependent children are lodged but kept confidential to the Committee of Senators' Interests."}
         </p>
         <div class="items__list">
           {CATEGORIES.map((c) => (
@@ -82,7 +82,7 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
     )
   }
 
-  <section class="section" aria-labelledby="alterations">
+  <section class="section">
     <h2 id="alterations">Alterations</h2>
     {
       ledger.length === 0 ? (

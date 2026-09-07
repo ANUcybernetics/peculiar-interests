@@ -22,7 +22,7 @@ const endpoints = [
       Everything on this site is generated from a public git repository that stores the official documents as
       fetched and the extracted statements as JSON. The extracted dataset is licensed
       <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: use it for anything, say where it came
-      from. The documents themselves are the Parliament of Australia's, published under CC BY-NC-ND 3.0 AU, and are
+      from. The documents themselves are the Parliament of Australia's, published under CC BY-NC-ND 4.0, and are
       linked rather than served.
     </p>
     <h2>Static API</h2>
@@ -33,6 +33,7 @@ const endpoints = [
   </div>
   <div class="table-scroll">
     <table>
+      <caption class="visually-hidden">Files in the static API</caption>
       <thead>
         <tr>
           <th scope="col">File</th>
@@ -62,11 +63,11 @@ const endpoints = [
       <em>alterations</em> (additions and deletions notified since). Interests carry typed fields where the source
       has them; alterations are free text against a category, because that is all either chamber records. The
       <code>holder</code> says whose interest it is (self, spouse or partner, dependent children) for the House;
-      the Senate does not record it. <code>extraction.method</code> tells you how the text was read:
+      the Senate publishes only the senator's own, so it is unspecified there. <code>extraction.method</code> tells you how the text was read:
       <code>senate-api</code>, <code>pdf-text</code>, <code>ocr</code> (unreviewed), <code>manual</code>
       (reviewed) or <code>pending</code>.
     </p>
-    <pre><code>{`curl ${Astro.site ?? ""}${withBase("/api/v1/statements/")}${statements[0]?.aph_id ?? "HWK"}.json`}</code></pre>
+    <pre tabindex="0"><code>{`curl ${Astro.site ?? ""}${withBase("/api/v1/statements/")}${statements[0]?.aph_id ?? "HWK"}.json`}</code></pre>
     <h2>Source code and raw documents</h2>
     <p>
       <a href="https://github.com/anucybernetics/peculiar-interests">github.com/anucybernetics/peculiar-interests</a> holds the scraper, the

@@ -113,7 +113,11 @@ export const CATEGORY_INFO: Record<Category, { item: number; short: string; labe
   },
   trusts: { item: 2, short: "Trusts", label: "Family and business trusts and nominee companies" },
   "real-estate": { item: 3, short: "Real estate", label: "Real estate, by location and purpose" },
-  directorships: { item: 4, short: "Directorships", label: "Directorships of companies" },
+  directorships: {
+    item: 4,
+    short: "Directorships",
+    label: "Registered directorships of companies",
+  },
   partnerships: { item: 5, short: "Partnerships", label: "Partnerships" },
   liabilities: { item: 6, short: "Liabilities", label: "Liabilities, and the creditor concerned" },
   investments: { item: 7, short: "Investments", label: "Bonds, debentures and like investments" },
@@ -124,7 +128,11 @@ export const CATEGORY_INFO: Record<Category, { item: number; short: string; labe
     label: "Other assets each valued at over $7,500",
   },
   "other-income": { item: 10, short: "Other income", label: "Other substantial sources of income" },
-  gifts: { item: 11, short: "Gifts", label: "Gifts" },
+  gifts: {
+    item: 11,
+    short: "Gifts",
+    label: "Gifts above the $750 (official sources) or $300 (other sources) thresholds",
+  },
   "travel-hospitality": {
     item: 12,
     short: "Sponsored travel",
@@ -133,7 +141,8 @@ export const CATEGORY_INFO: Record<Category, { item: number; short: string; labe
   memberships: {
     item: 13,
     short: "Memberships",
-    label: "Membership of organisations where a conflict could arise",
+    label:
+      "Membership of organisations where a conflict could arise (House); office-holding in, or donations of $300 or more a year to, any organisation (Senate)",
   },
   "other-interests": {
     item: 14,

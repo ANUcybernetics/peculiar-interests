@@ -1,8 +1,9 @@
 """Canonical data model shared by every ingest path and by the site.
 
-Both houses' registers descend from the same 1984 resolutions, so they ask the
-same fourteen questions in the same order. The House numbers them 1--14 on its
-form; the Senate API names them. `Category` is the neutral vocabulary, and the
+The Senate's 1994 resolution copies the House's 1984 one almost word for word,
+so both registers ask the same fourteen questions in the same order (item 13
+differs: House membership of organisations, Senate office-holding or donations).
+The House numbers them 1--14 on its form; the Senate API names them. `Category` is the neutral vocabulary, and the
 two mapping tables at the bottom translate each source into it.
 
 Everything downstream (site, static API, tests) consumes `Statement` JSON

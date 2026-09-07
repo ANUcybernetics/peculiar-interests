@@ -50,5 +50,5 @@ what is wrong. Corrections to a scanned statement go in `overrides/` (see
 Code: MIT. Dataset (the JSON under `data/` and the site's `/api/v1/` endpoints):
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The register
 documents under `raw/` are the Parliament of Australia's, published under CC
-BY-NC-ND 3.0 AU, and are kept here as evidence of what was extracted rather than
+BY-NC-ND 4.0, and are kept here as evidence of what was extracted rather than
 served from the site.
