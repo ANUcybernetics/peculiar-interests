@@ -12,7 +12,7 @@ const { statement: s } = Astro.props;
 const METHOD: Record<Statement["extraction"]["method"], string> = {
   "senate-api": "read field by field from the Senate register's data service",
   "pdf-text": "read from the text of the official PDF; the tables are machine-generated so this is exact",
-  ocr: "read from a scanned document by a local text-recognition model and not yet checked by a person",
+  ocr: "transcribed from the scanned pages by a machine (a language model reading the page images) and not yet checked by a person",
   manual: "read from a scanned document and checked line by line by a person",
   pending: "a scanned document we have not yet transcribed",
 };

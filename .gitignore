@@ -5,9 +5,8 @@ dist/
 .pytest_cache/
 .ruff_cache/
 logs/
-# OCR working files (page renders, model output) live under raw/ocr; only the
-# reviewed overrides are committed.
-raw/ocr/
+# Page renders for `pollie transcribe`; only the resulting overrides are committed.
+raw/transcribe/
 site/node_modules/
 site/dist/
 site/.astro/

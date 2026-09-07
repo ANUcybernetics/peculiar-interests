@@ -61,7 +61,7 @@ class AlterationKind(StrEnum):
 class ExtractionMethod(StrEnum):
     SENATE_API = "senate-api"  # structured JSON, mapped field for field
     PDF_TEXT = "pdf-text"  # text-layer PDF, tables read with pdfplumber
-    OCR = "ocr"  # scanned PDF read by a local vision model, unreviewed
+    OCR = "ocr"  # scanned PDF read by a machine (Claude via `pollie transcribe`), unreviewed
     MANUAL = "manual"  # a person confirmed or wrote the override file
     PENDING = "pending"  # a scan with no override yet: metadata only, no interests
 

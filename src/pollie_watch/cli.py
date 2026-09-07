@@ -5,7 +5,7 @@ module that owns the work, so the pipeline is scriptable from Python too.
     pollie parse [house|senate|all]          regenerate data/ from raw/ (+ overrides/)
     pollie people                            rebuild data/people.json from the roster CSVs + indexes
     pollie schema                            write data/schema.json from the pydantic models
-    pollie ocr PDF                           draft an override for a scanned statement
+    pollie transcribe PDF                    transcribe a scanned statement with Claude into an override
     pollie status                            what we hold, what is pending
     pollie run                               the nightly sequence: fetch all, parse all, people, schema
 """
@@ -35,8 +35,10 @@ class Target(StrEnum):
 PARLIAMENT_OPTION = typer.Option(48, "--parliament", "-p", help="Parliament number")
 TARGET_ARGUMENT = typer.Argument(Target.ALL, help="house, senate, roster or all")
 DEST_OPTION = typer.Option(
-    None, help="Override TOML to write (default: raw/ocr/<stem>.toml)"
+    None,
+    help="Override TOML to write (default: overrides/<parliament>/house/<stem>.toml)",
 )
+MODEL_OPTION = typer.Option("opus", "--model", help="Claude model alias for claude -p")
 
 
 @app.callback()
@@ -97,17 +99,21 @@ def schema() -> None:
 
 
 @app.command()
-def ocr(
+def transcribe(
     pdf: Path,
     dest: Path | None = DEST_OPTION,
+    model: str = MODEL_OPTION,
+    parliament: int = PARLIAMENT_OPTION,
 ) -> None:
-    """Draft an override for a scanned statement with the local OCR model."""
-    from pollie_watch import ocr as ocr_module
+    """Transcribe a scanned statement (raw/house/<parl>/<aph_id>.pdf) with Claude
+    into an override, marked machine-read until a person confirms it."""
+    from pollie_watch import transcribe as transcribe_module
 
-    work_dir = paths.RAW / "ocr"
-    target = dest or work_dir / f"{pdf.stem}.toml"
-    ocr_module.run(pdf, target, work_dir)
-    logger.info("draft written to {}; review it, then move it under overrides/", target)
+    target = dest or paths.override_path(Chamber.HOUSE, parliament, pdf.stem)
+    transcribe_module.transcribe(pdf, target, paths.RAW / "transcribe", model=model)
+    logger.info(
+        'wrote {}; check it against the PDF, then set method = "manual"', target
+    )
 
 
 @app.command()

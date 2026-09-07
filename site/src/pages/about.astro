@@ -24,8 +24,9 @@ import { withBase } from "@/lib/paths";
     <p>
       The Senate register is read field by field from the data service behind the official web app. Most House
       statements are system-generated PDFs whose tables are extracted exactly from the text layer, with no model
-      involved. A handful of House statements are handwritten scans; those are transcribed by a locally run
-      text-recognition model and then checked by a person before they are shown as confirmed. Every person page
+      involved. A handful of House statements are handwritten scans; those are transcribed from the page images by a
+      language model (Claude) and then checked by a person against the document before they are shown as
+      confirmed. Every person page
       says which of these applies to it and links to the official document.
     </p>
     <p>
