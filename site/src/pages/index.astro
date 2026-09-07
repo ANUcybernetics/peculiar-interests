@@ -24,7 +24,7 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
     <h1>What Australia's federal politicians have declared they own, owe, and were given.</h1>
     <p class="hero__lede prose">
       Every entry from the <ChamberMark chamber="house" /> and <ChamberMark chamber="senate" /> registers of
-      interests, read into one schema and kept current:
+      interests, read into one schema and kept current:{" "}
       {`${pluralise(totalInterests, "declared interest")} across ${pluralise(house.length, "member")} and ${pluralise(senate.length, "senator")}, plus ${pluralise(ledger.length, "alteration")} notified since the ${statements[0]?.parliament ?? 48}th Parliament opened.`} Free to browse, free to <a href={withBase("/data")}>download</a>.
     </p>
   </section>

@@ -1,0 +1,13 @@
+[Unit]
+Description=Peculiar Interests: nightly fetch of the registers of interests
+Documentation=file:///home/ben/projects/pollie-watch/cron-run.sh
+# No `After=network-online.target`: a system target, resolves to nothing in the
+# user manager. The ExecStartPre below is the real guard.
+
+[Service]
+Type=oneshot
+ExecStartPre=/home/ben/.dotfiles/bin/wait-for-network
+WorkingDirectory=/home/ben/projects/pollie-watch
+Environment=PATH=/home/ben/.local/share/mise/shims:/home/ben/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/home/ben/projects/pollie-watch/cron-run.sh
+TimeoutStartSec=1h

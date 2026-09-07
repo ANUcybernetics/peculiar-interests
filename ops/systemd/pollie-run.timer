@@ -1,0 +1,13 @@
+[Unit]
+Description=Trigger the Peculiar Interests run daily at 04:00 local
+# Unit= in [Timer] binds the service; a Requires= here would also fire it at
+# every boot.
+
+[Timer]
+OnCalendar=04:00
+RandomizedDelaySec=30min
+Persistent=true
+Unit=pollie-run.service
+
+[Install]
+WantedBy=timers.target
