@@ -1,0 +1,188 @@
+{
+ "alterations": [
+  {
+   "category": "trusts",
+   "date_processed": null,
+   "date_submitted": "2025-10-28",
+   "details": "Hogan Discretionary Trust - Real Estate Brisbane - Discretionary Beneficiary",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "93abb3bc-17b6-f011-bbd2-00224898b4a7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-28",
+   "details": "Parliamentary Delegation to Taiwan 17 - 21 October - sponsored by Taipei Economic and Cultural Office in Australia\nAll flights, accommodation, domestic transport and meals ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "70503abf-17b6-f011-bbd2-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-16",
+   "details": "Ticket and Hospitality from Cricket Australia for attendance at the Ashes Test in Brisbane on 5 December 2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "25bf4124-ceda-f011-8544-6045bdc2987e"
+  }
+ ],
+ "aph_id": "217241",
+ "chamber": "senate",
+ "date_lodged": "2025-08-17",
+ "display_name": "McGrath, James",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McGrath",
+ "given_names": "James",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Warwick Queensland",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "588cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac\nWestpac\nWarwick",
+    "nature": "Mortgage on Warwick Property\nSecond Mortgage on Warwick Property\nCredit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "4e8cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Australian Super",
+    "type": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "4c8cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac\nNAB",
+    "nature": "Savings\nSavings"
+   },
+   "holder": "unspecified",
+   "source_id": "658cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Landrover Defender\nDaimler"
+   },
+   "holder": "unspecified",
+   "source_id": "508cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Farmstay"
+   },
+   "holder": "unspecified",
+   "source_id": "528cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Qantas Chairmans Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "4a8cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Virgin Club"
+   },
+   "holder": "unspecified",
+   "source_id": "de54bd41-1387-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel in Electorate Office - ASTRA"
+   },
+   "holder": "unspecified",
+   "source_id": "3773ec47-1387-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "General Membership of Institute of Public Affairs"
+   },
+   "holder": "unspecified",
+   "source_id": "548cd278-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of Brisbane Club"
+   },
+   "holder": "unspecified",
+   "source_id": "66d77b6e-1387-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of Isolated Childrens Parents Assoc Queensland"
+   },
+   "holder": "unspecified",
+   "source_id": "4862f374-1387-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of Queensland Irish Club"
+   },
+   "holder": "unspecified",
+   "source_id": "5762f374-1387-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of Warwick Club"
+   },
+   "holder": "unspecified",
+   "source_id": "1e160b7b-1387-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Life Membership of Glengallan Homestead Trust"
+   },
+   "holder": "unspecified",
+   "source_id": "48160b7b-1387-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2025-12-16",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal National Party of Queensland",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/217241.json",
+  "sha256": "307d96bfdbdca6aef98bcff4f97e70b8108b25f8ff57badd2534f4815367bff0",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=217241"
+ },
+ "state": "Queensland"
+}

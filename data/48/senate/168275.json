@@ -1,0 +1,118 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2025-09-16",
+   "details": "Haventec",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": "873fc834-c192-f011-b4cc-6045bde49b50"
+  }
+ ],
+ "aph_id": "168275",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Sheldon, Tony",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Sheldon",
+ "given_names": "Tony",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Qantas Airways"
+   },
+   "holder": "unspecified",
+   "source_id": "cc479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Haventec"
+   },
+   "holder": "unspecified",
+   "source_id": "cf479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Surry Hills, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "c8479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "c2479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "ca479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "cb479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - TWUSUPER"
+   },
+   "holder": "unspecified",
+   "source_id": "c6479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complimentary Foxtel subscription at Electorate Office"
+   },
+   "holder": "unspecified",
+   "source_id": "d1479720-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - Australian Labor Party\nMembership - Transport Workers' Union of Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "c4479720-be7c-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2025-09-16",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/168275.json",
+  "sha256": "908f0924255746a49379124608b098d4825ff2dad8c93e8ae0fef551782717ed",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=168275"
+ },
+ "state": "New South Wales"
+}

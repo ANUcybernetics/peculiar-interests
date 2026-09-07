@@ -1,0 +1,266 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-01",
+   "details": "Virgin Australia Beyond Lounge",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "404adb39-9887-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-01",
+   "details": "Qantas Chairman's Lounge\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "68af9f28-9887-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-10-09",
+   "details": "3 Cartons of Beer from the Brewers Association.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "35dbab66-b5d4-f011-8544-6045bde6a67d"
+  },
+  {
+   "category": "directorships",
+   "date_processed": null,
+   "date_submitted": "2026-01-22",
+   "details": "Became director of T & A Whitten Holdings Pty Ltd",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "9646f98c-e3f7-f011-8406-6045bdc25de2"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-06-04",
+   "details": "Whittens Group Pty Ltd\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": "76a7eace-df5f-f111-a826-00224810b694"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-06-04",
+   "details": "Whitten Bros Investments Pty Limited ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": "82a7eace-df5f-f111-a826-00224810b694"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-06-04",
+   "details": " Upper Swan, WA             Investment (jointly held)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "88a7eace-df5f-f111-a826-00224810b694"
+  }
+ ],
+ "aph_id": "317026",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Whitten, Tyron",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Whitten",
+ "given_names": "Tyron",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Whittens Group Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "779a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "T & A Whitten Family Investments Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "7b9a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Whitten Bros Investments Pty Limited"
+   },
+   "holder": "unspecified",
+   "source_id": "7d9a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "DCF Global Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "809a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Fremantle Seaweed Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "839a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanable Fitouts Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "869a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Sky Energy Investments Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "889a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Discretionary beneficiary",
+    "name": "T & A Whitten Family Trust",
+    "nature": "Business Investment",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "8a9a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Discretionary beneficiary",
+    "name": "Hillbilly Oysters Family Trust",
+    "nature": "Business Investment",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "8c9a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Upper Swan, WA",
+    "purpose": "Investment (jointly held)"
+   },
+   "holder": "unspecified",
+   "source_id": "6b9a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Gosford NSW",
+    "purpose": "Investment (jointly held)"
+   },
+   "holder": "unspecified",
+   "source_id": "6d9a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee company",
+    "company": "Hillbilly Oysters Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "6f9a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investment",
+    "company": "T & A Whitten Family Investments Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "719a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee company",
+    "company": "T & A Whitten Holdings Pty Limited"
+   },
+   "holder": "unspecified",
+   "source_id": "739a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Former investment",
+    "company": "Whitten Bros Investments Pty Limited"
+   },
+   "holder": "unspecified",
+   "source_id": "759a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Plenti",
+    "nature": "Car loan"
+   },
+   "holder": "unspecified",
+   "source_id": "659a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Resimac",
+    "nature": "Car loan"
+   },
+   "holder": "unspecified",
+   "source_id": "679a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Trust distributions"
+   },
+   "holder": "unspecified",
+   "source_id": "699a7a0d-cf7c-f011-b4cb-7c1e522a62fa"
+  }
+ ],
+ "last_updated": "2026-06-04",
+ "notes": [],
+ "parliament": 48,
+ "party": "One Nation",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/317026.json",
+  "sha256": "de1ba22b17f4ab725a8caa2bdd9d3e8a93d63704a0d9603ed25275bac94fbc1c",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=317026"
+ },
+ "state": "Western Australia"
+}

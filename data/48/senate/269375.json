@@ -1,0 +1,287 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-09-22",
+   "details": "Platinum experience ticket for me and standard ticket for a staff member to CPAC 2025 from Conservative Political Action Network Ltd",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "dc1bba5f-6a97-f011-b41c-000d3ad253b4"
+  },
+  {
+   "category": "other-income",
+   "date_processed": null,
+   "date_submitted": "2025-10-15",
+   "details": "Sum received in October 2025 in settlement of defamation action.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "267ee69c-0bab-f011-bbd3-00224892bc27"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2025-10-21",
+   "details": "Membership of the Inter-Parliamentary Union (IPU) for the 48th Parliament",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "4a88e17d-8db0-f011-bbd2-6045bdc2987e"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2025-10-21",
+   "details": "Membership of the Serbia Parliamentary Country Group for the 48th Parliament",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "5688e17d-8db0-f011-bbd2-6045bdc2987e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-02-23",
+   "details": "Lunch at Sydney restaurant on 19 February 2026 paid by 2GB - cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "2a69865e-6410-f111-8406-7ced8da19888"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-02-23",
+   "details": "Variation to earlier flight from Sydney to Adelaide on 21 February 2026 from QANTAS - cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "45ed606d-6310-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-23",
+   "details": "Return business class flights from Adelaide to Sydney, travel to and from airport, accommodation, entry tickets, 2 x dinners and hospitality associated with my speaking role at Advance Australia Conference between 19 February 2026 and 21 February 2026 from Advance Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "aff225e7-6410-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "accounts",
+   "date_processed": null,
+   "date_submitted": "2026-04-01",
+   "details": "Classic Banking Account - NAB",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "4e634d9b-312e-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "accounts",
+   "date_processed": null,
+   "date_submitted": "2026-04-01",
+   "details": "Reward Savings Account - NAB",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "55634d9b-312e-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-05-13",
+   "details": "Socceroos 2026 World Cup Jersey from Football Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "205d48dc-954e-f111-bec6-7ced8da1c86f"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-05-20",
+   "details": "Complimentary ticket to Lawyers Weekly Corporate Counsel Awards Dinner on 14 May 2026 from BAE Systems Australia Ltd.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "d1c49c44-a554-f111-bec6-6045bdc3fcd7"
+  },
+  {
+   "category": "other-income",
+   "date_processed": null,
+   "date_submitted": "2026-07-29",
+   "details": "Sum received in July 2026 in settlement of defamation action.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "d48a86cc-a28b-f111-ab0f-7c1e5262eaeb"
+  }
+ ],
+ "aph_id": "269375",
+ "chamber": "senate",
+ "date_lodged": "2025-08-06",
+ "display_name": "Antic, Alex",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Antic",
+ "given_names": "Alex",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Island Beach (SA)",
+    "purpose": "Vacant Land"
+   },
+   "holder": "unspecified",
+   "source_id": "7d40cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "8240cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "8640cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Smart Access Account"
+   },
+   "holder": "unspecified",
+   "source_id": "8840cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "6f40cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life, Income and TPD Insurances"
+   },
+   "holder": "unspecified",
+   "source_id": "7240cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Office Foxtel Subscription"
+   },
+   "holder": "unspecified",
+   "source_id": "5a40cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS Chairman's Club Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "6040cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia Beyond Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "6340cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Copies of SA Life Magazine from Toop and Toop Real Estate"
+   },
+   "holder": "unspecified",
+   "source_id": "6740cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Subscription to www.public.news website from Michael Schellenberger"
+   },
+   "holder": "unspecified",
+   "source_id": "6b40cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (SA Division)"
+   },
+   "holder": "unspecified",
+   "source_id": "6d40cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Adelaide Oval Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "7640cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Adelaide Football Club Memberships"
+   },
+   "holder": "unspecified",
+   "source_id": "7a40cd61-7c72-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "BUPA Health Insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "7b40cd61-7c72-f011-b4cd-000d3ad2a284"
+  }
+ ],
+ "last_updated": "2026-07-29",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/269375.json",
+  "sha256": "170dc0cfabf52fdc1d6adbcefcb4de7cc85bb604262e5fef35e0d249ed308d5a",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=269375"
+ },
+ "state": "South Australia"
+}

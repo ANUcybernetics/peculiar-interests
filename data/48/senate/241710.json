@@ -1,0 +1,113 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-11-26",
+   "details": "An upgrade from Economy to Business on Drukair (KB153) from Bangkok to Paro, Bhutan on 25 September 2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "0e51ad62-06cf-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-26",
+   "details": "In country accommodation, land transport and meals as guest of Royal Kingdom of Bhutan as a member of the inaugural delegation of the Australian Parliamentary Friendship Group for Bhutan visit to Bhutan - 23 September to 2 October 2025.\n\nEconomy return flights from Perth to Bhutan and overnight transit accommodation at Bangkok Airport (23 September) were self funded.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "0951ad62-06cf-f011-8544-6045bdc2987e"
+  }
+ ],
+ "aph_id": "241710",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Smith, Dean",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Smith",
+ "given_names": "Dean",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ATG, CCP, CSL, DRR, DTL, GOR, KLS, REA, RHC, SEK, SKK, XYZ"
+   },
+   "holder": "unspecified",
+   "source_id": "329061f5-ce7c-f011-b4cc-002248962181"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Dianella, WA\nLyons, ACT",
+    "purpose": "Residential\nResidential"
+   },
+   "holder": "unspecified",
+   "source_id": "2d9061f5-ce7c-f011-b4cc-002248962181"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on property"
+   },
+   "holder": "unspecified",
+   "source_id": "249061f5-ce7c-f011-b4cc-002248962181"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "CPS Capital\nEquity Trustees",
+    "type": "Managed funds\nSuperannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "229061f5-ce7c-f011-b4cc-002248962181"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank\nWestpac Bank",
+    "nature": "Savings \nSavings"
+   },
+   "holder": "unspecified",
+   "source_id": "309061f5-ce7c-f011-b4cc-002248962181"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Modernist and Art Deco Society, WA\nPatron, Bayswater Tennis Club, WA\nPatron, Tuart Place, Fremantle, WA\nLiberal Party of Australia (WA Division)"
+   },
+   "holder": "unspecified",
+   "source_id": "269061f5-ce7c-f011-b4cc-002248962181"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Airline memberships - Qantas, Virgin"
+   },
+   "holder": "unspecified",
+   "source_id": "289061f5-ce7c-f011-b4cc-002248962181"
+  }
+ ],
+ "last_updated": "2025-11-27",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/241710.json",
+  "sha256": "ea2b7ce19b8bf625b38e330f71712444a9289611ffe0eff89eebdc238ee0aee7",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=241710"
+ },
+ "state": "Western Australia"
+}

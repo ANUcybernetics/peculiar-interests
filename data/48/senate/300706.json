@@ -1,0 +1,119 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-03-27",
+   "details": "BUILDVEST (AUST) PTY LTD",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "25b2687a-b72b-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "trusts",
+   "date_processed": null,
+   "date_submitted": "2026-03-27",
+   "details": "Melbourne Group, discretionary trust, joint beneficiary",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "798b2279-b72b-f111-88b3-7ced8da1c86f"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-03-27",
+   "details": "Melbourne, VIC. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "bbd22771-b72b-f111-88b4-6045bdc25de2"
+  },
+  {
+   "category": "directorships",
+   "date_processed": null,
+   "date_submitted": "2026-03-27",
+   "details": "BUILDVEST (AUST) PTY LTD",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "b5d22771-b72b-f111-88b4-6045bdc25de2"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-03-30",
+   "details": "Mortgage, Commonwealth Bank.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "df2ad372-b72b-f111-88b3-7ced8da1c86f"
+  }
+ ],
+ "aph_id": "300706",
+ "chamber": "senate",
+ "date_lodged": "2025-08-01",
+ "display_name": "Babet, Ralph",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Babet",
+ "given_names": "Ralph",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BABET BROTHERS PTY LTD"
+   },
+   "holder": "unspecified",
+   "source_id": "9f5d9aca-6272-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WESTPAC",
+    "nature": "SAVINGS"
+   },
+   "holder": "unspecified",
+   "source_id": "9e5d9aca-6272-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "VIRGIN BEYOND LOUNGE"
+   },
+   "holder": "unspecified",
+   "source_id": "6f9df799-4589-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS CHAIRMANS LOUNGE"
+   },
+   "holder": "unspecified",
+   "source_id": "985d9aca-6272-f011-b4cd-000d3ad2a284"
+  }
+ ],
+ "last_updated": "2026-03-30",
+ "notes": [],
+ "parliament": 48,
+ "party": "United Australia Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/300706.json",
+  "sha256": "6f901c510ce68587167ce3b284f93edaf35960b4107b027396c25bdd6e98dce9",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300706"
+ },
+ "state": "Victoria"
+}

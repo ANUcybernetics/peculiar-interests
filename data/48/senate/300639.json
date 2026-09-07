@@ -1,0 +1,180 @@
+{
+ "alterations": [],
+ "aph_id": "300639",
+ "chamber": "senate",
+ "date_lodged": "2025-08-13",
+ "display_name": "Tyrrell, Tammy",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Tyrrell",
+ "given_names": "Tammy",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Legana, TAS",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "45a497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "ea619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Personal loan on vehicle"
+   },
+   "holder": "unspecified",
+   "source_id": "ef619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "PSSAP",
+    "type": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "e5619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "48a497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Mortgage Offset"
+   },
+   "holder": "unspecified",
+   "source_id": "4da497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary annual Foxtel subscription from Australian Subscription Television and Radio Association (ASTRA). For access to news services in Electorate Office."
+   },
+   "holder": "unspecified",
+   "source_id": "dd619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Australian Distillers Association Lark Distillery 2022 Australian Blended Malt Whisky 100ml (limited)."
+   },
+   "holder": "unspecified",
+   "source_id": "df619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Huon Salmon Hampers (Easter and Christmas)."
+   },
+   "holder": "unspecified",
+   "source_id": "e3619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Beyond Lounge Guest"
+   },
+   "holder": "unspecified",
+   "source_id": "4ea497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Guest"
+   },
+   "holder": "unspecified",
+   "source_id": "50a497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Save the Children Study Tour in Honiara, Solomon Islands"
+   },
+   "holder": "unspecified",
+   "source_id": "53a497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "WA accommodation on trip with Minerals Council of Australia."
+   },
+   "holder": "unspecified",
+   "source_id": "57a497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Monthly donations to National Breast Cancer Foundation (NBCF)"
+   },
+   "holder": "unspecified",
+   "source_id": "f1619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Financial donations to City Mission Launceston to support local events"
+   },
+   "holder": "unspecified",
+   "source_id": "f3619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Financial donations to Shekinah House Launceston to support local events"
+   },
+   "holder": "unspecified",
+   "source_id": "f5619abc-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Financial donations to RFDS Tasmania to support local events"
+   },
+   "holder": "unspecified",
+   "source_id": "41a497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Financial donations to various Tasmanian schools through Department of Education for end of year awards"
+   },
+   "holder": "unspecified",
+   "source_id": "43a497c2-ca7b-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "last_updated": "2025-08-14",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/300639.json",
+  "sha256": "a7800564fea2e0f504e3d969bb55246e5178069e864558aa233f5265e0c7c543",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300639"
+ },
+ "state": "Tasmania"
+}

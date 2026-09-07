@@ -1,0 +1,239 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2025-11-13",
+   "details": "Rosewater, South Australia - Investment",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": "db735268-48c3-f011-bbd3-6045bde5f32c"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-11-13",
+   "details": "Mortgage on Investment property - Westpac",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": "08c466e5-4bc3-f011-bbd3-6045bde5f32c"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-05-22",
+   "details": "Member - ALP National Executive",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "0d5e4480-d757-f111-bec7-6045bdc25de2"
+  }
+ ],
+ "aph_id": "296331",
+ "chamber": "senate",
+ "date_lodged": "2025-08-15",
+ "display_name": "Grogan, Karen",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Grogan",
+ "given_names": "Karen",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Rosewater, South Australia",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "3c2b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Rosewater, South Australia",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "3f2b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ottoway, South Australia",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "462b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "ed2a6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "f32a6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "f52a6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "4b2b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Hostplus"
+   },
+   "holder": "unspecified",
+   "source_id": "0f2b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Commonwealth Government PSS"
+   },
+   "holder": "unspecified",
+   "source_id": "132b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income"
+   },
+   "holder": "unspecified",
+   "source_id": "152b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel connection in electorate office provided free of charge by foxtel"
+   },
+   "holder": "unspecified",
+   "source_id": "e92a6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "542b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ALP - member of state executive, member of rules committee, member of finance committee"
+   },
+   "holder": "unspecified",
+   "source_id": "f92a6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "PLUS - Convenor, member of executive committee"
+   },
+   "holder": "unspecified",
+   "source_id": "fd2a6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ALP Donor"
+   },
+   "holder": "unspecified",
+   "source_id": "012b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "PLUS Donor"
+   },
+   "holder": "unspecified",
+   "source_id": "062b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - United Workers Union"
+   },
+   "holder": "unspecified",
+   "source_id": "182b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Australian Services Union"
+   },
+   "holder": "unspecified",
+   "source_id": "332b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Emily List"
+   },
+   "holder": "unspecified",
+   "source_id": "372b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Community & Public Sector Union"
+   },
+   "holder": "unspecified",
+   "source_id": "3a2b6bac-e47b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Committee Member - Progressive Labour Education Association"
+   },
+   "holder": "unspecified",
+   "source_id": "3b2b6bac-e47b-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2026-05-22",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/296331.json",
+  "sha256": "1c8800536762e1b9e07ab298d664022530be475c2ace8d81bd29ea936ce54d00",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=296331"
+ },
+ "state": "South Australia"
+}

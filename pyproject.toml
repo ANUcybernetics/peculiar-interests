@@ -25,7 +25,9 @@ build-backend = "uv_build"
 dev = ["pytest>=9.0", "pytest-xdist>=3.6", "ruff>=0.14"]
 # Only the `pollie ocr` command needs a local vision model; kept out of the
 # default install so the scraper stays lean. Run with `uv run --group ocr`.
-ocr = []
+ocr = [
+    "chandra-ocr[hf]>=0.2.0",
+]
 
 [tool.pytest.ini_options]
 addopts = "-n auto -m 'not live'"

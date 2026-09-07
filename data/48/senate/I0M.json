@@ -1,0 +1,230 @@
+{
+ "alterations": [],
+ "aph_id": "I0M",
+ "chamber": "senate",
+ "date_lodged": "2025-08-05",
+ "display_name": "Cash, Michaelia",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Cash",
+ "given_names": "Michaelia",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Discretionary Family Trust",
+    "name": "The Control Trust (Discretionary)",
+    "nature": "Discretionary Shares",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "7e2ef548-8e72-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "0834c638-2073-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Floreat",
+    "purpose": "Primary Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "1928492b-8872-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Floreat",
+    "purpose": "Investment with Husband"
+   },
+   "holder": "unspecified",
+   "source_id": "f50dbbb5-8f72-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Turner ACT",
+    "purpose": "Second Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "78ba12bc-8f72-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Mortgage on Primary Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "4cb8efd1-4789-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Mortgage on Investment Property"
+   },
+   "holder": "unspecified",
+   "source_id": "72b8efd1-4789-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Mortgage on Second Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "e827492b-8872-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankwest",
+    "nature": "Mortgage Saver Account"
+   },
+   "holder": "unspecified",
+   "source_id": "b9ccf4ff-4789-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankwest",
+    "nature": "Mortgage Saver Account"
+   },
+   "holder": "unspecified",
+   "source_id": "feb44706-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "e640e90c-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankwest",
+    "nature": "Interest Account"
+   },
+   "holder": "unspecified",
+   "source_id": "b17be612-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankwest",
+    "nature": "Cheque Account"
+   },
+   "holder": "unspecified",
+   "source_id": "d859e118-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING Direct",
+    "nature": "Cheque Account"
+   },
+   "holder": "unspecified",
+   "source_id": "e73c0e1f-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Interest Account"
+   },
+   "holder": "unspecified",
+   "source_id": "62400e1f-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Spouse - Life Insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "0934185c-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "6834185c-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "0928492b-8872-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent from Investment Property"
+   },
+   "holder": "unspecified",
+   "source_id": "1328492b-8872-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel EO Subscription"
+   },
+   "holder": "unspecified",
+   "source_id": "20291768-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "See previous statements of interests as per notes"
+   },
+   "holder": "unspecified",
+   "source_id": "cf27492b-8872-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Cat Haven WA"
+   },
+   "holder": "unspecified",
+   "source_id": "3a660a74-4889-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party WA"
+   },
+   "holder": "unspecified",
+   "source_id": "f527492b-8872-f011-b4cc-002248929e07"
+  }
+ ],
+ "last_updated": "2025-08-06",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/I0M.json",
+  "sha256": "7322dfdc0b1e3c585a2bde8a55364fc65f1ebfd801fef42c31b969130ccf80e2",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=I0M"
+ },
+ "state": "Western Australia"
+}

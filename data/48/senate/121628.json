@@ -1,0 +1,457 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-19",
+   "details": "A ticket to each of the following events:\n- Midwinter Ball 2025, provided by the Pharmacy Guild\n- Talented Mr Ripley, provided by Sydney Theatre Company ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "d618b27f-3c97-f011-b41c-6045bde49b50"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-19",
+   "details": "Upgrade, QF1456 ,Canberra to Sydney, Qantas, 28 August 2025.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "db18b27f-3c97-f011-b41c-6045bde49b50"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-11-11",
+   "details": " Samples delivered to Parliament House Suite by Pharmaceutical Society Australia and Consumer Healthcare Products Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "549ebc97-4ec0-f011-bbd3-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-11",
+   "details": "One ticket to each of the following events:\nRandwick Races, provided by Australian Turf Club\nNRL Grand Final, provided by the NRL",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "599ebc97-4ec0-f011-bbd3-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-05",
+   "details": "A ticket to the Aria Awards provided by ARIA.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "88e606aa-b8d3-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-18",
+   "details": "One ticket to Ashes provided by Venues NSW",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "c033cf0f-160d-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-18",
+   "details": "One ticket to Madame Butterfly provided by Opera Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "c3908a45-870c-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-18",
+   "details": "Three tickets to Sydney Festival events provided by Sydney Festival.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "fa42b627-160d-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-07",
+   "details": "A ticket to Anastasia the Musical provided by Foundation Theatres.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "c8afc4ac-6b4a-f111-bec5-6045bdc3fcd7"
+  }
+ ],
+ "aph_id": "121628",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "McAllister, Jenny",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McAllister",
+ "given_names": "Jenny",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Shareholder - Project Tableland Pty\nThis company is the trustee of the Project Tableland Environment Trust, listed at (2).\nShares constitute a minority holding, and are held jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "9690438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Shares and units in trustee and trust respectively constitute a minority position, and are held jointly with spouse.",
+    "name": "Shareholder - Project Tableland Pty Ltd as indicated at (1)",
+    "nature": "This company is the trustee of the Project Tableland Environment Trust, listed above.",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "a090438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Unit holder\nUnits held constitute a minority position, and are held jointly with spouse.",
+    "name": "Project Tableland Environment Trust (Unit Trust - fixed)",
+    "nature": "This trust exists to facilitate the shared ownership between unitholders of a single property, managed for the purposes of environment conservation and recreation. This property is listed at (3)",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "a290438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Alexandria, NSW",
+    "purpose": "Primary residence. Held jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "8f90438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Redfern, NSW",
+    "purpose": "Investment. Held jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "9190438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wentworth Falls, NSW",
+    "purpose": "Rural property managed for environmental conservation and recreation. Interest held via Project Tableland Environment Trust (shown at 2). Held jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "9390438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ME Bank",
+    "nature": "Mortgage on residential property. Held jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "a9854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ME Bank",
+    "nature": "Mortgage on investment property. Held jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "ac854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ME Bank",
+    "nature": "Credit Card\nHeld jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "ae854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "b0854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ME Bank",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "b2854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Savings Held jointly with spouse."
+   },
+   "holder": "unspecified",
+   "source_id": "9590438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Aware Super & life insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "df854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income from investment property listed at (3)"
+   },
+   "holder": "unspecified",
+   "source_id": "8d90438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairmans Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "9890438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Beyond Club Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "9a90438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "1 ticket to the Support Act: Music in the House provided by ARIA"
+   },
+   "holder": "unspecified",
+   "source_id": "9c90438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "1 x ticket to the Sydney Film Festival opening night provided by Sydney Film Festival"
+   },
+   "holder": "unspecified",
+   "source_id": "9e90438e-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Office Holder - Australian Labor Party,  National (Deputy Chair, ALP National Policy Forum, occasional proxy National Executive)"
+   },
+   "holder": "unspecified",
+   "source_id": "b5854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Office Holder - Australian Labor Party, NSW Branch (occasional proxy to the NSW Administrative Committee)"
+   },
+   "holder": "unspecified",
+   "source_id": "b7854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Manufacturers Workers Union (AMWU)"
+   },
+   "holder": "unspecified",
+   "source_id": "b9854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member & Donor - Australian Labor Party, NSW Branch"
+   },
+   "holder": "unspecified",
+   "source_id": "bb854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - NSW Left"
+   },
+   "holder": "unspecified",
+   "source_id": "bd854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member (gifted) - Virgin Beyond Club"
+   },
+   "holder": "unspecified",
+   "source_id": "bf854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member (gifted) - Qantas Chairmans"
+   },
+   "holder": "unspecified",
+   "source_id": "c1854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Evatt Foundation"
+   },
+   "holder": "unspecified",
+   "source_id": "c3854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Chifley Forum"
+   },
+   "holder": "unspecified",
+   "source_id": "c5854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Republic Movement"
+   },
+   "holder": "unspecified",
+   "source_id": "c7854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Women's Electoral Lobby"
+   },
+   "holder": "unspecified",
+   "source_id": "c9854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Jessie Street National Women's Library (Lifetime Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "cb854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian National Group of Inter-Parliamentary Union"
+   },
+   "holder": "unspecified",
+   "source_id": "cd854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Emily's List"
+   },
+   "holder": "unspecified",
+   "source_id": "cf854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Fabian Society"
+   },
+   "holder": "unspecified",
+   "source_id": "d1854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Alumni - Eisenhower Fellowship"
+   },
+   "holder": "unspecified",
+   "source_id": "d3854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Alumni - McKinnon Advanced Political Leadership"
+   },
+   "holder": "unspecified",
+   "source_id": "d5854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor - Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "d7854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor - NSW Labor"
+   },
+   "holder": "unspecified",
+   "source_id": "d9854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor - Rainbow Labor NSW"
+   },
+   "holder": "unspecified",
+   "source_id": "db854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor - APHEDA"
+   },
+   "holder": "unspecified",
+   "source_id": "dd854688-1b7e-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "last_updated": "2026-05-07",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/121628.json",
+  "sha256": "dba43bdc4e55c2de8a2e80d9488ad5b7474ef2c1694ab1805e0e72fa3ce85cd5",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=121628"
+ },
+ "state": "New South Wales"
+}

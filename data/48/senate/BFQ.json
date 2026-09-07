@@ -1,0 +1,219 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-01-05",
+   "details": "Return flights in economy class from Adelaide to Dharamsala, India plus accommodation while in Dharamsala to meet representatives of the Tibetan Government-in-Exile paid for by the Tibet Information Office in Canberra. The visit was hosted by the Australian Tibet Council as I am co-chair of the Australian Parliamentary Friends of Tibet. The visit was from 8 to 13 December 2025. Short stays in Delhi and Singapore on the return flight until 21 December 2025 were self-funded. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "7b7fc515-52eb-f011-8544-6045bde589eb"
+  }
+ ],
+ "aph_id": "BFQ",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Pocock, Barbara",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Pocock",
+ "given_names": "Barbara",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Ian Campbell (Senator Pocock has no interest)",
+    "name": "I and R Campbell Family Trust",
+    "nature": "Investment",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "5ce02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Ian Campbell (Senator Pocock has no interest)",
+    "name": "Summerfield Investments Pty Ltd",
+    "nature": "Investment",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "5ee02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Parkside, SA (Pocock)",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "51e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ME Bank",
+    "nature": "Mortgage (Pocock)"
+   },
+   "holder": "unspecified",
+   "source_id": "635234e4-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Peoples Choice",
+    "nature": "Savings 1"
+   },
+   "holder": "unspecified",
+   "source_id": "53e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Peoples Choice",
+    "nature": "Savings 2"
+   },
+   "holder": "unspecified",
+   "source_id": "54e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Peoples Choice",
+    "nature": "Savings 3"
+   },
+   "holder": "unspecified",
+   "source_id": "55e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Peoples Choice",
+    "nature": "Credit card"
+   },
+   "holder": "unspecified",
+   "source_id": "56e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Peoples Choice",
+    "nature": "Savings 4"
+   },
+   "holder": "unspecified",
+   "source_id": "57e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Peoples Choice",
+    "nature": "Savings 5"
+   },
+   "holder": "unspecified",
+   "source_id": "58e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Standard home loan"
+   },
+   "holder": "unspecified",
+   "source_id": "59e02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Everyday transaction account"
+   },
+   "holder": "unspecified",
+   "source_id": "5ae02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Online savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "5be02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "unspecified",
+   "source_id": "6b5234e4-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Block of Land, Chiton, SA (50% owned with Ian Campbell)"
+   },
+   "holder": "unspecified",
+   "source_id": "4de02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Pocock) Unisuper"
+   },
+   "holder": "unspecified",
+   "source_id": "4fe02cea-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership Virgin Beyond Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "615234e4-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Australia Institute"
+   },
+   "holder": "unspecified",
+   "source_id": "655234e4-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Greening Up PNG $564.64"
+   },
+   "holder": "unspecified",
+   "source_id": "675234e4-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Save the Virtual Schools Australia (VSA) $300"
+   },
+   "holder": "unspecified",
+   "source_id": "695234e4-ce7c-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "last_updated": "2026-01-05",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/BFQ.json",
+  "sha256": "dd39671d3c57cdcc6a499050aa4331cdecf6995aab81513a01c834183fbb0427",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=BFQ"
+ },
+ "state": "South Australia"
+}

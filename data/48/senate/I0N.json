@@ -1,0 +1,441 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-18",
+   "details": "Mawson's Huts Replica Museum ticket in Hobart courtesy of Mawson's Huts Foundation on 15 August 2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "85a3a85a-3c97-f011-b41c-6045bde63b9a"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-10",
+   "details": "2 tickets and hospitality to the Brisbane Festival’s Riverfire 2025 at Sky Deck, Brisbane courtesy of Queensland Tourism Industry Council and Airbnb on 6 September 2025.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "6975497b-a4a8-f011-bbd3-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-15",
+   "details": "2 tickets, hospitality and parking to the 2025 Toyota AFL Finals Official Function and Semi Final between the Adelaide Crows and Hawthorn at Adelaide Oval courtesy of the Adelaide Football Club and The Australian Football League on 12 September 2025.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "08ef8a33-0bab-f011-bbd3-6045bde49b50"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-22",
+   "details": "2 tickets and hospitality to the 2025 CCL Label Clare Valley Wine Show Trophy Presentation at the St Josephs School Auditorium courtesy of the Clare Valley Wine & Grape Association on 19 September 2025.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "eb96f990-8db0-f011-bbd2-6045bde763f0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-22",
+   "details": "2 tickets and hospitality to the AFL Grand Final at the Melbourne Cricket Ground courtesy of The Australian Football League on 27 September 2025.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "f396f990-8db0-f011-bbd2-6045bde763f0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-22",
+   "details": "2 tickets and hospitality to the Treasury Wine Estates Event at Miss Collins, Melbourne courtesy of Treasury Wine Estates on 27 September 2025. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "fa96f990-8db0-f011-bbd2-6045bde763f0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-03",
+   "details": "Hospitality and accommodation to facilitate a briefing, tour and announcement at Olympic Dam, provided by BHP.\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "0064f611-e8bd-f011-bbd3-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-01-12",
+   "details": "Dinner hosted by the Governor of Utah in Sydney on 22nd October 2025.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "a39af336-2bf0-f011-8407-00224898b4a7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-01-13",
+   "details": "Three return travel fares to launch QANTAS direct flights between Perth and Johannesburg, including facilitation of media conference, bilateral engagements and briefing on 7th December 2025. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "bdca826a-e5f0-f011-8407-00224898b4a7"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-02-20",
+   "details": "Model Plane from the Chairman and Chief Executive of Emirates Group.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "7d59ba58-6210-f111-8407-6045bdc25c5b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-23",
+   "details": "4 x single day tickets to WOMADelaide on 6 March 2026, courtesy of WOMADelaide.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "96805489-7e26-f111-8341-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-04-21",
+   "details": "2 tickets to RBG: Of Many, One at Adelaide Festival Theatre on 11 April 2026, courtesy of State Theatre Company South Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "c7454c0d-e93d-f111-88b4-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-04-21",
+   "details": "3 tickets and hospitality to the Adelaide 36ers v Sydney Kings at the Adelaide Entertainment Centre, on the 27 March 2026, courtesy of the NBL.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "eeec6a0c-e93d-f111-88b4-6045bdc3fcd7"
+  }
+ ],
+ "aph_id": "I0N",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Farrell, Don",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Farrell",
+ "given_names": "Don",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "f964e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Spring Farm, SA - Joint with spouse",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "9c80e40b-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Spring Farm residential property, SA - Joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "c464e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Kingston residential property, ACT"
+   },
+   "holder": "unspecified",
+   "source_id": "c664e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mastercard"
+   },
+   "holder": "unspecified",
+   "source_id": "c864e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Latitude",
+    "nature": "Go Mastercard"
+   },
+   "holder": "unspecified",
+   "source_id": "ca64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Visa"
+   },
+   "holder": "unspecified",
+   "source_id": "cc64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Toyota Finance",
+    "nature": "Vehicle Loan - Joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "ce64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "BYD Finance",
+    "nature": "Vehicle Loan - Joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "d064e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George Bank",
+    "nature": "Cheque account"
+   },
+   "holder": "unspecified",
+   "source_id": "9e80e40b-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Access account"
+   },
+   "holder": "unspecified",
+   "source_id": "a180e40b-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - CareSuper"
+   },
+   "holder": "unspecified",
+   "source_id": "f664e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Subscription (Office)"
+   },
+   "holder": "unspecified",
+   "source_id": "ba64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "bc64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia Club Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "be64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Framed signed Adelaide Football Club jersey from MA Financial Group"
+   },
+   "holder": "unspecified",
+   "source_id": "c064e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Backpack, polo shirt, shorts, drink bottles and beanies from the Australian Parliament Sports Club"
+   },
+   "holder": "unspecified",
+   "source_id": "c264e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qatar Airways upgrade to business class on 28 June 2025."
+   },
+   "holder": "unspecified",
+   "source_id": "a280e40b-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2 tickets and hospitality to Adelaide Crows v Port Adelaide courtesy of Seppelt Wines on 26 July 2025."
+   },
+   "holder": "unspecified",
+   "source_id": "a480e40b-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "USA Independence Day event ticket courtesy US Embassy on 29 July 2025"
+   },
+   "holder": "unspecified",
+   "source_id": "a680e40b-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "d364e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "South Australian Cricket Club"
+   },
+   "holder": "unspecified",
+   "source_id": "d764e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "St Vincent de Paul"
+   },
+   "holder": "unspecified",
+   "source_id": "da64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "South Australian Ice Sports Federation"
+   },
+   "holder": "unspecified",
+   "source_id": "dc64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "West Adelaide Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "df64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Rotary Club of Clare Inc"
+   },
+   "holder": "unspecified",
+   "source_id": "e264e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Shop, Distributive & Allied Employees' Association Life Member"
+   },
+   "holder": "unspecified",
+   "source_id": "e464e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Jesuit Mission"
+   },
+   "holder": "unspecified",
+   "source_id": "e664e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Adelaide Football Club Ambassador"
+   },
+   "holder": "unspecified",
+   "source_id": "ea64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Trees for Life"
+   },
+   "holder": "unspecified",
+   "source_id": "ec64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Pilgrim 100"
+   },
+   "holder": "unspecified",
+   "source_id": "ee64e705-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hutt Street Centre"
+   },
+   "holder": "unspecified",
+   "source_id": "f164e705-bd7c-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2026-04-22",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/I0N.json",
+  "sha256": "62f1ae7f53d1069031a122b13d721c26e2113d5a5bd5e3dcabcb35d8794fdbac",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=I0N"
+ },
+ "state": "South Australia"
+}

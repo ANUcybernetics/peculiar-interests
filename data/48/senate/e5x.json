@@ -1,0 +1,233 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-08-16",
+   "details": "airfares Melbourne to Dubai 16 September 2023\nReturn Dubai to Melbourne 22 September 2023\nAccommodation 16 September 2023 - 22 September 2023\nMeals 16 September 2023 - 22 September 2023\nEmbassy of the UAE",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "63dd3e37-c07c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-16",
+   "details": "29/9/25 - 1/10/25 Accommodation, meals & hospitality -  Caravanning Industry of Australia - Kununurra",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "39600b16-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2025-11-16",
+   "details": "I no longer have a share in a horse.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": "c0ec031c-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-07",
+   "details": "26 April 2026 - 3 May 2026\nFlights, accommodation and hospitality in Taiwan\nTaipei Economic & Cultural Office in Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "fa95e0af-6b4a-f111-bec6-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "e5x",
+ "chamber": "senate",
+ "date_lodged": "2025-08-15",
+ "display_name": "Polley, Helen",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Polley",
+ "given_names": "Helen",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Mystate"
+   },
+   "holder": "unspecified",
+   "source_id": "4d802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Launceston\nCanberra\nLaunceston",
+    "purpose": "residence"
+   },
+   "holder": "unspecified",
+   "source_id": "4a802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra",
+    "purpose": "investment"
+   },
+   "holder": "unspecified",
+   "source_id": "07b57eb4-6a8f-f011-b4cb-6045bde4956c"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Launceston",
+    "purpose": "investment"
+   },
+   "holder": "unspecified",
+   "source_id": "2f226dc0-6a8f-f011-b4cb-6045bde4956c"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "2 mortgages"
+   },
+   "holder": "unspecified",
+   "source_id": "41802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Australian Super\nCSC",
+    "type": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "3f802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Mortgage\ncredit card\n3 work accounts\njoint account"
+   },
+   "holder": "unspecified",
+   "source_id": "4c802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Boat"
+   },
+   "holder": "unspecified",
+   "source_id": "45802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Caravan"
+   },
+   "holder": "unspecified",
+   "source_id": "80c1f3b6-1487-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Jewellery"
+   },
+   "holder": "unspecified",
+   "source_id": "f2365bbe-1487-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income"
+   },
+   "holder": "unspecified",
+   "source_id": "47802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Membership joined before being elected"
+   },
+   "holder": "unspecified",
+   "source_id": "3d802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Membership joined before being elected"
+   },
+   "holder": "unspecified",
+   "source_id": "1e070f8f-1487-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Foxtel EO"
+   },
+   "holder": "unspecified",
+   "source_id": "4f802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "upgrade to Qantas Membership to Chairman Lounge & Virgin upgraded to Platinum"
+   },
+   "holder": "unspecified",
+   "source_id": "51802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "15-18 May 2025 Accommodation, meals and hospitality - Caravanning Industry National Conference, Benowa QLd- Guest Speaker"
+   },
+   "holder": "unspecified",
+   "source_id": "d9f8175f-1487-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tasmanian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "06c8e70c-1512-f111-8406-00224810b694"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "43802295-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "I have shares in a race horse"
+   },
+   "holder": "unspecified",
+   "source_id": "49802295-be7c-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2026-05-07",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/e5x.json",
+  "sha256": "4f1e1597af0672112b219fa4de5675fabab17c5611dd6de1f34ea9840a2c02f5",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=e5x"
+ },
+ "state": "Tasmania"
+}

@@ -1,0 +1,117 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-06-23",
+   "details": "Artwork (Blueprint Methodology) — Bradley Webb",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "a683adf8-5b6f-f111-ab0d-6045bdc3fcd7"
+  }
+ ],
+ "aph_id": "280304",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Thorpe, Lidia",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Thorpe",
+ "given_names": "Lidia",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Preston, VIC",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "752c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank Australia",
+    "nature": "Mortgage on Residential Property"
+   },
+   "holder": "unspecified",
+   "source_id": "6c2c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank Australia",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "772c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation account"
+   },
+   "holder": "unspecified",
+   "source_id": "6e2c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Fellowship for Indigenous Leadership Legacy Grant for international travel to the UN in Geneva"
+   },
+   "holder": "unspecified",
+   "source_id": "702c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Club membership"
+   },
+   "holder": "unspecified",
+   "source_id": "6a2c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership - GLaWAC"
+   },
+   "holder": "unspecified",
+   "source_id": "722c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership - Eastern Maar Aboriginal Corporation"
+   },
+   "holder": "unspecified",
+   "source_id": "732c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership - Victorian Aboriginal Health Service"
+   },
+   "holder": "unspecified",
+   "source_id": "742c2407-cf7c-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "last_updated": "2026-06-23",
+ "notes": [],
+ "parliament": 48,
+ "party": "Independent",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/280304.json",
+  "sha256": "4861394f9369527c3cbf05f356cd66efcf7fe6f45625cba6a81baf97461f0cc7",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=280304"
+ },
+ "state": "Victoria"
+}

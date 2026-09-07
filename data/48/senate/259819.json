@@ -1,0 +1,219 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-06",
+   "details": "Great Barrier Reef Foundation - Lady Elliot Island - Flight Tour and Hospitality",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "8e94f99a-bfd0-f011-8544-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-06",
+   "details": "Rugby Australia - Wallabies v Argentina Tickets and Hospitality",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "9163dfdd-bfd0-f011-8544-6045bde5f32c"
+  },
+  {
+   "category": "other-assets",
+   "date_processed": null,
+   "date_submitted": "2026-01-07",
+   "details": "Superannuation - Hostplus",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "1c2cfe2a-31ec-f011-8544-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-16",
+   "details": "Australian Open tickets courtesy of Tennis Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "5f996dbf-aa0b-f111-8406-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-11",
+   "details": "Rottnest Island Visit, Tickets and Hospitality - Rottnest Authority",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "1f514c14-eb1c-f111-8341-00224810b694"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-11",
+   "details": "Japan v India - Football Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "7c6fe0ca-ea1c-f111-8341-00224810b694"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-11",
+   "details": "Matildas v Korea - Football Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "d3ebb5e6-ea1c-f111-8341-00224810b694"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-13",
+   "details": "NRL tickets (Canberra Raiders vs North Queensland Cowboys on 31 May 2026), sponsored by Maurice Blackburn",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "39f0d39f-3d7f-f111-ab0f-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-13",
+   "details": "NRL ticket (State of Origin, 8 July 2026), sponsored by the NRL",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "8cc321c1-3d7f-f111-ab0f-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-13",
+   "details": "Mid-Winter Ball ticket (1 July 2026), sponsored by Qantas",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "f435bab3-3d7f-f111-ab0f-7ced8da1c86f"
+  }
+ ],
+ "aph_id": "259819",
+ "chamber": "senate",
+ "date_lodged": "2025-08-05",
+ "display_name": "Green, Nita",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Green",
+ "given_names": "Nita",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Trinity Beach, QLD",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "3356f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mermaid Beach, QLD",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "3556f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "1d56f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "2156f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "3756f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "3956f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Club Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "3b56f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Club Beyond Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "3d56f82e-4873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Australian Manufacturing Workers Union (QLD & NT Branch)"
+   },
+   "holder": "unspecified",
+   "source_id": "2456f82e-4873-f011-b4cd-000d3ad2a284"
+  }
+ ],
+ "last_updated": "2026-07-14",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/259819.json",
+  "sha256": "7806530a13c17f757bfb6a83b9e3c669ff5cfba4683cfbf695117e57da5dab3a",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=259819"
+ },
+ "state": "Queensland"
+}

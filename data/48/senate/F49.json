@@ -1,0 +1,260 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-01-14",
+   "details": "Bruny Island, Tasmania - 1/4 Share Shack",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": "a3445656-a2f1-f011-8407-00224898b4a7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-13",
+   "details": "26 April 2026 - 3 May 2026 - Flights, accommodation and hospitality in Taiwan. Taipei Economic & Cultural Office in Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "5935293c-854e-f111-bec6-6045bdc25de2"
+  }
+ ],
+ "aph_id": "F49",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Brown, Carol",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Brown",
+ "given_names": "Carol",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Brown Iwanovski Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "8ec491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Spouse and Children",
+    "name": "Iwanovski Family Trust",
+    "nature": "Holding Trust",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "a4c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Leslie Vale, Tasmania",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "71c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bruny Island, Tasmania",
+    "purpose": "1/4 share shack"
+   },
+   "holder": "unspecified",
+   "source_id": "73c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "West Hobart, Tasmania",
+    "purpose": "Investment Property"
+   },
+   "holder": "unspecified",
+   "source_id": "75c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "SMSF",
+    "company": "Brown Iwanovski Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "77c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Queensland",
+    "nature": "Mortgage on Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "34c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "41c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Home Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "44c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Latitude Finance",
+    "nature": "Credit Line"
+   },
+   "holder": "unspecified",
+   "source_id": "48c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Queensland",
+    "nature": "Off-set account"
+   },
+   "holder": "unspecified",
+   "source_id": "79c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "7ac491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Cheque Account"
+   },
+   "holder": "unspecified",
+   "source_id": "7bc491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "SMSF Cash management"
+   },
+   "holder": "unspecified",
+   "source_id": "83c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "65c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "PSS Super"
+   },
+   "holder": "unspecified",
+   "source_id": "6cc491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Brown Iwanovski Family Superannuation Fund (joint membership with spouse)"
+   },
+   "holder": "unspecified",
+   "source_id": "6ec491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Club, Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "99c491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Club, Beyond Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "9dc491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Community & Public Sector Union - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "4ac491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party, Tasmanian Branch - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "4cc491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "BUPA Member"
+   },
+   "holder": "unspecified",
+   "source_id": "4ec491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Royal Yacht Club of Tasmania - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "5ec491bf-ce7c-f011-b4cc-00224898d08b"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Founding Membership of the Tasmanian Devils AFL Team"
+   },
+   "holder": "unspecified",
+   "source_id": "70c491bf-ce7c-f011-b4cc-00224898d08b"
+  }
+ ],
+ "last_updated": "2026-05-13",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/F49.json",
+  "sha256": "5ebcf5d4de968a175dab9f542bd33ed668fff1884cdf3f967d4495aadb941ceb",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=F49"
+ },
+ "state": "Tasmania"
+}

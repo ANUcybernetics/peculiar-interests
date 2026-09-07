@@ -1,0 +1,182 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-01-21",
+   "details": "Mount Stuart, Tasmania. Residential property and soon to be primary place of residence. It is intended that the West Hobart property be sold.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "c04394af-e3f7-f011-8406-6045bdc3f4ad"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-01-21",
+   "details": "Mortgage with MYSTATE Bank Limited on the Mount Stuart property.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "c54394af-e3f7-f011-8406-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "JKM",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "McKim, Nick",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McKim",
+ "given_names": "Nick",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MYSTATE Bank Limited"
+   },
+   "holder": "unspecified",
+   "source_id": "aa013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "West Hobart, Tasmania",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "9c013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nubeena, Tasmania",
+    "purpose": "Shack"
+   },
+   "holder": "unspecified",
+   "source_id": "9e013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nubeena, Tasmania",
+    "purpose": "Agricultural land"
+   },
+   "holder": "unspecified",
+   "source_id": "a0013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "New Norfolk, Tasmania",
+    "purpose": "Residential property - tenanted to family member"
+   },
+   "holder": "unspecified",
+   "source_id": "a2013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "MYSTATE Bank Ltd",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "8e013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "MYSTATE Bank Ltd",
+    "nature": "Mortgage on shack"
+   },
+   "holder": "unspecified",
+   "source_id": "90013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "MYSTATE Bank Ltd",
+    "nature": "Mortgage on New Norfolk property"
+   },
+   "holder": "unspecified",
+   "source_id": "93013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "MYSTATE Bank Ltd",
+    "nature": "Savings Account x 3"
+   },
+   "holder": "unspecified",
+   "source_id": "a6013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Colonial First State, CFS Edge Super and Pension",
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "a9013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "8a013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia The Club Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "8c013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tasmanian Greens Ltd - donor\nMember of Tasmanian Greens State Council"
+   },
+   "holder": "unspecified",
+   "source_id": "95013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Greens - donor\nMember of Australian Greens National Council"
+   },
+   "holder": "unspecified",
+   "source_id": "97013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Asia Pacific Greens - donor"
+   },
+   "holder": "unspecified",
+   "source_id": "9a013f83-bd7c-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "last_updated": "2026-01-21",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/JKM.json",
+  "sha256": "22f197069bde3c6f06f778e8371c06f9f85a3c9812e0186bca9540af2a0ddd26",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=JKM"
+ },
+ "state": "Tasmania"
+}

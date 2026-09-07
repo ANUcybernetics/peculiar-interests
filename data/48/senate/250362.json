@@ -1,0 +1,206 @@
+{
+ "alterations": [],
+ "aph_id": "250362",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Faruqi, Mehreen",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Faruqi",
+ "given_names": "Mehreen",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Beaconsfield, NSW",
+    "purpose": "Place of residence - joint owned with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "1ab5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Beaconsfield, NSW",
+    "purpose": "Investment - joint owned with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "1cb5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Sole Trader (not currently trading)",
+    "company": "Mehreen Faruqi Consulting"
+   },
+   "holder": "unspecified",
+   "source_id": "2eb5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank (joint with spouse)",
+    "nature": "Mortgage on investment property, Beaconsfield"
+   },
+   "holder": "unspecified",
+   "source_id": "ecb4abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank (joint with spouse)",
+    "nature": "Co-guarantor of overdraft facility for partner's business"
+   },
+   "holder": "unspecified",
+   "source_id": "f6b4abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank (joint with spouse)",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "37b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ (joint with spouse)",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "39b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank (joint with spouse)",
+    "nature": "Offset Account"
+   },
+   "holder": "unspecified",
+   "source_id": "3ab5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "UniSuper (includes life insurance)"
+   },
+   "holder": "unspecified",
+   "source_id": "12b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from rental property - Beaconsfield NSW"
+   },
+   "holder": "unspecified",
+   "source_id": "14b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairman's Lounge Membership - QANTAS"
+   },
+   "holder": "unspecified",
+   "source_id": "e8b4abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Beyond Lounge Membership - Virgin"
+   },
+   "holder": "unspecified",
+   "source_id": "eab4abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Deputy Leader of the Australian Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "01b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Monthly tithe from Salary to the NSW Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "0ab5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Monthly tithe from Salary to Australian Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "0cb5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Monthly tithe from Salary to Global Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "0eb5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donation to Greyhound Rescue"
+   },
+   "holder": "unspecified",
+   "source_id": "10b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership, NSW Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "16b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership, Australian Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "17b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership, NTEU"
+   },
+   "holder": "unspecified",
+   "source_id": "18b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member (Fellow), Institution of Engineers Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "19b5abd7-ce7c-f011-b4cb-000d3ad253b4"
+  }
+ ],
+ "last_updated": "2025-08-19",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/250362.json",
+  "sha256": "4274064d58915c42c839ff827686f46fc75cf997e9f80834043f96a05597e40c",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=250362"
+ },
+ "state": "New South Wales"
+}

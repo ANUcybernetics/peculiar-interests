@@ -1,0 +1,267 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-07",
+   "details": "2 x tickets to the Rabbitohs Red and Green Ball courtesy of the Rabbitohs Corporate Team",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "051c2795-948e-f011-b4cb-6045bde4956c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-30",
+   "details": "2 x tickets to the NRL & NRLW grand final courtesy of NRL events",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "55108076-4f9e-f011-bbd3-6045bde63b9a"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-04",
+   "details": "Hospitality and Accommodation to facilitate a briefing, tour and announcement at Olympic Dam, provided by BHP",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "79dc3318-e8bd-f011-bbd3-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-11",
+   "details": "Hospitality, Charter flights and Accommodation to facilitate a briefing, tour and announcement at Olympic Dam, provided by BHP",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "4091b135-89bf-f011-bbd3-002248990cce"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-11",
+   "details": "Hospitality and Accommodation to facilitate a briefing, tour and announcement at Olympic Dam, provided by BHP.\n\nThis item deletes the alteration lodged on 4 November, in order to provide additional information - see below",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": "f381b9a2-2ac0-f011-bbd3-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-02",
+   "details": "2 x tickets to On the Steps: Jimmy Barnes and Kate Ceberano at Sydney Opera House Forecourt courtesy of The Mushroom Group",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "c71f2a44-a200-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-04",
+   "details": "2 x tickets to Rabbitohs Season Launch courtesy of the South Sydney Rabbitohs",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "abe64105-8717-f111-8342-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-15",
+   "details": "3 x tickets to NRL game courtesy of the South Sydney Rabbitohs",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "34a3fd38-bb20-f111-8342-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-06-30",
+   "details": "2 x tickets to Mackenzie courtesy of Bell Shakespeare",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "24797a90-5674-f111-ab0f-00224810b694"
+  }
+ ],
+ "aph_id": "16913",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Ayres, Tim",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Ayres",
+ "given_names": "Tim",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Camperdown, NSW",
+    "purpose": "Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "8610977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Currarong, NSW",
+    "purpose": "Holiday house and investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "9610977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Adelaide",
+    "nature": "Home mortgage"
+   },
+   "holder": "unspecified",
+   "source_id": "5510977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ME Bank",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "6110977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on Holiday House"
+   },
+   "holder": "unspecified",
+   "source_id": "6710977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings account/Offset"
+   },
+   "holder": "unspecified",
+   "source_id": "9b10977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Adelaide Bank",
+    "nature": "Savings account/Offset"
+   },
+   "holder": "unspecified",
+   "source_id": "a510977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Teachers Mutual",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "ab10977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "af10977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation related insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "7b10977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Occasional rental income"
+   },
+   "holder": "unspecified",
+   "source_id": "8310977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary subscription to Foxtel television provided by Astra Subscription Media Australia to my Electorate Office to the value of $1,600.00 per annum"
+   },
+   "holder": "unspecified",
+   "source_id": "4a10977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's lounge membership"
+   },
+   "holder": "unspecified",
+   "source_id": "b210977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Rex Airline Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "c310977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Lounge membership"
+   },
+   "holder": "unspecified",
+   "source_id": "cb10977d-947d-f011-b4cc-7c1e522a6625"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of the National Executive of the Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "6d10977d-947d-f011-b4cc-7c1e522a6625"
+  }
+ ],
+ "last_updated": "2026-06-30",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/16913.json",
+  "sha256": "96b2ca79591d2ba796f9bf98eb883a57c671e65bf1db5d8241a82ede8aab2991",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=16913"
+ },
+ "state": "New South Wales"
+}

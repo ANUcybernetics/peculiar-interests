@@ -1,0 +1,302 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-02",
+   "details": "Hospitality - 2 x Derby Day Tickets- Kirin Ichiban ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "1f395103-e8bd-f011-bbd3-002248990cce"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-02",
+   "details": "Hospitality - 2 x Informal Invitation by Diageo to Don Julio 1942 Bar on Derby Day",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "dbba5309-e8bd-f011-bbd3-002248990cce"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-03-03",
+   "details": "Nature of liability: Credit Card (Mastercard); Creditor: David Jones (Latitude Mastercard)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "a45617b2-6617-f111-8342-6045bdc3f4ad"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-03-04",
+   "details": "Nature of liability: Credit Card (Amex); Creditor: David Jones (Amex)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": "aa5617b2-6617-f111-8342-6045bdc3f4ad"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-03-04",
+   "details": "Member of Alexandra Club",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "c86d0baa-6617-f111-8341-6045bdc3fcd7"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-08-14",
+   "details": "1 x liqueur from Minerals Council of Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "17b3856f-a997-f111-8075-70a8a553d3a2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-14",
+   "details": "4 x A reserve tickets to Collingwood vs St Kilda Match at MCG on 8th March 2026 from AFL House",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "449f4b76-a997-f111-8075-70a8a553d3a2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-14",
+   "details": "1 x Ticket to Midwinter Ball from Fairfax",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "c8f3687e-a997-f111-8075-7c1e5262e7d4"
+  }
+ ],
+ "aph_id": "266499",
+ "chamber": "senate",
+ "date_lodged": "2025-08-07",
+ "display_name": "Hume, Jane",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Hume",
+ "given_names": "Jane",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Credit Card (Visa)"
+   },
+   "holder": "unspecified",
+   "source_id": "96ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Credit Card ( Visa)"
+   },
+   "holder": "unspecified",
+   "source_id": "98ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "David Jones AMEX",
+    "nature": "Credit Card (Amex)"
+   },
+   "holder": "unspecified",
+   "source_id": "9aecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Credit Card ( Mastercard)"
+   },
+   "holder": "unspecified",
+   "source_id": "9cecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings & Transactions Account"
+   },
+   "holder": "unspecified",
+   "source_id": "b4ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings & Transactions Account"
+   },
+   "holder": "unspecified",
+   "source_id": "b6ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "RAIZ",
+    "nature": "Investment Account"
+   },
+   "holder": "unspecified",
+   "source_id": "b7ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation ( Unisuper)"
+   },
+   "holder": "unspecified",
+   "source_id": "a5ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation ( Hostplus nil balance)"
+   },
+   "holder": "unspecified",
+   "source_id": "a7ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Continuing complimentary FOXTEL subscription ( Electorate Office)"
+   },
+   "holder": "unspecified",
+   "source_id": "91ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party Of Australia (Donor)"
+   },
+   "holder": "unspecified",
+   "source_id": "a0ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Menzies Research Centre ( Donor)"
+   },
+   "holder": "unspecified",
+   "source_id": "a3ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Liberal Party of Australia ( Victorian Division-member)"
+   },
+   "holder": "unspecified",
+   "source_id": "a9ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Melbourne Cricket Club ( Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "aaecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Victoria Racing Club ( Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "abecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "University Ski Club ( Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "adecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Kooyong Lawn Tennis Club ( Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "aeecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "St Kilda Football Club (Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "afecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Qantas Chairman's Club Lounge (Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "b0ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Virgin Club ( Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "b1ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Joy FM ( Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "b2ecc92a-5873-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Loan to Partner"
+   },
+   "holder": "unspecified",
+   "source_id": "b3ecc92a-5873-f011-b4cd-000d3ad2a284"
+  }
+ ],
+ "last_updated": "2026-08-17",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/266499.json",
+  "sha256": "78297306a020ddc0fe5f1f61cecc88ac0fed25b3ccf745688338908b2deb867c",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=266499"
+ },
+ "state": "Victoria"
+}

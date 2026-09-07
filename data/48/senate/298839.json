@@ -1,0 +1,182 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2025-11-11",
+   "details": "Investment property at Cleveland QLD (sold)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": "c198811c-4ec0-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-11-11",
+   "details": "Two mortgages with Auswide Bank (cleared)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": "d198811c-4ec0-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-05-13",
+   "details": "Shirt from Football Australia offered to all MPs and Senators to commemorate the Socceroos at the 2026 World Cup",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "45a9f190-b44e-f111-bec6-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "298839",
+ "chamber": "senate",
+ "date_lodged": "2025-08-14",
+ "display_name": "Allman-Payne, Penny",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Allman-Payne",
+ "given_names": "Penny",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "South Gladstone, Queensland",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "30e0d6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Cleveland, Queensland",
+    "purpose": "Investment (former home)"
+   },
+   "holder": "unspecified",
+   "source_id": "32e0d6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Auswide Bank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "f6ded6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Auswide Bank",
+    "nature": "Mortgage on investment property (former home)"
+   },
+   "holder": "unspecified",
+   "source_id": "f8ded6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Auswide Bank",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "34e0d6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Suncorp Bank",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "fa4ad6db-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation Q Super"
+   },
+   "holder": "unspecified",
+   "source_id": "5edfd6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Lounge memberships for Qantas and Virgin Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "fb4ad6db-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Queensland Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "faded6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "11dfd6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Asia Pacific Greens Federation"
+   },
+   "holder": "unspecified",
+   "source_id": "40dfd6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Global Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "55dfd6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "MND Queensland - regular donor"
+   },
+   "holder": "unspecified",
+   "source_id": "58dfd6d5-ca7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Associate member Queensland Teachers Union"
+   },
+   "holder": "unspecified",
+   "source_id": "2fe0d6d5-ca7b-f011-b4cb-000d3ad253b4"
+  }
+ ],
+ "last_updated": "2026-05-13",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/298839.json",
+  "sha256": "5bb988f454a37ff844bf9252830e6fe32ecafd2d8c1a0fc774306027805146a6",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=298839"
+ },
+ "state": "Queensland"
+}

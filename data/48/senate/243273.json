@@ -1,0 +1,302 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-02",
+   "details": "The Club Membership - Virgin",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "88378ff2-7188-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-02",
+   "details": "Chairman's Lounge Membership - Qantas",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "af52ec88-7188-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-11",
+   "details": "Attended the CommBank Socceroos v New Zealand on Friday 5 September 2025, guest of Football Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "45601e5d-efd6-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-11",
+   "details": "Attended Victoria Derby Day on 1 November 2025, guest of Lion.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "5afa486c-efd6-f011-8544-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-11",
+   "details": "Attended the Diamonds v South Africa Netball match on Sunday 12 October 2025, guest of Netball Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "78892769-efd6-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-11",
+   "details": "Attended the 2025 Mazda North Melbourne Breakfast on Saturday 27 September 2025, guest of the AFL Commission and the North Melbourne Football Club.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "98444f6b-efd6-f011-8544-6045bde589eb"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-11",
+   "details": "Attended the 2025 Suncorp Super Netball Grand Final Lunch and Suncorp Super Netball Grand Final match on Saturday 2 August 2025, guest of Netball Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "a98b185c-efd6-f011-8544-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-11",
+   "details": "Attended the 2025 AFL First Semi Final, Adelaide Crows v Hawthorn on Friday 12 September 2025, guest of the Australian Football League.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "ebe5f663-efd6-f011-8544-000d3ad2551a"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended Day 3 of the NRMA Insurance Men's Ashes Christmas Test. Australia v England on Friday 19 December 2025, guest of Cricket Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "35b3a316-9612-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended Day 1 of the NRMA Insurance Men's Ashes Pink Test. Australia v England on Sunday 4 January 2026, guest of Cricket Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "610aa148-9812-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended the Parliamentary Friends of Tennis event on Saturday 31 January 2026, guest of Tennis Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "8e936204-9712-f111-8406-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended the Adelaide International day of Tennis on Friday 16 January 2026, guest of Tennis SA.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "9c5f67fb-9912-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended Day 1 of the NRMA Insurance Men's Ashes Boxing Day Test. Australia v England on Friday 26 December 2025, guest of Cricket Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "d8b5ab1e-9912-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended the Australian Open 2026 Men's Semi Final on Friday 30 January 2026, guest of Tennis Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "db3ea35e-9912-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended the Santos Tour Down Under final stage on 25 January 2026, guest of Santos.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "f56f6069-9512-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-25",
+   "details": "Attended the Jane McGrath High Tea on Tuesday 6 January 2026, guest of the McGrath Foundation.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": "f6a9ae71-9612-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-19",
+   "details": "Attended the Women's T20 International, Australia v India on Saturday 21 February 2026. Guest of the South Australian Cricket Association.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": "341449c1-e723-f111-8342-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-19",
+   "details": "Attended the Glenelg leg of the Australian Beach Volleyball Tour on Sunday 22 February 2026. Guest of Volleyball Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": "af5c46c2-e723-f111-8341-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-09",
+   "details": "Attended the 2026 Women's Australian Open on Sunday 15 March 2026, hosted by Golf Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": "145869b9-457e-f111-ab0f-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-09",
+   "details": "Part of an Australian Parliamentary delegation to Taiwan between 26 April and 2 May 2026 including sponsored international travel, accommodation and meals organised by the Taipei Economic and Cultural Office in Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": "ba9c04b5-457e-f111-ab0f-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "243273",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Ruston, Anne",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Ruston",
+ "given_names": "Anne",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Norwood, SA",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "52a414b5-967d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "BankSA",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "56a414b5-967d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "MacQuarie Bank",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "57a414b5-967d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Super SA"
+   },
+   "holder": "unspecified",
+   "source_id": "48a414b5-967d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - AustSuper"
+   },
+   "holder": "unspecified",
+   "source_id": "4da414b5-967d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Signed 2025 Sydney Swans Guernsey from the Sydney Swans Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "44a414b5-967d-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2026-07-13",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/243273.json",
+  "sha256": "8f792fe12e9deddba26b74ba9d4cf89621c6919fc85fc8fba58e619f27278faa",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=243273"
+ },
+ "state": "South Australia"
+}

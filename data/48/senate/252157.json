@@ -1,0 +1,190 @@
+{
+ "alterations": [],
+ "aph_id": "252157",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Walsh, Jess",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Walsh",
+ "given_names": "Jess",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "South Gippsland, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "96047d4a-677d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Melbourne, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "c7017056-677d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Byron Bay, NSW",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "f1d76c62-677d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank",
+    "nature": "Mortgage - Investment Property"
+   },
+   "holder": "unspecified",
+   "source_id": "c9435874-677d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank",
+    "nature": "Mortgage - Residential Property"
+   },
+   "holder": "unspecified",
+   "source_id": "e624667a-677d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Mortgage offset accounts (2)"
+   },
+   "holder": "unspecified",
+   "source_id": "cc2b5e86-677d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankfirst",
+    "nature": "Transactions"
+   },
+   "holder": "unspecified",
+   "source_id": "86e0ff8c-677d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Transactions"
+   },
+   "holder": "unspecified",
+   "source_id": "cb8ae91c-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "b87fd434-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent - investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "7140d840-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "The Pharmacy Guild giftbag including a first aid kit, notebook, bag of jelly beans, lip balms, ballpoint pens, a 285mL glass keep cup - Cost unknown"
+   },
+   "holder": "unspecified",
+   "source_id": "3470d058-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Airline Lounge Memberships (Qantas, Virgin, Rex)"
+   },
+   "holder": "unspecified",
+   "source_id": "208bca64-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "National Press Club Address - Guest of Moderna - Treasurer Jim Chalmers, 26 March 2025"
+   },
+   "holder": "unspecified",
+   "source_id": "b53ccc70-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - United Workers Union"
+   },
+   "holder": "unspecified",
+   "source_id": "14cbc17c-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member and Donor - Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "7547c182-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Emilys List"
+   },
+   "holder": "unspecified",
+   "source_id": "d6b3c088-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor - Asylum Seekers Resource Centre"
+   },
+   "holder": "unspecified",
+   "source_id": "026bc08e-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor - Lost Dogs Home"
+   },
+   "holder": "unspecified",
+   "source_id": "a86bc08e-687d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Women in Super"
+   },
+   "holder": "unspecified",
+   "source_id": "4a78bd94-687d-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2025-08-19",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/252157.json",
+  "sha256": "3ca918ebfec8d62ff777c16cc3e8d930ca48d431c4ffe3fda52c65aeee5d09b5",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=252157"
+ },
+ "state": "Victoria"
+}

@@ -1,0 +1,167 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-02-04",
+   "details": "Applecross - primary residence",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "0c07b2a3-6008-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-02-04",
+   "details": "North Lake - investment",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "5ad61f1b-6c08-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-02-04",
+   "details": "North Lake - residential",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": "d9a471f6-6008-f111-8406-6045bdc3fcd7"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-02-04",
+   "details": "Mortgage on Applecross Property - P&N Bank",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "426ba19d-6008-f111-8407-6045bdc25de2"
+  }
+ ],
+ "aph_id": "30484",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Brockman, Slade",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Brockman",
+ "given_names": "Slade",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "North Lake",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "b0b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Griffith",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "b2b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "P&N Bank",
+    "nature": "Mortgage on Griffiths property"
+   },
+   "holder": "unspecified",
+   "source_id": "a8b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "P&N Bank",
+    "nature": "Savings / Offset"
+   },
+   "holder": "unspecified",
+   "source_id": "b4b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "acb4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "aeb4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription at Electorate Office"
+   },
+   "holder": "unspecified",
+   "source_id": "a6b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Perth Airport Parking Permit"
+   },
+   "holder": "unspecified",
+   "source_id": "b5b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "b7b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia Club Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "b9b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of WA"
+   },
+   "holder": "unspecified",
+   "source_id": "aab4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "last_updated": "2026-02-04",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/30484.json",
+  "sha256": "e27bc9c7e11ace7ec0471d20a54f1e9a5d243be7ebe6f0ed89e6914080d47721",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=30484"
+ },
+ "state": "Western Australia"
+}

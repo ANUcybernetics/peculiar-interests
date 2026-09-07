@@ -1,0 +1,300 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2025-10-14",
+   "details": "Rokeby Tas. Property Sold. Settled 2/10/2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": "89595287-54a9-f011-bbd3-6045bde63b9a"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-10-14",
+   "details": "Credit Card. Creditor: Westpac",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "84595287-54a9-f011-bbd3-6045bde63b9a"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-10-14",
+   "details": "Credit Card - Virgin Money",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": "8e595287-54a9-f011-bbd3-6045bde63b9a"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-02-01",
+   "details": "Devonport Community House (Donations)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "da22679e-d6ff-f011-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-02-01",
+   "details": "Burnie Community House (Donations)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "e522679e-d6ff-f011-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-02-01",
+   "details": "TasPride (Donations)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "ea22679e-d6ff-f011-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-03-31",
+   "details": "Credit Card - AMEX",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "68299724-502d-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-03-31",
+   "details": "Birchgrove Feline Assistance (Donation)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "63299724-502d-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-03-31",
+   "details": "Orange Sky / Walk the Walk (Donations)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "6d299724-502d-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-13",
+   "details": "26/04/26 - 03/05/26: Flights, accommodation and hospitality in Taiwan - Taipei Economic & Cultural Office in Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "f0ef65d5-954e-f111-bec6-6045bdc25de2"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-06-17",
+   "details": "Tasmania Devils 1866 Club Membership ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "d9aed315-116a-f111-ab0c-6045bdc3fcd7"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-06-18",
+   "details": "Donations to Cancer Council and Cancer Council Tasmania",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "84853f73-d46a-f111-a826-6045bdc25de2"
+  }
+ ],
+ "aph_id": "316935",
+ "chamber": "senate",
+ "date_lodged": "2025-08-04",
+ "display_name": "Dolega, Josh",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Dolega",
+ "given_names": "Josh",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Rokeby Tasmania",
+    "purpose": "Former residential premises, listed for sale"
+   },
+   "holder": "unspecified",
+   "source_id": "97a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Latrobe Tasmania",
+    "purpose": "Home residence"
+   },
+   "holder": "unspecified",
+   "source_id": "99a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Rokeby property"
+   },
+   "holder": "unspecified",
+   "source_id": "7ba1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Latrobe property"
+   },
+   "holder": "unspecified",
+   "source_id": "7ea1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Car loan"
+   },
+   "holder": "unspecified",
+   "source_id": "81a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Virgin Money",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "83a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Latitude Gem",
+    "nature": "Interest free card"
+   },
+   "holder": "unspecified",
+   "source_id": "86a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Westpac",
+    "type": "Banking accounts"
+   },
+   "holder": "unspecified",
+   "source_id": "79a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Offset account"
+   },
+   "holder": "unspecified",
+   "source_id": "9ba1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Super - Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "95a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Beyond Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "9ca1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairmans Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "9ea1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "CPSU (PSU) Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "88a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AMWU Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "8da1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ASU VicTas Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "90a1de65-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "92a1de65-6472-f011-b4cd-000d3ad2a284"
+  }
+ ],
+ "last_updated": "2026-06-18",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/316935.json",
+  "sha256": "f26d65847ab0b44d49cdad7a58a27ab9a6ccccd4105a82b42701e11ad99239c2",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=316935"
+ },
+ "state": "Tasmania"
+}

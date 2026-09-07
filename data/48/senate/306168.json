@@ -1,0 +1,466 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Tickets (x2) to Mid Winter Ball, Canberra, June 2023. Hosted by Australian Investment Council. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": "dc13a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Gift Bag containing L'Oréal products, given to all attendees at L'Oréal UNESCO for Women in Science. Nov 2023.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": "e113a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Ticket to the Mid-Winter Ball, Canberra, August 2025. Hosted by Qantas Airways Limited",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "d513a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Whale watching, Sydney Harbour, July 2023. Hosted by Environmental Leadership Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": "e613a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Travel and Accommodation, COP28 Dubai, Dec 2023; hosted by Environmental Leadership Australia. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": "ec13a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Dinner at Good Luck Restaurant, Sydney, Sept 2024; Hosted by Association of Superannuation Funds of Australia. Estimated value $150",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": "f113a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Dinner at Toppi Restaurant, Sydney, Sept 2024; hosted by Tattarang. Estimated value $150",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "f613a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "Ticket to Sydney Institute Annual Dinner, Sydney. Nov 2024; hosted by Woolworths Group",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": "fb13a3a7-ccc4-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-04-16",
+   "details": "Credit Card AMEX",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "96c0fbee-ed39-f111-88b4-6045bdc3f4ad"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-04-16",
+   "details": "Foxtel Subscription and 2 x Set Top Boxes for Electorate Office",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "55dfe6f3-ed39-f111-88b3-6045bdc3f566"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-04-16",
+   "details": "On 26 March 2026, I was booked on QANTAS flight QF1456 Canberra to Sydney, economy fare. Due to a delay to my flight, QANTAS changed my flight to QF1524. There were no economy seats left on this flight and QANTAS upgraded me to Business Class in order for me to make this flight. The upgrade was unsolicited. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "3e90aff3-ed39-f111-88b4-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-04-16",
+   "details": "Tickets (x2) The Australian Ballet to opening night of Flora, 7 April 2026. Hosted by Telstra",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "e6b2efe8-ed39-f111-88b4-7ced8da1c86f"
+  }
+ ],
+ "aph_id": "306168",
+ "chamber": "senate",
+ "date_lodged": "2025-08-17",
+ "display_name": "Kovacic, Maria",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Kovacic",
+ "given_names": "Maria",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Mobile Home & Investment Services Pty Ltd and Mobile Home & Investment Services Trust"
+   },
+   "holder": "unspecified",
+   "source_id": "466b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Borrowright Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "486b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Kovacic Holdings Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "4a6b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "Mobile Home & Investment Services Trust",
+    "nature": "Trustee",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "586b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Shareholder",
+    "name": "Mobile Home & Investment Services Pty Ltd",
+    "nature": "Financial Services & Consulting",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "596b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Shareholder",
+    "name": "BorrowRight Pty Ltd",
+    "nature": "Financial Services & Consulting",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "5a6b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Shareholder",
+    "name": "Kovacic Holdings Pty Ltd",
+    "nature": "Holding Company",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "5b6b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Beecroft, NSW",
+    "purpose": "Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "ea881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Financial Services & Consulting",
+    "company": "Mobile Home & Investment Services Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "3c6b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Financial Services & Consulting",
+    "company": "BorrowRight Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "3e6b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Holding Company",
+    "company": "Kovacic Holdings Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "406b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "UBank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "d4881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Commercial Facilities"
+   },
+   "holder": "unspecified",
+   "source_id": "d6881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "d8881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "UBank",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "426b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "UBank",
+    "nature": "Mortgage Offset"
+   },
+   "holder": "unspecified",
+   "source_id": "436b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "446b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "456b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "e1881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance, Trauma & TPD"
+   },
+   "holder": "unspecified",
+   "source_id": "e4881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Mobile Home & Investment Services Pty Ltd; business income & distribution of any profit."
+   },
+   "holder": "unspecified",
+   "source_id": "e6881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "BorrowRight Pty Ltd; business income & distribution of any profit."
+   },
+   "holder": "unspecified",
+   "source_id": "e8881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Tickets (x2) to Mid Winter Ball, Canberra, June 2023. Hosted by Australian Investment Council."
+   },
+   "holder": "unspecified",
+   "source_id": "cc881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Gift Bag containing L’Oréal products, given to all attendees at L’Oreal UNESCO for Women in Science Lunch, Sydney, Nov 2023."
+   },
+   "holder": "unspecified",
+   "source_id": "ce881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman’s Lounge Access, commenced March 2024."
+   },
+   "holder": "unspecified",
+   "source_id": "d0881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Beyond Membership, commenced May 2024."
+   },
+   "holder": "unspecified",
+   "source_id": "d2881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Whale Watching, Sydney Harbour, July 2023; hosted by Environmental Leadership Australia."
+   },
+   "holder": "unspecified",
+   "source_id": "4c6b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Travel & Accomodation, COP28 Dubai, Dec 2023; hosted by Environmental Leadership Australia."
+   },
+   "holder": "unspecified",
+   "source_id": "4e6b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Dinner at Good Luck Restaurant, Sydney, Sept 2024; hosted by Association of Superannuation Funds of Australia. Estimated value $150."
+   },
+   "holder": "unspecified",
+   "source_id": "506b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Dinner at Toppi Restaurant, Sydney, Sept 2024; hosted by Tattarang. Estimated value $150."
+   },
+   "holder": "unspecified",
+   "source_id": "526b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Ticket to Sydney Institute Annual Dinner, Sydney, Nov 2024; hosted by Woolworths Group."
+   },
+   "holder": "unspecified",
+   "source_id": "546b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Tickets (x2) to National Press Club address by The Leader of the Opposition, The Hon Sussan Ley, Canberra, June 2025; hosted by Woolworths Group."
+   },
+   "holder": "unspecified",
+   "source_id": "566b115b-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "da881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party (NSW Division)"
+   },
+   "holder": "unspecified",
+   "source_id": "dd881655-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Young Liberals"
+   },
+   "holder": "unspecified",
+   "source_id": "df881655-bd7c-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2026-04-17",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/306168.json",
+  "sha256": "344a3626c023273a0315a4bee1621f0df422cd6b3125227ecd20316d15169e2c",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=306168"
+ },
+ "state": "New South Wales"
+}

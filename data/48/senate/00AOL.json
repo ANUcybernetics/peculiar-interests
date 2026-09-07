@@ -1,0 +1,277 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-01",
+   "details": "Parliamentary Delegation to Taiwan (18-22 Oct 2025). Flights, attendance and hospitality as guest of the Taipei Economic and Cultural Office ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "cdafe750-3ccf-f011-8544-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-19",
+   "details": "27 December 2025 Attendance at Day 2 - The Ashes Boxing Day Test Australia v England - Melbourne - from Cricket Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "771317bc-e723-f111-8341-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-06-25",
+   "details": "Flights, accommodation and hospitality provided by the Indonesian Government for travel to Cultural Immersion Program - Solo Royal Arts Mastery, Indonesia from 19-23 May 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "a9837d4f-e870-f111-ab0d-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-30",
+   "details": "FIFA World Cup tickets - 14 June 2026 Turkey vs Australia  and 20 June 2026 USA vs Australia. Courtesy of Football Australia\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "e9abbf80-f1a4-f111-b8de-6045bdc2f293"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-30",
+   "details": "Corporate Box Tickets to  Seattle Mariners Major League Baseball Game - 16 June 2026. Courtesy of Football Australia ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "eeabbf80-f1a4-f111-b8de-6045bdc2f293"
+  }
+ ],
+ "aph_id": "00AOL",
+ "chamber": "senate",
+ "date_lodged": "2025-07-16",
+ "display_name": "Colbeck, Richard",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Colbeck",
+ "given_names": "Richard",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AMP PTY LTD"
+   },
+   "holder": "unspecified",
+   "source_id": "04148e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Devonport, Tasmania",
+    "purpose": "Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "ff138e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Devonport, Tasmania",
+    "purpose": "Investment Property"
+   },
+   "holder": "unspecified",
+   "source_id": "01148e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Consulting/Contracting",
+    "name": "R.M. & G.M. Colbeck",
+    "nature": "Partner"
+   },
+   "holder": "unspecified",
+   "source_id": "fd138e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings Accounts x 6"
+   },
+   "holder": "unspecified",
+   "source_id": "03148e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - AMP"
+   },
+   "holder": "unspecified",
+   "source_id": "f0138e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Spirit Super"
+   },
+   "holder": "unspecified",
+   "source_id": "4ddcf2de-d765-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Motor Vehicles x 2"
+   },
+   "holder": "unspecified",
+   "source_id": "292ff25c-db65-f011-bec3-6045bde5c56a"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Investment Property - Rent"
+   },
+   "holder": "unspecified",
+   "source_id": "f5138e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Subscription Television (Foxtel) provided by ASTRA"
+   },
+   "holder": "unspecified",
+   "source_id": "ea138e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas - Chairmans Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "25a2a3ba-d765-f011-bec3-0022489727de"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin - Platinum Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "4b30a8c0-d765-f011-bec3-0022489727de"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Vice President - Devonport Agricultural & Pastoral Society (DAPS)"
+   },
+   "holder": "unspecified",
+   "source_id": "ec138e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Liberal Party of Australia (Tas Division)"
+   },
+   "holder": "unspecified",
+   "source_id": "fa138e9d-d462-f011-bec2-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Devonport Chamber of Commerce and Industry Inc."
+   },
+   "holder": "unspecified",
+   "source_id": "71de7d1b-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Devonport Agricultural & Pastoral Society Inc"
+   },
+   "holder": "unspecified",
+   "source_id": "bb667827-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Tasmanian Arboretum Inc"
+   },
+   "holder": "unspecified",
+   "source_id": "80106e33-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Emu Valley Rhododendron Society Inc"
+   },
+   "holder": "unspecified",
+   "source_id": "c3be6c45-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Essendon Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "3003e357-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Hungerford & Associated Memberships"
+   },
+   "holder": "unspecified",
+   "source_id": "fd030f6a-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Australian Parliamentary Sports Club"
+   },
+   "holder": "unspecified",
+   "source_id": "e8f6d582-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Patron of the Mersey Leven Vietnam Veterans Association"
+   },
+   "holder": "unspecified",
+   "source_id": "c466fca6-d865-f011-bec3-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Membership of the Rotary Club of Devonport North Inc."
+   },
+   "holder": "unspecified",
+   "source_id": "6c5cd6b1-db65-f011-bec3-6045bde5c56a"
+  }
+ ],
+ "last_updated": "2026-08-31",
+ "notes": [
+  "Received through PIRS 17 July 2025; checked by Shaun 21 July 2025"
+ ],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/00AOL.json",
+  "sha256": "90cf980808dd4e988fc187f8e3912771766b6817f4e873f0ddb39a7f9e8190e1",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=00AOL"
+ },
+ "state": "Tasmania"
+}

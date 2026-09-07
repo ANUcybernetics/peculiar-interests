@@ -1,0 +1,361 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-14",
+   "details": "Two tickets to the Press Gallery Mid-Winter Ball, courtesy of The Australian ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "02ea16ee-f091-f011-b4cb-6045bde4956c"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2025-09-14",
+   "details": "Ongoing legal assistance, courtesy of Arnold Bloch Leibler",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "07ea16ee-f091-f011-b4cb-6045bde4956c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-19",
+   "details": "Flights, accommodation and hospitality to participate in Centre for Independent Studies Consilium conference, Gold Coast, 23-25 October, courtesy CIS",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "4401c948-9dc6-f011-bbd3-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-19",
+   "details": "Upgrade to Business Class, Melbourne to Canberra, 12 November, courtesy Qantas",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "4a01c948-9dc6-f011-bbd3-6045bde5f32c"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-04-07",
+   "details": "Melbourne, Victoria, investment property",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": "d59803ab-4b32-f111-88b3-6045bdc3f566"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-04-07",
+   "details": "Mortgage, Macquarie Bank Limited",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "c59803ab-4b32-f111-88b3-6045bdc3f566"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-04-07",
+   "details": "Mortgage on investment property, Advantedge Financial Services, backed by NAB",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "da9803ab-4b32-f111-88b3-6045bdc3f566"
+  },
+  {
+   "category": "other-income",
+   "date_processed": null,
+   "date_submitted": "2026-04-07",
+   "details": "Rental income, investment property",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": "df9803ab-4b32-f111-88b3-6045bdc3f566"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-04-07",
+   "details": "Policy holder, Allianz",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "d09803ab-4b32-f111-88b3-6045bdc3f566"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-04-07",
+   "details": "Policy holder, CommInsure",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 10,
+   "source_id": "e49803ab-4b32-f111-88b3-6045bdc3f566"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-04-21",
+   "details": "Associate Member, Hawthorn RSL",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "cff56efc-463d-f111-88b4-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-08",
+   "details": "Return flights to Canberra for family to attend McKinnon Prize event, courtesy McKinnon ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "3331a4dd-947a-f111-ab0f-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-08",
+   "details": "One ticket to Press Gallery Mid-Winter Ball, Parliament House, Canberra, 1 July, courtesy News Corp",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "3831a4dd-947a-f111-ab0f-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-20",
+   "details": "Partial contribution towards travel costs to attend the Australian American Leadership Dialogue and visit the United States, 12-19 July, courtesy Mr Charles Kiefel",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "e1f43f19-b884-f111-ab0e-70a8a553d3a2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-26",
+   "details": "Return flights and accommodation in Sydney to deliver the 2026 Commencement Address to the Ramsay Postgraduate Scholars, 23-24 July, courtesy Ramsay Centre for Western Civilisation",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "bd800642-4789-f111-ab0f-70a8a553d3a2"
+  }
+ ],
+ "aph_id": "144138",
+ "chamber": "senate",
+ "date_lodged": "2025-08-06",
+ "display_name": "Paterson, James",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Paterson",
+ "given_names": "James",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Melbourne, Victoria",
+    "purpose": "Investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "3d3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "3f3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mastercard"
+   },
+   "holder": "unspecified",
+   "source_id": "1f3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Advantedge Financial Services, backed by NAB",
+    "nature": "Mortgage on investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "223cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Access account"
+   },
+   "holder": "unspecified",
+   "source_id": "413cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation account, Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "2d3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income, investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "2f3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Continuing complementary electorate office Foxtel subscription"
+   },
+   "holder": "unspecified",
+   "source_id": "1d3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Chairman's Lounge membership, Qantas"
+   },
+   "holder": "unspecified",
+   "source_id": "443cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Beyond membership, Virgin Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "493cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia, Victorian Division"
+   },
+   "holder": "unspecified",
+   "source_id": "293cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of the advisory Council of the Krach Institute for Tech Diplomacy at Purdue University"
+   },
+   "holder": "unspecified",
+   "source_id": "2b3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Policy holder, CommInsure"
+   },
+   "holder": "unspecified",
+   "source_id": "323cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Policy holder, HCF"
+   },
+   "holder": "unspecified",
+   "source_id": "353cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Richmond Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "363cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Institute of Public Affairs"
+   },
+   "holder": "unspecified",
+   "source_id": "373cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Centre for Independent Studies"
+   },
+   "holder": "unspecified",
+   "source_id": "383cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Menzies Institute"
+   },
+   "holder": "unspecified",
+   "source_id": "3a3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Athenaeum Club"
+   },
+   "holder": "unspecified",
+   "source_id": "3b3cd177-6472-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Samuel Griffith Society"
+   },
+   "holder": "unspecified",
+   "source_id": "3c3cd177-6472-f011-b4cd-000d3ad2a284"
+  }
+ ],
+ "last_updated": "2026-07-27",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/144138.json",
+  "sha256": "5a5ede2624517010038dda8699703647f19307c065030a132aedd90eef2233d6",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=144138"
+ },
+ "state": "Victoria"
+}

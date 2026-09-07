@@ -1,0 +1,136 @@
+{
+ "alterations": [],
+ "aph_id": "296215",
+ "chamber": "senate",
+ "date_lodged": "2025-08-17",
+ "display_name": "Cox, Dorinda",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Cox",
+ "given_names": "Dorinda",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "9700aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Electorate Allowance Account"
+   },
+   "holder": "unspecified",
+   "source_id": "9800aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - GESB"
+   },
+   "holder": "unspecified",
+   "source_id": "8d00aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "8f00aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Club Chairman's Lounge membership"
+   },
+   "holder": "unspecified",
+   "source_id": "9b00aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union - membership"
+   },
+   "holder": "unspecified",
+   "source_id": "8900aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fremantle Football Club - membership"
+   },
+   "holder": "unspecified",
+   "source_id": "8b00aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Bangarra Tickets x 5 Illume Tickets - 10th July 2025 - provider: Arts & Culture Trust WA"
+   },
+   "holder": "unspecified",
+   "source_id": "9100aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "National NAIDOC Tickets x 2 - provided by Minister McCarthy"
+   },
+   "holder": "unspecified",
+   "source_id": "9200aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Garma Festival NT - provided by Minister McCarthy"
+   },
+   "holder": "unspecified",
+   "source_id": "9300aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "IWD Breakfast x 2  - provided by UN Women Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "9400aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Australian Tourism Awards tickets x 2 - provided by WA Tourism Council"
+   },
+   "holder": "unspecified",
+   "source_id": "9500aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "NRL State of Origin tickets x 2 - provided by Deadly Choices program"
+   },
+   "holder": "unspecified",
+   "source_id": "9600aaf9-bc7c-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2025-08-18",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/296215.json",
+  "sha256": "081d9b9b69a2298c59d5047e52f695b0f8a6b9ca674302301bcf3c21831079b4",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=296215"
+ },
+ "state": "Western Australia"
+}

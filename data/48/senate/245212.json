@@ -1,0 +1,235 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-10",
+   "details": "Two corporate and two general admission tickets were provided by the Brisbane Broncos to attend the 2025 NRLW and NRL preliminary final at Suncorp Stadium on 28 September 2025 ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "f515ce58-a4a8-f011-bbd3-6045bde49b50"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-12-22",
+   "details": "10 x mounted pieces of coal provided by Bravus Mining and Resources ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "e90dd9fe-e0e9-f011-8544-7ced8d34843b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-22",
+   "details": "One night's accommodation in Dubbo on 29 November 2025 was provided by Jamie Chaffey MP",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "457f77fa-e0e9-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-22",
+   "details": "One night's accommodation in Wauchope on 6 December 2025 was provided by Alison Penfold MP",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "4a7f77fa-e0e9-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-22",
+   "details": "Two night's accommodation in Adelaide on 15 and 16 December 2025 was provided by the South Australian Liberal Party ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "507f77fa-e0e9-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-01-16",
+   "details": "Cricket Australia provided two (2) B Reserve tickets to Day 1 (Sunday 4 January 2026) of the Fifth Ashes Test between Australia and England in Sydney ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "9045ee91-d3f4-f011-8406-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-04",
+   "details": "Two tickets provided by FIFA to attend a Quarter Finals Game in Los Angeles on 10th July 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "8ef5677c-8f90-f111-8076-70a8a553fe6c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-06",
+   "details": "Two tickets provided by Brisbane Broncos to attend Broncos v Dolphins at Suncorp Stadium, Brisbane 8th August 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "1644fe37-74aa-f111-aaac-6045bdc2f293"
+  }
+ ],
+ "aph_id": "245212",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "Canavan, Matthew",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Canavan",
+ "given_names": "Matthew",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Yeppoon, QLD",
+    "purpose": "Principal residence"
+   },
+   "holder": "unspecified",
+   "source_id": "dd15dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on principal residence"
+   },
+   "holder": "unspecified",
+   "source_id": "cf15dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "e015dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Coin Spot",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "e115dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Australian Super; SmartMonday PRIME TESF"
+   },
+   "holder": "unspecified",
+   "source_id": "d315dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Private donation - Capricorn Coast Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "d115dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Liberal National Party (LNP) Queensland"
+   },
+   "holder": "unspecified",
+   "source_id": "d515dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Institute of Public Affairs (IPA)"
+   },
+   "holder": "unspecified",
+   "source_id": "d615dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Cherish Life QLD"
+   },
+   "holder": "unspecified",
+   "source_id": "d715dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Australian Parliament Sports Club"
+   },
+   "holder": "unspecified",
+   "source_id": "d815dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member - Parliamentary Branch, Commonwealth Parliamentary Association"
+   },
+   "holder": "unspecified",
+   "source_id": "d915dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Chairman's Lounge membership provided by Qantas"
+   },
+   "holder": "unspecified",
+   "source_id": "da15dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Beyond Lounge membership provided by Virgin Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "db15dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Complimentary annual subscription provided by Foxtel for Electorate Office"
+   },
+   "holder": "unspecified",
+   "source_id": "dc15dfcb-ce7c-f011-b4cc-6045bdc2966c"
+  }
+ ],
+ "last_updated": "2026-09-07",
+ "notes": [],
+ "parliament": 48,
+ "party": "The Nationals",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/245212.json",
+  "sha256": "b826fcdc20fb618f08467df9d672a7dc5f585cb037c27d4b744af6bbc0197c59",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=245212"
+ },
+ "state": "Queensland"
+}

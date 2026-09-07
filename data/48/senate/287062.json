@@ -1,0 +1,589 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-09-09",
+   "details": "Rug - Afghan Community Leaders ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "d76f2cd5-f091-f011-b4cb-6045bde4956c"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2025-09-29",
+   "details": "Vanguard Australian Corporate",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": "f03cbf57-4f9e-f011-bbd3-000d3ad253b4"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2025-10-28",
+   "details": "SFIF  - Seed Financial Income Fund Active ETF",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "0a00f6aa-17b6-f011-bbd2-6045bde5f32c"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2025-10-28",
+   "details": "HJPN   - Betashares Japan Currency Hedged ETF",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": "1100f6aa-17b6-f011-bbd2-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-15",
+   "details": "Cricket Australia - Ticket & Hospitality",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "3467ccfc-9cdb-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-07-06",
+   "details": "LGF - L1 GOLD FUND LIMITED",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "dcc82c08-747a-f111-ab0f-00224810b694"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-06",
+   "details": "The Guardian - Mid-Winter Ball Ticket",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "0e0f8531-747a-f111-ab0f-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "287062",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "McLachlan, Andrew",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McLachlan",
+ "given_names": "Andrew",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BetaShares NASDAQ 100 ETF- Currency Hedged"
+   },
+   "holder": "unspecified",
+   "source_id": "317d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "IHVV – Ishares S&P 500 AUD Hedged ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "337d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares Australia 200 ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "357d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Resources Fund and Betashares Wisdomtree Japan ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "387d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WAM Microcap Listed Investment Company"
+   },
+   "holder": "unspecified",
+   "source_id": "3a7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard MSCI Index International Shares (Hedged) ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "3c7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Global X Artificial Intelligence ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "3e7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SPDR 200 Resources ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "407d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VanEck Australian Floating Rate ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "427d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BetaShares Australian"
+   },
+   "holder": "unspecified",
+   "source_id": "447d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Apostle Dundas Global Equity Fund"
+   },
+   "holder": "unspecified",
+   "source_id": "467d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JPMorgan Equity Premium"
+   },
+   "holder": "unspecified",
+   "source_id": "487d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "L1 Long Short Fund Limited"
+   },
+   "holder": "unspecified",
+   "source_id": "4a7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BetaShares Australian Bank Senior Floating Rate Bond ETF"
+   },
+   "holder": "unspecified",
+   "source_id": "4c7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VanEck Vectors Aus Subordinated"
+   },
+   "holder": "unspecified",
+   "source_id": "4e7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Corporate"
+   },
+   "holder": "unspecified",
+   "source_id": "507d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Property Securities"
+   },
+   "holder": "unspecified",
+   "source_id": "527d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Government"
+   },
+   "holder": "unspecified",
+   "source_id": "547d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard MSCI Australian Small Companies"
+   },
+   "holder": "unspecified",
+   "source_id": "567d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WCM Quality Global Growth Fund"
+   },
+   "holder": "unspecified",
+   "source_id": "587d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WAM Leaders Limited"
+   },
+   "holder": "unspecified",
+   "source_id": "5a7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary and spouse",
+    "name": "Lockhart Superannuation Fund",
+    "nature": "Superannuation",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "607d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "In beneficiary class",
+    "name": "Michielin Family Trust",
+    "nature": "Superannuation",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "627d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "In beneficiary class",
+    "name": "Michielin Family Trust",
+    "nature": "Family Investment",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "647d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "In beneficiary class",
+    "name": "McLachlan Family Trust",
+    "nature": "Family Investment",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "657d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "Lockhart Superannuation Fund",
+    "nature": "Superannuation",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "667d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank SA",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "007d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "027d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AMEX",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "047d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Personal guarantee"
+   },
+   "holder": "unspecified",
+   "source_id": "067d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank SA",
+    "nature": "Personal loan"
+   },
+   "holder": "unspecified",
+   "source_id": "097d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank SA",
+    "nature": "Personal guarantee"
+   },
+   "holder": "unspecified",
+   "source_id": "0b7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "Macquarie Cash Management Account"
+   },
+   "holder": "unspecified",
+   "source_id": "2a7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Term Deposit"
+   },
+   "holder": "unspecified",
+   "source_id": "2e7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Bank Account"
+   },
+   "holder": "unspecified",
+   "source_id": "2f7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank SA",
+    "nature": "Bank Account"
+   },
+   "holder": "unspecified",
+   "source_id": "307d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "157d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "177d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Motor Vehicles"
+   },
+   "holder": "unspecified",
+   "source_id": "197d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Business Income"
+   },
+   "holder": "unspecified",
+   "source_id": "1b7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "5c7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "5e7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Legacy Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "0d7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Walk for a Veteran"
+   },
+   "holder": "unspecified",
+   "source_id": "0f7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Adelaide University Rugby Club"
+   },
+   "holder": "unspecified",
+   "source_id": "117d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party SA"
+   },
+   "holder": "unspecified",
+   "source_id": "137d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "WRP Legal & Advisory"
+   },
+   "holder": "unspecified",
+   "source_id": "1e7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Law Foundation of SA"
+   },
+   "holder": "unspecified",
+   "source_id": "1f7d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "St Peter's College"
+   },
+   "holder": "unspecified",
+   "source_id": "207d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "RSL"
+   },
+   "holder": "unspecified",
+   "source_id": "227d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "The Tax Institute"
+   },
+   "holder": "unspecified",
+   "source_id": "237d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "FINSIA"
+   },
+   "holder": "unspecified",
+   "source_id": "247d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "The Law Society of South Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "257d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "St John Ambulance"
+   },
+   "holder": "unspecified",
+   "source_id": "267d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Legacy"
+   },
+   "holder": "unspecified",
+   "source_id": "277d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Scottish Associations of South Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "287d809c-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Walk for a Veteran"
+   },
+   "holder": "unspecified",
+   "source_id": "297d809c-bd7c-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2026-07-09",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/287062.json",
+  "sha256": "580bf44df127e16a131c0ae23179fa133bcc6fcfba9406f401c4b4787ca1b5c9",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=287062"
+ },
+ "state": "South Australia"
+}

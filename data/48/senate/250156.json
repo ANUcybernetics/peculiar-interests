@@ -1,0 +1,123 @@
+{
+ "alterations": [],
+ "aph_id": "250156",
+ "chamber": "senate",
+ "date_lodged": "2025-08-10",
+ "display_name": "Steele-John, Jordon",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Steele-John",
+ "given_names": "Jordon",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Rockingham, WA",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "83ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "6ece6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "MyState Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "unspecified",
+   "source_id": "70ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "MyState Bank",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "86ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "87ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - CBUS"
+   },
+   "holder": "unspecified",
+   "source_id": "81ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership to Qantas Chairman's lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "68ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership to Virgin lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "6bce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tithing - Australian Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "72ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tithing - The Greens (WA) Inc"
+   },
+   "holder": "unspecified",
+   "source_id": "74ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tithing - Global Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "77ce6ee0-f677-f011-b4cb-000d3ad253b4"
+  }
+ ],
+ "last_updated": "2025-08-11",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/250156.json",
+  "sha256": "a20df4355775c0e048be1a72b94612bd61f3d69c33be147dd78630c6e5063f0e",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=250156"
+ },
+ "state": "Western Australia"
+}

@@ -1,0 +1,298 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-09-21",
+   "details": "Two tickets to the AFL Preliminary Final, Geelong v Hawthorn, 19 October 2025, provided by the AFL.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "11046222-6b97-f011-b41b-6045bde4956c"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-09-21",
+   "details": "Two tickets to the AFL Qualifying Final and Olympic Room function, Geelong v Brisbane, 5 September 2025, provided by the Geelong Football Club. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "ff036222-6b97-f011-b41b-6045bde4956c"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2025-12-01",
+   "details": "Victoria Racing Club, member",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "fbbb752e-41cf-f011-8544-7ced8d34843b"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-05-11",
+   "details": "1 ticket to President's Dinner and match, GMHBA Stadium, Geelong Cats v Western Bulldogs, 17 April 2026 provided by Geelong Football Club.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "395d5641-4553-f111-bec6-6045bdc3fcd7"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-05-16",
+   "details": "2 tickets to The Pivots function and match, Geelong Cats v North Melbourne, GMHBA Stadium, 2 May 2026 provided by Geelong Football Club.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "50304b4d-4553-f111-bec7-6045bdc3f4ad"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-06-24",
+   "details": "Following cancellation of my Qantas economy class Canberra to Melbourne flight on 29 May 2026, I was moved to the next flight in the same class rather than to business. Upon discovering the error immediately prior to departure when there wasn't time to fix the booking, Qantas provided a complimentary upgrade to business.  ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "6097c013-1c70-f111-ab0d-6045bdc3f4ad"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-07-02",
+   "details": "One ticket to the Mid Winter Ball event provided by Commercial Radio and Audio Limited, held at Parliament House Canberra on 1 July 2026.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "79911563-d075-f111-ab0f-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "ZN4",
+ "chamber": "senate",
+ "date_lodged": "2025-08-17",
+ "display_name": "Henderson, Sarah",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Henderson",
+ "given_names": "Sarah",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "trusts",
+   "fields": {
+    "name": "Kudos Management Group Trust",
+    "nature": "Dormant",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "7c536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Self",
+    "name": "SMH Superannuation Fund Trust",
+    "nature": "Self-managed super fund",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "7e536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Barwon Heads, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "71536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "73536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Point Lonsdale, Victoria",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "75536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Corporate trustee",
+    "company": "Kudos Management Group Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "77536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Mastercard, American Express",
+    "nature": "Credit cards"
+   },
+   "holder": "unspecified",
+   "source_id": "78d77141-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Home loans (residential, investment)"
+   },
+   "holder": "unspecified",
+   "source_id": "5f536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Saving x 3, joint saving"
+   },
+   "holder": "unspecified",
+   "source_id": "79536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Saving"
+   },
+   "holder": "unspecified",
+   "source_id": "7a536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "7b536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (SMH Superannuation Fund and Australian Super)"
+   },
+   "holder": "unspecified",
+   "source_id": "63536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "401(k) (Fidelity Investments)"
+   },
+   "holder": "unspecified",
+   "source_id": "65536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Patscherkofel Lodge Mt Buller, membership"
+   },
+   "holder": "unspecified",
+   "source_id": "67536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Investment property rental income"
+   },
+   "holder": "unspecified",
+   "source_id": "69536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (Victorian Division)"
+   },
+   "holder": "unspecified",
+   "source_id": "61536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Barwon Heads Golf Club, member"
+   },
+   "holder": "unspecified",
+   "source_id": "6b536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Geelong Football Club, member"
+   },
+   "holder": "unspecified",
+   "source_id": "6c536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Melbourne Cricket Club, member"
+   },
+   "holder": "unspecified",
+   "source_id": "6d536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "RACV Club, member"
+   },
+   "holder": "unspecified",
+   "source_id": "6e536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Qantas Chairman's Lounge, member"
+   },
+   "holder": "unspecified",
+   "source_id": "6f536a47-bd7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "The Club Virgin Australia, member"
+   },
+   "holder": "unspecified",
+   "source_id": "70536a47-bd7c-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2026-07-02",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/ZN4.json",
+  "sha256": "cd3aea9eb94d666c2a964087f73e7998c46c7f71d8e6657395fcb2240f62290c",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=ZN4"
+ },
+ "state": "Victoria"
+}

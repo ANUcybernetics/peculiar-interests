@@ -1,0 +1,385 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-08-19",
+   "details": "2 x tickets and hospitality at Queensland Cricket Foundation Race Day, Eagle Farm, Brisbane on Saturday 19 July 2025, guest of Queensland Cricket",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "ca12b5d3-ce7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-08-19",
+   "details": "2 x tickets and hospitality for Brisbane Broncos vs Parramatta Eels at Suncorp Stadium, Brisbane on Friday 25 July 2025, guest of Brisbane Broncos",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "e112b5d3-ce7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-08-19",
+   "details": "2 x tickets and hospitality for British & Irish Lions tour match against the Wallabies at Suncorp Stadium, Brisbane on 19 July 2025, guest of Diageo Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "ea12b5d3-ce7c-f011-b4cb-7c1e522a62fa"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-22",
+   "details": "1 x ticket and hospitality to Federal Press Gallery Mid-Winter Ball, APH Canberra on Wednesday 27 August 2025, guest of Lion",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "9609d591-1299-f011-b41b-6045bde4956c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-23",
+   "details": "2 x tickets and hospitality to the NRL Final Series - NRLW Brisbane Broncos vs Newcastle Knights and NRL Brisbane Broncos vs Penrith Panthers on Sunday 28 September 2025 at Suncorp Stadium, Brisbane, QLD, guest of NRL",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "0445e1a7-8db0-f011-bbd2-00224898b4a7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-23",
+   "details": "2 x tickets and hospitality to the AFL Second Semi Final Brisbane Lions vs Gold Coast Suns on Saturday 13 September 2025 at The Gabba, Brisbane, QLD, guest of AFL",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "f644e1a7-8db0-f011-bbd2-00224898b4a7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-01",
+   "details": "4 x tickets and hospitality at Victoria Derby Day on Saturday 1 November 2025 at Flemington Racecourse, Melbourne, guest of Tabcorp",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "7aa32050-42cf-f011-8544-00224892514c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-19",
+   "details": "2 x ticket and hospitality at Day 3 of the NRMA Insurance Ashes Day-Night Test between Australia and England at The Gabba, Brisbane, Queensland on Saturday 6 December 2025, guest of Cricket Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "8def67ae-e0e9-f011-8544-6045bde589eb"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-01-13",
+   "details": "1 x ticket and hospitality to AC/DC Concert on 14 December 2025 at Suncorp Stadium, Brisbane, Queensland, guest of Anacta",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "76683570-e5f0-f011-8407-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-03",
+   "details": "4 x tickets and hospitality to TAB Magic Millions Race Day on 17 January 2026, Gold Coast, Queensland, guest of Tabcorp",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "123d8744-a200-f111-8406-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-27",
+   "details": "2 x tickets and hospitality to AFL March, Brisbane Lions vs Western Bulldogs, on Saturday 7 March 2026 at The Gabba, Brisbane, courtesy of Brisbane Lions",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "f3798767-b72b-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-04-20",
+   "details": "2 x tickets and hospitality for Round 5 of the 2026 Telstra NRL Premiership Season, Gold Coast Titans vs Brisbane Broncos, on Saturday 4 April 2026 at Robina, QLD, guest of Gold Coast Titans",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "2c36d726-723c-f111-88b4-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-29",
+   "details": "2 x tickets and hospitality at AFL Round 9, Brisbane Lions vs Carlton on Saturday 8 May 2026 at the Gabba, Brisbane, courtesy of Brisbane Lions",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "ea1852f6-275b-f111-bec7-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-06-03",
+   "details": "4 x tickets and hospitality to NRL Magic Round Day 2 on Saturday 16 May 2026, Suncorp Stadium, Brisbane, Queensland courtesy of NRL\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "71c785c7-df5f-f111-a826-00224810b694"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-03",
+   "details": "2 x tickets and hospitality to Ladbrokes Stradbroke Day Committee Function on Saturday 13 June 2026 at Eagle Farm Racecourse, Brisbane, QLD, guest of Brisbane Racing Club",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "a81a36bb-9476-f111-ab0f-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-29",
+   "details": "6 x Tickets and Hospitality to AFL Round 20, Adelaide Crows vs Collingwood on Thursday 23 July 2026 at The Adelaide Oval, Adelaide - Courtesy of the Adelaide Crows. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": "9867c58d-f1a4-f111-b8de-6045bdc2f293"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-29",
+   "details": "2 x Tickets and Hospitality to NRL Round 26, Broncos vs Storm on Thursday 27 August 2026 at Suncorp Stadium Brisbane - Courtesy of The Brisbane Broncos.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": "9e67c58d-f1a4-f111-b8de-6045bdc2f293"
+  }
+ ],
+ "aph_id": "39801",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Chisholm, Anthony",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Chisholm",
+ "given_names": "Anthony",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wavell Heights",
+    "purpose": "Residential joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "f5839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on residential property joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "da839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Credit cards x 2 joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "dc839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings account joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "f7839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings account joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "f8839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings account joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "f9839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Savings account joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "fa839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Aust Retirement Trust Superannuation account"
+   },
+   "holder": "unspecified",
+   "source_id": "ee839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Mortgage Insurance joint with spouse - Australian Life"
+   },
+   "holder": "unspecified",
+   "source_id": "f0839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "2022 Toyota Rav 4 joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "f2839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription - Electorate Office"
+   },
+   "holder": "unspecified",
+   "source_id": "d5839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia Beyond Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "fb839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairmans Lounge membership"
+   },
+   "holder": "unspecified",
+   "source_id": "fd839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership Australian Workers Union"
+   },
+   "holder": "unspecified",
+   "source_id": "de839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "e0839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member & doner - NIRAN"
+   },
+   "holder": "unspecified",
+   "source_id": "e5839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member & Doner - St Vincent de Paul"
+   },
+   "holder": "unspecified",
+   "source_id": "e8839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Brisbane Broncos"
+   },
+   "holder": "unspecified",
+   "source_id": "ea839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Carlton Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "ec839ced-bc7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Medibank Policy Holder"
+   },
+   "holder": "unspecified",
+   "source_id": "f4839ced-bc7c-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2026-08-30",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/39801.json",
+  "sha256": "ebfa73432f17f5333e3d9b1edda85fe0cb3e7abe251a75e1e9235676a85992d5",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=39801"
+ },
+ "state": "Queensland"
+}

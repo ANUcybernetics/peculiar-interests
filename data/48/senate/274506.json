@@ -1,0 +1,112 @@
+{
+ "alterations": [],
+ "aph_id": "274506",
+ "chamber": "senate",
+ "date_lodged": "2025-08-04",
+ "display_name": "Sharma, Dave",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Sharma",
+ "given_names": "Dave",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Sharma Family Company Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "6e57de74-8772-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Sharma Family Trust",
+    "nature": "Investment",
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "b53a6397-8772-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Sharma Family Trust",
+    "nature": "Investment",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "aed922a5-8772-f011-b4cc-002248929e07"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sydney NSW",
+    "purpose": "Residence"
+   },
+   "holder": "unspecified",
+   "source_id": "4a57de74-8772-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on residence"
+   },
+   "holder": "unspecified",
+   "source_id": "2c57de74-8772-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Netwealth, Perennial, Wingate, Our Innovation Fund, Kelly Partners Investment Fund",
+    "type": "Managed funds"
+   },
+   "holder": "unspecified",
+   "source_id": "2757de74-8772-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING, CBA, HSBC",
+    "nature": "Savings accounts"
+   },
+   "holder": "unspecified",
+   "source_id": "6257de74-8772-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation account"
+   },
+   "holder": "unspecified",
+   "source_id": "3857de74-8772-f011-b4cd-000d3ad2a284"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Investment income"
+   },
+   "holder": "unspecified",
+   "source_id": "4757de74-8772-f011-b4cd-000d3ad2a284"
+  }
+ ],
+ "last_updated": "2025-08-04",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/274506.json",
+  "sha256": "1dfb16cdc26c245ad01210a46858ba414387dfb2cd47ea818f976e35af5cc394",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=274506"
+ },
+ "state": "New South Wales"
+}

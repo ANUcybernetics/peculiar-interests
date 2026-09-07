@@ -1,0 +1,96 @@
+{
+ "alterations": [],
+ "aph_id": "297964",
+ "chamber": "senate",
+ "date_lodged": "2025-08-14",
+ "display_name": "Collins, Jessica",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Collins",
+ "given_names": "Jessica",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra"
+   },
+   "holder": "unspecified",
+   "source_id": "ea3381dd-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Bank Account"
+   },
+   "holder": "unspecified",
+   "source_id": "e83381dd-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Bank Account"
+   },
+   "holder": "unspecified",
+   "source_id": "e93381dd-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super - Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "e43381dd-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Virgin Super - Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "e63381dd-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairmans Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "ec3381dd-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Beyond Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "ee3381dd-be7c-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Smith Family"
+   },
+   "holder": "unspecified",
+   "source_id": "e23381dd-be7c-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2025-08-15",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/297964.json",
+  "sha256": "1d564f028dac2ec6c4636438a9694ff6b390ccc13d0b92624b8fbbd7db8d2d88",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=297964"
+ },
+ "state": "New South Wales"
+}

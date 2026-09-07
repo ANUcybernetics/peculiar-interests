@@ -1,0 +1,94 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-11",
+   "details": "Upgrade provided to me as a member of a Parliamentary Delegation to the Australian-American Leadership Dialogue by Qantas Airways Ltd aboard flight QF7 from Sydney to Dallas-Fort Worth on 12 July 2026.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "46574583-e095-f111-8075-7c1e5262eaeb"
+  }
+ ],
+ "aph_id": "263418",
+ "chamber": "senate",
+ "date_lodged": "2025-08-20",
+ "display_name": "Duniam, Jonathon",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Duniam",
+ "given_names": "Jonathon",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Hobart, Tas",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "901f178e-947d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on property"
+   },
+   "holder": "unspecified",
+   "source_id": "871f178e-947d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "971f178e-947d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "9f1f178e-947d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Membership, Qantas Chairman's' Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "a01f178e-947d-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Membership, Virgin Beyond Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "a71f178e-947d-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2026-08-11",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/263418.json",
+  "sha256": "e580fe22d71d81f77c5b685209d732fe391f8ee39691635ae7bc6954973071dc",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=263418"
+ },
+ "state": "Tasmania"
+}

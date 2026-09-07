@@ -1,0 +1,131 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-04-24",
+   "details": "Canberra residence, Griffith ACT",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "b71bb82a-9042-f111-88b4-6045bdc3f4ad"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-04-24",
+   "details": "Mortgage on Canberra residence, Beyond Bank ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "d8a10631-9042-f111-88b4-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-04-24",
+   "details": "Pilbara Familiarisation Tour, accomodation, flights and meals - Chamber of Minerals and Energy WA. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "dda10631-9042-f111-88b4-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "316555",
+ "chamber": "senate",
+ "date_lodged": "2025-08-14",
+ "display_name": "Whiteaker, Ellie",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Whiteaker",
+ "given_names": "Ellie",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Beeliar, Western Australia",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "c4bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Beyond Bank Australia",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "b1bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Beyond Bank Australia",
+    "nature": "Transaction and Savings Accounts x 5"
+   },
+   "holder": "unspecified",
+   "source_id": "c8bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Arrowstreet Global Equity Fund - Macquarie Investment Management Australia Limited"
+   },
+   "holder": "unspecified",
+   "source_id": "bdbbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation, life insurance and TPD insurance - Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "c1bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member and Donor - Australian Labor Party (Western Australian Branch)"
+   },
+   "holder": "unspecified",
+   "source_id": "b4bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Manufacturing Workers Union"
+   },
+   "holder": "unspecified",
+   "source_id": "b9bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "c3bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2026-04-28",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/316555.json",
+  "sha256": "5d097a03da7425783889697729d3e02517749b4960bc39087ac9e0921037308f",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=316555"
+ },
+ "state": "Western Australia"
+}

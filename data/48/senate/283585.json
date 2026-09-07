@@ -1,0 +1,246 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-08",
+   "details": "Guest of Cricket Australia to Day 2 two of the Ashes test at Optus Stadium, Perth including function and hospitality.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "df07d13b-8bd4-f011-8544-6045bdc49d4e"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2025-12-08",
+   "details": "Salvation Army",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "35291142-8bd4-f011-8544-6045bdc49d4e"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2025-12-08",
+   "details": "Sponsored the Byford Christmas Carols",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "fd281142-8bd4-f011-8544-6045bdc49d4e"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-08-02",
+   "details": "Purchased PPR in Oakford WA",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "80d14726-988f-f111-8076-70a8a553fe6c"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-08-02",
+   "details": "Sold PPR in Aubin Grove WA",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": "8ad14726-988f-f111-8076-70a8a553fe6c"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-08-02",
+   "details": "Mortgage and Credit Card with Commonwealth Bank",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "42d14726-988f-f111-8076-70a8a553fe6c"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-08-02",
+   "details": "Mortgage and Credit Card closed with ANZ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "8fd14726-988f-f111-8076-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "date_processed": null,
+   "date_submitted": "2026-08-02",
+   "details": "Savings with Commonwealth Bank",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "85d14726-988f-f111-8076-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "date_processed": null,
+   "date_submitted": "2026-08-02",
+   "details": "Closed Savings with ANZ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": "95d14726-988f-f111-8076-70a8a553fe6c"
+  }
+ ],
+ "aph_id": "283585",
+ "chamber": "senate",
+ "date_lodged": "2025-08-14",
+ "display_name": "O'Sullivan, Matt",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "O'Sullivan",
+ "given_names": "Matt",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Aubin Grove WA",
+    "purpose": "Residential - jointly owned with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "3e888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage - jointly held with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "2d888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "2f888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "40888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation Account held with Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "39888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance and TPD with Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "3b888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription for Electorate Office"
+   },
+   "holder": "unspecified",
+   "source_id": "2b888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "QANTAS - Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "41888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia - The Club Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "43888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Western Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "31888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donation to Nations Church"
+   },
+   "holder": "unspecified",
+   "source_id": "33888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donation to Transform Cambodia"
+   },
+   "holder": "unspecified",
+   "source_id": "35888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donation to Compassion Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "37888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Perth airport parking pass"
+   },
+   "holder": "unspecified",
+   "source_id": "3d888ae3-e57b-f011-b4cc-7c1e522adcf3"
+  }
+ ],
+ "last_updated": "2026-08-03",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/283585.json",
+  "sha256": "eb5607cfb711a15780b08298eb530fc4c591c613cf6f270304b5e1850525a95c",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=283585"
+ },
+ "state": "Western Australia"
+}

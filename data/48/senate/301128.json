@@ -1,0 +1,201 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-08-12",
+   "details": "Qantas Chairmans Lounge membership",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "ea2d37d1-a378-f011-b4cb-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-01",
+   "details": "On 31 August 2025, I boarded Qantas flight QF1278 Canberra to Melbourne, booked as an economy fare. Prior to boarding, my seat was upgraded to business fare. The upgrade was unsolicited.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "9c361e5c-1d87-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2025-11-18",
+   "details": "Kingston, ACT - purpose investment",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "184d3f32-9dc6-f011-bbd3-00224898b4a7"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2025-11-18",
+   "details": "Kingston, ACT - purpose residential",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": "204d3f32-9dc6-f011-bbd3-00224898b4a7"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2025-11-18",
+   "details": "VTHC Choir\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "a7dede37-9dc6-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2025-11-18",
+   "details": "Bakehouse Studios",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "acdede37-9dc6-f011-bbd3-6045bdc2987e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-04-14",
+   "details": "Registration for Women Deliver 2026 from Australian Parliamentary Friends of Population and Development (APGPD) Family Planning Australia, value $950 USD\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "41659d84-9a37-f111-88b4-6045bdc3fcd7"
+  }
+ ],
+ "aph_id": "301128",
+ "chamber": "senate",
+ "date_lodged": "2025-08-11",
+ "display_name": "Darmanin, Lisa",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Darmanin",
+ "given_names": "Lisa",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Geelong, VIC",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "de3dc18c-6376-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Glenroy, VIC",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "11743472-4a89-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "8ce6b17e-4a89-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Mortgage offset account"
+   },
+   "holder": "unspecified",
+   "source_id": "e03dc18c-6376-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Vision Super",
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "3c2da4b2-4a89-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental from investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "dc3dc18c-6376-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Return flights, accommodation and some hospitality to participate in the Fourth Berlin Forum on Political Communication, 29 June to 1 July 2025 in Berlin, Germany, courtesy of Friedrich Ebert Stiftung (foundation)."
+   },
+   "holder": "unspecified",
+   "source_id": "e13dc18c-6376-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Services Union - Vic/Tas Authorities & Services Branch Member"
+   },
+   "holder": "unspecified",
+   "source_id": "da3dc18c-6376-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "EMILY's List Australia - Angel Member"
+   },
+   "holder": "unspecified",
+   "source_id": "dd5c26bf-4a89-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "APHEDA - Union Aid Abroad Donor"
+   },
+   "holder": "unspecified",
+   "source_id": "f8938cc5-4a89-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party - Donor"
+   },
+   "holder": "unspecified",
+   "source_id": "b0b389cb-4a89-f011-b4cc-000d3ad253b4"
+  }
+ ],
+ "last_updated": "2026-04-14",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/301128.json",
+  "sha256": "8051465c947765f03fbe73c5f4e5b8831161b2419fb2dae4e6b3fe4541841241",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=301128"
+ },
+ "state": "Victoria"
+}

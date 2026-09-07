@@ -1,0 +1,185 @@
+{
+ "alterations": [
+  {
+   "category": "accounts",
+   "date_processed": null,
+   "date_submitted": "2025-08-18",
+   "details": "Heritage Bank Business Cheque Account, Target Saver Account, OnLine Saver Account - Superannuation",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "173ff1f9-c07c-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "aph_id": "266524",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Roberts, Malcolm",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Roberts",
+ "given_names": "Malcolm",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Conscious Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "39efddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Pullenvale, QLD. Jointly owned with wife",
+    "purpose": "Residential home - my personal residence"
+   },
+   "holder": "unspecified",
+   "source_id": "34efddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Leadership, Management & Environmental consulting & productivity improvement",
+    "company": "Conscious Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "36efddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Cheque Account"
+   },
+   "holder": "unspecified",
+   "source_id": "840f3f94-1389-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Joint Savings Account with wife"
+   },
+   "holder": "unspecified",
+   "source_id": "ad0caa9a-1389-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "02ec7aa7-1389-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Joint Savings & Cheque Accounts - Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "a9d107ae-1389-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Joint Savings Account with wife"
+   },
+   "holder": "unspecified",
+   "source_id": "38efddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Gold & silver bullion"
+   },
+   "holder": "unspecified",
+   "source_id": "88531666-1389-f011-b4cc-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "CFCP Superannuation Benefit Fund joint beneficiary with wife"
+   },
+   "holder": "unspecified",
+   "source_id": "30efddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Senate salary"
+   },
+   "holder": "unspecified",
+   "source_id": "32efddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership to Chairman's Lounge provided by QANTAS – Early to mid July 2024 (estimate only)."
+   },
+   "holder": "unspecified",
+   "source_id": "5a2bdd0e-1587-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Airlines membership of The Club."
+   },
+   "holder": "unspecified",
+   "source_id": "4bd5f216-1587-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "2 x Premium Tickets to Shen Yun 2025 plus 1 night accommodation - Total Value = $800.00 13-May-2025, HOTA Cultural Centre - Surfers Paradise QLD - Provided by Shen Yun QLD."
+   },
+   "holder": "unspecified",
+   "source_id": "53d5f216-1587-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Artwork by Australian Bush Artist - Peter J. Hill. Gifted to Senator Roberts by Deb & Rob Millar - Queensland supporters and constituents on 25 January 2023. Retail Value = $500.00 approx."
+   },
+   "holder": "unspecified",
+   "source_id": "2cefddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2 x tickets from organisers to a speaking engagement and private dinner with Nigel Farage, Thursday, 29 September 2022, Brisbane City Hall\nRetail Value = $1250.00 each.\nChartered flights and bus to attend mine reopening at Burton Complex - Bowen Coking Coal Limited. Day trip only. Thursday 4 May 2023."
+   },
+   "holder": "unspecified",
+   "source_id": "3befddee-bd7c-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donations to various organisations over the years including Royal Flying Doctor Service, McIntyre Riding for the Disabled, Karuna Hospice Service, Cyclone Larry Relief Fund, Vipassana Meditation Centre, Pomona, Queensland, …"
+   },
+   "holder": "unspecified",
+   "source_id": "2eefddee-bd7c-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2025-08-18",
+ "notes": [],
+ "parliament": 48,
+ "party": "Pauline Hanson's One Nation",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/266524.json",
+  "sha256": "19a64edf8679b6a7243d2fae465ad2cbb5cb91886fe7dc7afb294b2bc71d351f",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=266524"
+ },
+ "state": "Queensland"
+}

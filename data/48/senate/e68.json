@@ -1,0 +1,199 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-26",
+   "details": "Travel to Bangkok (18/11/25 - 21/11/25) which included airfares, accommodation and hospitality to open 4 Season Co’s latest supplement warehouse provided by 4 Season Company Pty Ltd.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "d4fdd04d-06cf-f011-8544-00224898b4a7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-30",
+   "details": "Accommodation and Hospitality supplied by Victorian Transport Association to attend their state conference on Sunday 22 March at Silverwater Resort San Remo",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "e7d1171e-fb2b-f111-88b3-6045bdc3fcd7"
+  }
+ ],
+ "aph_id": "e68",
+ "chamber": "senate",
+ "date_lodged": "2025-07-28",
+ "display_name": "Sterle, Glenn",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Sterle",
+ "given_names": "Glenn",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kardinya WA",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "234fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston ACT",
+    "purpose": "Residential/Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "254fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston ACT",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "274fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Mortgage on Investment/Residential Property"
+   },
+   "holder": "unspecified",
+   "source_id": "044fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Mortgage on Investment Property"
+   },
+   "holder": "unspecified",
+   "source_id": "0b4fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "2 X Joint Savings Accounts"
+   },
+   "holder": "unspecified",
+   "source_id": "294fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankwest",
+    "nature": "Joint Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "2a4fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankwest",
+    "nature": "Savings Account"
+   },
+   "holder": "unspecified",
+   "source_id": "2b4fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "2c4fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "American Express",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "2f4fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "TWU Superannuation Account"
+   },
+   "holder": "unspecified",
+   "source_id": "104fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Subscription - Electorate Office"
+   },
+   "holder": "unspecified",
+   "source_id": "ee4eb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Membership - Qantas Chairman's Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "fe4eb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Membership - The Club Virgin Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "004fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party - Donor"
+   },
+   "holder": "unspecified",
+   "source_id": "0e4fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member TWU WA Branch"
+   },
+   "holder": "unspecified",
+   "source_id": "1a4fb25b-e870-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Medibank Private"
+   },
+   "holder": "unspecified",
+   "source_id": "204fb25b-e870-f011-b4cd-0022489727de"
+  }
+ ],
+ "last_updated": "2026-03-30",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/e68.json",
+  "sha256": "d9f858f7cbad15abe43bea2be3fcd7d9aacd9496fc4d9e2195305fa8c12f12cc",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=e68"
+ },
+ "state": "Western Australia"
+}

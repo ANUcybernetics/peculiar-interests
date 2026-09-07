@@ -1,0 +1,222 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-09",
+   "details": "2 tickets and hospitality to the Victoria Derby Day race meeting in Melbourne on 1 November 2025 as a guest of Lion.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "b2833684-48c3-f011-bbd3-6045bde5f32c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-11-17",
+   "details": "2 tickets and hospitality to the Billie Jean King Cup tennis in Hobart on 16 November 2025 as a guest of Tennis Australia.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "f3c17d67-ccc4-f011-bbd3-6045bde5f32c"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-01-20",
+   "details": "Sydney property sold.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": "098b6d51-6af6-f011-8406-6045bdc3f4ad"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-02-19",
+   "details": "ASX: RUL",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": "a72aff96-310d-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-02-19",
+   "details": "Ticket and hospitality to the NBL game in Hobart on 18 February 2026 as a guest of the University of Tasmania.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "17874f8a-4d0d-f111-8406-00224810b694"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-07-13",
+   "details": "Mortgage on Residential Property\tING",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": "a982613f-287f-f111-ab0f-6045bdc25de2"
+  }
+ ],
+ "aph_id": "55842",
+ "chamber": "senate",
+ "date_lodged": "2025-08-10",
+ "display_name": "Dowling, Richard",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Dowling",
+ "given_names": "Richard",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ASX: FND"
+   },
+   "holder": "unspecified",
+   "source_id": "4e976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ASX: RUL"
+   },
+   "holder": "unspecified",
+   "source_id": "56976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sydney, NSW",
+    "purpose": "Residential (Spouse Commuting Residence)"
+   },
+   "holder": "unspecified",
+   "source_id": "47976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ING",
+    "nature": "Mortgage on Residential Property"
+   },
+   "holder": "unspecified",
+   "source_id": "30be703a-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Mortgage Offset\nSavings"
+   },
+   "holder": "unspecified",
+   "source_id": "49976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Swyftx",
+    "nature": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "4c976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CommSec",
+    "nature": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "4d976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Australian Retirement Trust)"
+   },
+   "holder": "unspecified",
+   "source_id": "35be703a-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Bitcoin"
+   },
+   "holder": "unspecified",
+   "source_id": "42976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "27be703a-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Beyond Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "2cbe703a-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (TAS)"
+   },
+   "holder": "unspecified",
+   "source_id": "33be703a-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Australian Workers Union TAS (Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "44976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "BUPA - Health Insurance Policy"
+   },
+   "holder": "unspecified",
+   "source_id": "45976b40-f577-f011-b4cb-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Tasmania Devils Football Club (Member)"
+   },
+   "holder": "unspecified",
+   "source_id": "46976b40-f577-f011-b4cb-6045bdc29378"
+  }
+ ],
+ "last_updated": "2026-07-14",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/55842.json",
+  "sha256": "3c036f425dd9a4ea9f3fcbd263094fad4ad972d76adea76b7ec1eae5a27ebfad",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=55842"
+ },
+ "state": "Tasmania"
+}

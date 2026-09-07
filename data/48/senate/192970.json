@@ -1,0 +1,149 @@
+{
+ "alterations": [
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2025-08-13",
+   "details": "Australian Greens\nQueensland Greens\nGlobal Greens",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "32b26a75-a678-f011-b4cb-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-08-25",
+   "details": "Complimentary ticket to Garma Festival 2025 by organisers Yothu Yindi Foundation",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "ffffe1ea-968f-f011-b4cb-6045bde4956c"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2025-09-10",
+   "details": "Donation to Yothu Yindi Foundation for Garma festival",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "e5a0e0ee-968f-f011-b4cc-6045bde49b50"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2025-12-01",
+   "details": "Donation to Queensland Azerbaijani Culture House",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "b18ae8c7-41cf-f011-8544-6045bde5f32c"
+  },
+  {
+   "category": "other-assets",
+   "date_processed": null,
+   "date_submitted": "2026-01-19",
+   "details": "Motor Vehicle (1)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "31543316-87f5-f011-8406-6045bdc25de2"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-06-19",
+   "details": "Donation to Brisbane Pride's Queen Ball",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "efb3ad40-8b6b-f111-a826-6045bdc3f4ad"
+  }
+ ],
+ "aph_id": "192970",
+ "chamber": "senate",
+ "date_lodged": "2025-08-11",
+ "display_name": "Waters, Larissa",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Waters",
+ "given_names": "Larissa",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Pullenvale, Queensland",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "92cee261-f577-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Family Member",
+    "nature": "Personal loan"
+   },
+   "holder": "unspecified",
+   "source_id": "8ecee261-f577-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank Australia",
+    "nature": "Savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "94cee261-f577-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank Australia",
+    "nature": "Daughter's savings account"
+   },
+   "holder": "unspecified",
+   "source_id": "95cee261-f577-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Ethical Super"
+   },
+   "holder": "unspecified",
+   "source_id": "90cee261-f577-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complementary membership of Qantas and Virgin clubs"
+   },
+   "holder": "unspecified",
+   "source_id": "96cee261-f577-f011-b4cb-000d3ad253b4"
+  }
+ ],
+ "last_updated": "2026-06-19",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/192970.json",
+  "sha256": "76174a837f3d2962f749a35014ddd4c10819174bc615f8e93f7fa8a5f5cc17e1",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=192970"
+ },
+ "state": "Queensland"
+}

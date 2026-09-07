@@ -1,0 +1,156 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-09-11",
+   "details": "Legal fund - refer to notes at the top of this page",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "4dae15c0-978f-f011-b4cc-6045bde49b50"
+  }
+ ],
+ "aph_id": "263528",
+ "chamber": "senate",
+ "date_lodged": "2025-08-13",
+ "display_name": "Nampijinpa Price, Jacinta",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Nampijinpa Price",
+ "given_names": "Jacinta",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "A traditional owner within the Janganpa Land Trust in accordance with the NT Land Rights Act 1976"
+   },
+   "holder": "unspecified",
+   "source_id": "07c14632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "38499f79-cd7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Senator Nampijinpa Price and her broader family (while the Senator is a named beneficiary, the purpose of the trust is primarily for the distribution of benefits to other family members.",
+    "name": "Kuja-Purda Jukurra Pty Ltd",
+    "nature": "Discretionary Trust established to hold royalties money received from the sale of book, Matters of the Heart; trust does not hold investments or real estate property.",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "d70d7c5a-cd7b-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee company that does not trade in its own right and exists only for the purposes of the associated trust.",
+    "company": "Director of Kuja-Purda Jukurra Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "f7c04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "dfc04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Personal Loan"
+   },
+   "holder": "unspecified",
+   "source_id": "e1c04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Pepper Money",
+    "nature": "Car Loan"
+   },
+   "holder": "unspecified",
+   "source_id": "e3c04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "00c14632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Australian Super"
+   },
+   "holder": "unspecified",
+   "source_id": "e5c04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Australasian Performing Right Association - Writer and Performance Royalties"
+   },
+   "holder": "unspecified",
+   "source_id": "edc04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "d6c04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia Beyond Lounge Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "dac04632-cd7b-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription for electorate office"
+   },
+   "holder": "unspecified",
+   "source_id": "ddc04632-cd7b-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2025-09-11",
+ "notes": [
+  "Under item 11, gifts, refer to the linked document for details of contributions to legal fund, declared on 11 September 2025 (The document was updated on 16 September 2025 to correct a typographical error in a single row in the originally loaded document)."
+ ],
+ "parliament": 48,
+ "party": "Country Liberal Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/263528.json",
+  "sha256": "232592161d0ca8477b9f9b89a87a7f96ec454753b3191fb790a3948cd9f80229",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=263528"
+ },
+ "state": "Northern Territory"
+}

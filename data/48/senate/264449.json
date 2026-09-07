@@ -1,0 +1,305 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-30",
+   "details": "1x ticket to the Press Gallery Midwinter Ball, provided by NewsCorp",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "9dbc6c7e-4f9e-f011-bbd3-6045bde49b50"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-02-18",
+   "details": "Cremorne Bowls Club (sponsor and member)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "68f31c04-800c-f111-8407-6045bdc3f4ad"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Residential property in Seven Mile Beach",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "6ced6e81-c89a-f111-b8db-6045bdc2f293"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Mortgage on residential property, Commonwealth Bank of Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "71ed6e81-c89a-f111-b8db-6045bdc2f293"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "2x tickets to the Press Gallery Midwinter Ball, provided by Macquarie Bank",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "8a1a5c7b-c89a-f111-b8db-6045bdc2f293"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Dunalley Golf Club (sponsor)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "67ed6e81-c89a-f111-b8db-6045bdc2f293"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Tasmanian Youth Parliament (sponsor)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "77ed6e81-c89a-f111-b8db-6045bdc2f293"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "City of Hobart Eisteddfod (sponsor)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "7ced6e81-c89a-f111-b8db-6045bdc2f293"
+  }
+ ],
+ "aph_id": "264449",
+ "chamber": "senate",
+ "date_lodged": "2025-07-10",
+ "display_name": "Chandler, Claire",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Chandler",
+ "given_names": "Claire",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "National Australia Bank"
+   },
+   "holder": "unspecified",
+   "source_id": "485381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra Corporation"
+   },
+   "holder": "unspecified",
+   "source_id": "4a5381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BHP"
+   },
+   "holder": "unspecified",
+   "source_id": "4c5381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "South32"
+   },
+   "holder": "unspecified",
+   "source_id": "4e5381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Woodside"
+   },
+   "holder": "unspecified",
+   "source_id": "505381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Qantas Airways"
+   },
+   "holder": "unspecified",
+   "source_id": "525381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Savings accounts x2"
+   },
+   "holder": "unspecified",
+   "source_id": "465381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings accounts x2"
+   },
+   "holder": "unspecified",
+   "source_id": "475381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Vanguard Investment Account"
+   },
+   "holder": "unspecified",
+   "source_id": "3a5381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation maintained with AustralianSuper"
+   },
+   "holder": "unspecified",
+   "source_id": "3d5381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life and TPD insurance maintained with AustralianSuper"
+   },
+   "holder": "unspecified",
+   "source_id": "3f5381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairmans Lounge membership from Qantas"
+   },
+   "holder": "unspecified",
+   "source_id": "04c481b7-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Beyond Lounge membership from Virgin Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "06c481b7-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription for electorate office"
+   },
+   "holder": "unspecified",
+   "source_id": "09c481b7-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia Tasmanian Division (donation)"
+   },
+   "holder": "unspecified",
+   "source_id": "0dc481b7-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "CanTeen Australia (donation)"
+   },
+   "holder": "unspecified",
+   "source_id": "345381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Female Football Initiative (donation)"
+   },
+   "holder": "unspecified",
+   "source_id": "365381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "McGrath Foundation (donation)"
+   },
+   "holder": "unspecified",
+   "source_id": "385381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Royal Automobile Club of Tasmania"
+   },
+   "holder": "unspecified",
+   "source_id": "415381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Tasmania Devils Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "425381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Institute of Public Affairs"
+   },
+   "holder": "unspecified",
+   "source_id": "435381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Samuel Griffith Society"
+   },
+   "holder": "unspecified",
+   "source_id": "445381bd-275d-f011-bec1-002248929e07"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Australian Monarchists League"
+   },
+   "holder": "unspecified",
+   "source_id": "455381bd-275d-f011-bec1-002248929e07"
+  }
+ ],
+ "last_updated": "2026-08-18",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/264449.json",
+  "sha256": "36a616b4c97d87cd64ddb9587c4c90887f74fda3f56b17cbc100d5d747d69a73",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=264449"
+ },
+ "state": "Tasmania"
+}

@@ -1,0 +1,383 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-19",
+   "details": "Hotel Upgrade in Jakarta (1 Night, 18/08/2025) - Ministry of Foreign Affairs of the Republic of Indonesia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "51c1239f-6c97-f011-b41c-000d3ad253b4"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-02-26",
+   "details": "4 x Tickets to WOMADelaide 2026 - gift from the WOMAD Foundation 19/02/2026 ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "33355d87-b612-f111-8406-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-30",
+   "details": "Accommodation provided by the Government of Indonesia, 18 August 2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "8e7cd1a0-e72c-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-30",
+   "details": "Ground transport provided by the Government of Malaysia, 9-11 July 2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "a3d2cea6-e72c-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-30",
+   "details": "Ground transport provided by the Government of the Republic of Korea, 29-30 October 2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "a8d2cea6-e72c-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-07-01",
+   "details": "CFMEU (Manufacturing Division) - Member [now the Timber, Furnishing and Textiles Union]",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "85264d9e-fb74-f111-ab0f-6045bdc3f566"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-07-01",
+   "details": "CFMEU (Manufacturing Division) - Member",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "8e264d9e-fb74-f111-ab0f-6045bdc3f566"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Accommodation and Ground Transport provided by the Government of The Republic of the Philippines, 21-23 July 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "03fd7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Accommodation and Ground Transport provided by the Government of The People's Republic of China, 28-30 April 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "5ab9f04a-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Accommodation and Ground Transport provided by the Government of Germany, 7-9 June 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "fefc7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-08-18",
+   "details": "Timber, Furnishing and Textiles Union - Member",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "08fd7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-08-19",
+   "details": "Asbestos Victims Association (South Australia) - Member",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "0dfd7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-08-19",
+   "details": "South Australian May Day Collective - Member",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "12fd7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-08-19",
+   "details": "South Australian Cricket Association - Member",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "17fd7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-08-19",
+   "details": "World Vision - Member",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "1cfd7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-08-19",
+   "details": "CFMEU (Manufacturing Division) - Member [now the Timber, Furnishing and Textiles Union]",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": "21fd7551-a69b-f111-b8db-7ced8da2d8e0"
+  }
+ ],
+ "aph_id": "00AOU",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "Wong, Penny",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Wong",
+ "given_names": "Penny",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unley LGA, SA",
+    "purpose": "Residence - joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "e5eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra, ACT",
+    "purpose": "Residence - joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "e9eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unley LGA, SA",
+    "purpose": "Future residence - joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "eceb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage, Unley LGA residence"
+   },
+   "holder": "unspecified",
+   "source_id": "c9eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage, Unley LGA future residence"
+   },
+   "holder": "unspecified",
+   "source_id": "cbeb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Cheque"
+   },
+   "holder": "unspecified",
+   "source_id": "eeeb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings - joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "efeb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Mortgage Offset - joint with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "f1eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Private superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "d4eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (SA Branch) - True Believers Fund"
+   },
+   "holder": "unspecified",
+   "source_id": "cdeb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "EMILY's List"
+   },
+   "holder": "unspecified",
+   "source_id": "d0eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Adelaide Festival Centre Foundation"
+   },
+   "holder": "unspecified",
+   "source_id": "d2eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Australian Labor Party (SA Branch) - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "d6eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Australian Services Union - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "d7eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "CFMEU (Manufacturing Division) - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "d8eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Progressive Left Unions and Sub-branches - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "dceb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "UN Women - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "ddeb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "EMILY's List - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "deeb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Don Dunstan Foundation - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "e0eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Qantas Chairman's Lounge - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "e1eb57cc-947d-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Virgin The Club - Member"
+   },
+   "holder": "unspecified",
+   "source_id": "e3eb57cc-947d-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2026-08-19",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/00AOU.json",
+  "sha256": "aa403f411f75fe120967095e304be42f6c3b5327731a238ce98fed6ca6f34065",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=00AOU"
+ },
+ "state": "South Australia"
+}

@@ -1,0 +1,229 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-04",
+   "details": "2x Tickets to the Ashes West Test Day 2 - Cricket Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "b047db79-b7d3-f011-8544-6045bdc49d4e"
+  },
+  {
+   "category": "other-assets",
+   "date_processed": null,
+   "date_submitted": "2026-03-24",
+   "details": "Australian Super",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "db4b5d66-4627-f111-8341-00224810b694"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-03-24",
+   "details": "Perth Airport parking card ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "6e396062-4627-f111-8342-6045bdc3f4ad"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-03-24",
+   "details": "Phoenix Support & Advocacy Service Inc. - Donation \nTogether for Treaty - Donation \nCollective Shout - Donation ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "77396062-4627-f111-8342-6045bdc3f4ad"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-07-28",
+   "details": "Landsdale - Residential",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "21bf98d5-368a-f111-ab0f-6045bdc2f293"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-07-28",
+   "details": "Nollamara - Residential",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": "29bf98d5-368a-f111-ab0f-6045bdc2f293"
+  }
+ ],
+ "aph_id": "300707",
+ "chamber": "senate",
+ "date_lodged": "2025-08-17",
+ "display_name": "Payman, Fatima",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Payman",
+ "given_names": "Fatima",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nollamara, WA",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "7cb74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Gungahlin, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "84b74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on 2 Residential Properties"
+   },
+   "holder": "unspecified",
+   "source_id": "4cb74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "87b74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairmans Lounge Membership - provider Qantas"
+   },
+   "holder": "unspecified",
+   "source_id": "88b74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Club Membership - provider Virgin"
+   },
+   "holder": "unspecified",
+   "source_id": "8cb74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Triple J One Night Stand concert Busselton and backstage tour - provider Triple J radio station"
+   },
+   "holder": "unspecified",
+   "source_id": "8eb74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2 tickets to Opening Night of Never Have I Ever - provider Black Swan State Theatre Company"
+   },
+   "holder": "unspecified",
+   "source_id": "91b74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Bravehearts Foundation Ltd - Donation"
+   },
+   "holder": "unspecified",
+   "source_id": "4eb74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Punters Politics - Donation"
+   },
+   "holder": "unspecified",
+   "source_id": "58b74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union - Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "5db74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australia's Voice - Membership"
+   },
+   "holder": "unspecified",
+   "source_id": "65b74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Muslims Women Support Centre - Donation"
+   },
+   "holder": "unspecified",
+   "source_id": "69b74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "OnePath Network - Donation"
+   },
+   "holder": "unspecified",
+   "source_id": "6bb74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Safe Steps Family Violence Response Centre - Donation"
+   },
+   "holder": "unspecified",
+   "source_id": "6db74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "MUA Youth Charity Event for APHEDA - Donation"
+   },
+   "holder": "unspecified",
+   "source_id": "6fb74bb8-bd7c-f011-b4cb-000d3ad253b4"
+  }
+ ],
+ "last_updated": "2026-07-28",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australia's Voice",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/300707.json",
+  "sha256": "9293b3304ec019a542effedf99cf4998040c75836baf72e4cb828ba985021371",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300707"
+ },
+ "state": "Western Australia"
+}

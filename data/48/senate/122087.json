@@ -1,0 +1,214 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-04",
+   "details": "4 x tickets to the Country to Couture show on 2/8/2026 guest of Darwin Aboriginal Art Fair ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "428319b0-6caa-f111-aaac-000d3a6a8f58"
+  }
+ ],
+ "aph_id": "122087",
+ "chamber": "senate",
+ "date_lodged": "2025-08-18",
+ "display_name": "McCarthy, Malarndirri",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McCarthy",
+ "given_names": "Malarndirri",
+ "honorific": "Senator the Hon.",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nightcliff, NT (Co-owned with spouse)",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "e19287a2-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Larrakeyah, NT (Co-owned with spouse)",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "e39287a2-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Claimant for land claims in progress under the Aboriginal Land Rights (Northern Territory) Act 1976. Claims relate to all or part of the claim areas in the following reports by the Aboriginal Land Commissioner: McArthur River Region Land Claim (No. 184) and part of Manangoora Region Land Claim (No. 185); and Lorella Region Land Claim (No. 199) and part of Maria Island Region Land Claim (No. 198). In these reports, the Commissioner made recommendations to the Minister to grant the land claimed.",
+    "purpose": "Traditional Owner"
+   },
+   "holder": "unspecified",
+   "source_id": "674e95a3-957d-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Traditional Aboriginal Owner (as defined in the ALRA) for Vanderlin Island (Wurralibi Aboriginal Land Trust), as recorded by the Northern Land Council, NT.",
+    "purpose": "Traditional Owner"
+   },
+   "holder": "unspecified",
+   "source_id": "1101ebc6-957d-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Holder of beneficial interest in the Narwinbi Aboriginal Land Trust (‘Borroloola Commons’), as recorded by the Northern Land Council, NT.",
+    "purpose": "Traditional Owner"
+   },
+   "holder": "unspecified",
+   "source_id": "d8b5d4ec-957d-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Second Generation Jungkayi (‘custodian’ for mother’s country), for Wuyaliya Country, Southwest Island, NT (Wurrabili Aboriginal Land Trust)",
+    "purpose": "Traditional Owner"
+   },
+   "holder": "unspecified",
+   "source_id": "16b133f3-957d-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Jungkayi (‘custodian’) for the Emu Dreaming and country called Ngalamja. This country is on 7 Emu Station, NT.",
+    "purpose": "Traditional Owner"
+   },
+   "holder": "unspecified",
+   "source_id": "fd4148ff-957d-f011-b4cc-7c1e522adcf3"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on investment property - Larrakeyah, NT (Co-owned with spouse)"
+   },
+   "holder": "unspecified",
+   "source_id": "4464919c-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on residence - Nightcliff, NT (Co-owned with spouse)"
+   },
+   "holder": "unspecified",
+   "source_id": "4664919c-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Personal loan"
+   },
+   "holder": "unspecified",
+   "source_id": "4864919c-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings account - Declared on original statement lodged by Senator McCarthy on 19 August 2025. This was not published due to technical issues in the APH Register system."
+   },
+   "holder": "unspecified",
+   "source_id": "3b8e6d0b-1e87-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account (3) - Declared on original statement lodged by Senator McCarthy on 19 August 2025. This was not published due to technical issues in the APH Register system."
+   },
+   "holder": "unspecified",
+   "source_id": "94d6162d-1e87-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Club Wyndham South Pacific - vacation credits"
+   },
+   "holder": "unspecified",
+   "source_id": "db9287a2-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Public Sector Superannuation Accumulation Plan"
+   },
+   "holder": "unspecified",
+   "source_id": "dd9287a2-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent from investment property (Larrakeyah, NT)"
+   },
+   "holder": "unspecified",
+   "source_id": "df9287a2-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "McKinnon Institute Leadership course at Adelaide Hills (previously declared)"
+   },
+   "holder": "unspecified",
+   "source_id": "4264919c-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge membership - Declared on original statement lodged by Senator McCarthy on 19 August 2025. This was not published due to technical issues in the APH Register system."
+   },
+   "holder": "unspecified",
+   "source_id": "746334fa-0687-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia's The Club membership - Declared on original statement lodged by Senator McCarthy on 19 August 2025. This was not published due to technical issues in the APH Register system."
+   },
+   "holder": "unspecified",
+   "source_id": "3711cc4c-0787-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party NT Branch"
+   },
+   "holder": "unspecified",
+   "source_id": "4a64919c-947d-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Emily's List Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "4c64919c-947d-f011-b4cc-6045bdc2966c"
+  }
+ ],
+ "last_updated": "2026-09-07",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/122087.json",
+  "sha256": "1a2a9b1b05b84e9e9eae42dca90a9b4641aebb96950849326faaca81bdf024fe",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=122087"
+ },
+ "state": "Northern Territory"
+}

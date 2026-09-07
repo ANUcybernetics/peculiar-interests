@@ -1,0 +1,129 @@
+{
+ "alterations": [],
+ "aph_id": "I0U",
+ "chamber": "senate",
+ "date_lodged": "2025-08-22",
+ "display_name": "Hanson-Young, Sarah",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Hanson-Young",
+ "given_names": "Sarah",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Belair, South Australia",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "9c0ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "People’s choice credit union",
+    "nature": "Mortgage on residential home"
+   },
+   "holder": "unspecified",
+   "source_id": "940ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "People’s Choice Credit Union",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "9e0ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation, Ethical Super"
+   },
+   "holder": "unspecified",
+   "source_id": "9a0ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Annual festival tickets, from Womadelaide & SA Tourism Commission"
+   },
+   "holder": "unspecified",
+   "source_id": "880ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Festival Tickets, from BluesFest, NSW"
+   },
+   "holder": "unspecified",
+   "source_id": "8a0ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairman’s lounge membership, from Qantas"
+   },
+   "holder": "unspecified",
+   "source_id": "8c0ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Beyond membership, from Virgin Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "8e0ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Subscription in Electorate Office, Foxtel"
+   },
+   "holder": "unspecified",
+   "source_id": "900ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Tickets, Cricket Australia"
+   },
+   "holder": "unspecified",
+   "source_id": "920ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Annual tithing to and membership of the South Australian Greens, registered political party"
+   },
+   "holder": "unspecified",
+   "source_id": "960ea271-257f-f011-b4cc-6045bdc29378"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Annual tithing to the Australian Greens, registered political party"
+   },
+   "holder": "unspecified",
+   "source_id": "980ea271-257f-f011-b4cc-6045bdc29378"
+  }
+ ],
+ "last_updated": "2025-08-22",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/I0U.json",
+  "sha256": "c2e78cd8bf5509dd31034abde1b191d1089b22c1ae960a969e9c40052f99217f",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=I0U"
+ },
+ "state": "South Australia"
+}

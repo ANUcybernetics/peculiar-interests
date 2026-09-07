@@ -1,0 +1,190 @@
+{
+ "alterations": [],
+ "aph_id": "290544",
+ "chamber": "senate",
+ "date_lodged": "2025-08-13",
+ "display_name": "Ananda-Rajah, Michelle",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Ananda-Rajah",
+ "given_names": "Michelle",
+ "honorific": null,
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ANZ, Arena REIT, Beta shares Asia ETF, BHP. CBA, Cochlear, CSL. Vaneck Vectors MSCI Multi emerging markets, Vaneck Vectors Inter sustainable, Beta shares Glb Sustainability Ldrs ETF, Beta shares Aus Pot Diversifier ETF, Fidelity Global Emerging Markets Fund, GWA Group Ltd, Betashares Japan ETF/ Global Qlty Leaders ETF, Magellan Infra Fund ETF, NAB, Vaneck Vectors MSCI World Ex Aus ETF/ Int Small Comp Qty ETF,"
+   },
+   "holder": "unspecified",
+   "source_id": "d4711c96-a278-f011-b4cb-6045bdc323b4"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares S7P 500 Equal Weight ETF, ramsay Healthcare Ltd, Resmed Inc, VanEck Vectors Aus Subordinated Debt ETF, Gloabl X Morningstar Global Tech ETF, Vanguard Eth Consc Int Shares Index ET, Vanguard Eth Consc Int Shares Index ETF/ All world Ex-US Shares Index ETF, VanEck Vecotrs MSCI Int Value ETF, Westpac, Wesfarmers Ltd, Woolworths, Broadcom"
+   },
+   "holder": "unspecified",
+   "source_id": "d5d8149c-a278-f011-b4cb-6045bdc323b4"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "role": "trustee"
+   },
+   "holder": "unspecified",
+   "source_id": "9016156b-a278-f011-b4cb-6045bdc323b4"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Justice Family Trust",
+    "nature": "Discretionary trust associated with spouse's work",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "cecbeb58-a278-f011-b4cb-6045bdc323b4"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Hugo Ash Pty Ltd",
+    "nature": "Corporate trustee for Justice Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "5d86245f-a278-f011-b4cb-6045bdc323b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Porepunkah, Vic",
+    "purpose": "Residential/investment"
+   },
+   "holder": "unspecified",
+   "source_id": "6a30ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Beaumaris, Tas",
+    "purpose": "Residential/investment"
+   },
+   "holder": "unspecified",
+   "source_id": "6c30ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "North Melbourne, Vic",
+    "purpose": "Residential/investment"
+   },
+   "holder": "unspecified",
+   "source_id": "6e30ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canterbury, VIC",
+    "purpose": "Residential/investment"
+   },
+   "holder": "unspecified",
+   "source_id": "7030ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Carlton, VIC",
+    "purpose": "Residential/investment"
+   },
+   "holder": "unspecified",
+   "source_id": "7230ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Brisbane, QLD",
+    "purpose": "Residential/investment"
+   },
+   "holder": "unspecified",
+   "source_id": "7430ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac, NAB",
+    "nature": "Mortgage"
+   },
+   "holder": "unspecified",
+   "source_id": "6430ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Managed Investments in SMSF: Dimensional global bond trust, Dimensional Glb  Sustainability Hedge/ Global Small Company Trust/Aust Sustainability Trust; Neuberger Berman Global High Yield Fund, Vanguard Australian Share Index Fund, Vanguard Emerg Market Shares Index Fund",
+    "type": "Managed Investments"
+   },
+   "holder": "unspecified",
+   "source_id": "6230ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "7630ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie CMA",
+    "nature": "Superannuation (SMSF)"
+   },
+   "holder": "unspecified",
+   "source_id": "7730ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "rental income"
+   },
+   "holder": "unspecified",
+   "source_id": "6630ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member Chairman's Lounge Qantas"
+   },
+   "holder": "unspecified",
+   "source_id": "6830ad8f-a078-f011-b4cb-000d3ad253b4"
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "APHRA paying member"
+   },
+   "holder": "unspecified",
+   "source_id": "6930ad8f-a078-f011-b4cb-000d3ad253b4"
+  }
+ ],
+ "last_updated": "2025-08-13",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/290544.json",
+  "sha256": "a0dc24951ef910e2d2d4e0013a788a4fc06ce321d7241cd6ee0757f0cc37bcc2",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=290544"
+ },
+ "state": "Victoria"
+}

@@ -1,0 +1,416 @@
+{
+ "alterations": [
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-09-18",
+   "details": "Mortgage on investment properties (3) - Bankwest",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "516c6b21-6e97-f011-b41c-6045bde63b9a"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-09-18",
+   "details": "Mortgage on investment property - NAB",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "d709940e-6e97-f011-b41c-6045bde63b9a"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-09-18",
+   "details": "Mortgage on residential property - Bankwest",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "ef25f2ea-6d97-f011-b41c-000d3ad25fe1"
+  },
+  {
+   "category": "other-assets",
+   "date_processed": null,
+   "date_submitted": "2025-09-18",
+   "details": "Motor vehicles (3)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "f425f2ea-6d97-f011-b41c-000d3ad25fe1"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-09-18",
+   "details": "2025 Press Gallery Midwinter Ball - ticket as guest of Westpac",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "d825f2ea-6d97-f011-b41c-000d3ad25fe1"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-12-03",
+   "details": "Mortgage on residential property NAB\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": "45bd6d3e-98d0-f011-8544-00224898b4a7"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-12-03",
+   "details": "Mortgages on investment properties x2 NAB",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "4ebd6d3e-98d0-f011-8544-00224898b4a7"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2025-12-03",
+   "details": "Mortgage on investment property CBA",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": "53bd6d3e-98d0-f011-8544-00224898b4a7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-12-03",
+   "details": "Sponsored Economy flight and accommodation sponsored by Inter-Parliamentary Alliance on China - Brussels summit 2025",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "e5dbf5e6-ecd6-f011-8544-6045bdc49d4e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-12",
+   "details": "Ticket - National Press Club - Treasurer's Post-Budget Address - sponsored by Westpac",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "435219b2-5e4e-f111-bec6-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-13",
+   "details": "John Curtin Research Centre dinner ticket - Australian Automotive Dealers Association",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "0c7347ac-5e4e-f111-bec6-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-05-13",
+   "details": "Travel (economy airfare) and accomodation to participate in conference in United States April 2026 - Pyne and Partners",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "fd7247ac-5e4e-f111-bec6-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-07-13",
+   "details": "2026 Press Gallery Midwinter Ball ticket - sponsored by Westpac",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "9f44e364-e27f-f111-ab0f-7ced8da1c86f"
+  }
+ ],
+ "aph_id": "140651",
+ "chamber": "senate",
+ "date_lodged": "2025-08-19",
+ "display_name": "O'Neill, Deborah",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "O'Neill",
+ "given_names": "Deborah",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra"
+   },
+   "holder": "unspecified",
+   "source_id": "c78f977c-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AIG"
+   },
+   "holder": "unspecified",
+   "source_id": "4e26c4a6-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Partnership with spouse",
+    "nature": "Property investment",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "e21f1abf-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Copacabana, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "47fc4cd1-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Alcomie, TAS",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "7edd47d7-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Stanley, TAS",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "7f5e53dd-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Yorkeys Knob, QLD",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "46b64be3-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston, ACT",
+    "purpose": "Investment"
+   },
+   "holder": "unspecified",
+   "source_id": "f0b64be3-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "SMSF vehicle – not yet active",
+    "company": "CBN Developments"
+   },
+   "holder": "unspecified",
+   "source_id": "518a48ef-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property investment",
+    "name": "Partnership in our names",
+    "nature": "Financial partners"
+   },
+   "holder": "unspecified",
+   "source_id": "340b5dfb-6d7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "unspecified",
+   "source_id": "a0b55701-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgages on investment properties x3"
+   },
+   "holder": "unspecified",
+   "source_id": "7934460d-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Mortgage on investment property"
+   },
+   "holder": "unspecified",
+   "source_id": "6aa63e13-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Personal loan"
+   },
+   "holder": "unspecified",
+   "source_id": "dfa63e13-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Personal loan"
+   },
+   "holder": "unspecified",
+   "source_id": "8e004a19-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Uni Super",
+    "type": "Superannuation in managed fund"
+   },
+   "holder": "unspecified",
+   "source_id": "0a495725-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac, NAB, ANZ, CBA",
+    "nature": "Savings and investment accounts"
+   },
+   "holder": "unspecified",
+   "source_id": "c31c5b31-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance"
+   },
+   "holder": "unspecified",
+   "source_id": "3c048549-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Cars x2"
+   },
+   "holder": "unspecified",
+   "source_id": "da5d904f-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investment properties listed above"
+   },
+   "holder": "unspecified",
+   "source_id": "08fd8855-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel in electorate office"
+   },
+   "holder": "unspecified",
+   "source_id": "cd57885b-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairman’s Lounge, Virgin Beyond Lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "56ce9361-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "unspecified",
+   "source_id": "1923cd9d-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Shop, Distributive and Allied Employees Association"
+   },
+   "holder": "unspecified",
+   "source_id": "e27fc5a3-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Lansdowne Club"
+   },
+   "holder": "unspecified",
+   "source_id": "6280c5a3-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "St Patrick’s Day Organising (Sydney)"
+   },
+   "holder": "unspecified",
+   "source_id": "ffb5c9a9-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Lipstick Lunch, Campbelltown"
+   },
+   "holder": "unspecified",
+   "source_id": "95b6c9a9-6e7d-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Moree Miyay Birray Youth Service"
+   },
+   "holder": "unspecified",
+   "source_id": "b90e24b0-6e7d-f011-b4cc-7c1e5262c1f2"
+  }
+ ],
+ "last_updated": "2026-07-16",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Labor Party",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/140651.json",
+  "sha256": "4c3cc3d5ff837b4d596b19e5feb9795ba22cd07434b8e20d1fca36bb09620ae3",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=140651"
+ },
+ "state": "New South Wales"
+}

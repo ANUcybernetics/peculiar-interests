@@ -1,0 +1,143 @@
+{
+ "alterations": [
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2025-09-01",
+   "details": "Chairman's Lounge Membership with Qantas",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "1c751d3f-b587-f011-b4cc-7c1e5262c1f2"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2025-09-01",
+   "details": "Virgin Australia Beyond Lounge Membership",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "8001c297-b587-f011-b4cc-6045bdc2966c"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2025-09-18",
+   "details": "Chess board given by the Australian Syrian Business Network",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "cdcfa36d-3c97-f011-b41c-000d3ad253b4"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-21",
+   "details": "Accommodation, food and transport for me and one staff member for three nights provided by the Democratic Autonomous Administration of North East Syria ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "ae210b82-8db0-f011-bbd2-002248990cce"
+  }
+ ],
+ "aph_id": "169119",
+ "chamber": "senate",
+ "date_lodged": "2025-08-22",
+ "display_name": "Shoebridge, David",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Shoebridge",
+ "given_names": "David",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth bank",
+    "nature": "Credit Card"
+   },
+   "holder": "unspecified",
+   "source_id": "3af3c81b-077f-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie bank",
+    "nature": "Car loan"
+   },
+   "holder": "unspecified",
+   "source_id": "e66ba328-077f-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings accounts personal"
+   },
+   "holder": "unspecified",
+   "source_id": "11d3573b-077f-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings accounts with spouse"
+   },
+   "holder": "unspecified",
+   "source_id": "f284f043-077f-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "BT Panorama Investment Account"
+   },
+   "holder": "unspecified",
+   "source_id": "6af46b4a-077f-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Ethical Managed Funds"
+   },
+   "holder": "unspecified",
+   "source_id": "1d31ec50-077f-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Two tickets to the Oz Arab Gala dinner 23 May 2025 total value$550 inc GST, gifted by Oz Arab Media"
+   },
+   "holder": "unspecified",
+   "source_id": "a7efb872-077f-f011-b4cc-6045bdc323b4"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Australian Greens - Tithe of 15% of gross income"
+   },
+   "holder": "unspecified",
+   "source_id": "0e964785-077f-f011-b4cc-6045bdc323b4"
+  }
+ ],
+ "last_updated": "2025-10-22",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/169119.json",
+  "sha256": "906c608268484204c818e1509a050a96532ab553b9f272dea775b1bdec6a1fbf",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=169119"
+ },
+ "state": "New South Wales"
+}

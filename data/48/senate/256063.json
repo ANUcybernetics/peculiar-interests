@@ -1,0 +1,157 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-14",
+   "details": "Tickets to the AFL Preliminary Final - Australian Football League",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "e2383c6b-54a9-f011-bbd3-6045bde49b50"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2025-10-14",
+   "details": "Tickets to the AFL Grand Final - Australian Football League ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "e7383c6b-54a9-f011-bbd3-6045bde49b50"
+  }
+ ],
+ "aph_id": "256063",
+ "chamber": "senate",
+ "date_lodged": "2025-08-04",
+ "display_name": "Bragg, Andrew",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Bragg",
+ "given_names": "Andrew",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Paddington, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "unspecified",
+   "source_id": "30da96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "SMSF",
+    "company": "AB Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "3ada96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Loan on property"
+   },
+   "holder": "unspecified",
+   "source_id": "27da96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Narrogal Nominees",
+    "nature": "Loan on property"
+   },
+   "holder": "unspecified",
+   "source_id": "2dda96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Vanguard",
+    "nature": "Investment account"
+   },
+   "holder": "unspecified",
+   "source_id": "3dda96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Superhero",
+    "nature": "Investment account"
+   },
+   "holder": "unspecified",
+   "source_id": "41da96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "SMSF",
+    "nature": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "43da96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB, ANZ, Westpac",
+    "nature": "Savings accounts"
+   },
+   "holder": "unspecified",
+   "source_id": "45da96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "24da96e9-6272-f011-b4cd-0022489727de"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin lounge"
+   },
+   "holder": "unspecified",
+   "source_id": "c3d96912-c78e-f011-b4cc-6045bde63b9a"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription"
+   },
+   "holder": "unspecified",
+   "source_id": "e1d96912-c78e-f011-b4cc-6045bde63b9a"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Taronga Zoo passes"
+   },
+   "holder": "unspecified",
+   "source_id": "09aa7718-c78e-f011-b4cc-6045bde63b9a"
+  }
+ ],
+ "last_updated": "2025-10-14",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-07T08:12:21Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/256063.json",
+  "sha256": "ffe544aa9753d56087702c6740d38122944c9e56eeaacbe947750f7a89db89f2",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=256063"
+ },
+ "state": "New South Wales"
+}
