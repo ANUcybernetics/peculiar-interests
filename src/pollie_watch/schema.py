@@ -63,6 +63,7 @@ class ExtractionMethod(StrEnum):
     PDF_TEXT = "pdf-text"  # text-layer PDF, tables read with pdfplumber
     OCR = "ocr"  # scanned PDF read by a local vision model, unreviewed
     MANUAL = "manual"  # a person confirmed or wrote the override file
+    PENDING = "pending"  # a scan with no override yet: metadata only, no interests
 
 
 # Canonical field names per category. Every `Interest.fields` dict uses only
