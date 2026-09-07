@@ -1,0 +1,91 @@
+[extraction]
+method = "ocr"
+version = 1
+notes = ["chandra-ocr 0.2.0 (datalab-to/chandra-ocr-2, hf backend), drafted 2026-09-07", "table with no recognised item heading: 'Name of company (including holding and subsidiary companies if applicable) Self Not Applicable Spouse/ partner Not Applicable Dependent children Not Applicable'", "table with no recognised item heading: 'Name of trust/nominee company Nature of its operation Beneficial interest Self Not Applicable Spouse/ partner Not Applicable Dependent children Not Applicable'", "table with no recognised item heading: 'Name of trust/nominee company Nature of its operation Beneficial interest Self Not Applicable Spouse/ partner Not Applicable Dependent children Not Applicable'", "unrecognised alteration item 'Item' (details: 'Details')", "unrecognised alteration item 'Item' (details: 'Details')", "unrecognised alteration item 'Item' (details: 'Details')"]
+
+date_lodged = 2022-05-21
+
+[[interests]]
+category = "real-estate"
+holder = "self"
+fields = { location = "Ludmilla, NT", purpose = "Family Home" }
+
+[[interests]]
+category = "real-estate"
+holder = "spouse"
+fields = { location = "Same as above", purpose = "Jointly own the family home above" }
+
+[[interests]]
+category = "liabilities"
+holder = "self"
+fields = { nature = "Home loan mortgage", creditor = "AFG Homeloans" }
+
+[[interests]]
+category = "liabilities"
+holder = "spouse"
+fields = { nature = "As above", creditor = "Mortgage is in joint account" }
+
+[[interests]]
+category = "accounts"
+holder = "self"
+fields = { nature = "Savings", institution = "NAB" }
+
+[[interests]]
+category = "accounts"
+holder = "spouse"
+fields = { nature = "Savings", institution = "ING" }
+
+[[interests]]
+category = "other-assets"
+holder = "spouse"
+fields = { nature = "Car" }
+
+[[interests]]
+category = "other-income"
+holder = "self"
+fields = { nature = "MP Salary" }
+
+[[interests]]
+category = "other-income"
+holder = "spouse"
+fields = { nature = "Sole Trader Income" }
+
+[[interests]]
+category = "gifts"
+holder = "self"
+fields = { details = "QANTAS Chairmans Lounge Virgin Lounge Supercars VIP Tix" }
+
+[[interests]]
+category = "gifts"
+holder = "spouse"
+fields = { details = "QANTAS Chairmans Lounge Virgin Lounge" }
+
+[[interests]]
+category = "travel-hospitality"
+holder = "self"
+fields = { details = "Supercars VIP Brewers Association Lunch Excellence in Building and Construction Awards Flights return to North Kimberley airport for work." }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Territory Labor SDA Emily's List Australian Republican Movement AFANT AIBC NT AIIA NT Order of Australia Association NT Veterans Australia NT RSL SA/NT Darwin Ski Club Trailer Boat Club Casuarina Club Railway Club Buffalo Club" }
+
+[[interests]]
+category = "memberships"
+holder = "spouse"
+fields = { organisation = "Territory Labor Darwin Ski Club" }
+
+[[alterations]]
+kind = "addition"
+category = "memberships"
+holder = "self"
+details = "CPSU"
+sequence = 1
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets for Darwin Cup Day 2026 03 August 2026 from Mungalalu North Kimberley Airport"
+date_submitted = 2026-08-06
+sequence = 2

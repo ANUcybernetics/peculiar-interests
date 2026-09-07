@@ -1,0 +1,54 @@
+[extraction]
+method = "ocr"
+version = 1
+notes = ["chandra-ocr 0.2.0 (datalab-to/chandra-ocr-2, hf backend), drafted 2026-09-07", "table with no recognised item heading: 'Name of company (including holding and subsidiary companies if applicable) Self A number of AMP shares Spouse/ partner She does not provide me with this information – regards this as personal business'", "table with no recognised item heading: 'Name of trust/nominee company Nature of its operation Beneficial interest Self I may have some interest in cattle operations in the gulf. Also I have close friends and relatives that will benefit dire'", "table with no recognised item heading: 'Name of trust/nominee company Nature of its operation Beneficial interest Self N/A Spouse/ partner N/A Dependent children N/A'"]
+
+[[interests]]
+category = "liabilities"
+holder = "self"
+fields = { nature = "Loans", creditor = "ANZ, Commonwealth, NAB, Metway and others" }
+
+[[interests]]
+category = "liabilities"
+holder = "spouse"
+fields = { nature = "I assume that my wife has property loans and other loans", creditor = "She does business with the above and other banks from time to time" }
+
+[[interests]]
+category = "accounts"
+holder = "self"
+fields = { nature = "The usual saving and cheque accounts", institution = "ANZ, Commonwealth, Westpac etc." }
+
+[[interests]]
+category = "other-assets"
+holder = "self"
+fields = { nature = "Part ownership of a rental property in Charters Towers" }
+
+[[interests]]
+category = "other-assets"
+holder = "spouse"
+fields = { nature = "None of the present that I can think of" }
+
+[[interests]]
+category = "other-income"
+holder = "self"
+fields = { nature = "Refer to page 2,2 (1) \"Family and business trust and nominee companies\" I may from time to time get royalties from book sales." }
+
+[[interests]]
+category = "other-income"
+holder = "spouse"
+fields = { nature = "Income from investment properties" }
+
+[[interests]]
+category = "travel-hospitality"
+holder = "self"
+fields = { details = "Use of a private aircraft from time to time, sometimes during election campaigns -- probably not happening these days." }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "I have in-laws that have extensive dealings with Government." }
+
+[[interests]]
+category = "other-interests"
+holder = "self"
+fields = { nature = "Some members of my family have interests in cattle" }

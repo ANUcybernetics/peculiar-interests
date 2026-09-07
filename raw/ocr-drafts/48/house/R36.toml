@@ -1,0 +1,239 @@
+[extraction]
+method = "ocr"
+version = 1
+notes = ["chandra-ocr 0.2.0 (datalab-to/chandra-ocr-2, hf backend), drafted 2026-09-07", "table with no recognised item heading: 'Name of company (including holding and subsidiary companies if applicable) Self Not Applicable Spouse/ partner Not Applicable Dependent children Not Applicable'", "table with no recognised item heading: 'Name of trust/nominee company Nature of its operation Beneficial interest Self Not Applicable Spouse/ partner Not Applicable Dependent children Not Applicable'", "table with no recognised item heading: 'Name of trust/nominee company Nature of its operation Beneficial interest Self Not Applicable Spouse/ partner Not Applicable Dependent children Not Applicable'"]
+
+[[interests]]
+category = "real-estate"
+holder = "self"
+fields = { location = "House – Marrickville, NSW", purpose = "Former home / investment" }
+
+[[interests]]
+category = "real-estate"
+holder = "self"
+fields = { location = "House – Central Coast, NSW", purpose = "Investment (joint with spouse)" }
+
+[[interests]]
+category = "real-estate"
+holder = "spouse"
+fields = { location = "House – Central Coast, NSW", purpose = "Investment (joint with spouse – as per above)" }
+
+[[interests]]
+category = "liabilities"
+holder = "self"
+fields = { nature = "Mortgage Central Coast Property (joint with spouse)", creditor = "Commonwealth Bank" }
+
+[[interests]]
+category = "liabilities"
+holder = "spouse"
+fields = { nature = "Mortgage Central Coast Property (joint with spouse)", creditor = "Commonwealth Bank" }
+
+[[interests]]
+category = "accounts"
+holder = "self"
+fields = { nature = "Savings Account", institution = "Commonwealth Bank" }
+
+[[interests]]
+category = "accounts"
+holder = "self"
+fields = { nature = "Savings Account", institution = "UniBank" }
+
+[[interests]]
+category = "accounts"
+holder = "spouse"
+fields = { nature = "Savings Account", institution = "Teachers Mutual Bank" }
+
+[[interests]]
+category = "other-assets"
+holder = "self"
+fields = { nature = "Superannuation (AustralianSuper)" }
+
+[[interests]]
+category = "other-assets"
+holder = "spouse"
+fields = { nature = "Superannuation (AustralianSuper)" }
+
+[[interests]]
+category = "other-income"
+holder = "self"
+fields = { nature = "Rental Income – Marrickville Property Rental Income – Central Coast Investment Property (joint with spouse)" }
+
+[[interests]]
+category = "other-income"
+holder = "spouse"
+fields = { nature = "Employee – Teachers Mutual Bank Rental Income – Central Coast Investment Property (joint with spouse)" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Chair of the Australian Parliament Sports Club National Patron of the Alannah and Madeline Foundation Patron of Commonwealth Games Australia Patron of Advance Global Australians Honorary Co-Chair of the Australian-American Fulbright Commission Patron of the Australian Olympic Committee Patron of Paralympics Australia Life Member – South Sydney RLFC Qantas Chairmans Lounge Virgin Club Lounge Wests Leagues Club Marrickville Lawn Tennis Club Western Suburbs Lawn Tennis Association (Honorary) Canterbury Leagues Club (Honorary Member) Honorary Membership of the Royal Sydney Golf Club" }
+
+[[interests]]
+category = "memberships"
+holder = "spouse"
+fields = { organisation = "Chief Patron of the National Portrait Gallery of Australia Ambassador of Redkite Qantas Chairmans Lounge" }
+
+[[interests]]
+category = "other-interests"
+holder = "self"
+fields = { nature = "Foxtel subscription (Electorate Office)" }
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Wooden Carving of Garuda Statue from His Excellency General (Retd) Prabowo Subianto, President of the Republic of Indonesia – surrendered (donated and displayed in the Australian Embassy in Jakarta)\nCarved Terracotta Plaque from His Holiness Pope Leo XIV, Supreme Pontiff\nWhite Felt Stetson Hat from The Right Honourable Mark Carney, Prime Minister of Canada\nVase and bowl from Sky News / The Australian"
+date_submitted = 2025-08-12
+sequence = 1
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to State of Origin Game 1 – Brisbane 28 May from the NRL\nTickets to State of Origin Game 3 – Sydney 9 July from the NRL"
+date_submitted = 2025-08-12
+sequence = 2
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Hei Tiki Pounamu Pendant from Ngāi Tahu Māori Leadership - surrendered (displayed in Parliamentary Office)\nSpouse - Hei Tiki Pounamu Pendant from Ngāi Tahu Māori Leadership - surrendered (displayed in Parliamentary Office)\nCricket bat signed by Pat Cummins from Cricket for Climate – surrendered (displayed in Parliamentary Office)\nDog scarf from INPEX\nRabbitohs jersey and book from Australasian Union of Jewish Students"
+date_submitted = 2025-09-08
+sequence = 3
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to GWS v Hawthorn Game – Sydney 6 September from the AFL\nTickets to Rabbitohs v Roosters Game – Sydney 5 September from South Sydney Rabbitohs"
+date_submitted = 2025-09-08
+sequence = 4
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Pig's Tusk Bracelet from The Hon Jotham Napat, Prime Minister of Vanuatu - surrendered (displayed in Commonwealth/Parliamentary Office)\nNalnal (wooden object) from Chief Teriki Tivatelapa Poilepa, Vanuatu – surrendered (donated and displayed in the Australian Embassy in Vanuatu)\nFramed Bilas from The Hon James Marape, Prime Minister of Papua New Guinea - surrendered (displayed in Commonwealth/Parliamentary Office)\nFramed Signed Matildas Jersey from Football Australia"
+date_submitted = 2025-10-09
+sequence = 5
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to AFL Preliminary Final Hawthorn v Geelong – Melbourne 19 September from the AFL\nTickets to NRL Grand Final Broncos v Storm – Sydney 5 October from the NRL"
+date_submitted = 2025-10-09
+sequence = 6
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Fullerton Hotel - Acrylic on Canvas by Ng Siang Hoi from Mr Lawrence Wong, Prime Minister of the Republic of Singapore – surrendered\nBoxes of honey and dried dates from His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates – surrendered\nArtisanal Emirati Spherical Box (Jinani II) from His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates – surrendered (donated and displayed in the Australian Embassy in Abu Dhabi)\nJewellery Box from His Highness Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates – surrendered (donated and displayed in the Australian Embassy in Abu Dhabi)\nDesk Set with Stationery from The Honorable Donald J. Trump, President of the United States of America – surrendered (displayed in Commonwealth/Parliamentary Office)\nFriendship bracelet from Florence (student)"
+date_submitted = 2025-11-11
+sequence = 7
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to Oasis – Sydney 7 November from Venues NSW"
+date_submitted = 2025-11-11
+sequence = 8
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Silver Model of Peacock from Shri Rajnath Singh, Defence Minister of India – surrendered\nGift Box - Coasters, Jewellery box, Brooch, Beads and Bracelet from Dato' Seri Dr Wan Azizah Wan Ismail, Spouse to the Prime Minister of Malaysia – surrendered\nFramed Royal Pahang Songket from The Hon Dato' Seri Anwar Ibrahim, Prime Minister of Malaysia – surrendered (donated and for display in the Australian Embassy in Malaysia)\nSigned Cricket Bat from PM's XI Team"
+date_submitted = 2025-12-20
+sequence = 9
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Fruits Plenty Sculpture from Zhao Leji, Chairman of the Standing Committee of the National People's Congress of China – surrendered and to be donated to charity or non-profit organisation"
+date_submitted = 2026-02-04
+sequence = 10
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to Australian Open Men's Semi Final – Melbourne 30 January from Tennis Australia"
+date_submitted = 2026-02-04
+sequence = 11
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Model of Traditional Timorese House from His Excellency Kay Rala Xanana, Gusmão, Prime Minister of Timor-Leste – surrendered\nDecorative Box containing various Timorese Cultural Items from His Excellency Dr José Ramos-Horta, President of Timor-Leste – surrendered\nRex Aircraft Model from Rex Airlines\nSpouse gift - Mother-of-Pearl Gift Box from APEC Prep Office, Republic of Korea – surrendered"
+date_submitted = 2026-03-12
+sequence = 12
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Appreciation plaque from the Assyrian National Council – Australia Inc"
+date_submitted = 2026-04-08
+sequence = 13
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to Adelaide v Western Bulldogs – Adelaide 20 March from the Adelaide Football Club"
+date_submitted = 2026-04-08
+sequence = 14
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Art Vinyl Record Storage Cabinet from Her Excellency Ms Sanae Takaichi, Prime Minister of Japan\nCelapa 4-Segi in Silver from His Majesty Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali, the Sultan of Brunei – surrendered (to be donated to charity or non-for profit organisation)\nFramed Moon Kite from YAB Dato' Seri Anwar Bin Ibrahim, Prime Minister of Malaysia Prime Minister of Malaysia – surrendered (to be donated to National Collections)"
+date_submitted = 2026-05-25
+sequence = 15
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to Mumford & Sons, Sydney 29 April from Live Nation\nTickets to Phantom of the Opera on Sydney Harbour, 2 May from Opera Australia"
+date_submitted = 2026-05-25
+sequence = 16
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "Aero Dili Model Aircraft Airbus A320 from Aero Dili"
+date_submitted = 2026-07-09
+sequence = 17
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to State of Origin Game 2 – Melbourne 17 June from the NRL\nTickets to State of Origin Game 3 – Brisbane 8 July from the NRL"
+date_submitted = 2026-07-09
+sequence = 18
+
+[[alterations]]
+kind = "addition"
+category = "gifts"
+holder = "self"
+details = "\"Jinani/Tiwi ancestor (2025)\" - Ironwood carving by Gordon John Pupangamirri\n\"Bird\" Ironwood carving by Cryril Kerinauia\nBottle of News24 Launch Edition McLaren Vale Shiraz - Vintage 2020\nTabua from The Honourable Sitiveni Rabuka CF OBE MSD, Prime Minister of the Republic of Fiji – surrendered (to be donated to National Collections)\nWoven Mats x 4 from The Honourable Sitiveni Rabuka CF OBE MSD, Prime Minister of the Republic of Fiji – surrendered (to be displayed in Commonwealth/Parliamentary Office)\nNguzu Nguzu Tubi Wood Carving from 48th Solomon Islands Independence Anniversary Committee 2026 – surrendered (to be donated to National Collections)\nNguzu Nguzu Tubi Wood Carving 2 from The Honourable Morris Toiraena, Minister of Health and Medical Services of Solomon Islands – surrendered (to be donated to National Collections)\nFramed Traditional Double Pig Tusks, Coffee and Independence Book from The Honourable James Marape, Prime Minister of Papua New Guinea – surrendered (to be displayed in Commonwealth/Parliamentary Office)"
+date_submitted = 2026-08-14
+sequence = 19
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "self"
+details = "Tickets to Rabbits v Raiders – Canberra 18 July from the Canberra Raiders"
+date_submitted = 2026-08-14
+sequence = 20
