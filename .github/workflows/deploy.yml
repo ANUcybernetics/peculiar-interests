@@ -47,9 +47,9 @@ jobs:
 
       - name: Check data/ is in step with raw/ and the parsers
         run: |
-          uv run pollie parse
-          uv run pollie people
-          uv run pollie schema
+          uv run peculiar parse
+          uv run peculiar people
+          uv run peculiar schema
           git diff --exit-code -- data/
 
       - name: Setup mise (node + pnpm)

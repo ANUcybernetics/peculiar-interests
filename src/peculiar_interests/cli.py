@@ -1,13 +1,13 @@
-"""The `pollie` command. Thin: every subcommand calls one function in the
+"""The `peculiar` command. Thin: every subcommand calls one function in the
 module that owns the work, so the pipeline is scriptable from Python too.
 
-    pollie fetch [house|senate|roster|all]   pull the register indexes and documents into raw/
-    pollie parse [house|senate|all]          regenerate data/ from raw/ (+ overrides/)
-    pollie people                            rebuild data/people.json from the roster CSVs + indexes
-    pollie schema                            write data/schema.json from the pydantic models
-    pollie transcribe PDF                    transcribe a scanned statement with Claude into an override
-    pollie status                            what we hold, what is pending
-    pollie run                               the nightly sequence: fetch all, parse all, people, schema
+    peculiar fetch [house|senate|roster|all]   pull the register indexes and documents into raw/
+    peculiar parse [house|senate|all]          regenerate data/ from raw/ (+ overrides/)
+    peculiar people                            rebuild data/people.json from the roster CSVs + indexes
+    peculiar schema                            write data/schema.json from the pydantic models
+    peculiar transcribe PDF                    transcribe a scanned statement with Claude into an override
+    peculiar status                            what we hold, what is pending
+    peculiar run                               the nightly sequence: fetch all, parse all, people, schema
 """
 
 from __future__ import annotations

@@ -4,7 +4,7 @@
 # No model is involved anywhere in this pipeline.
 set -euo pipefail
 
-PROJECT_DIR="/home/ben/projects/pollie-watch"
+PROJECT_DIR="/home/ben/projects/peculiar-interests"
 LOG_DIR="${PROJECT_DIR}/logs"
 LOG_FILE="${LOG_DIR}/run-$(date +%Y-%m-%d).log"
 
@@ -27,14 +27,14 @@ step() {
 }
 
 step "fetch"
-uv run pollie fetch roster >> "$LOG_FILE" 2>&1 || failed "fetch roster"
-uv run pollie fetch senate >> "$LOG_FILE" 2>&1 || failed "fetch senate"
-uv run pollie fetch house >> "$LOG_FILE" 2>&1 || failed "fetch house"
+uv run peculiar fetch roster >> "$LOG_FILE" 2>&1 || failed "fetch roster"
+uv run peculiar fetch senate >> "$LOG_FILE" 2>&1 || failed "fetch senate"
+uv run peculiar fetch house >> "$LOG_FILE" 2>&1 || failed "fetch house"
 
 step "parse"
-uv run pollie parse >> "$LOG_FILE" 2>&1 || failed parse
-uv run pollie people >> "$LOG_FILE" 2>&1 || failed people
-uv run pollie schema >> "$LOG_FILE" 2>&1 || failed schema
+uv run peculiar parse >> "$LOG_FILE" 2>&1 || failed parse
+uv run peculiar people >> "$LOG_FILE" 2>&1 || failed people
+uv run peculiar schema >> "$LOG_FILE" 2>&1 || failed schema
 
 # Raw fetches and the data derived from them land in one commit, so the
 # history reads as "what the register said on this date". Nothing to commit is
@@ -52,7 +52,7 @@ else
 fi
 
 step "status"
-uv run pollie status >> "$LOG_FILE" 2>&1 || failed status
+uv run peculiar status >> "$LOG_FILE" 2>&1 || failed status
 
 step "run finished"
 if [ ${#FAILURES[@]} -gt 0 ]; then

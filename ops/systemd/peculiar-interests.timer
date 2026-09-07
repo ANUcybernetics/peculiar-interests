@@ -7,7 +7,7 @@ Description=Trigger the Peculiar Interests run daily at 04:00 local
 OnCalendar=04:00
 RandomizedDelaySec=30min
 Persistent=true
-Unit=pollie-run.service
+Unit=peculiar-interests.service
 
 [Install]
 WantedBy=timers.target

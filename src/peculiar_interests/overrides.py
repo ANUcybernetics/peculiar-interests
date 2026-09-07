@@ -4,7 +4,7 @@ An override is a TOML file at `paths.override_path(...)` holding the parts of a
 Statement that come from reading the document: `interests`, `alterations`,
 `notes`, `date_lodged`, and an `extraction` block. The parser supplies the
 identity and source fields from the register index and applies the override on
-top. `pollie transcribe` writes one with `extraction.method = "ocr"` (machine-read);
+top. `peculiar transcribe` writes one with `extraction.method = "ocr"` (machine-read);
 a reviewer corrects it against the PDF and flips the method to `"manual"`, the
 only signal the site presents as confirmed. Top-level keys must come before the
 `[extraction]` table or TOML assigns them to it.

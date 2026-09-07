@@ -891,7 +891,7 @@ def parse(parliament: int = 48) -> list[Statement]:
                         "extraction": Extraction(
                             method=ExtractionMethod.PENDING,
                             notes=[
-                                "scanned PDF; run `pollie ocr` and review the override"
+                                "scanned PDF; run `peculiar ocr` and review the override"
                             ],
                         ),
                     }

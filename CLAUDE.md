@@ -9,7 +9,7 @@ Astro site on GitHub Pages, nightly cron on weddle).
 
 Project has its own `mise.toml`: prefix commands with `mise exec --`.
 
-- `uv run pollie --help` for the CLI: `fetch`/`parse` take a target
+- `uv run peculiar --help` for the CLI: `fetch`/`parse` take a target
   (`house`, `senate`, `roster`, `all`); `people`, `schema`, `status`, `ocr PDF`;
   `run` is the nightly sequence; `transcribe PDF` shells out to `claude -p`.
 - `uv run python -m pytest` (parallel; `-m live` adds tests that hit aph.gov.au)
@@ -28,7 +28,7 @@ Project has its own `mise.toml`: prefix commands with `mise exec --`.
   "Last updated", link). Most links are
   `https://interests-register-api-public.aph.gov.au/api/members/{aph_id}/statement/{parl}`,
   a system-generated PDF whose tables pdfplumber reads cleanly. A few are
-  handwritten scans on `static.aph.gov.au`; `pollie transcribe` reads them with
+  handwritten scans on `static.aph.gov.au`; `peculiar transcribe` reads them with
   Claude into an override (`method = "ocr"`, meaning machine-read) which a
   person then checks and flips to `"manual"`. Never put an `ANTHROPIC_API_KEY`
   in this project's mise env: `transcribe.py` scrubs `ANTHROPIC_*` so
@@ -56,7 +56,7 @@ extracted dataset itself is CC BY 4.0.
 
 ## Nightly run and deploy
 
-`cron-run.sh` (systemd units in `ops/systemd/`, 04:00 on weddle) fetches,
+`cron-run.sh` (systemd units `peculiar-interests.{service,timer}` in `ops/systemd/`, 04:00 on weddle) fetches,
 parses, commits `raw/` + `data/` and pushes; the Pages workflow rebuilds the site
 from the committed data and refuses to deploy if `data/` is not in step with
 `raw/` and the parsers. No model, no secrets, anywhere in that path.
