@@ -235,8 +235,10 @@ def fetch(parliament: int = 48) -> list[str]:
     the aph_ids whose PDF content actually changed."""
     index_path = paths.raw_index(Chamber.HOUSE, parliament)
     cached_ids: dict[str, str] = {}
+    previous: dict[str, str] = {}
     if index_path.exists():
         old = json.loads(index_path.read_text())
+        previous = old["fetched_at"]
         cached_ids = {
             e["display_name"]: e["aph_id"]
             for e in old.get("entries", [])
@@ -264,16 +266,6 @@ def fetch(parliament: int = 48) -> list[str]:
                 entry["display_name"],
             )
 
-        store.write_json(
-            index_path,
-            {
-                "fetched_at": fetchlib.now().isoformat(),
-                "parliament": parliament,
-                "source_url": SOURCE_URL,
-                "entries": entries,
-            },
-        )
-
         raw_dir = paths.raw_dir(Chamber.HOUSE, parliament)
         changed: list[str] = []
         for entry in entries:
@@ -281,6 +273,18 @@ def fetch(parliament: int = 48) -> list[str]:
             _digest, wrote = _download_stable(http, entry["url"], dest)
             if wrote:
                 changed.append(entry["aph_id"])
+
+        store.write_json(
+            index_path,
+            {
+                "fetched_at": fetchlib.fetched_at_by_id(
+                    previous, [e["aph_id"] for e in entries], changed, fetchlib.now()
+                ),
+                "parliament": parliament,
+                "source_url": SOURCE_URL,
+                "entries": entries,
+            },
+        )
     return changed
 
 
@@ -805,7 +809,7 @@ def parse(parliament: int = 48) -> list[Statement]:
     """Build and write a `Statement` for every member in the raw index."""
     index_path = paths.raw_index(Chamber.HOUSE, parliament)
     index_data = json.loads(index_path.read_text())
-    fetched_at = datetime.fromisoformat(index_data["fetched_at"])
+    fetched_at = index_data["fetched_at"]
 
     statements: list[Statement] = []
     for entry in index_data["entries"]:
@@ -821,7 +825,7 @@ def parse(parliament: int = 48) -> list[Statement]:
             url=entry["url"],
             kind="house-static-pdf" if entry["kind"] == "static" else "house-api-pdf",
             sha256=fetchlib.sha256_of(pdf_path),
-            fetched_at=fetched_at,
+            fetched_at=datetime.fromisoformat(fetched_at[aph_id]),
             raw_path=paths.relative(pdf_path),
         )
         stub = Statement(

@@ -9,6 +9,7 @@ what is already committed.
 from __future__ import annotations
 
 import hashlib
+from collections.abc import Iterable, Mapping
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -35,6 +36,23 @@ def sha256_of(path: Path) -> str:
 
 def now() -> datetime:
     return datetime.now(UTC).replace(microsecond=0)
+
+
+def fetched_at_by_id(
+    previous: Mapping[str, str],
+    ids: Iterable[str],
+    changed: Iterable[str],
+    stamp: datetime,
+) -> dict[str, str]:
+    """Per-statement fetch times for a freshly written index.
+
+    A statement keeps the time recorded in `previous` unless it is new or its
+    content changed on this fetch, so `fetched_at` says when our copy was
+    actually taken and a night with no changes rewrites nothing.
+    """
+    changed = set(changed)
+    fresh = stamp.isoformat()
+    return {i: fresh if i in changed or i not in previous else previous[i] for i in ids}
 
 
 def download(http: httpx.Client, url: str, dest: Path) -> tuple[str, bool]:

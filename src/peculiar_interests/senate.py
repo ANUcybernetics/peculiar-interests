@@ -59,6 +59,11 @@ def fetch(parliament: int = 48) -> list[str]:
     statement per senator to `paths.raw_dir(...)/{cdapId}.json`. Returns the
     aph_ids whose statement file content changed (new or edited).
     """
+    index_path = paths.raw_index(Chamber.SENATE, parliament)
+    previous: dict[str, str] = {}
+    if index_path.exists():
+        previous = json.loads(index_path.read_text())["fetched_at"]
+
     with fetchlib.client(Origin="https://www.aph.gov.au") as http:
         response = http.get(INDEX_URL)
         response.raise_for_status()
@@ -67,15 +72,6 @@ def fetch(parliament: int = 48) -> list[str]:
             payload["statementOfRegisterableInterests"], key=lambda e: e["cdapId"]
         )
         logger.info("senate index: {} senators", len(entries))
-        store.write_json(
-            paths.raw_index(Chamber.SENATE, parliament),
-            {
-                "fetched_at": fetchlib.now().isoformat(),
-                "parliament": parliament,
-                "source_url": INDEX_URL,
-                "entries": entries,
-            },
-        )
 
         changed: list[str] = []
         for entry in entries:
@@ -86,6 +82,18 @@ def fetch(parliament: int = 48) -> list[str]:
             dest = paths.raw_dir(Chamber.SENATE, parliament) / f"{cdap_id}.json"
             if _write_and_track(dest, statement_payload):
                 changed.append(cdap_id)
+
+        store.write_json(
+            index_path,
+            {
+                "fetched_at": fetchlib.fetched_at_by_id(
+                    previous, [e["cdapId"] for e in entries], changed, fetchlib.now()
+                ),
+                "parliament": parliament,
+                "source_url": INDEX_URL,
+                "entries": entries,
+            },
+        )
         logger.info(
             "senate fetch: {} of {} statements changed", len(changed), len(entries)
         )
@@ -241,7 +249,7 @@ def parse(parliament: int = 48) -> list[Statement]:
     """Parse every committed Senate statement for `parliament` from `raw/`,
     write each to `data/`, and return them."""
     index_payload = json.loads(paths.raw_index(Chamber.SENATE, parliament).read_text())
-    fetched_at = datetime.fromisoformat(index_payload["fetched_at"])
+    fetched_at = index_payload["fetched_at"]
     statements: list[Statement] = []
     for entry in index_payload["entries"]:
         aph_id = entry["cdapId"]
@@ -253,7 +261,7 @@ def parse(parliament: int = 48) -> list[Statement]:
             parliament=parliament,
             raw_path=paths.relative(raw_file),
             sha256=fetchlib.sha256_of(raw_file),
-            fetched_at=fetched_at,
+            fetched_at=datetime.fromisoformat(fetched_at[aph_id]),
         )
         store.write_statement(statement)
         statements.append(statement)

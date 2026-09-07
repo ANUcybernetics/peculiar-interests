@@ -298,7 +298,7 @@ def test_override_applied(tmp_path, monkeypatch) -> None:
     store.write_json(
         paths.raw_index(Chamber.HOUSE, 48),
         {
-            "fetched_at": fetch.now().isoformat(),
+            "fetched_at": {"TEST1": fetch.now().isoformat()},
             "parliament": 48,
             "source_url": house.SOURCE_URL,
             "entries": [
