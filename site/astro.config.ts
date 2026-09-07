@@ -7,7 +7,7 @@ import { defineConfig } from "astro/config";
 // moving to a domain root is a two-line edit here (plus a CNAME in public/).
 export default defineConfig({
   site: "https://anucybernetics.github.io",
-  base: "/pollie-watch",
+  base: "/peculiar-interests",
   trailingSlash: "ignore",
   output: "static",
   prefetch: { prefetchAll: true, defaultStrategy: "viewport" },

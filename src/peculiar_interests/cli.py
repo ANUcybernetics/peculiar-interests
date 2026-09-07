@@ -19,8 +19,8 @@ from pathlib import Path
 import typer
 from loguru import logger
 
-from pollie_watch import paths, store
-from pollie_watch.schema import Chamber, ExtractionMethod, Statement
+from peculiar_interests import paths, store
+from peculiar_interests.schema import Chamber, ExtractionMethod, Statement
 
 app = typer.Typer(no_args_is_help=True, add_completion=False, help=__doc__)
 
@@ -53,16 +53,16 @@ def fetch(
 ) -> None:
     """Fetch register indexes and documents into raw/."""
     if target in (Target.ROSTER, Target.ALL):
-        from pollie_watch import people
+        from peculiar_interests import people
 
         people.fetch_roster()
     if target in (Target.SENATE, Target.ALL):
-        from pollie_watch import senate
+        from peculiar_interests import senate
 
         changed = senate.fetch(parliament)
         logger.info("senate: {} statements changed", len(changed))
     if target in (Target.HOUSE, Target.ALL):
-        from pollie_watch import house
+        from peculiar_interests import house
 
         changed = house.fetch(parliament)
         logger.info("house: {} statements changed", len(changed))
@@ -74,11 +74,11 @@ def parse(
 ) -> None:
     """Regenerate data/ from the committed raw/ files and overrides/."""
     if target in (Target.SENATE, Target.ALL):
-        from pollie_watch import senate
+        from peculiar_interests import senate
 
         senate.parse(parliament)
     if target in (Target.HOUSE, Target.ALL):
-        from pollie_watch import house
+        from peculiar_interests import house
 
         house.parse(parliament)
 
@@ -86,7 +86,7 @@ def parse(
 @app.command()
 def people(parliament: int = PARLIAMENT_OPTION) -> None:
     """Rebuild data/people.json."""
-    from pollie_watch import people as roster
+    from peculiar_interests import people as roster
 
     written = roster.write(roster.build(parliament))
     logger.info("wrote {}", paths.relative(written))
@@ -107,7 +107,7 @@ def transcribe(
 ) -> None:
     """Transcribe a scanned statement (raw/house/<parl>/<aph_id>.pdf) with Claude
     into an override, marked machine-read until a person confirms it."""
-    from pollie_watch import transcribe as transcribe_module
+    from peculiar_interests import transcribe as transcribe_module
 
     target = dest or paths.override_path(Chamber.HOUSE, parliament, pdf.stem)
     transcribe_module.transcribe(pdf, target, paths.RAW / "transcribe", model=model)

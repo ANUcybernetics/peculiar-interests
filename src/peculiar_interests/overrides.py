@@ -42,8 +42,14 @@ from pathlib import Path
 
 from pydantic import BaseModel, ConfigDict, Field
 
-from pollie_watch import paths
-from pollie_watch.schema import Alteration, Chamber, Extraction, Interest, Statement
+from peculiar_interests import paths
+from peculiar_interests.schema import (
+    Alteration,
+    Chamber,
+    Extraction,
+    Interest,
+    Statement,
+)
 
 
 class Override(BaseModel):

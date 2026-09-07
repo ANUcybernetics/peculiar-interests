@@ -23,9 +23,9 @@ import pdfplumber
 import pypdfium2 as pdfium
 from loguru import logger
 
-from pollie_watch import paths
-from pollie_watch.overrides import Override
-from pollie_watch.schema import (
+from peculiar_interests import paths
+from peculiar_interests.overrides import Override
+from peculiar_interests.schema import (
     CATEGORY_FIELDS,
     HOUSE_ITEMS,
     Extraction,

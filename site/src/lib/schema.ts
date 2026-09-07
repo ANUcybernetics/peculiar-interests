@@ -1,4 +1,4 @@
-// zod mirror of src/pollie_watch/schema.py. Every file under data/ is parsed
+// zod mirror of src/peculiar_interests/schema.py. Every file under data/ is parsed
 // through these once at build time, so a drift between the Python writer and
 // this reader fails the build rather than rendering blanks.
 import { z } from "zod";

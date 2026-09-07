@@ -1,7 +1,7 @@
 [project]
-name = "pollie-watch"
+name = "peculiar-interests"
 version = "0.1.0"
-description = "Peculiar Interests: an open, versioned dataset of the registers of interests of Australian federal parliamentarians"
+description = "An open, versioned dataset of the registers of interests of Australian federal parliamentarians"
 authors = [{ name = "Ben Swift", email = "ben@benswift.me" }]
 requires-python = ">=3.14"
 dependencies = [
@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [project.scripts]
-pollie = "pollie_watch.cli:app"
+pollie = "peculiar_interests.cli:app"
 
 [build-system]
 requires = ["uv_build>=0.12.10,<0.13.0"]

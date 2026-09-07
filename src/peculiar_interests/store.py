@@ -11,8 +11,8 @@ from pathlib import Path
 
 from loguru import logger
 
-from pollie_watch import paths
-from pollie_watch.schema import Chamber, Statement
+from peculiar_interests import paths
+from peculiar_interests.schema import Chamber, Statement
 
 
 def write_statement(statement: Statement) -> Path:

@@ -8,8 +8,8 @@ from pathlib import Path
 
 import pytest
 
-from pollie_watch import fetch, paths, senate, store
-from pollie_watch.schema import AlterationKind, Category
+from peculiar_interests import fetch, paths, senate, store
+from peculiar_interests.schema import AlterationKind, Category
 
 FIXTURES = Path(__file__).parent / "fixtures" / "senate"
 

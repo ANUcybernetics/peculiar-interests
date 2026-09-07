@@ -18,8 +18,8 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from loguru import logger
 
-from pollie_watch import fetch, paths, store
-from pollie_watch.schema import Chamber, Person
+from peculiar_interests import fetch, paths, store
+from peculiar_interests.schema import Chamber, Person
 
 LISTING_URL = (
     "https://www.aph.gov.au/Senators_and_Members/Contacting_Senators_and_Members/"

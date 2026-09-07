@@ -4,8 +4,8 @@ import json
 from datetime import date
 from pathlib import Path
 
-from pollie_watch import overrides, transcribe
-from pollie_watch.schema import (
+from peculiar_interests import overrides, transcribe
+from peculiar_interests.schema import (
     Alteration,
     AlterationKind,
     Category,

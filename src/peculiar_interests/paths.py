@@ -14,7 +14,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from pollie_watch.schema import Chamber
+from peculiar_interests.schema import Chamber
 
 ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / "raw"

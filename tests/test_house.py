@@ -7,8 +7,8 @@ from pathlib import Path
 
 import pytest
 
-from pollie_watch import fetch, house, paths, store
-from pollie_watch.schema import (
+from peculiar_interests import fetch, house, paths, store
+from peculiar_interests.schema import (
     AlterationKind,
     Category,
     Chamber,

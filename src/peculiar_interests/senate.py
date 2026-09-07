@@ -16,9 +16,9 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from loguru import logger
 
-from pollie_watch import fetch as fetchlib
-from pollie_watch import paths, store
-from pollie_watch.schema import (
+from peculiar_interests import fetch as fetchlib
+from peculiar_interests import paths, store
+from peculiar_interests.schema import (
     SENATE_CATEGORIES,
     SENATE_FIELDS,
     Alteration,

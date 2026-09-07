@@ -43,7 +43,7 @@ See `CLAUDE.md` for the layout and the source endpoints, `PRODUCT.md` and
 If an entry here does not match the official document, open an issue or email
 [ben.swift@anu.edu.au](mailto:ben.swift@anu.edu.au) with the person's name and
 what is wrong. Corrections to a scanned statement go in `overrides/` (see
-`src/pollie_watch/overrides.py` for the format).
+`src/peculiar_interests/overrides.py` for the format).
 
 ## Licence
 

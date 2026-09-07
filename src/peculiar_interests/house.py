@@ -41,9 +41,9 @@ from bs4 import BeautifulSoup
 from loguru import logger
 from pydantic import BaseModel, ConfigDict, Field
 
-from pollie_watch import fetch as fetchlib
-from pollie_watch import overrides, paths, store
-from pollie_watch.schema import (
+from peculiar_interests import fetch as fetchlib
+from peculiar_interests import overrides, paths, store
+from peculiar_interests.schema import (
     HOUSE_COLUMNS,
     HOUSE_ITEMS,
     Alteration,
