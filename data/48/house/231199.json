@@ -1,0 +1,618 @@
+{
+ "alterations": [
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-05",
+   "date_submitted": "2025-08-05",
+   "details": "Membership AMWU",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-05",
+   "date_submitted": "2025-08-05",
+   "details": "Membership ALP Tas Branch",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-05",
+   "date_submitted": "2025-08-05",
+   "details": "Burnie Works sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-26",
+   "date_submitted": "2025-08-26",
+   "details": "Burnie Coast Art Group Sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-01",
+   "date_submitted": "2025-09-01",
+   "details": "Burnie Coastal Art Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-01",
+   "date_submitted": "2025-09-01",
+   "details": "Tasmanian Women in Agriculture",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "Rotary Club of Ulverstone West",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "Burnie Rotary West",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-30",
+   "date_submitted": "2025-10-30",
+   "details": "Penguin in Pink",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-10",
+   "date_submitted": "2025-11-10",
+   "details": "Wynyard Tigers Cricket Club sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-10",
+   "date_submitted": "2025-11-10",
+   "details": "Circular Head Council - Day on the Duck sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-20",
+   "date_submitted": "2025-11-20",
+   "details": "Rosebery Athletic Club sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-20",
+   "date_submitted": "2025-11-20",
+   "details": "The Tasmanian Christmas party sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-20",
+   "date_submitted": "2025-11-20",
+   "details": "Rotary Club of Burnie Golf Day sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-20",
+   "date_submitted": "2025-11-20",
+   "details": "Ulverstone Rodeo Committee sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-12-12",
+   "date_submitted": "2025-12-12",
+   "details": "Phoenix Community House King Island - donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-12-19",
+   "date_submitted": "2025-12-19",
+   "details": "ABC Giving tree donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-12-19",
+   "date_submitted": "2025-12-19",
+   "details": "Mersey Colts Cricket Club sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-12-19",
+   "date_submitted": "2025-12-19",
+   "details": "Mt Lyell Strahan Picnic Committee Ltd sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-22",
+   "date_submitted": "2026-01-22",
+   "details": "Somerset Amateur Basketball Association Ltd sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Just Cats Tasmania donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-16",
+   "details": "Smithton Basketball Club sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-02-17",
+   "date_submitted": "2026-02-17",
+   "details": "Tasmanian Speedway Motorcycle association sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-03-02",
+   "date_submitted": "2026-03-02",
+   "details": "Trans Tasman Indoor Bias Bowls series - sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Queenstown Child Care centre donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-29",
+   "details": "Vice President Tas ALP branch",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-04",
+   "date_submitted": "2026-05-04",
+   "details": "Wynyard Tulip Festival sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-11",
+   "date_submitted": "2026-05-11",
+   "details": "Fabrics gifted as part of overseas delegation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-13",
+   "date_submitted": "2026-05-13",
+   "details": "Devonport Pickleball club sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-18",
+   "date_submitted": "2026-05-18",
+   "details": "Devonport Eisteddfod Society sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-18",
+   "date_submitted": "2026-05-18",
+   "details": "Burnie Rotary West sponsorship Ferret races",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-27",
+   "date_submitted": "2026-05-26",
+   "details": "Cameron Baird VC MG Foundation - donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-27",
+   "date_submitted": "2026-05-26",
+   "details": "CWA Ulverstone - donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-06-03",
+   "date_submitted": "2026-06-03",
+   "details": "Penguin in Pink donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-06-03",
+   "date_submitted": "2026-06-03",
+   "details": "Burnie Musical Society sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-07-27",
+   "date_submitted": "2026-07-27",
+   "details": "GreenSTEM Education sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-02",
+   "date_submitted": "2026-09-02",
+   "details": "Loaves and Fishes donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-02",
+   "date_submitted": "2026-09-02",
+   "details": "Lydia Sutton sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
+  }
+ ],
+ "aph_id": "231199",
+ "chamber": "house",
+ "date_lodged": "2025-07-28",
+ "display_name": "Urquhart, Anne",
+ "electorate": "Braddon",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Urquhart",
+ "given_names": "Anne",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Gawler, Tasmania",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "West Ulverstone, Tasmania",
+    "purpose": "Land"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Gawler, Tasmania",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "West Ulverstone, Tasmania",
+    "purpose": "Land"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "My State",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "My State",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Spirit Super"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel - electorate office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairmans Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairmans Lounge membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Lounge membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor- Fred Hollows Foundation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Leighlands Christian School - donation"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-09-02",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/231199.pdf",
+  "sha256": "f137e240205ce3c79a9fb322a0f24b1cf097630ace50e51e3daba08690f18d3c",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/231199/statement/48"
+ },
+ "state": "TAS"
+}

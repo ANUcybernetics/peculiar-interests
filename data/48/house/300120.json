@@ -1,0 +1,223 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-07-25",
+   "date_submitted": "2025-07-25",
+   "details": "Santos Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-12",
+   "date_submitted": "2026-01-12",
+   "details": "2 x ticket to Brisbane International tennis and hospitality",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
+ "aph_id": "300120",
+ "chamber": "house",
+ "date_lodged": "2025-07-25",
+ "display_name": "Pike, Henry",
+ "electorate": "Bowman",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Pike",
+ "given_names": "Henry",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Santos Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ormiston, Qld",
+    "purpose": "Residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ormiston, Qld",
+    "purpose": "Residence"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Angle Finance",
+    "nature": "Car loan (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Angle Finance",
+    "nature": "Car loan (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Angle Finance",
+    "nature": "Car loan (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Angle Finance",
+    "nature": "Car loan (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Mercer Super Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary income"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription - Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Point Lookout Surf Lifesaving Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Redlands Sporting Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Redlands RSL Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Redlands Rugby Union Club"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-01-12",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/300120.pdf",
+  "sha256": "f42a0e12f78a38e95e9b712511df40abe5cb434e426f260d324999acd915b59b",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/300120/statement/48"
+ },
+ "state": "QLD"
+}

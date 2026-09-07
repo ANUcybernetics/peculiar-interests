@@ -1,0 +1,202 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "Accommodation and hospitality in Bhutan from 25 September to 2 October 2025 as guest of Royal Kingdom of Bhutan. Includes accommodation, food and on-ground transport.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "Upgrade from Drukair Airline from economy to business on self-funded airfare from Bangkok to Paro on 24 September 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-27",
+   "date_submitted": "2025-11-27",
+   "details": "Acquired residential property (Newcastle, NSW)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-27",
+   "date_submitted": "2025-11-27",
+   "details": "Sold residential property (Newcastle, NSW)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
+ "aph_id": "248181",
+ "chamber": "house",
+ "date_lodged": "2025-11-13",
+ "display_name": "Claydon, Sharon",
+ "electorate": "Newcastle",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Claydon",
+ "given_names": "Sharon",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Newcastle",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "A financial, political and personal support network for progressive Labor women in Australian politics.",
+    "company": "EMILY'S LIST (AUSTRALIA) INC."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Home Mortgage x2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Complete Access Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Offset Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Newcastle Permanent Building Society",
+    "nature": "Savings Accounts x3"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "AMP Whole of Life Plan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QANTAS Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Beyond Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (NSW Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Community and Public Sector Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "EMILY's List Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Republican Movement"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-11-27",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/248181.pdf",
+  "sha256": "ff074651efd92854518caa2b6dff1fa02b3be4a5cd0861a49d031abdda1697e0",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/248181/statement/48"
+ },
+ "state": "NSW"
+}

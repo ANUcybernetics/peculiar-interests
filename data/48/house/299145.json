@@ -1,0 +1,573 @@
+{
+ "alterations": [
+  {
+   "category": "accounts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Transaction account with Macquarie Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-11",
+   "date_submitted": "2025-12-11",
+   "details": "2 x courtside tickets to the Illawarra Hawks on 4 December 2025 from Tiny Tins.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-11",
+   "date_submitted": "2025-12-11",
+   "details": "1 x ticket to the ARIA Awards 2025 from ARIA.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-09",
+   "date_submitted": "2026-02-09",
+   "details": "1x tickets - UFC 325 - Alexander Volkanovski v Diego Lopes corporate hospitality - Destination NSW - value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-23",
+   "date_submitted": "2026-03-23",
+   "details": "1 Ticket (3 days) - Suncorp - Australian Grand Prix 2026 Entry and Hospitality ticket (please note that costs for travel and accommodation were met personally)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-17",
+   "date_submitted": "2026-06-17",
+   "details": "1 ticket -ANZAC Day Cup - Dragons Vs Roosters game hospitality- NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-17",
+   "date_submitted": "2026-06-17",
+   "details": "Ports",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-17",
+   "date_submitted": "2026-06-17",
+   "details": "1 ticket - Boots and Ballgowns event -Tiny Tins",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-17",
+   "date_submitted": "2026-06-17",
+   "details": "1 ticket - Rodeo 4 Life event and Bull Bar hospitality-Tiny Tins",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-11",
+   "date_submitted": "2026-08-11",
+   "details": "1 ticket - Dragons Vs Raiders game corporate hospitality - Birketu Limited",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-11",
+   "date_submitted": "2026-08-11",
+   "details": "Bulli NSW - Joint owner for administrative purposes (no income derived)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-11",
+   "date_submitted": "2026-08-11",
+   "details": "Bulli NSW - Joint owner for administrative purposes (no income derived)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 12,
+   "source_id": null
+  }
+ ],
+ "aph_id": "299145",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Byrnes, Alison",
+ "electorate": "Cunningham",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Byrnes",
+ "given_names": "Alison",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wollongong NSW",
+    "purpose": "Principal place of residence (joint owner)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bulli NSW",
+    "purpose": "Joint owner for administrative purposes (no income derived)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sydney NSW",
+    "purpose": "Secondary place of residence (joint owner)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unanderra NSW",
+    "purpose": "Storage unit (joint owned)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wollongong NSW",
+    "purpose": "Principal place of residence (joint owned)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bulli NSW",
+    "purpose": "Joint owner for administrative purposes (no income derived)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sydney NSW",
+    "purpose": "Secondary place of residence (joint owned)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unanderra NSW",
+    "purpose": "Storage unit (joint owned)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank West",
+    "nature": "Mortgage on principal place of residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank West",
+    "nature": "Mortgage on secondary place of residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank West",
+    "nature": "Mortgage on principal place of residence"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank West",
+    "nature": "Mortgage on secondary place of residence"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Maxxia",
+    "nature": "Motor vehicle lease"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank West",
+    "nature": "Transaction Account (x2)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Transaction Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank West",
+    "nature": "Transaction Account (x2)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Transaction Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Transaction Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Public Sector Superannuation Scheme"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Public Sector Superannuation Scheme"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from employment as Member of NSW Parliament and NSW Government Minister for Planning and Public Spaces"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Qantas Chairman's Lounge from Qantas"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Virgin Beyond Membership from Virgin"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ALP (NSW Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Services Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Health Services Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Bellambi Surf Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Port Kembla Chamber of Commerce"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Wests Illawarra Leagues Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Beyond"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Chairman's Lounge (Qantas)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Bellambi Surf Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Services Union"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Health Services Union"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ALP (NSW Branch)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Wests Illawarra Leagues Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Wollongong City Diggers Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Illawarra Yacht Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Frequent Flyers"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Velocity Frequent Flyer"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Affiliate member of RSL NSW"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Men of League Foundation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership of Qantas Chairman's Lounge from Qantas"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Steelers Club Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Red V Supporter Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Spouse of NSW Member of Parliament and NSW Minister for Planning and Public Spaces"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member of NSW Parliament and NSW Minister for Planning and Public Spaces"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-11",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/299145.pdf",
+  "sha256": "f761b9eba96a8e44898aadaf0fca546bf46e227d7ac20438b17a9862ba212115",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/299145/statement/48"
+ },
+ "state": "NSW"
+}

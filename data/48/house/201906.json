@@ -1,0 +1,490 @@
+{
+ "alterations": [
+  {
+   "category": "other-assets",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Gold bullion - Held in TAY Super (SMSF)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Mortgage on Buderim - NAB",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Mortgage on Buderim - NAB",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Mortgage on Principal place of Residence",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Mortgage on Principal place of Residence",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "Rural Land in Nanango - Held in TAY Super (Settlement 17/09/2025)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "Rural Land in Nanango - Held in TAY Super (Settlement 17/09/2025)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "Investment property in Nanango - Held in TAY Super",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "Investment property in Nanango - Held in TAY Super",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "2025 NRL grand final ticket sponsored by Telstra",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-13",
+   "date_submitted": "2025-11-13",
+   "details": "2025 NRL grand final ticket sponsored by Telstra",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-07-06",
+   "date_submitted": "2026-07-03",
+   "details": "Name of Company: Just Spas Sunshine Coast",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-07-06",
+   "date_submitted": "2026-07-03",
+   "details": "Activities of Company: Retailing of Spas and Wellness Products",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  }
+ ],
+ "aph_id": "201906",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Young, Terry",
+ "electorate": "Longman",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Young",
+ "given_names": "Terry",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Terry Young",
+    "name": "The Young Family Trust",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Alexandra Young",
+    "name": "The Young Family Trust",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Children",
+    "name": "The Young Family Trust",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Terry Young",
+    "name": "The Young Family Trust",
+    "nature": "Investment Trust",
+    "role": "trustee"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Alexandra Young",
+    "name": "The Young Family Trust",
+    "nature": "Investment Trust",
+    "role": "trustee"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Children",
+    "name": "The Young Family Trust",
+    "nature": "Investment Trust",
+    "role": "trustee"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Caboolture",
+    "purpose": "Principal place of residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Buderim",
+    "purpose": "Secondary place of residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nanango",
+    "purpose": "Investment property (Held in TAY Super)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nanango",
+    "purpose": "Residential block (Held in Young Family Trust)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nanango",
+    "purpose": "Investment property (Held in Young Family Trust)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Caboolture",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Buderim",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nanango",
+    "purpose": "Investment property (Held in TAY Super)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nanango",
+    "purpose": "Residential block (Held in Young Family Trust)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Nanango",
+    "purpose": "Investment property (Held in Young Family Trust)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on principal place of residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgages on Nanango investment properties x 2 - Young Family Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on principal place of residence"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgages on Nanango investment properties x 2 - Young Family Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Cheque"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "BOQ",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Cheque"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Sporting Memorabilia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Investment property at Nanango - Held in TAY Super (SMSF)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Trust distributions"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent from granny flat"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Wage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Trust distributions"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent from granny flat"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary SkyNews Streaming subscription"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairmans lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin The Club"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-03",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/201906.pdf",
+  "sha256": "f7bd5951f4f46ff28063232a431aed6b1c4b1d3d3a8babf1584a5b4d98667769",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/201906/statement/48"
+ },
+ "state": "QLD"
+}

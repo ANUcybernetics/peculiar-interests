@@ -1,0 +1,704 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-09",
+   "date_submitted": "2025-09-09",
+   "details": "2 x Tickets to 2025 Second Qualifying Final Geelong V Brisbane at Olympic Room, MCG Tickets $335 each, totalling $670",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-09",
+   "date_submitted": "2025-09-09",
+   "details": "Alcoa Corporation",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-09",
+   "date_submitted": "2025-09-09",
+   "details": "Alumina Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-04",
+   "date_submitted": "2025-11-04",
+   "details": "2 x Tickets to Geelong V Hawthorn Preliminary Final 19th September at the MCG valued at $335 each",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-03",
+   "date_submitted": "2025-12-03",
+   "details": "Queenscliff Music Festival Weekend Ticket x2 $678 total cost",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-26",
+   "date_submitted": "2026-05-26",
+   "details": "17/04/2026 Hospitality for 2 at Geelong V Western Bulldogs AFL game at GMHBA Stadium, Presidents Room, valued at $490, totalling $980",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-26",
+   "date_submitted": "2026-05-26",
+   "details": "9/5/26 Hospitality for 2 at MCG Presidents Function Round 9 Geelong V Collingwood valued at $495 each, totalling $990",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-26",
+   "date_submitted": "2026-05-26",
+   "details": "AIPS Post‑Budget Health Briefing Breakfast 2026 - Thursday 14 May for 2 valued at $440",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-26",
+   "date_submitted": "2026-05-26",
+   "details": "22/4/26 Seat at National Press Club address and lunch by Minister Butler valued at $110",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  }
+ ],
+ "aph_id": "263547",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Coker, Elizabeth",
+ "electorate": "Corangamite",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Coker",
+ "given_names": "Elizabeth",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BHP Billiton Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "National Australia Bank"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Wesfarmers Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Westpac Banking Corporation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Commonwealth Bank of Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Orica Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Foundation Investment Company Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Argo Investments Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Selpam (Australia) Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Amor Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Adelaide Brighton Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Alumina Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australia and New Zealand Banking Group Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Boral Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "National Australia Bank Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Orora Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Perpetual Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Spicers Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "South32 Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Templeton Global Growth Fund Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Monterey Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Sunnymead Invesments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Urco Family Trust",
+    "nature": "Investment Trust Joint",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Corrie Smith Family Trust",
+    "nature": "Share Investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Akas Pty Ltd (trustee company for Corrie-Smith Family Trust and Hannan Trust No. 3)",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Corrie Investments Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Sunnymead Investments Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Corrie Smith Super Pty Ltd (trustee company for Corrie Super Fund)",
+    "nature": "Share Investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Lornhan Nominees Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Urco Family Trust",
+    "nature": "Investment Trust Joint",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Corrie Smith Family Trust",
+    "nature": "Share Investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Akas Pty Ltd (trustee company for Corrie-Smith Family Trust and Hannan Trust No. 3)",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Corrie Investments Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Sunnymead Investments Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Corrie Smith Super Pty Ltd (trustee company for Corrie Super Fund)",
+    "nature": "Share Investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Lornhan Nominees Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Aireys Inlet Vic",
+    "purpose": "Residential (home)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Newtown Geelong Vic",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Aireys Inlet Vic",
+    "purpose": "Residential (home)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Newtown Geelong Vic",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investments",
+    "company": "Akas Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investments",
+    "company": "Corrie Smith Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investments",
+    "company": "Sunnymead Investments"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investments",
+    "company": "Corrie Smith Super Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investments",
+    "company": "Lornhan Nominees Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage - Newtown, Geelong, Victoria"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage - Newtown, Geelong, Victoria"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "HESTA Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Self-managed superannuation fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Builder/carpenter self employed"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin The Club Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary subscription to Foxtel from the Australian Subscription Television and Radio"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Association for the electorate office, valued at $1,600 per annum."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Geelong Cats President Dinner Round 4"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Geelong Cats President Dinner Round 4"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Urco Family Trust which part owns a hotel"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership at Patscherkofel Lodge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron of Women In Local Democracy (WILD)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Urco Family Trust which part owns a hotel"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership at Patscherkofel Lodge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-05-26",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/263547.pdf",
+  "sha256": "0beb8174c4b14509d2d822de0d47dccf97cd569128e298ea787858c7c57aab33",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/263547/statement/48"
+ },
+ "state": "VIC"
+}

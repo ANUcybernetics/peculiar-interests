@@ -1,0 +1,360 @@
+{
+ "alterations": [],
+ "aph_id": "240756",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Pasin, Antony",
+ "electorate": "Barker",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Pasin",
+ "given_names": "Antony",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Potential Beneficiary in a Discretionary Trust",
+    "name": "L & G Pasin Family Trust - Pasin Nominees Pty Ltd",
+    "nature": "Primary Production and Property Investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Potential Beneficiary in a Discretionary Trust",
+    "name": "Pepe Family Trust - Pasin Nominees Pty Ltd",
+    "nature": "Currently Dormant",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mount Gambier, SA",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Adelaide, SA",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "OB Flat, SA",
+    "purpose": "Farmland"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Adelaide, SA",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Guarantee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Various Accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Various Accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank SA",
+    "nature": "Incentive Saver"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank SA",
+    "nature": "Incentive Saver"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank SA",
+    "nature": "Incentive Saver Accounts"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation Host Plus"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "SMSF - Pasin Lee Superannuation Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Host Plus"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "SMSF - Pasin Lee Superannuation Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Subscription - Murray Bridge Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Club Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Discover Diagio - 36 Bottles of Bundaberg Rum for distribution to local RSL's for ANZAC Day"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Club Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Partial School Scholarship"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Full Academic Scholarship"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Partial Academic Scholarships"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (SA Division)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Various Men's Sheds in the Electorate of Barker"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Institute of Public Affairs"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Center of Independent studies"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Samuel Griffith Society"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mount Gambier Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mount Gambier Racing Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Parliamentary Sports Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mount Pleasant Farmers Market"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Barossa Farmers Market"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (SA Division)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Royal Automobile Association of South Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-08-19",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/240756.pdf",
+  "sha256": "78cf241501fed1c30fac6b3d7522b96421eb8c864081f21a1f75c6f05c55c1b2",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/240756/statement/48"
+ },
+ "state": "SA"
+}

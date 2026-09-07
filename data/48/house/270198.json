@@ -1,0 +1,598 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Event hosted by Anacta 22 July 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-09",
+   "date_submitted": "2025-12-09",
+   "details": "2 tickets for Gabba cricket test on 5 Dec 2025 supplied by Cricket Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-07",
+   "date_submitted": "2026-01-06",
+   "details": "Qantas Chairman's Lounge membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Self Managed Super Fund, managed by Morgans, has shares in -",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Atlas Arteria",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Cadence Capital Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Clearview Wealth Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Flight Centre Travel Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "HMC Capital Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Mach7 Technologies Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "NAB Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "South32 Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Seek Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Transurban Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Telstra Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Treasury Wine Estates Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "WAM Research Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Westpac Banking Corp",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Xero Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Betashares ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Hyperion Global",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "VanEck MSCI International ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Centuria Industrial REIT",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Dexus Industrial REIT",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Garda Property Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Homeco Daily Needs",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "National Storage REIT",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Waypoint REIT Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Digico Infrastructure REIT",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Australian Unity MTIs",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "ANZ Capital Notes",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Challenger Capital Notes",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Judo Capital Notes",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Macquarie Capital Notes",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Westpac Capital Notes",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Griffin Capital Income Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Metrics Master Income Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-27",
+   "date_submitted": "2026-01-27",
+   "details": "Partners Group Global Income Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
+  }
+ ],
+ "aph_id": "270198",
+ "chamber": "house",
+ "date_lodged": "2025-08-15",
+ "display_name": "France, Allison",
+ "electorate": "Dickson",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item trusts (self): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "France",
+ "given_names": "Allison",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Self Managed Super Fund - managed by Morgans"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary. No income is derived from the Trust.",
+    "name": "Savute Family Trust",
+    "nature": "1 property occupied by family, no rent paid.",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Arana Hills, Qld",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "The Gap. Qld",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Self Managed Super Fund managed by Morgans.",
+    "company": "SMSF"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Director and dual beneficiary. 1 property, no income dervived.",
+    "company": "Savute Family Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AFG",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Credit card",
+    "nature": "Citibank"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Plus",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2 x seat in Suncorp Corporate box Broncos on 7 June 2025."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, United Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Electrical Trade Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Club Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, ALP"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-01-27",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/270198.pdf",
+  "sha256": "349de959023eadaea5af0dd1f83eb7a7210af456f28c1b23605e4c450d694d24",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/270198/statement/48"
+ },
+ "state": "QLD"
+}

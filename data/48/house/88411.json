@@ -1,0 +1,244 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Qantas Chairman's Lounge Membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Virgin Club Lounge Membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Event hosted by Anacta 24 July 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Qantas Chairman's Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Virgin Club Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Beenleigh Yatala Chamber of Commerce",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Patron: Australian Budgerigar Society (ABS)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Patron: Australian Native Orchid Society - Beenleigh Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Commonwealth Public Sector Union (CPSU)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-12",
+   "date_submitted": "2026-01-12",
+   "details": "Suncorp Group: 4 x tickets to 2025- 26 Isuzu Ute A-League Season – Round 12 game on 9 January 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  }
+ ],
+ "aph_id": "88411",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Holzberger, Rowan",
+ "electorate": "Forde",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Holzberger",
+ "given_names": "Rowan",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "PolyNovo Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Arundel, QLD",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Latitude Financial",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Mortgage on investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Overdraft"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation: Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation: Self Managed Super Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (Queensland Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Manufacturing Workers' Union"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-01-12",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/88411.pdf",
+  "sha256": "3bd9fb567b521419f0268ca7daee1741a7752c5be4f8b53183bbb03ab0e4db4d",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/88411/statement/48"
+ },
+ "state": "QLD"
+}

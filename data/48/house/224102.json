@@ -1,0 +1,472 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-18",
+   "date_submitted": "2026-01-18",
+   "details": "17.1.26 Ticket to the Jack Jumpers basketball game x 1",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-18",
+   "date_submitted": "2026-01-18",
+   "details": "3.1.26 Ticket to the Jack Jumpers basketball game x 1",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-18",
+   "date_submitted": "2026-01-18",
+   "details": "29.12.25 Ticket to the Jack Jumpers basketball game x 1",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-18",
+   "date_submitted": "2026-01-18",
+   "details": "8.11.25 Ticket to the Jack Jumpers basketball game x 3",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-18",
+   "date_submitted": "2026-01-18",
+   "details": "1.11.25 Ticket to the Jack Jumpers basketball game x 3",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-18",
+   "date_submitted": "2026-01-18",
+   "details": "30.12.25 Ticket to the Taste of Summer x 5",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "1/2/2026 Tickets to the Jack Jumpers basketball game x 3",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Patron - Sorell Football Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Patron - Carlton Park Surf Life Saving Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Women Deliver Conference 2026 admission paid for by Asian Forum of Parliamentarians on Population and Development",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "South East Community Enterprises",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Hydrowood Holdings Pty Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "White Beach Tas (Investment)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Warrane Tas (Investment)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Not applicable mortgage on investment properties credit card liability",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "ANZ Bank cash accounts (multiple), RAIZ Invest Australia Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Life Insurance, Vehicle",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Rent income from investment properties",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Virgin Membership Lounge",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "AICD",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-05-22",
+   "date_submitted": "2026-05-21",
+   "details": "Chartered Accountants",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-05-27",
+   "date_submitted": "2026-05-27",
+   "details": "Mortgage with ANZ",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-05-27",
+   "date_submitted": "2026-05-27",
+   "details": "Credit card with ANZ",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-10",
+   "date_submitted": "2026-08-09",
+   "details": "1 X ticket to the MidWinter Ball sponsored by the Endeavour Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-08-10",
+   "date_submitted": "2026-08-09",
+   "details": "Patron of the Sorell Bowls Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  }
+ ],
+ "aph_id": "224102",
+ "chamber": "house",
+ "date_lodged": "2025-08-17",
+ "display_name": "White, Rebecca",
+ "electorate": "Lyons",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "White",
+ "given_names": "Rebecca",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "South East Community Enterprises"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Break O'Day Community Financial Services"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Richmond, TAS",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Generation Life",
+    "type": "Investment Bond"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Generation Life",
+    "type": "Investment Bond"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Horse float"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Farm machinery"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairmans Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Sorell Football Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member CPSU"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member UWU"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Equestrian Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Emily's List Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Coal River Products Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of AICD"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-09",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/224102.pdf",
+  "sha256": "af2b7dc0d38ff346d62ba4e50ab8362395a436f909d05e21fccd94e56d94064c",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/224102/statement/48"
+ },
+ "state": "TAS"
+}

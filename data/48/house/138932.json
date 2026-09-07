@@ -1,0 +1,495 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Astra TV Subscription in Electorate Office",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Investment property in Canberra",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Store Invest Enhanced Income Fund No 1",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2025-12-28",
+   "date_submitted": "2025-12-28",
+   "details": "WAM Income Maximiser",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
+ "aph_id": "138932",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "O'Brien, Edward",
+ "electorate": "Fairfax",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item accounts (dependent): columns listed different numbers of lines on page 5; lines were merged onto the shortest column rather than split into separate entries",
+   "item trusts (spouse): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "O'Brien",
+ "given_names": "Edward",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Aurizon Holdings Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Super Retail Rep Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Suncorp Grp Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Woolworths Grp Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "The Lottery Corporation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Findi"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "No",
+    "name": "Equity for Sophia - GCI - Gryphon Capital Income Trust",
+    "nature": "Managed investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "No",
+    "name": "Equity for Sophia - Regal Investment Fund",
+    "nature": "Managed investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "No",
+    "name": "Equity for Children - Ophir High Conviction Fund",
+    "nature": "Managed investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes Yes Yes Yes",
+    "name": "Store Invest Enhanced Income Fund No. 1 MXT (Metrics) Master Income Trust Equity for Sophia - GCI - Gryphon Capital Income Trust",
+    "nature": "Investment vehicle for self storage properties unitholding in Australian based alternative asset manager",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "nature": "Managed investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "name": "Equity for Sophia - Regal Investment Fund",
+    "nature": "Managed Investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes",
+    "name": "Equity for Children - Ophir High Conviction Fund",
+    "nature": "Management Invesment",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Buderim Qld",
+    "purpose": "Primary Residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra ACT",
+    "purpose": "Second residence for sitting weeks and during other Parliamentary duties"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra ACT",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Buderim QLD",
+    "purpose": "Primary Residence"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Not for Profit assisting young Australians (unpaid)",
+    "company": "Generation Innovation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Not for Profit assisting young Australians (unpaid)",
+    "company": "Generation Innovation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Home loan (Joint) against Buderim property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Home loan (Joint) against Canberra property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Home loan (Joint) against Buderim property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Home loan (Joint) against Canberra property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings Account (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Complete Access Account (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Mastercard"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Personal Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Electorate Allowance Transaction Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Australian Super",
+    "nature": "Superannuation Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings Account (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Complete Access Account (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings Account (sole)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Uni Super",
+    "nature": "Superannuation Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Ord Minnett Multi-Asset High Growth Portfolio",
+    "nature": "Managed Investment Scheme"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Youth Saver Account"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Investor directed portfolio service",
+    "nature": "Managed investment scheme, encompassing separately managed accounts: - Ord Minnett Australian Emerging Companies portfolio - Ord Minnett Australian Core Equities Portfolio - ASIA - BETA ASIATECH TIGERS ETF UNITS - CRED - BETAAUSCORPBONDETF ETF UNITS - MNRS - BETA GLOBAL GOLD ETF UNITS - MVA - VANECK PROPERTY ETF UNITS - NDQ - BETASHARENASDAQ100 ETF UNITS - QHAL - VANEXK QUAL HEDGED ETF UNITS"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin VIP Club Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Astra TV Subscription in Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Travel - flights, ground transfers, meals and accommodation provided by \"China Matters\" for a study tour to China: 23-29 Sept 2019."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Travel - flights, ground transfers, meals and accommodation provided by \"the Ministry of Foreign Affairs, Republic of China (Taiwan)\" for a study tour to Taiwan: 29 October - 1 November 2019."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Contribution of $5,000 towards accommodation and domestic flights provided by \"Coalition for Conservation\" for a study tour to the USA and Canada: 23 Jan - 9 Feb 2023."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Attendance at the Alliance for Responsible Citizenship, including flights, accommodation, transfers, conference registration and events provided by \"Alliance for Responsible Citizenship\" held in the United Kingdom: expenses spread between 27 Oct - 5 Nov 2023."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Attendance at COP28, including flights, accommodation, transfers, conference registration and events provided by \"Coalition for Conservation\" held in Dubai, United Arab Emirates: expenses spread between 5 Dec - 13 Dec 2023."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Queensland Club"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-12-28",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/138932.pdf",
+  "sha256": "61f8322f39cc832d843ef0d0ee01d7c4b22b99fb254a7a7cbae75977a4c2b817",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/138932/statement/48"
+ },
+ "state": "QLD"
+}

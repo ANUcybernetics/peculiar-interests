@@ -1,0 +1,382 @@
+{
+ "alterations": [
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Motor vehicle loan - CBA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Two tickets for self and guest (not spouse) from Rugby Australia to watch the Wallabies vs Fiji at McDonald Jones Stadium, Newcastle on 6 July 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Garran Advisory is a newly established Australian advisory firm that is exclusively focused on providing advisory services to support Australian federal and state governments. 100% of the shares of Garran Advisory are held by Gavin MacLaren, CEO and Senior Partner of Corrs Chambers Westgarth, on trust for the Corrs Chambers Westgarth partnership of which spouse (Michael Chaaya) is a partner.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Savings accounts - CBA",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-08",
+   "date_submitted": "2025-09-08",
+   "details": "Thomson Reuters \"Family Law 7th Edition\" by Grant Riethmuller and Robin Smith (hardcopy)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-08",
+   "date_submitted": "2025-09-08",
+   "details": "Tickets and hospitality for the Eels vs Knights game on Sunday 7 September for self and two daughters (3) as guests of the Parramatta Eels",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-08",
+   "date_submitted": "2025-09-08",
+   "details": "Two tickets for self and spouse to the 2025 Midwinter Ball in Parliament House on 27 August as guests of Foxtel Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-08",
+   "date_submitted": "2025-09-08",
+   "details": "Two tickets for self and spouse to the 2025 Midwinter Ball in Parliament House on 27 August as guests of Foxtel Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-10",
+   "date_submitted": "2026-06-09",
+   "details": "Two tickets for self and guest (not spouse) from Future Women to attend the Future Women Federal Budget Dinner in Canberra on 13 May 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-06",
+   "date_submitted": "2026-07-06",
+   "details": "Two tickets for self and spouse to the 2026 Midwinter Ball in Parliament House on 1 July as guests of Free TV Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-06",
+   "date_submitted": "2026-07-06",
+   "details": "Accommodation for one night (4 July) at the Hilton Hotel, Sydney from the Transport Workers Union (TWU) for the NSW Labor conference weekend, 4-5 July 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  }
+ ],
+ "aph_id": "159771",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Rowland, Michelle",
+ "electorate": "Greenway",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Rowland",
+ "given_names": "Michelle",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Share in Elysium Pty Ltd (private company)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Share in Elysium Pty Ltd (private company)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes",
+    "name": "Pericles Unit Trust/Elysium Pty Ltd",
+    "nature": "Real property investments in Glenwood, Randwick and Kingston",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes",
+    "name": "Pericles Unit Trust/Elysium Pty Ltd",
+    "nature": "Real property investments in Glenwood, Randwick and Kingston",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Self",
+    "name": "Pericles Unit Trust/Elysium Pty Ltd",
+    "nature": "Real property investments as above",
+    "role": "trustee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Self",
+    "name": "Pericles Unit Trust/Elysium Pty Ltd",
+    "nature": "Real property investments as above",
+    "role": "trustee"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Potts Point, Caves Beach",
+    "purpose": "Residential investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Potts Point, Caves Beach, Kenthurst",
+    "purpose": "Residential investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee of Pericles Unit Trust",
+    "company": "Elysium Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee of Pericles Unit Trust",
+    "company": "Elysium Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Legal Practice",
+    "name": "Corrs Chambers Westgarth",
+    "nature": "Partner"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Joint mortgages with spouse"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Joint mortgages with spouse"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Legalsuper superannuation account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "ARIA superannuation account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "AMP superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Australia Beyond Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairman's Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Australia Beyond Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Law Society of NSW"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "University of Melbourne - Senior Fellow (Melbourne Law Masters)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-06",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/159771.pdf",
+  "sha256": "60cdda7ddddbf3e70bad769088bfe2e37d5cc1fa3ff154fee39499214da56075",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/159771/statement/48"
+ },
+ "state": "NSW"
+}

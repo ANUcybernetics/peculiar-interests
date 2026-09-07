@@ -1,0 +1,165 @@
+{
+ "alterations": [],
+ "aph_id": "300130",
+ "chamber": "house",
+ "date_lodged": "2025-08-07",
+ "display_name": "Lim, Sam",
+ "electorate": "Tangney",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Lim",
+ "given_names": "Sam",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Carnegie Clean Energy Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Living Cell Technologies Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "White Cliff Minerals Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bedfordale, WA",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Johor, Malaysia",
+    "purpose": "Family Home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bedfordale, WA",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Bank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Australian Super Transition to retirement benefit"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership - Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership - Virgin Australia Beyond Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Perth Airport Car access card"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-08-07",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/300130.pdf",
+  "sha256": "013d9e9e4feff5863835dfac8f24530a9de9d5ceed8483d432d0d8c494bf4555",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/300130/statement/48"
+ },
+ "state": "WA"
+}

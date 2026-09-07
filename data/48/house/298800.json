@@ -1,0 +1,451 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Deterra Royalties Limited",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "McKinnon Institute Advanced Political Leadership Course",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Cost: $32,000 (plus GST) which includes covering the costs of tuition, induction, residential intensive and workshop (accommodation for 7-9 nights) and all meals and refreshments",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Billabong Community Early Learning Centre",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Tickets x 2 – 20th Anniversary Gala Dinner – Perth, 11 Oct 2025 | from Waalitj Foundation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-20",
+   "date_submitted": "2025-11-20",
+   "details": "McKinnon Institute for Political Leadership) Scholar Series Program 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-20",
+   "date_submitted": "2025-11-20",
+   "details": "Cost: $2,500 (excluding GST) which was a full day of professional development inclusive of tuition, subject matter experts and catering",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-06",
+   "date_submitted": "2026-08-06",
+   "details": "Received flight upgrade (first class) on Qantas Airways from LA to Sydney for a delegation, 16 July 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-26",
+   "date_submitted": "2026-08-26",
+   "details": "1 Ticket - AAMRI Rising Star Award dinner - Parliament House, 12 Aug 2026 | from Association of Australian Medical Research Institutes",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  }
+ ],
+ "aph_id": "298800",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Mascarenhas, Zaneta",
+ "electorate": "Swan",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Mascarenhas",
+ "given_names": "Zaneta",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "lluka Resources Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra Corporation Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "East Victoria Park",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "State Custodians",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "ANZ",
+    "type": "Managed Funds"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank Australia",
+    "nature": "Transaction & savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "HSBC",
+    "nature": "Transaction & savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Unibank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - AMP"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Savings interest"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Shareholder dividends"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Managed funds"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Savings interest"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Access"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Perth Airport Car Access Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Beyond Lounge Access"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription for Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Amnesty International"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Conservation Foundation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Manufacturers Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Como Bowling & Recreation Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Curtin Student Guild (life member)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "East Victoria Park Primary Schools Parents & Citizens Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Emily's List"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fabians"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Professionals Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Star Street Uniting Church (associate member)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "WA Labor"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Welfare Rights and Advocacy Service"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "100 Women"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Professionals Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "RTRFM"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Unibank"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "WA Labor"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-26",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/298800.pdf",
+  "sha256": "27c8bb4781e180785ed2d7daaf959eefcf523b3e566136059bf777ee58308970",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/298800/statement/48"
+ },
+ "state": "WA"
+}

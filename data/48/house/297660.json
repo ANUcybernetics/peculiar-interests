@@ -1,0 +1,255 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "15.11.25: Guest of AFLW at Hawthorn v. Carlton AFLW game at Ikon Park. Estimated value of hospitality ~$50.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "Gift: box of cards, wrapping paper, and a paperweight from Endeavour Foundation, estimated value ~$50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "Gift: box of cards, wrapping paper, and a paperweight from Endeavour Foundation, estimated value ~$50",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-06",
+   "date_submitted": "2026-02-06",
+   "details": "Tickets to President's Brunch and Kooyong Classic Tennis Tournament 15 Jan 2026 x3 from Kooyong Lawn Tennis Club. Est value $450.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-06",
+   "date_submitted": "2026-02-06",
+   "details": "Nine bottles of wine from Andrew Simpson. Est value. Est value $345.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-06",
+   "date_submitted": "2026-02-06",
+   "details": "Two bags of coffee bean from Industry Beans. Est value $136.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Guest of the Australasian Global Health Alliance to their Intergenerational Global Health Masterclass event held in Sydney",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-06-16",
+   "date_submitted": "2026-06-16",
+   "details": "Rotary Club of Balwyn (paid membership)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-16",
+   "date_submitted": "2026-06-16",
+   "details": "Complimentary subscription to Rampart",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-28",
+   "date_submitted": "2026-07-28",
+   "details": "Two tickets to the Federal Parliamentary Press Gallery Midwinter Ball on 1 July 2026 from the Australian Financial Review",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  }
+ ],
+ "aph_id": "297660",
+ "chamber": "house",
+ "date_lodged": "2025-08-16",
+ "display_name": "Ryan, Monique",
+ "electorate": "Kooyong",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item accounts (self): columns listed different numbers of lines on page 4; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Ryan",
+ "given_names": "Monique",
+ "honorific": "Dr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kooyong, Victoria",
+    "purpose": "Residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Sole trader",
+    "company": "Kooyong Independent Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Sole trader",
+    "company": "Kooyong Independent Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB CBA",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car - Volvo XC40 EV"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation & Life Insurance - UniSuper"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation & Life Insurance - Australian Super"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fellowship, Royal Australasian College of Physicians"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Annual Membership - Carlton AFL and AFLW teams"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-28",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/297660.pdf",
+  "sha256": "b1cfa1672a2ea4505acdd0a547b36d84b1c5c6f0739e3893408b2a6b46bbcdc4",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/297660/statement/48"
+ },
+ "state": "VIC"
+}

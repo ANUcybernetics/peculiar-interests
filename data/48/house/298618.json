@@ -1,0 +1,379 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-01",
+   "date_submitted": "2025-10-01",
+   "details": "Giants Netball Hospitality Tickets x 2 (self and staff member) as guest of Netball NSW - 12 July 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-01",
+   "date_submitted": "2025-10-01",
+   "details": "Event partly hosted by Anacta - 23 July 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-06",
+   "details": "Ticket to Australia vs India T20 provided by Future Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-06",
+   "details": "Member - Revesby Workers' Club (including Education Committee and Light on the Hill Society sub-club)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-06",
+   "details": "Member - Revesby Workers' Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-13",
+   "details": "Cricket Ashes Pink Test (Australia vs England) SCG - Day 2 - Hospitality Tickets x 2 (self and staff member) as guest of Cricket NSW - 5 Jan 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-13",
+   "date_submitted": "2026-07-13",
+   "details": "NRL - St George Illawarra Dragons vs Canberra Raiders - 3 x Hospitality Tickets as guest of St George Venues - 28 June 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  }
+ ],
+ "aph_id": "298618",
+ "chamber": "house",
+ "date_lodged": "2025-08-15",
+ "display_name": "Soon, Xian-Zhi",
+ "electorate": "Banks",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item directorships (self): columns listed different numbers of lines on page 3; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Soon",
+ "given_names": "Xian-Zhi",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Padstow",
+    "purpose": "Residential (joint with partner)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Padstow",
+    "purpose": "Residential (joint with partner)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "System 2 is a registered charity that aims to solve complex social problems by bringing together behavioural science, systems thinking and insights from deep collaboration with those with lived experience, to co-design, test and scale practical solutions. System 2 is also an Approved Research Institute with Deductible Gift Recipient (DGR) status.",
+    "company": "System 2: Centre for Behavioural and System Change"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Mortgage on Residential Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Credit Cards (Mastercard)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "American Express",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Mortgage on Residential Property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Credit Cards (Mastercard)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings / Offset Accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "HSBC UK",
+    "nature": "Everyday / Current Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings / Offset Accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "HSBC UK",
+    "nature": "Everyday / Current Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings Account"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Aware Super)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Commonwealth Superannuation Corporation - Public Sector Superannuation accumulation plan)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (HESTA Super Fund)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment Income - ICON Network"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Rotary Club of Padstow"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Lugarno Lions Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Community and Public Sector Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - United Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Revesby Workers' Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Panania Diggers Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Bankstown Sports Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Club Rivers"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - South Hurstville RSL Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron - New South Wales Justices Association (Canterbury Bankstown Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron - Canterbury Bankstown Tennis Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron - Chinese Gold Miners Memorial"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Health Services Union"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-13",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/298618.pdf",
+  "sha256": "3d4139faa47c8371e648a06af7f16c73bd67ede0234e28f99940b07557b8161e",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/298618/statement/48"
+ },
+ "state": "NSW"
+}

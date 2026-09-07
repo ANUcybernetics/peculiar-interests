@@ -1,0 +1,442 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-15",
+   "date_submitted": "2025-12-15",
+   "details": "2x tickets to the Ladbrokes Cox Plate Day from Moonee Valley Racing Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-15",
+   "date_submitted": "2025-12-15",
+   "details": "2x tickets to Turnbull Stakes Race Day from Victoria Racing Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-15",
+   "date_submitted": "2025-12-15",
+   "details": "4x tickets to the AFLW Round 4 Essendon vs Geelong game & club function from Essendon Football Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-15",
+   "date_submitted": "2025-12-15",
+   "details": "2x corporate tickets to the AFL Preliminary Final Collingwood vs Brisbane from ANACTA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-24",
+   "details": "Essendon vs Collingwood Anzac Day Game: Hospitality (lunch & drinks) & ticket to match on 25/04/26 provided by Essendon Football Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-24",
+   "details": "Hospitality paid for by Banksia Strategic Partners for an event held on 23/04/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-24",
+   "details": "Geelong vs Hawthorn AFL Game: 4 tickets provided by Telstra on 06/04/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-24",
+   "details": "Essendon vs Collingwood Anzac Day Game: Hospitality (lunch & drinks) & ticket to match on 25/04/26 provided by Essendon Football Club",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  }
+ ],
+ "aph_id": "263427",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Briskey, Joanna",
+ "electorate": "Maribyrnong",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Briskey",
+ "given_names": "Joanna",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Suncorp Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Santos"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Yarraville, Victoria, Australia",
+    "purpose": "Residential (jointly owned with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Yarraville, Victoria, Australia",
+    "purpose": "Residential (jointly owned with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage on residential property (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage on residential property (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "SGfleet",
+    "nature": "Novated Lease"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Raiz",
+    "nature": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "RACQ",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from employment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "1x ticket to AFL Dream Time Game from Essendon Football Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "2x tickets to AFL ANZAC Day Game from Essendon Football Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "1x ticket to Suncorp Super Netball Grand Final from Netball Victoria"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "2x tickets to Netball Victoria Grand Final Function"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "1x ticket to AFL Dream Time Game from Essendon Football Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "1x ticket to Suncorp Super Netball Grand Final from Netball Victoria"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Refreshments from ANACTA for First Speech function on 23/08/2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Electrical Trades Union Victoria"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Manufacturing Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Community and Public Sector Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Western Bulldogs Football Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "EMILYs List"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Western Bulldogs Football Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Lounge Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Western Bulldogs Football Club"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-24",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/263427.pdf",
+  "sha256": "2a88fa67f53879acd215cb9dca939f36829fd8e3415b5061fc0985ba6f0ea3d3",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/263427/statement/48"
+ },
+ "state": "VIC"
+}

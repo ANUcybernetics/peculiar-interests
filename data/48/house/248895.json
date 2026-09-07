@@ -1,0 +1,447 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-07-24",
+   "date_submitted": "2025-07-24",
+   "details": "Membership of the Qantas Chairman's Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-07-24",
+   "date_submitted": "2025-07-24",
+   "details": "Membership of Virgin Australia Beyond",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2025-07-24",
+   "date_submitted": "2025-07-24",
+   "details": "Superannuation - Aware Super",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2025-07-24",
+   "date_submitted": "2025-07-24",
+   "details": "Superannuation - Public Service Superannuation Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "Pennifold Pty Ltd - Corporate Trustee",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "Valbar Nominees Pty Ltd - Corporate Trustee",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "Valbar Memorial Trust - Discretionary Trust - Beneficiary",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-10-15",
+   "date_submitted": "2025-10-15",
+   "details": "Property located in Hope Island - Deceased Estate in my name",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-15",
+   "date_submitted": "2025-10-15",
+   "details": "Fang+ ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-15",
+   "date_submitted": "2025-10-15",
+   "details": "CSL",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-12",
+   "date_submitted": "2025-12-12",
+   "details": "Kingston ACT - Purchased by Pennifold Pty Ltd ATF Valbar Memorial Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-12-12",
+   "date_submitted": "2025-12-12",
+   "details": "DTEC ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-12",
+   "date_submitted": "2025-12-12",
+   "details": "3/12/25 Business NSW CEO Dinner",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-12",
+   "date_submitted": "2025-12-12",
+   "details": "Hope Island property",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-01-19",
+   "date_submitted": "2026-01-19",
+   "details": "Westpac Business Account - Pennifold Pty Ltd ATF Valbar Memorial Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-01-19",
+   "date_submitted": "2026-01-19",
+   "details": "Westpac Term Deposit - Pennifold Pty Ltd ATF Valbar Memorial Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "Shares held by Pennifold Pty Ltd ATF Valbar Memorial Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "BHP",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "MQG",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "A200",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "ATOM",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "DTEC",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "FANG+",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "IVV",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "IXJ",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "QUAL",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "WIRE",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "GMG",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  }
+ ],
+ "aph_id": "248895",
+ "chamber": "house",
+ "date_lodged": "2025-07-23",
+ "display_name": "Penfold, Alison",
+ "electorate": "Lyne",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Penfold",
+ "given_names": "Alison",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CSL Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BHP Group Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ANZ Group Holdings Limited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Fortescue Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Macquarie Group Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Goodman Group"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wauchope",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "15 min helicopter flight over flood ravaged Barrington River - 6 June 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Wauchope Rotary Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Camden Haven Show Society"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-03-09",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/248895.pdf",
+  "sha256": "2fdd91cd2757b9c2cec89a15d4e20a38de99584af4d0e2b7afb7562698e24925",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/248895/statement/48"
+ },
+ "state": "NSW"
+}

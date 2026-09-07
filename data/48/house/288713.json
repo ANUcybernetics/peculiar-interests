@@ -1,0 +1,391 @@
+{
+ "alterations": [
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-02",
+   "date_submitted": "2025-09-02",
+   "details": "Qantas Chairman's Lounge membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-05",
+   "date_submitted": "2025-09-05",
+   "details": "Endeavour Group ticket to APH Mid- Winter Ball",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-05",
+   "date_submitted": "2025-09-05",
+   "details": "Endeavour Group ticket to APH Mid- Winter Ball",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Tennis Australia - Australian Open 2026 - 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "25 January 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "5:00 pm - 11:30 pm",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Sunday 25 January (Night Session)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Tennis Australia Invitation - Parliamentary Friends of Tennis",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Royal South Yarra Tennis Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Saturday 31 January 2026 9.30am to 12.30pm",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "2 Tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-02",
+   "date_submitted": "2026-03-02",
+   "details": "Trip to Papua New Guinea 14/02/2026 - 21/02/2026 as part of the Australian Regional Leadership Initiative to observe the impact of Australia's overseas development assistance. Travel, accommodation and meals paid for by the Gates Foundation.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-03-06",
+   "date_submitted": "2026-03-06",
+   "details": "Part ownership of rural property in Toolamba, Vic, for farming purposes, including 18 ML High Reliability and 8.2 ML Low Reliability of 1A Greater Goulburn water right.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-04",
+   "date_submitted": "2026-09-04",
+   "details": "Accepted invitation for one from Crop Life Australia to attend the celebration of award winning wines from the National Wine Show of Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-04",
+   "date_submitted": "2026-09-04",
+   "details": "The dinner was held on Wednesday 19 August 2026 at Louis Dining, the Realm Hotel, 18 National Circuit, Barton, ACT",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  }
+ ],
+ "aph_id": "288713",
+ "chamber": "house",
+ "date_lodged": "2025-08-06",
+ "display_name": "Birrell, Sam",
+ "electorate": "Nicholls",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Birrell",
+ "given_names": "Sam",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra shares"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Shepparton, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Shepparton, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage on Residential Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Home Loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage on Residential Property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Home Loan"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Generation Life",
+    "nature": "Investment Bond"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment - University of Melbourne"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "McKinnon Institute for Political Leadership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Name of program: Advanced Political Leadership 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Cost: The total cost of the program is $32,000 (plus GST)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "What this cost covers: Successful applicants will be provided with a full scholarship funded by the McKinnon Institute, covering the costs of tuition, induction, residential intensive and workshop (accommodation for 7-9 nights) and all meals and refreshments."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Summary of the program: Advanced Political Leadership is a cohort based, face-to-face program designed to help you prepare for ministerial life, and enhance impact and influence through your career. This unique program challenges participants to lead effectively, legitimately and with an understanding of their democratic stewardship responsibilities. It has been developed with insights from experienced and successful political leaders, and evolved with detailed feedback from past participants. The curriculum is practical and applied, and challenges participants to prepare for their future roles through a combination of self-reflection, structured small group work and whole-of-cohort dialogues."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Melbourne Cricket Club, Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Alpine Club of Victoria, Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "RACV Club, Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Melbourne Cricket Club, member"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-09-04",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/288713.pdf",
+  "sha256": "941f5ce238e7547b53c3199506b4ed3149445454c9f95006d962c7a909c690d8",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/288713/statement/48"
+ },
+ "state": "VIC"
+}

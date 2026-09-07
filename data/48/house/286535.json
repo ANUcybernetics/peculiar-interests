@@ -1,0 +1,1552 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-31",
+   "date_submitted": "2025-12-30",
+   "details": "Ticket for Brisbane Ashes Cricket Series - 5 December 25 - RACQ",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-08",
+   "date_submitted": "2026-05-07",
+   "details": "Term Deposit - WBC",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-08",
+   "date_submitted": "2026-05-07",
+   "details": "Term Deposit - WBC",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  }
+ ],
+ "aph_id": "286535",
+ "chamber": "house",
+ "date_lodged": "2025-08-08",
+ "display_name": "Willcox, Andrew",
+ "electorate": "Dawson",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Willcox",
+ "given_names": "Andrew",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "A & R Land Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AJRW Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "A & R Property Development Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AR Supa Management Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "A & R Willcox Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JSTW Holdings Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JSTW Properties Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "OAG Properties Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "OAG Holdings Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "OAG Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "R & A Corporation Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayand Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Land Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Properties Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Holdings Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JSTW Land Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra Corp Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Better Shares Global Sustainability Leaders ETF"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "A & R Land Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AJRW Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "A & R Property Development Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AR Supa Management Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "A & R Willcox Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JSTW Holdings Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JSTW Properties"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "OAG Properties Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "OAG Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "R & A Corporation Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayand Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Holdings Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Properties Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Rayandwill Land Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JSTW Land Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Fun Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Fun Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Fun Trust No 3",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Georgia Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Georgia Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Georgia Trust No 3",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Owen Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Owen Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Owen Trust No 3",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Jack Willcox Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Jack Willcox Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Shannon Willcox Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Shannon Willcox Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Tom Willcox Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Tom Willcox Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The A & R Investment Trust",
+    "nature": "Finance Entity",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Willcox Trading Trust",
+    "nature": "Property Management",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Fun Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Fun Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Fun Trust No 3",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Georgia Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Georgia Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Georgia Trust No 3",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Owen Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Owen Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Owen Trust No 3",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Jack Willcox Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Jack Willcox Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Shannon Willcox Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Shannon Willcox Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Tom Willcox Trust",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Tom Willcox Trust No 2",
+    "nature": "Investment Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The A & R Investment Trust",
+    "nature": "Finance Entity",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "The Willcox Trading Trust",
+    "nature": "Property Management",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mt St John - Townsville",
+    "purpose": "Owner/Landlord"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Garbutt - Townsville",
+    "purpose": "Owner/Landlord"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Currajong - Townsville",
+    "purpose": "Owner/Landlord"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bowen",
+    "purpose": "Residential Owner Occupied"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mt St John - Townsville",
+    "purpose": "Owner/Landlord"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Garbutt - Townsville",
+    "purpose": "Owner/Landlord"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Currajong - Townsville",
+    "purpose": "Owner/Landlord"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bowen",
+    "purpose": "Residential Owner Occupied"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "A & R Land Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "AJRW Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "A & R Property Development Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "AR Supa Management Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "A & R Willcox Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "JSTW Holdings Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "JSTW Properties"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "OAG Properties Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "OAG Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "R & A Corporation Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Passive Investments",
+    "company": "Rayand Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Holdings Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Properties Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Land Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "JSTW Land Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "A & R Land Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "AJRW Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "A & R Property Development Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "AR Supa Management Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "A & R Willcox Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "JSTW Holdings Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "JSTW Properties"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "OAG Properties Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "OAG Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "R & A Corporation Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Passive Investments",
+    "company": "Rayand Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Holdings Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Properties Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "Rayandwill Land Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee Company",
+    "company": "JSTW Land Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Jack, Shannon & Tom Partnership No 1",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Jack, Shannon & Tom Partnership No 2",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Georgia Owen Fun Partnership",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Georgia Owen Fun Partnership No 2",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Georgia Owen Fun Partnership No 3",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Jack, Shannon & Tom Willcox Partnership No 1",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Jack, Shannon & Tom Willcox Partnership No 2",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Georgia Owen Fun Partnership",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Georgia Owen Fun Partnership No 2",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Property Investment",
+    "name": "The Georgia Owen Fun Partnership No 3",
+    "nature": "Beneficiary of Partners Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank",
+    "nature": "Commercial Loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Loan",
+    "nature": "Commercial Loan"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "AMP",
+    "type": "Shareholder"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Maxi Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Statement Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Maxi Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "WBC",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Statement Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Dividends - Bowen Farmers Transport Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Subscription"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "QANTAS Chairmans Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia Beyond Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Ticket and accommodation for Cowboys v Bulldogs game - 12 July 25 - Bravus Mining & Resources"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Ticket and accommodation for Cowboys v Bulldogs game - 12 July 25 - Bravus Mining & Resources"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Bowen Pistol Club - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Kennedy Masonic Lodge - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "National Servicemen's Association of Australia - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Chamber of Commerce Mackay - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "LNP - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-05-07",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/286535.pdf",
+  "sha256": "de0229c53f35b0d025734e0c0f0bf0ae0d5e5355838ac13f9751ede462d8a032",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/286535/statement/48"
+ },
+ "state": "QLD"
+}

@@ -1,0 +1,643 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-07-31",
+   "date_submitted": "2025-07-31",
+   "details": "2 x Tickets to AFL match and hospitality at President's function from",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-07-31",
+   "date_submitted": "2025-07-31",
+   "details": "Western Bulldogs",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "1 night accommodation in Mumbai, India provided by Australia India Youth Dialogue",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-06",
+   "date_submitted": "2025-10-06",
+   "details": "One ticket to AFL Grand Final and Hospitality from Foxtel",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-13",
+   "details": "2 x tickets to tennis match and hospitality from Tennis Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-13",
+   "details": "2 x tickets to tennis match and hospitality from Nine Entertainment Co Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-13",
+   "details": "2 x jerseys from Football Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-13",
+   "details": "1 x bottle of whisky from the Ambassador of Bhutan, Sonam Tobgay",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-13",
+   "details": "1 x bottle of vodka from the Ambassador of Mongolia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-05-13",
+   "date_submitted": "2026-05-13",
+   "details": "Superannuation - Aware Super",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-05-13",
+   "date_submitted": "2026-05-13",
+   "details": "Telstra Superannuation Scheme",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-05",
+   "date_submitted": "2026-06-05",
+   "details": "Flights, accommodation and hospitality provided by the Indonesian Government for travel to Solo, Indonesia from 19-23 May, in role as Chair of the Australia- Indonesia Parliamentary Country Group.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Residential Apartment.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Location: Footscray, Victoria",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  }
+ ],
+ "aph_id": "193430",
+ "chamber": "house",
+ "date_lodged": "2025-07-31",
+ "display_name": "Watts, Timothy",
+ "electorate": "Gellibrand",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item trusts (self): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries",
+   "item trusts (spouse): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Watts",
+ "given_names": "Timothy",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Watts Kwok Pty Ltd acts solely as trustee for Watts Kwok Family Trust ACN 169 429 369"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Watts Kwok Pty Ltd acts solely as trustee for Watts Kwok Family Trust ACN 169 429 369"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Bright Smart Media Services PL ACN 139 408 601"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ISHARES CORE COMPOSITE BOND ETF IAF"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ISHARES CORE MSCI WORLD EX AUS ESG LEADERS (AUD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "HEDGED) ETF IHWL"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VANGUARD ETHICALLY CONSCIOUS INTERNATIONAL SHARES"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "INDEX ETF VESG"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ISHARES CORE MSCI AUSTRALIA ESG LEADERS ETF IESG"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SPDR DOW JONES GLOBAL REAL ESTATE ESG FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VanEck FTSE Global Infrastructure (Hedged)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "TELSTRA CORPORATION LTD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Watts Kwok Family Trust Watts Kwok Pty Ltd as trustee for Watts Kwok Family Trust",
+    "nature": "Property holdings",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Watts Kwok Family Trust",
+    "nature": "Property Holdings",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Sole interest",
+    "name": "Watts Kwok Pty Ltd as trustee for Watts Kwok Family Trust Bright Smart Media Services",
+    "nature": "Consultancy Services",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Watts Kwok Family Trust",
+    "nature": "Property holdings",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Children",
+    "name": "Watts Kwok Family Trust",
+    "nature": "Property Holdings",
+    "role": "trustee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Children",
+    "name": "Watts Kwok Family Trust",
+    "nature": "Property Holdings",
+    "role": "trustee"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Footscray, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston, ACT",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Footscray, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Property Services",
+    "company": "Watts Kwok Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Property Services",
+    "company": "Watts Kwok Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Consultancy",
+    "company": "Bright Smart Media Services Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Melbourne",
+    "nature": "Home Loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Amex",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Telstra Superannuation Scheme",
+    "type": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "AMP",
+    "type": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "BT",
+    "type": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Australian Super",
+    "type": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Smart Access Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Melbourne",
+    "nature": "Offset Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING Direct",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "UP Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Melbourne",
+    "nature": "Offset Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Smart Access Account"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Telstra Life Insurance"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Pay TV subscription in Melbourne electorate office from Foxtel."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complementary membership of QANTAS Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complementary membership of Virgin Australia The Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Western Bulldogs FC"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Williamstown Lifesaving Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of ALP, Williamstown Branch (Vic)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Western United FC"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Footscray Traders Association"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of ALP, Footscray Branch (Vic)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Victorian Tourism Industry Council"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Australian Society of Travel Writers"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Footscray Community Arts Centre"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-17",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/193430.pdf",
+  "sha256": "7b8733d74fde4c45381691efd75bc5d4af513878fa36c701e84444f9c00e3fce",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/193430/statement/48"
+ },
+ "state": "VIC"
+}

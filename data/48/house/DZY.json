@@ -1,0 +1,440 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "World Hellenic Inter-Parliamentary (WHIA) Board Meeting in Athens and Istanbul.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Board Meeting 10 January, 2026 to 17 January",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "One return economy airfare Adelaide Australia to Athens Greece return.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Visit to the Orthodox Patriarch in Istanbul with the WHIA Board.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "One economy airfare Athens to Istanbul, return. with 3 nights accommodation in Athens and two nights in Istanbul.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "16 January, 2025 to 19 January, 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Funded by the World Hellenic Inter Parliamentary Association.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "World Hellenic Inter-Parliamentary (WHIA) Board Meeting in Athens and Istanbul.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Board Meeting 10 January, 2026 to 17 January",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "One return economy airfare Adelaide Australia to Athens Greece return.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Visit to the Orthodox Patriarch in Istanbul with the WHIA Board.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "One economy airfare Athens to Istanbul, return. with 3 nights accommodation in Athens and two nights in Istanbul.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "16 January, 2025 to 19 January, 2025",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Funded by the World Hellenic Inter Parliamentary Association.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-28",
+   "date_submitted": "2026-08-28",
+   "details": "Return Flights -Australia/Greece Sponsored by World Hellenic InterParliamentary Association.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-28",
+   "date_submitted": "2026-08-28",
+   "details": "-to attend the World Hellenic Inter- Parliamentary Association (WHIA) for the WHIA Board Meeting and participate in Eastern Mediterranian Security and Geopolitis Summit Forum (20July, 31 July 2026). Sponsored by WHIA.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-28",
+   "date_submitted": "2026-08-28",
+   "details": "One economy return airfare Adelaide Athens. Accommodation for duration of Board meeting and summit.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  }
+ ],
+ "aph_id": "DZY",
+ "chamber": "house",
+ "date_lodged": "2025-08-25",
+ "display_name": "Georganas, Steven",
+ "electorate": "Adelaide",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Georganas",
+ "given_names": "Steven",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "CBD apartment in Adelaide",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "House in Mile End",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Greece",
+    "purpose": "Block of unconstructed residential land (inheritance)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Small Apartment in Athens, Greece",
+    "purpose": "Residential not rented vacant"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "mortgage on CBD apartment in Adelaide"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Vision Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Statewide Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Super SA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Ownership of a small block of farm land (olive groves) in Greece -inherited"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "interest from savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Return Flights -Australia/Greece"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "-to attend the World Hellenic Inter-Parliamentary Association (WHIA) for the WHIA Board Meeting (15-19 July, 2025). Sponsored by WHIA."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "1 economy return airfare Athens."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Return Flights -Australia/Greece"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "-to attend the World Hellenic Inter-Parliamentary Association (WHIA) for the WHIA Board Meeting (15-19 July, 2025). Sponsored by WHIA."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "1 economy return airfare Athens."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of West Adelaide Football Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hon Board Member - Thebarton Senior College"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of the ALP"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Services Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "CPSU"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Board Member of World Hellenic Inter- Parliamentary Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "West Adelaide Football Club No1 Ticket Holder"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairman's Lounge and Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin VIP Member"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-28",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/DZY.pdf",
+  "sha256": "c90db4086219142bdbf6e9153248b30c328937723e9a23a4be1cb232439abe3a",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/DZY/statement/48"
+ },
+ "state": "SA"
+}

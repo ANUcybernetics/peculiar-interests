@@ -1,0 +1,344 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "2 x Chairman's tickets to Melbourne City FC V Melbourne Victory FC on 31 May 2025 from Melbourne City FC",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Closed complete access account, Smart access account and Netbank saver Commonwealth Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-11",
+   "date_submitted": "2025-09-11",
+   "details": "Trade Union Organiser Income",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-11",
+   "date_submitted": "2025-09-11",
+   "details": "Trade Union Organiser Income",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-17",
+   "date_submitted": "2025-10-17",
+   "details": "Baby gift received from UAE Ambassador, His Excellency Dr. Fahad Obaid Mohamed Altaffag Almarashda, value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-17",
+   "date_submitted": "2025-10-17",
+   "details": "Baby Gift received from Representative of the Taipei Economic and Cultural Office in Australia, Douglas Hsu, value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-17",
+   "date_submitted": "2025-10-17",
+   "details": "Baby gift received from Mayor of Grater Dandenong, Cr Jim Memeti, value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-27",
+   "date_submitted": "2025-10-24",
+   "details": "2 x Chairman's Room tickets to the Cranbourne Cup at Sandown Greyhounds.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-05",
+   "date_submitted": "2025-12-05",
+   "details": "Baby gift-gold pendant from constituent, value unknown.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-22",
+   "date_submitted": "2026-01-22",
+   "details": "2 x tickets to day 2 Ashes Boxing Day Test between Australia and England from Cricket Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-24",
+   "date_submitted": "2026-02-24",
+   "details": "1 x 100ml bottle of perfume from constituent, value unknown.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "2 x $200 gift hampers from Lim's Pharmacy for fundraiser auction",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "6 x 350gram gift boxes of Dubai chocolates for fundraiser auction From AusFood Gobal",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  }
+ ],
+ "aph_id": "299964",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Fernando, Cassandra",
+ "electorate": "Holt",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Fernando",
+ "given_names": "Cassandra",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Woolworths and Crypto Currency"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Afterpay, Can Group, Myer and Pin Bella Mines"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Dandenong North Victoria",
+    "purpose": "Previous family residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Narre Warren South Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "St Albans Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Braybrook Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on previous family property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage on residential properties"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "2 x everyday offset accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "REST Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "REST Superannuation fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Trade Union Organiser income"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Minor income from accounts/investments listed"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Minor income from accounts/investments listed"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Hospitality / membership of Qantas and Virgin lounges"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Accor Hotels Gold Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "SDA membership"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-04-20",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/299964.pdf",
+  "sha256": "30b24af4d2faec6366dbbad0168f269dfb79859f27bf58ceb6e270dac8d78bc3",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/299964/statement/48"
+ },
+ "state": "VIC"
+}

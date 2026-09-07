@@ -1,0 +1,269 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-19",
+   "date_submitted": "2026-01-19",
+   "details": "Received from Premier National and the Australian Hotels Association in the sum of $3,900 on 22nd December 2025 to partially fund expenses associated with an event.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-19",
+   "date_submitted": "2026-08-19",
+   "details": "Tickets to Hawthorn vs Collingwood at the MCG on 15 August 2026 from the Hawthorn Football Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
+ "aph_id": "140590",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "O'Neil, Clare",
+ "electorate": "Hotham",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "O'Neil",
+ "given_names": "Clare",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Oakleigh, Victoria (shared ownership)",
+    "purpose": "Family home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Oakleigh, Victoria (shared ownership)",
+    "purpose": "Family home"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on family home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on family home"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Part owner of vintage car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary for work as Doctor at Peninsula Health"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Club Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of The Club Lounge, Virgin Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Annual Foxtel subscription"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Club Chairman's Lounge Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of The Club Lounge, Virgin Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "EMILY's List"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Workers' Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Subscribes to RRR community radio"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "RANZCP"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Patron of the Oakleigh Krushers"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Family membership of Moorabbin Toy Library"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Members of local libraries"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Children play in a variety of local sporting clubs within my electorate"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-19",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/140590.pdf",
+  "sha256": "a2286fccfef716035adfd83035006737f5727919e7d9221a8eb16261653b63a7",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/140590/statement/48"
+ },
+ "state": "VIC"
+}

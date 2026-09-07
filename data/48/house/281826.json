@@ -1,0 +1,172 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-02",
+   "date_submitted": "2025-09-02",
+   "details": "Foxtel in EO office",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-02",
+   "date_submitted": "2025-09-02",
+   "details": "Qantas Chairman's lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-02",
+   "date_submitted": "2025-09-02",
+   "details": "Virgin Beyond lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  }
+ ],
+ "aph_id": "281826",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Thompson, Phillip",
+ "electorate": "Herbert",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Thompson",
+ "given_names": "Phillip",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Your Property Investor"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Family Trust",
+    "name": "A&E Investments Trust",
+    "nature": "Share investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Family",
+    "name": "Thompson Family Trust",
+    "role": "trustee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Townsville QLD",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Cairns QLD",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Defence Bank",
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Defence Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Comcare"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Wounded In Combat Class A Defence Pension"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-09-02",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/281826.pdf",
+  "sha256": "24344aa5ec0294d0ef0a1c2f899fc25935743a8a9975f0a97953673ed19ce8d5",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/281826/statement/48"
+ },
+ "state": "QLD"
+}

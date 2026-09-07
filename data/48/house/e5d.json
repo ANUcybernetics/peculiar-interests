@@ -1,0 +1,628 @@
+{
+ "alterations": [
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "University of New England Standing Committee of Convocation Committee Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "Two nights accommodation at Hamilton Island (20 Sep 2025 & 21 Sep 2025) provided by Stanbroke Pastoral Company.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-30",
+   "details": "Two nights accommodation at Hamilton Island (20 Sep 2025 & 21 Sep 2025) provided by Stanbroke Pastoral Company.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-12",
+   "date_submitted": "2026-01-12",
+   "details": "Return flight from Sunshine Coast Airport to Mount Isa Airport to accompany One Nation Leader to meet with flood impacted communities. Provided by Hancock Prospecting Pty Ltd. 10/01/2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Lunch provided by the Daily Telegraph - 29.1.2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-05",
+   "date_submitted": "2026-03-05",
+   "details": "1SN",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-29",
+   "details": "13 April 2026 - Flight from Brisbane to Sydney - Provided by Hancock Prospecting Pty Ltd.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-29",
+   "details": "No cost to taxpayer.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-13",
+   "date_submitted": "2026-07-13",
+   "details": "Part Funded International Airfares - (Tamworth/London/Tamworth),",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-13",
+   "date_submitted": "2026-07-13",
+   "details": "Accommodation, Hospitality (4 nights) and conference membership - provided by Alliance for Responsible Citizenship Conference 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-13",
+   "date_submitted": "2026-07-13",
+   "details": "Part Funded International Airfares - (Tamworth/London/Tamworth),",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-13",
+   "date_submitted": "2026-07-13",
+   "details": "Accommodation, Hospitality (4 nights) and conference membership - provided by Alliance for Responsible Citizenship Conference 2026",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-21",
+   "date_submitted": "2026-07-21",
+   "details": "Admission ticket to Game 3, 2026 State of Origin Brisbane and hospitality (8 July 2026). Provided by Woodham Petroleum Pty Ltd.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  }
+ ],
+ "aph_id": "e5d",
+ "chamber": "house",
+ "date_lodged": "2025-07-31",
+ "display_name": "Joyce, Barnaby",
+ "electorate": "New England",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Joyce",
+ "given_names": "Barnaby",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VANGUARD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ANZ"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BOC"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CBA"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "COL"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "IOO"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VCX"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WES"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MAQUARIE BANK"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "5GN"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AAC"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "APX"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BHP"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CBA"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BOC"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "LYC"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MQG"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "NAB"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "RMS"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "XYZ"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WDS"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Bloodline Beneficiary",
+    "name": "James Michael Joyce Trust",
+    "nature": "Testamentary Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Bloodline Beneficiary",
+    "name": "James Michael Joyce Trust",
+    "nature": "Testamentary Trust",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Master Sebastian Joyce",
+    "name": "Sebastian Joyce Trust",
+    "nature": "Share Investment",
+    "role": "trustee"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Danglemah, NSW",
+    "purpose": "Residential Rural Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Baradine, NSW",
+    "purpose": "Rural Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "RAB",
+    "nature": "Mortgage on rural property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "RAB",
+    "nature": "Overdraft on rural property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Overdraft on stock"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Regional Australia Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Investment Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Regional Australia Bank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Investment"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Regional Australia Bank",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Stock and Crop"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Parliamentary Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Suncorp Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Sale of Stock and crops"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Sale of Stock"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Noted in previous declarations"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Noted in previous declarations"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "As noted in previous declaration."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "National Party NSW"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tamworth RSL Sub Branch"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tamworth Business Chamber"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tamworth Jockey Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "West Tamworth Leagues Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Bundarra Sport & Recreation Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "University of New England Standing Committee of Convocation Committee Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairman's Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-21",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/e5d.pdf",
+  "sha256": "42974312ae73209028d7df2aca8041430ce678003a5ee3ec2e15acc4f9ba5197",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/e5d/statement/48"
+ },
+ "state": "NSW"
+}

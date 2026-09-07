@@ -1,0 +1,318 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-21",
+   "date_submitted": "2025-08-21",
+   "details": "2 Tickets to 2025 Suncorp Super Netball Grand Final Lunch and Match in Melbourne on Saturday 2nd August 2025 as guest of Netball Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-21",
+   "date_submitted": "2025-08-21",
+   "details": "Pre game hospitality for 2 guests from Melbourne Vixens at Suncorp Super Netball Grand Final.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-21",
+   "date_submitted": "2025-08-21",
+   "details": "Membership - National Press Club",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-19",
+   "date_submitted": "2025-12-19",
+   "details": "2 Tickets to Constellation Cup with hospitality at John Cain Arena on Saturday 17th October 2025 as guest of Netball Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "2 Tickets to 2026 Suncorp Super Netball Grand Final Lunch and Match at John Cain Arena in Melbourne on Saturday 4th July 2026 as guest of Netball Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "Post game hospitality for 2 guests from Melbourne Vixens at Suncorp",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "Super Netball Grand Final.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  }
+ ],
+ "aph_id": "249224",
+ "chamber": "house",
+ "date_lodged": "2025-07-31",
+ "display_name": "Ryan, Joanne",
+ "electorate": "Lalor",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Ryan",
+ "given_names": "Joanne",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JRJM One Pty Ltd (Private Company) - 5 Shares"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JRJM One Pty Ltd (Private Company) - 5 Shares"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "JRJM Family Trust",
+    "nature": "Residential Investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "JRJM Family Trust",
+    "nature": "Residential Investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Werribee, Victoria",
+    "purpose": "Residential (Joint with Partner"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Werribee, Victoria",
+    "purpose": "Residential (Joint with Partner)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Property Investment",
+    "company": "JRJM One Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Residence (with Partner)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Residential Investment (with Partner)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Residence (with Partner)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Residential Investment (with Partner)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Transaction Account (Joint with Partner)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Transaction Account (Joint with Partner)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Great Southern Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Transaction Account (Joint with Partner)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Transaction Account (Joint with Partner)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Labor Party VIC Division"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member and Ambassador - Melbourne Vixens"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - Qantas Chairmans Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - Virgin Velocity Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - National Press Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - Virgin Velocity Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - National Press Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-04",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/249224.pdf",
+  "sha256": "354b09afb5429ffc584f6030dd0856b5aa8142608d8e116d1917e75a3f5de0c4",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/249224/statement/48"
+ },
+ "state": "VIC"
+}

@@ -1,0 +1,144 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-06",
+   "date_submitted": "2025-08-06",
+   "details": "Qantas Chairman Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-05",
+   "date_submitted": "2025-12-05",
+   "details": "4 complimentary tickets in general admission at the Perth Ashes cricket test from Cricket Australia on Friday 21 November 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-29",
+   "date_submitted": "2026-01-29",
+   "details": "4 Tickets to Westpac Corporate Box for day two of the Pink Test Ashes Tour, Sydney, 5 Jan 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  }
+ ],
+ "aph_id": "279991",
+ "chamber": "house",
+ "date_lodged": "2025-07-23",
+ "display_name": "Conaghan, Patrick",
+ "electorate": "Cowper",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Conaghan",
+ "given_names": "Patrick",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Port Macquarie",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Port Macquarie",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Personal loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Vehicle"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-01-29",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/279991.pdf",
+  "sha256": "b6c80fddd1829c683e1b38b35148fea49482e46ce64f3bdcdfcce4ddf7327c35",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/279991/statement/48"
+ },
+ "state": "NSW"
+}

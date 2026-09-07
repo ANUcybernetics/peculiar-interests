@@ -1,0 +1,31 @@
+{
+ "alterations": [],
+ "aph_id": "HX4",
+ "chamber": "house",
+ "date_lodged": null,
+ "display_name": "Katter, Robert",
+ "electorate": "Kennedy",
+ "extraction": {
+  "method": "pending",
+  "notes": [
+   "scanned PDF; run `pollie ocr` and review the override"
+  ],
+  "version": 1
+ },
+ "family_name": "Katter",
+ "given_names": "Robert",
+ "honorific": "Hon",
+ "interests": [],
+ "last_updated": "2025-09-09",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-static-pdf",
+  "raw_path": "raw/house/48/HX4.pdf",
+  "sha256": "625134ad3d9959d3d46548273bcf1c3840b09c588a7f87d00de1a49a6b996806",
+  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/KN/Katter_48P.pdf?rev=f4c0af70059e4f12ad239ee385296746&hash=F4C4AD0016530BF8EE16F56EE7DD1C28"
+ },
+ "state": "QLD"
+}

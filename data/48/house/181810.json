@@ -1,0 +1,540 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "The Joan - Penrith Youth Orchestra - 25 May 2025 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "Foxtel - Premiere of Mix Tape at Oxford Arts Factory - 11 June 2025 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "Pinchgut Opera - The Fairy Queen at Roslyn Packer Theatre - 7 June 2025 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "Bell Shakespeare - Coriolanus at the The Neilson Nutshell - 25 June 2025 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "Foxtel - Mid Winter Ball - Parliament House - 27 August - 1 ticket",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "Bell Shakespeare - Romeo and Juliet at Canberra Playhouse - 31 August 2025 2tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "Associate membership Australian Services Union 28 August 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-09",
+   "date_submitted": "2025-12-09",
+   "details": "Sydney Dance Company - Opening Night of Continuum - 22 October 2025 - 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-09",
+   "date_submitted": "2025-12-09",
+   "details": "National Gallery of Australia Foundation - Gala Dinner - 1 November 2025 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-09",
+   "date_submitted": "2025-12-09",
+   "details": "Opening night Sydney Season ‘Echoing the Future’ – NAISDA - 20 November 2025 - 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-09",
+   "date_submitted": "2025-12-09",
+   "details": "Western Sydney Wanderers FC - Western Sydney Wanderers FC v Sydney FC - 29 November 2025- 2 tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-26",
+   "date_submitted": "2026-02-26",
+   "details": "Trip to Papua New Guinea from 15 to 21 February 2026 as part of the Australian Regional Leadership Initiative to see the impact of Australia's overseas development assistance. Travel, accommodation and meals valued at approximately $5,000 and funded by the Gates Foundation.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-30",
+   "date_submitted": "2026-06-29",
+   "details": "CommBank Matildas Vs Mexico – Game 2, 9 June 2026 2 tickets from Football Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-02",
+   "date_submitted": "2026-07-02",
+   "details": "Guest on the Foxtel Group table at the Federal Parliament Press Gallery Midwinter Ball. Held on Wednesday 1 July in the Great Hall at Parliament House, Canberra.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  }
+ ],
+ "aph_id": "181810",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Templeman, Susan",
+ "electorate": "Macquarie",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Templeman",
+ "given_names": "Susan",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Templeman-Fuller Superannuation Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Templeman-Fuller Superannuation Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes",
+    "name": "The Nirvana Trust",
+    "nature": "Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes",
+    "name": "The Nirvana Trust",
+    "nature": "Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Unit holder",
+    "name": "Project Tableland Environment Trust",
+    "nature": "Unit Trust-Fixed",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes",
+    "name": "The Nirvana Trust",
+    "nature": "Family Trust",
+    "role": "trustee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Yes",
+    "name": "The Nirvana Trust",
+    "nature": "Family Trust",
+    "role": "trustee"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Winmalee NSW",
+    "purpose": "Primary residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Campbell ACT",
+    "purpose": "Residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wentworth Falls NSW",
+    "purpose": "Rural property, managed for the purposes of environmental conservation and recreation. Interest held via unit holdings in Project Tableland Environment Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Hazelbrook NSW",
+    "purpose": "Part owner of family member's residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Winmalee NSW",
+    "purpose": "Primary residence"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wentworth Falls NSW",
+    "purpose": "Rural property, managed for the purposes of environmental conservation and recreation. Interest held via unit holdings in Project Tableland Environment Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee of Project Tableland Environment Trust. The Trust exists to facilitate the shared ownership between unitholders of a single property, managed for the purposes of environment conservation and recreation.",
+    "company": "Project Tableland Pty Ltd. Director."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Not operating",
+    "company": "Templeman Consulting Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Visa credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Visa credit card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "St George Bank",
+    "nature": "Visa credit card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account x 2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Cheque"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "Cash management"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Rabobank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account x 2"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George",
+    "nature": "Cheque"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "Cash management"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Rabobank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car - Mazda MX5"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car Mazda CX3"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "PSA Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS Chairman's Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin club membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "FOXTEL complimentary subscription installed at Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS Chairman's Lounge membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Club Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership of: Hawkesbury Chamber of Commerce, Blue Mountains Cultural Centre, The Richmond Club, Windsor Leagues Club, Springwood Sports Club, Hazelbrook Bowling club, Australia Palestine Advocacy Network, Hawkesbury Environment Network, Windsor RSL, Media Entertainment and Arts Alliance, Emily's List Australia, Emu Plains Sporting and Recreation Club."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron: Valley Heights Locomotive Heritage Museum, Blackheath RSL, Macquarie Towns Orchestra"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Honorary Member, Rotary Club of Springwood"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Media Entertainment and Arts Alliance"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Patron of: Windsor Red Cross, Blackheath and Mount Victoria RSL Sub-branch, Valley Heights Rail Museum, Springwood Rotary Club, Blue Mountains Historical Society"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-02",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/181810.pdf",
+  "sha256": "672439604e593d26e887924aa06f195c2bb95dc4b7e2a8753bab4455f94dbb8b",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/181810/statement/48"
+ },
+ "state": "NSW"
+}

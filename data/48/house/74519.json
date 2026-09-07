@@ -1,0 +1,627 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "Myself and my wife accepted 2 tickets to the Rottnest After Dark event on Friday, 4 April",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "2025, from the Rottnest Chamber and Commerce.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "Myself and my wife accepted 2 tickets to the West Coast Eagles v Fremantle Dockers Derby on Sunday, 30 March 2025 from the West Australian",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "Football Commission.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "I received room upgrade at Shangri- La Sydney during my stay dated Saturday",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "3 May to Sunday 4 May.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "Myself and my son accepted 2 tickets to the Socceroos v Japan match on Thursday 5 June",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "2025 at Optus Stadium, from Optus.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "My wife no longer receives a consultancy income from the McKell Institute. She now receives employment income from them as their Executive Director, WA.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-01",
+   "date_submitted": "2025-09-01",
+   "details": "Myself and my wife accepted tickets to the Press Gallery Midwinter Ball on Wednesday 27 August 2025 provided by Qantas Airways Limited.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-24",
+   "date_submitted": "2025-09-24",
+   "details": "I received an unsolicited room upgrade at Shangri-La Sydney during my stay dated Sunday",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-24",
+   "date_submitted": "2025-09-24",
+   "details": "21 September, 2025 to Tuesday 23 September, 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-27",
+   "date_submitted": "2025-10-27",
+   "details": "Myself and my wife accepted tickets to the 2025 Telethon Ball from Seven West Media.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-27",
+   "date_submitted": "2025-10-27",
+   "details": "I received an unsolicited room upgrade at Shangri-La Sydney during my stay dated Wednesday 22 October, 2025 to Friday 24 October, 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-25",
+   "date_submitted": "2025-11-25",
+   "details": "Myself and my wife accepted tickets to The West Test, Ashes Day 1 on Friday, 21 November 2025 from Mike Baird, Chair at Cricket Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-25",
+   "date_submitted": "2025-11-25",
+   "details": "I received a room upgrade at Shangri-La Sydney during my stay 6 to 7 November and on 10 to 12 November 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-25",
+   "date_submitted": "2025-11-25",
+   "details": "My wife has been gifted a Virgin Beyond Membership from Virgin Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-11",
+   "details": "I received a room upgrade for my stay at the Shangri-La Sydney on the night of Sunday 8 February 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-23",
+   "date_submitted": "2026-02-23",
+   "details": "My wife accepted two tickets from Anacta to the 2026 AFL State of Origin match on Saturday 14 February 2026 at Optus Stadium. I attended with her as a guest.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-11",
+   "date_submitted": "2026-03-11",
+   "details": "Flight upgrade from Virgin Australia on 10 March 2026 flying from Perth to Adelaide.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-23",
+   "date_submitted": "2026-03-23",
+   "details": "My wife received tickets from Fortescue for herself and our son to the West Coast Fever game on 15 March 2026. These were provided to her in her professional capacity as Executive Director of McKell Western Australia.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-24",
+   "date_submitted": "2026-04-24",
+   "details": "I accepted two tickets to the West Coast Eagles vs Fremantle Dockers AFL game on Sunday 19 April 2026 from WA Football.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "Accommodation upgrades at the Shangri-La in Cairns 27-30 April and Shangri-La Sydney 30 April to 1 May.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-02",
+   "date_submitted": "2026-07-02",
+   "details": "Myself and my wife accepted tickets to attend the Federal Parliamentary Press Gallery Midwinter Ball on Wednesday, 1 July 2026, from Sky News.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "Loan for Canberra residence with Suncorp Bank.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "Canberra residence in Kingston ACT.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "Myself and my wife now have transaction accounts with Suncorp Bank.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "Home loan for family home In North Perth with Suncorp Bank.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-08-04",
+   "date_submitted": "2026-08-04",
+   "details": "Myself and my wife no longer have a home loan with the National Australia Bank.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 29,
+   "source_id": null
+  }
+ ],
+ "aph_id": "74519",
+ "chamber": "house",
+ "date_lodged": "2025-08-08",
+ "display_name": "Gorman, Patrick",
+ "electorate": "Perth",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item directorships (spouse): columns listed different numbers of lines on page 3; lines were merged onto the shortest column rather than split into separate entries",
+   "item trusts (dependent): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries",
+   "item trusts (self): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries",
+   "item trusts (spouse): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Gorman",
+ "given_names": "Patrick",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Myself and my immediate family have no control over the trust but are listed as potential beneficiaries of the trust. We are not listed by name. Further, I advise that myself, my spouse and my dependent children cannot exercise control over the right to vote or dispose of any shares held by this entity.",
+    "name": "Melo Pty. Ltd. Trustee for the King Family Trust.",
+    "nature": "The trust set up by my grandmother and my late grandfather holds the assets of my grandmother’s farm and garden supplies business.",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "As above.",
+    "name": "Melo Pty. Ltd. Trustee for the King Family Trust",
+    "nature": "As above.",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "As above.",
+    "name": "Melo Pty. Ltd. Trustee for the King Family Trust.",
+    "nature": "As above.",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Home, North Perth.",
+    "purpose": "Family home."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Holds long term assets and investments for the WA Branch of the Australian Labor Party.",
+    "company": "WA LABOR FOUNDATION INVESTMENT COMPANY PTY LTD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on residence owned by spouse."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Credit cards."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on residence."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Credit cards."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Australian Government.",
+    "nature": "HECS debt."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings and transaction accounts joint with spouse."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "Savings account joint with spouse."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Nabtrade account joint with spouse. No assets held here. Retained for record keeping purposes only."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings and transaction accounts joint with spouse."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "Savings account joint with spouse."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Nabtrade account joint with spouse. No assets held here. Retained for record keeping purposes only."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Business bank account."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB.",
+    "nature": "Savings."
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "ANZ Smart Choice Super"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income as a consultant including work for the McKell Institute."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge access;"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Beyond Lounge access;"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Foxtel for my electorate office from Subscription Television Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (WA Branch) (Member)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union (Member)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Republican Movement (Member)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fremantle Dockers (Member)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (WA Branch) (Member)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "National Archives of Australia Member"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "My wife is completing a doctorate at Curtin University."
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-04",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/74519.pdf",
+  "sha256": "10b446454c4a50c7a278ccbf0f4f0dff9907eb5bc3fcff49e92d69ed61f31f38",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/74519/statement/48"
+ },
+ "state": "WA"
+}

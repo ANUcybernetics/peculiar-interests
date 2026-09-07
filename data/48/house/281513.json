@@ -1,0 +1,294 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Complimentary Membership of Qantas Chairman's Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Remove Spouse employment - 'Employment NSW Government Department of Planning'",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
+ "aph_id": "281513",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "McIntosh, Melissa",
+ "electorate": "Lindsay",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McIntosh",
+ "given_names": "Melissa",
+ "honorific": "Mrs",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mount Riverview, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mount Riverview, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Queensland",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Queensland",
+    "nature": "Personal bank loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Queensland",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "St George Bank",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Queensland",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Queensland",
+    "nature": "Personal bank loan"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bank of Queensland",
+    "nature": "Credit Card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "St George Bank",
+    "nature": "Credit Card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "AUS GOV",
+    "type": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Uni Super",
+    "type": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Hostplus",
+    "type": "Superannuation"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Queensland",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Queensland",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Queensland",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription - Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Fernwood Fitness Club - Gym membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Nepean Historical Society"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Heart of the Nation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, OZWAC - Australian Women's and Children Research Foundation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Penrith Panthers Leagues Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron and honorary member, Penrith National Australian Servicemen's Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Planning Institute of Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Employment, NSW Government Department of Planning"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-06-18",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/281513.pdf",
+  "sha256": "bb922c786ee55de67f1583d6b0c542a3e213af07951c8c9e3d0fbd1ad663e3c6",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/281513/statement/48"
+ },
+ "state": "NSW"
+}

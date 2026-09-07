@@ -1,0 +1,533 @@
+{
+ "alterations": [],
+ "aph_id": "264170",
+ "chamber": "house",
+ "date_lodged": "2025-08-07",
+ "display_name": "Swanson, Meryl",
+ "electorate": "Paterson",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item trusts (self): columns listed different numbers of lines on page 3; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Swanson",
+ "given_names": "Meryl",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Swanridge Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Swanridge Super Pty Ltd Swanridge Superannuation Fund (SMSF)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Harvey Norman Holdings Ltd, Lynas Corporation Ltd, National Australia Bank Ltd, NIB Holdings Ltd held indirectly via SMSF"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Swanridge Investments Pty Ltd Swanridge Group Pty Ltd - investment and trustee of Swanridge Family Trust"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Commonwealth Bank Shares"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Swanridge Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Swanridge Super Pty Ltd Swanridge Superannuation Fund (SMSF)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Harvey Norman Holdings Ltd, Lynas Corporation Ltd, National Australia Bank Ltd, NIB Holdings Ltd held indirectly via SMSF"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Swanridge Investments Pty Ltd Swanridge Group Pty Ltd - investment and trustee of Swanridge Family Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Commonwealth Bank Shares"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Not appliocable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Principal beneficiary (jointly with spouse)",
+    "name": "Swanridge Family Trust",
+    "nature": "Investment/operates business providing agistment and fencing services. Unit holder of operating trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Principal beneficiary (jointly with spouse)",
+    "name": "Swanridge Family Trust",
+    "nature": "investment/operates business providing agistment and fencing services.",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "House Buchanan NSW",
+    "purpose": "Residential (owned jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unit Kingston ACT",
+    "purpose": "Residential (owned jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "House and granny flat Kurri Kurri NSW",
+    "purpose": "Investment (owned jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unit Nelson Bay NSW",
+    "purpose": "Investment (owned jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "House Buchanan NSW",
+    "purpose": "Residential (owned jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unit Kingston ACT",
+    "purpose": "Residential (owned jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "House and granny flat Kurri Kurri NSW",
+    "purpose": "Investment (owned jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Unit Nelson Bay NSW",
+    "purpose": "Investment (owned jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Self Managed Superannuation Fund",
+    "company": "Director of Swanridge Super Pty Ltd."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Self Managed Superannuation Fund",
+    "company": "Director of Swanridge Super Pty Ltd."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Small Business.",
+    "company": "Swanridge Investments"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "The Mutual",
+    "nature": "Home loan (jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "The Mutual",
+    "nature": "Investment property loan (jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "The Mutual",
+    "nature": "Home loan (jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "The Mutual",
+    "nature": "Investment property loan (jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Investment account (via SMSF jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings account (jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "The Mutual",
+    "nature": "Savings account (jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Investment account (via SMSF jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings account (jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "The Mutual",
+    "nature": "Savings account (jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Business Account (via Swanridge Investments Pty Ltd)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Credit Card (via Swanridge Investments Pty Ltd)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Perpetual Managed Funds - By Property Securities, Fidelity Australia Equity, Lazards Global List infrastructure, MFS Global Equity, OnePath Diversified Fixed Interest (via SMSF jointly held with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Perpetual Managed Funds - By Property Securities, Fidelity Australia Equity, Lazards Global List infrastructure, MFS Global Equity, OnePath Diversified Fixed Interest (via SMSF jointly held with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance policy held via SMSF"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Tractor held in Swanridge Family Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments as set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments as set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from operating trust as set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "QANTAS Chairmans Lounge Membership (covers spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia The Club Membership (covers spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tomaree Business Chamber Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Cessnock Performing Arts Centre Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Womens Network Hunter Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Richmond Vale Rail Trail Inc Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Kurri Golf Club Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Raymond Terrace & District Historical Society Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Maitland Repertory Theatre Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "National Service & Combined Forces Association of Australia Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Maitland Branch - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Newcastle Golf Club - Honorary membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron of Maitland and District Cricket Umpire' and Scorers' Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Incorporated"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of Maitland Regional Art Gallery"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron - Maitland Musical Society Inc."
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-08-07",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/264170.pdf",
+  "sha256": "bca65b2647af40e7a15a73411537c5aec45cf97b9c39c0c6a4a5f3c1584b0ef1",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/264170/statement/48"
+ },
+ "state": "NSW"
+}

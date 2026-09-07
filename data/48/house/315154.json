@@ -1,0 +1,186 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-03",
+   "date_submitted": "2025-12-03",
+   "details": "Upgrade from economy to business class on QF1565 from Canberra to Melbourne on 19/11/2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "2026 Season Pass - Eastern Football Netball League",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-05-13",
+   "date_submitted": "2026-05-13",
+   "details": "Higher Education Loan Program (HELP) debt",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-06-05",
+   "date_submitted": "2026-06-05",
+   "details": "Loan with Australia and New Zealand Banking Group Limited",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-06-05",
+   "date_submitted": "2026-06-05",
+   "details": "(ANZ)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  }
+ ],
+ "aph_id": "315154",
+ "chamber": "house",
+ "date_lodged": "2025-12-03",
+ "display_name": "Gregg, Matthew",
+ "electorate": "Deakin",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Gregg",
+ "given_names": "Matthew",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ringwood, VIC",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Australia and New Zealand Banking Group Limited (ANZ)",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Australia and New Zealand Banking Group Limited (ANZ)",
+    "nature": "Loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth of Australia",
+    "nature": "Higher Education Loan Program (HELP) debt"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Aware Super Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment at Slater & Gordon Ltd (last date of employment: 8 May 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Australian Labor Party, Victorian Branch."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Services Union, Private Sector Branch"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Honorary Life Membership, Deakin University Student Association Incorporated"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Dispute Resolution Association (ADRA)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Law Institute of Victoria (LIV)"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-06-05",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/315154.pdf",
+  "sha256": "5ca5afa02ace44d2f273c837c268a3140a0fe1a13de2f42afef2f70251fb8fbd",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/315154/statement/48"
+ },
+ "state": "VIC"
+}

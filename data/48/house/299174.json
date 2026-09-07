@@ -1,0 +1,1037 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Canberra Unit",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Mortgagee Canberra property - Resimac",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Home Improvement Loan - HUMM",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "QANTAS Chairman's Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Membership of Virgin Beyond Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Rent from investment property",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Foxtel installation and subscription at electorate office",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Use of vehicles from time to time from Hyundai",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Membership of Virgin Beyond Lounge",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Honorary Patron - Hunters Hill Rugby Club",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Honorary Patron - Australian Asian Association of Bennelong",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Resigned as Member of Statecover Mutual",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Resigned as Associate Director of Local Government Procurement",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Resigned as Director, Local Government NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Resigned as Councillor City of Ryde",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Resigned as Director of Statecover Mutual",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Resigned Associate Director of Local Government Procurement",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "Resigned as Director of Local Goverb=nment NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-15",
+   "details": "No longer an interest in Koorooba Trust as it has been closed",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-14",
+   "details": "Tickets to Wests Tigers vs Parramatta provided by Venues NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-14",
+   "details": "Tickets to NSW Swifts vs West Coast Fever provided by Netball NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-14",
+   "details": "Tickets to State of Origin Game 3 provided by AmpCharge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-14",
+   "details": "Tickets to NSW Swifts vs Melbourne Vixens provided by Netball NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-15",
+   "date_submitted": "2025-08-14",
+   "details": "Honorary Patron - Hunters Hill Rugby Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-28",
+   "date_submitted": "2025-08-28",
+   "details": "Tickets for Midwinter ball provided by Foxtel",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-03",
+   "date_submitted": "2025-09-03",
+   "details": "Shares in Laxale's Hair and Beauty Supplies Ptd Ltd sold",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-09-19",
+   "date_submitted": "2025-09-19",
+   "details": "Patron of Ryde Hunters Hill and Canada Bay Life Education",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Alphinity Sustainable Share Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Australian Ethical Australian Shares Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "ClearBridge Global Infrastructure Income Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Franklin Global Responsible Investment Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Gresham GT Feeder Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Ironbark HarbourVest Diversified Private Equity Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "KKR Private Equity Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Life Cycle Concentrated Global Share Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Macquarie Energy Transition Infrastructure Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Nanuk New World Fund Active ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Pantheon Global Evergreen Mid- Market Secondaries Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Schroder Specialist Private Equity Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 39,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "West Street European Prvt Crdt (AUD) E CHN8719AU ...",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 40,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Pengana WHEB Sustainable Impact Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 41,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2025-11-05",
+   "date_submitted": "2025-11-05",
+   "details": "Patron Ryde Hunters Hill & Canada Bay Life Education",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 42,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-05",
+   "date_submitted": "2025-11-05",
+   "details": "Ticket to Australia vs India T20 provided by Future Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 43,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-12-19",
+   "date_submitted": "2025-12-19",
+   "details": "BetaShares Australian Sustainability Leaders ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 44,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-12-19",
+   "date_submitted": "2025-12-19",
+   "details": "BetaShares Global Sustainability Leaders ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 45,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-03-02",
+   "date_submitted": "2026-03-02",
+   "details": "Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 46,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-03-02",
+   "date_submitted": "2026-03-02",
+   "details": "KoreaTown Australia Eastwood",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 47,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "Tickets to AFC Women's Asia Cup",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 48,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "Australia vs Korea 8/3/26 - Sydney provided by Football Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 49,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-24",
+   "date_submitted": "2026-03-24",
+   "details": "Tickets to the Women's Asian Cup Final provided by Football Federation Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 50,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-13",
+   "date_submitted": "2026-04-12",
+   "details": "Tickets to Sydney Kings vs Adelaide 36ers provided by Hoops Capital",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 51,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-29",
+   "details": "Ticket to Parramatta Eels vs Wests Tigers provided by the Parramatta Eels",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 52,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-29",
+   "details": "Tickets to NSW Swifts vs GWS Giants Netball provided by Netball NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 53,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-22",
+   "details": "Tickets to Sydney FC vs Newcastle Jets provided by the A-Leagues",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 54,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-06-30",
+   "date_submitted": "2026-06-30",
+   "details": "ClearBridge Global Infras Inc Fd Hedged",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 55,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-06-30",
+   "date_submitted": "2026-06-30",
+   "details": "Alphinity Sustainable Share Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 56,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-06-30",
+   "date_submitted": "2026-06-30",
+   "details": "Life Cycle Concentrated Global Share",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 57,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-10",
+   "date_submitted": "2026-07-10",
+   "details": "Tickets to Australia vs Mexico Game at Parramatta Stadium provided by Football Federation Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 58,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-10",
+   "date_submitted": "2026-07-10",
+   "details": "Accomodation in Vancouver and Seattle and bus transfer from Vancouver to Seattle provided by Football Federation Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 59,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-10",
+   "date_submitted": "2026-07-10",
+   "details": "Tickets to Australia vs Türkiye provided by FIFA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 60,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-10",
+   "date_submitted": "2026-07-10",
+   "details": "Ticket to Seattle Mariners vs Baltimore Orioles provided by the Seattle Mariners",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 61,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-10",
+   "date_submitted": "2026-07-10",
+   "details": "Ticket to Australia vs USA provided by FIFA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 62,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-05",
+   "date_submitted": "2026-08-05",
+   "details": "Tickets to Sydney FC vs Tottenham Hotspur 29/7/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 63,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-05",
+   "date_submitted": "2026-08-05",
+   "details": "Guest of Sydney FC",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 64,
+   "source_id": null
+  }
+ ],
+ "aph_id": "299174",
+ "chamber": "house",
+ "date_lodged": "2025-08-15",
+ "display_name": "Laxale, Jerome",
+ "electorate": "Bennelong",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Laxale",
+ "given_names": "Jerome",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Laxale's Hair and Beauty Supplies Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "GFTH PTY LTD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Canberra ACT",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "North Ryde, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Consultancy",
+    "company": "GFTH PTY LTD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Resimac",
+    "nature": "Mortgage on Canberra Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Humm",
+    "nature": "Home Improvements Loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "First Mac",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Humm",
+    "nature": "Home Improvement Loan"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Macquarie Bank",
+    "type": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Colonial First State",
+    "type": "Managed Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Australian Ethical",
+    "type": "Managed Fund"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Interest from Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Shareholding Dividend"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent from investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Shareholding Dividend"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Managed Funds"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel installation and subscription at electorate office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Membership QANTAS Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Membership of Virgin Beyond Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Membership of Virgin Beyond Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Honorary Patron of the Australian Asian Association of Bennelong"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Provision of venue and catering for constituent events from time to time from Moko Operations Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Provision of venue and catering for constituent events from time to time from The Ranch, Marsfield"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Provision of venue and catering for constituent events from time to time from memento Hospitality"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Provision of vehicle from time to time from Hyundai Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Provision of venue and catering from time to time from Gallagher Hotels"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-05",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/299174.pdf",
+  "sha256": "47f78de6f3d0a689a9ca2913ba7d369a9bf1eafcb63e7e82894c3d36330287bb",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/299174/statement/48"
+ },
+ "state": "NSW"
+}

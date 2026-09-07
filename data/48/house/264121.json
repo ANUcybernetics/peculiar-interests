@@ -1,0 +1,589 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "03/08/2025 Ticket x 2 TV Week Logies",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "13/09/2025 AFL Lions V Suns ticket/hospitality x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "27/09/2025 AFL Grand Final tickets/hospitality x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "28/09/2025 NRL Prelim final tickets/hospitality x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "5/10/2025 NRLW Grand Final tickets/hospitality x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "5/10/2025 NRL Grand Final ticket/hospitality x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "10/10/2025 Cauliflower Cup lunch ticket/hospitality x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "22/10/2025 Netball Diamonds V NZ tickets x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "8/11/2025 Venues NSW Oasis tickets x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "17/11/2025 Sporting Australia Hall of Fame tickets x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-08",
+   "details": "22/11/2025 AFLW Lions V Carlton Ticket x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Tickets to Softball USA Down Under match: Australia v USA, Redlands Softball Association (Friday 2 January 2026)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Tickets to day session for D Kasatkina v A Potapova match, Pat Rafter Arena, Brisbane International tournament (Sunday 4 January 2026)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-09",
+   "date_submitted": "2026-01-09",
+   "details": "Superannuation (Macquarie)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-09",
+   "date_submitted": "2026-01-09",
+   "details": "Superannuation (Macquarie)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-01-09",
+   "date_submitted": "2026-01-09",
+   "details": "Income from Employment",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "2 x Ticket to Formula 1 Australian Grand Prix - The Deck @Thirteen on 6 & 7 March 2026 - Guest of Motorsport Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "1 x Ticket to Motorsport Australia President's Dinner on 6 March 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "2 x Tickets for 2026 FIFA Women's Asian Cup - Matildas Australia v Korea Republic match in Sydney as guest of FIFA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "2 x Tickets for 2026 FIFA Women's Asian Cup FINALS - Matildas Australia v Japan match in Sydney as guest of FIFA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "Two Tickets for the 2026 Suncorp Super Netball - Queensland Firebirds v Adelaide Thunderbirds as guest of Queensland Netball",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-28",
+   "details": "2 x tickets to Gather Round Welcome Dinner on 8 April 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-28",
+   "details": "1 x ticket to 2026 AFL Gather Round – Crows v Carlton match in Adelaide as guest of the South Australian Government",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-29",
+   "date_submitted": "2026-04-28",
+   "details": "1 x ticket to the Prime Minister’s address at the National Press Club as guest of Westpac.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-27",
+   "date_submitted": "2026-05-27",
+   "details": "1 x ticket to the AFL game - Lions v Carlton - Guest of the Brisbane Lions",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-28",
+   "date_submitted": "2026-05-28",
+   "details": "Hospitality as guest of AFL, NRL, Brisbane Broncos, Brisbane Lions at AFL Gather Round, NRL Magic Round, and various matches",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-27",
+   "date_submitted": "2026-05-27",
+   "details": "Tickets to Broncos vs Warriors as guest of the Brisbane Broncos",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-24",
+   "date_submitted": "2026-06-24",
+   "details": "Tickets to 2026 Telstra Premiership – Brisbane Broncos v Gold Coast Titans as guest of the Black Dog Institute",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-24",
+   "date_submitted": "2026-06-24",
+   "details": "Tickets to 2026 Ampol State of Origin Game 2 – NSW Blues v QLD Maroons match in Melbourne as guest of the NRL",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-24",
+   "date_submitted": "2026-07-24",
+   "details": "Tickets to the Australian Parliament House 2026 Mid-Winter Ball, as guest of the ABC.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-10",
+   "date_submitted": "2026-08-10",
+   "details": "Horse Spirit sculpture from the Federation Equestre Internationale (FEI) on the 7 July.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  }
+ ],
+ "aph_id": "264121",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Wells, Anika",
+ "electorate": "Lilley",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Wells",
+ "given_names": "Anika",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Chermside, QLD",
+    "purpose": "Rental property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wavell Heights, QLD",
+    "purpose": "Joint residency with spouse"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Chermside, QLD",
+    "purpose": "Rental property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wavell Heights, QLD",
+    "purpose": "Joint residency with spouse"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Joint mortgage with spouse on residential property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Joint mortgage with spouse on residential property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Joint savings account with spouse"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Joint savings account with spouse"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME account",
+    "nature": "Savings account"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from joint investment property set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from joint investment property set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "14/03/2025 Motorsport Australia President's dinner"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "28/03/2025 Dolphins V Broncos NRL Match 2 x Ticket/Hospitality"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "28/05/2025 Ampol State of Origin Ticket/Hospitality x 2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "10/06/2025 AFL Hall of Fame Dinner Ticket/Hospitality x 2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "QANTAS Chairman's Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Beyond Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Beyond Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Lawyers Alliance"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Queensland Law Society"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Australian Workers' Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Services Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Australian Workers' Union"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian People for Health, Education and Development Abroad (AKA Union Aid Abroad)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-10",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/264121.pdf",
+  "sha256": "6f81cbc0a3a22c383a7da9a89acb57adf9ce508a30963a93436aab9135ef4515",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/264121/statement/48"
+ },
+ "state": "QLD"
+}

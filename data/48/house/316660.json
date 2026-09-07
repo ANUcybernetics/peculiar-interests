@@ -1,0 +1,669 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "26th March Qantas flight upgrade",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "2x Tickets Cricket Australia Boxing Day Test lunch 26th December 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "AGL (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "Computershare LTD (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "SPDR DJ GBL Reit (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "Medibank Private LTD (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "National Aust Bank (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "QANTAS Airways (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "Santos LTD (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-02",
+   "date_submitted": "2026-04-02",
+   "details": "Hotel Property Investments Limited (joint with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-26",
+   "date_submitted": "2026-08-26",
+   "details": "1x Ticket 2026 Myer Precious Metal Gala Friday 14th August",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-26",
+   "date_submitted": "2026-08-26",
+   "details": "Gift bag worth $1500 from 2026 Myer Precious Metal Gala",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-26",
+   "date_submitted": "2026-08-26",
+   "details": "Gift bag worth $1500 from 2026 Myer Precious Metal Gala",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-26",
+   "date_submitted": "2026-08-26",
+   "details": "1x Ticket 2026 Myer Precious Metal Gala Friday 14th August",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  }
+ ],
+ "aph_id": "316660",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Witty, Sarah",
+ "electorate": "Melbourne",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Witty",
+ "given_names": "Sarah",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Foundation Investment Company Limited (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Centuria Office Reit (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Dexus Industria (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Hotel Property Investments Limited (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Harvey Norman Holdings limited (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra Group Limited (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Property Securities Index EFT (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Global Aggregate Bond Index (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Government Bond Index ETF (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard MSCI Index International Shares EFT (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Woolworths Group Limited (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AMP Limited (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AMP Limited (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Foundation Investment Company Limited (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Centuria Office Reit (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Dexus Industria (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Hotel Property Investments Limited (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Harvey Norman Holdings limited (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra Group Limited (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Property Securities Index EFT (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Global Aggregate Bond Index (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Government Bond Index ETF (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard MSCI Index International Shares EFT (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Woolworths Group Limited (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Richmond",
+    "purpose": "Residential (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Richmond",
+    "purpose": "Investment (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Point Cook",
+    "purpose": "Investment (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "East Brighton",
+    "purpose": "Investment (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Richmond",
+    "purpose": "Residential (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Richmond",
+    "purpose": "Investment (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Point Cook",
+    "purpose": "Investment (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "East Brighton",
+    "purpose": "Investment (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on Richmond Investment (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on Point Cook Investment (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on East Brighton (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on Richmond Investment (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on Point Cook Investment (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on East Brighton (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Hostplus)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "2023 MG ZST (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Hostplus)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "2023 MG ZST (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental Income - Richmond property (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental Income - Point Cook property (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental Income - East Brighton property (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental Income - Richmond property (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental Income - Point Cook property (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental Income - East Brighton property (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2x Tickets Richmond Football Club Presidents lunch Sunday 27th July 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairmans Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Club Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairmans Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-26",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/316660.pdf",
+  "sha256": "0372e271c1c7bfbf7247b184afa51c1c16d51e31ac1c83327b124592b43c4cad",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/316660/statement/48"
+ },
+ "state": "VIC"
+}

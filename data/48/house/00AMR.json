@@ -1,0 +1,483 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-24",
+   "date_submitted": "2025-11-24",
+   "details": "CEO Australian Olympic Committee Karbon Micron Cascade Jacket Winter Olympics",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-11-24",
+   "date_submitted": "2025-11-24",
+   "details": "iHR Australia Casual Workplace Relations Adviser",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-24",
+   "date_submitted": "2025-11-24",
+   "details": "Ballarat, VIC, Investment (Settlement now completed)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-11-24",
+   "date_submitted": "2025-11-24",
+   "details": "Rental income from second investment property (self and Spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-24",
+   "date_submitted": "2025-11-24",
+   "details": "Ballarat, VIC Investment (settlment due September 2025)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "PSS Superannuation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "Smart Monday Superannuation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "Parliamentary Contributory Superannuation Scheme",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "Ballarat Store IT - no longer storing mobile office caravan.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "My Vision Superannuation Scheme",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-04",
+   "date_submitted": "2026-03-04",
+   "details": "Australian Trucking Association Volvo Model Truck and B double trailer in display case",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-04",
+   "date_submitted": "2026-03-04",
+   "details": "2 tickets to Richmond v Melbourne Practice Match 27 February 2025 held at Mars Stadium Ballarat.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  }
+ ],
+ "aph_id": "00AMR",
+ "chamber": "house",
+ "date_lodged": "2025-08-14",
+ "display_name": "King, Catherine",
+ "electorate": "Ballarat",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "King",
+ "given_names": "Catherine",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ballarat, VIC",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ballarat, VIC",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ballarat, VIC",
+    "purpose": "Investment (settlment due September 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Residential and two Investment properties are jointly owned",
+    "purpose": "Residential and two Investment properties are jointly owned"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "My State Bank",
+    "nature": "Mortgage on Investment Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "My State and Westpac",
+    "nature": "Mortgages on investment properties joint liabilities"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Credit Card joint"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Joint Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Joint Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Joint Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Joint Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Wetspac",
+    "nature": "Joint Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Joint Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings Account"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income from investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Australian Defence Force Reservist"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Veterans Review Board Panel"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Pet Stock (casual)"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Club Lounge Membership (Virgin)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairman's Lounge Membership (Qantas)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Subscription Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Ballarat Store It - storage of Mobile Office Caravan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Consul General China (Melbourne) Decorative Plate"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chairmans Lounge Membership (Qantas)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Chinese Consul general (Melbourne) books"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Services Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Ballarat Fine Art Gallery"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Sovereign Hill"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Services Union"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "North Melbourne Football Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Law Institute of Victoria"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Richmond Football Club (supporter)"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-03-04",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/00AMR.pdf",
+  "sha256": "cf510cc8e0506847e8a9f8f4f6fae1ed67722330d5a08b2ef68851864ae2d6f1",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/00AMR/statement/48"
+ },
+ "state": "VIC"
+}

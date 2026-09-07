@@ -1,14 +1,16 @@
 [
  {
-  "aph_id": "roster:abdo-basem",
-  "aph_url": null,
+  "aph_id": "316915",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316915",
   "chamber": "house",
   "electorate": "Calwell",
   "family_name": "Abdo",
   "gender": "Male",
   "given_names": "Basem Jamal",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -16,15 +18,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:albanese-anthony",
-  "aph_url": null,
+  "aph_id": "R36",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=R36",
   "chamber": "house",
   "electorate": "Grayndler",
   "family_name": "Albanese",
   "gender": "Male",
   "given_names": "Anthony Norman",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -32,15 +36,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:aldred-mary",
-  "aph_url": null,
+  "aph_id": "11788",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=11788",
   "chamber": "house",
   "electorate": "Monash",
   "family_name": "Aldred",
   "gender": "Female",
   "given_names": "Mary Rose",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -66,15 +72,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:aly-anne",
-  "aph_url": null,
+  "aph_id": "13050",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=13050",
   "chamber": "house",
   "electorate": "Cowan",
   "family_name": "Aly",
   "gender": "Female",
   "given_names": "Anne",
   "honorific": "Hon Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -82,15 +90,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:ambihaipahar-ash",
-  "aph_url": null,
+  "aph_id": "315618",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315618",
   "chamber": "house",
   "electorate": "Barton",
   "family_name": "Ambihaipahar",
   "gender": "Female",
   "given_names": "Ash",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -170,15 +180,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:batt-david",
-  "aph_url": null,
+  "aph_id": "315478",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315478",
   "chamber": "house",
   "electorate": "Hinkler",
   "family_name": "Batt",
   "gender": "Male",
   "given_names": "David John",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -186,15 +198,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:bell-angie",
-  "aph_url": null,
+  "aph_id": "282981",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282981",
   "chamber": "house",
   "electorate": "Moncrieff",
   "family_name": "Bell",
   "gender": "Female",
   "given_names": "Angie Marion",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -220,15 +234,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:belyea-jodie",
-  "aph_url": null,
+  "aph_id": "309484",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=309484",
   "chamber": "house",
   "electorate": "Dunkley",
   "family_name": "Belyea",
   "gender": "Female",
   "given_names": "Jodie Anne",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -236,15 +252,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:berry-carol",
-  "aph_url": null,
+  "aph_id": "23497",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=23497",
   "chamber": "house",
   "electorate": "Whitlam",
   "family_name": "Berry",
   "gender": "Female",
   "given_names": "Carol Gaye",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -252,15 +270,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:birrell-sam",
-  "aph_url": null,
+  "aph_id": "288713",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=288713",
   "chamber": "house",
   "electorate": "Nicholls",
   "family_name": "Birrell",
   "gender": "Male",
   "given_names": "Sam James",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -302,15 +322,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:boele-nicolette",
-  "aph_url": null,
+  "aph_id": "26417",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=26417",
   "chamber": "house",
   "electorate": "Bradfield",
   "family_name": "Boele",
   "gender": "Female",
   "given_names": "Nicolette",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -318,15 +340,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:bowen-christopher",
-  "aph_url": null,
+  "aph_id": "DZS",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZS",
   "chamber": "house",
   "electorate": "McMahon",
   "family_name": "Bowen",
   "gender": "Male",
   "given_names": "Christopher Eyles",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -334,15 +358,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:boyce-colin",
-  "aph_url": null,
+  "aph_id": "299498",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299498",
   "chamber": "house",
   "electorate": "Flynn",
   "family_name": "Boyce",
   "gender": "Male",
   "given_names": "Colin Einar",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -368,15 +394,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:briskey-joanna",
-  "aph_url": null,
+  "aph_id": "263427",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263427",
   "chamber": "house",
   "electorate": "Maribyrnong",
   "family_name": "Briskey",
   "gender": "Female",
   "given_names": "Joanna Leigh",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -420,15 +448,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:buchholz-scott",
-  "aph_url": null,
+  "aph_id": "230531",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=230531",
   "chamber": "house",
   "electorate": "Wright",
   "family_name": "Buchholz",
   "gender": "Male",
   "given_names": "Scott",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -436,15 +466,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:burke-anthony",
-  "aph_url": null,
+  "aph_id": "DYW",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DYW",
   "chamber": "house",
   "electorate": "Watson",
   "family_name": "Burke",
   "gender": "Male",
   "given_names": "Anthony Stephen",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -452,15 +484,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:burnell-matt",
-  "aph_url": null,
+  "aph_id": "300129",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300129",
   "chamber": "house",
   "electorate": "Spence",
   "family_name": "Burnell",
   "gender": "Male",
   "given_names": "Matt Paul",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -468,15 +502,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:burns-josh",
-  "aph_url": null,
+  "aph_id": "278522",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=278522",
   "chamber": "house",
   "electorate": "Macnamara",
   "family_name": "Burns",
   "gender": "Male",
   "given_names": "Josh",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -484,15 +520,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:butler-mark",
-  "aph_url": null,
+  "aph_id": "HWK",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWK",
   "chamber": "house",
   "electorate": "Hindmarsh",
   "family_name": "Butler",
   "gender": "Male",
   "given_names": "Mark Christopher",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -500,15 +538,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:byrnes-alison",
-  "aph_url": null,
+  "aph_id": "299145",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299145",
   "chamber": "house",
   "electorate": "Cunningham",
   "family_name": "Byrnes",
   "gender": "Female",
   "given_names": "Alison Joy",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -534,15 +574,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:caldwell-cameron",
-  "aph_url": null,
+  "aph_id": "306489",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=306489",
   "chamber": "house",
   "electorate": "Fadden",
   "family_name": "Caldwell",
   "gender": "Male",
   "given_names": "Cameron Mackenzie",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -550,15 +592,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:campbell-julieann",
-  "aph_url": null,
+  "aph_id": "312823",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312823",
   "chamber": "house",
   "electorate": "Moreton",
   "family_name": "Campbell",
   "gender": "Female",
   "given_names": "Julie-Ann Patricia",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -602,15 +646,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:chaffey-jamie",
-  "aph_url": null,
+  "aph_id": "316312",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316312",
   "chamber": "house",
   "electorate": "Parkes",
   "family_name": "Chaffey",
   "gender": "Male",
   "given_names": "Jamie Lesley",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -618,15 +664,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:chalmers-james",
-  "aph_url": null,
+  "aph_id": "37998",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=37998",
   "chamber": "house",
   "electorate": "Rankin",
   "family_name": "Chalmers",
   "gender": "Male",
   "given_names": "James Edward",
   "honorific": "Hon Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -652,15 +700,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:chaney-kate",
-  "aph_url": null,
+  "aph_id": "300006",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300006",
   "chamber": "house",
   "electorate": "Curtin",
   "family_name": "Chaney",
   "gender": "Female",
   "given_names": "Kate Ella",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -668,15 +718,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:charlton-andrew",
-  "aph_url": null,
+  "aph_id": "I8M",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I8M",
   "chamber": "house",
   "electorate": "Parramatta",
   "family_name": "Charlton",
   "gender": "Male",
   "given_names": "Andrew Henry George",
   "honorific": "Hon Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -684,15 +736,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:chester-darren",
-  "aph_url": null,
+  "aph_id": "IPZ",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IPZ",
   "chamber": "house",
   "electorate": "Gippsland",
   "family_name": "Chester",
   "gender": "Male",
   "given_names": "Darren Jeffrey",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -700,15 +754,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:chesters-lisa",
-  "aph_url": null,
+  "aph_id": "249710",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249710",
   "chamber": "house",
   "electorate": "Bendigo",
   "family_name": "Chesters",
   "gender": "Female",
   "given_names": "Lisa Marie",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -752,15 +808,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:clare-jason",
-  "aph_url": null,
+  "aph_id": "HWL",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWL",
   "chamber": "house",
   "electorate": "Blaxland",
   "family_name": "Clare",
   "gender": "Male",
   "given_names": "Jason Dean",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -768,15 +826,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:claydon-sharon",
-  "aph_url": null,
+  "aph_id": "248181",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248181",
   "chamber": "house",
   "electorate": "Newcastle",
   "family_name": "Claydon",
   "gender": "Female",
   "given_names": "Sharon Catherine",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -784,15 +844,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:clutterham-claire",
-  "aph_url": null,
+  "aph_id": "316101",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316101",
   "chamber": "house",
   "electorate": "Sturt",
   "family_name": "Clutterham",
   "gender": "Female",
   "given_names": "Claire Louise",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -800,15 +862,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:coffey-renee",
-  "aph_url": null,
+  "aph_id": "312323",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312323",
   "chamber": "house",
   "electorate": "Griffith",
   "family_name": "Coffey",
   "gender": "Female",
   "given_names": "Renee Kay",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -816,15 +880,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:coker-elizabeth",
-  "aph_url": null,
+  "aph_id": "263547",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263547",
   "chamber": "house",
   "electorate": "Corangamite",
   "family_name": "Coker",
   "gender": "Female",
   "given_names": "Elizabeth Ann",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -868,15 +934,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:collins-julie",
-  "aph_url": null,
+  "aph_id": "HWM",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWM",
   "chamber": "house",
   "electorate": "Franklin",
   "family_name": "Collins",
   "gender": "Female",
   "given_names": "Julie Maree",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -884,15 +952,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:comer-emma",
-  "aph_url": null,
+  "aph_id": "316551",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316551",
   "chamber": "house",
   "electorate": "Petrie",
   "family_name": "Comer",
   "gender": "Female",
   "given_names": "Emma Louise",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -900,15 +970,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:conaghan-patrick",
-  "aph_url": null,
+  "aph_id": "279991",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=279991",
   "chamber": "house",
   "electorate": "Cowper",
   "family_name": "Conaghan",
   "gender": "Male",
   "given_names": "Patrick John",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -916,15 +988,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:conroy-patrick",
-  "aph_url": null,
+  "aph_id": "249127",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249127",
   "chamber": "house",
   "electorate": "Shortland",
   "family_name": "Conroy",
   "gender": "Male",
   "given_names": "Patrick Martin",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -932,15 +1006,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:cook-kara",
-  "aph_url": null,
+  "aph_id": "316537",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316537",
   "chamber": "house",
   "electorate": "Bonner",
   "family_name": "Cook",
   "gender": "Female",
   "given_names": "Kara May George",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -948,15 +1024,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:cook-patricia",
-  "aph_url": null,
+  "aph_id": "312871",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312871",
   "chamber": "house",
   "electorate": "Bullwinkel",
   "family_name": "Cook",
   "gender": "Female",
   "given_names": "Patricia Ann",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1000,15 +1078,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:dick-dugald",
-  "aph_url": null,
+  "aph_id": "53517",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=53517",
   "chamber": "house",
   "electorate": "Oxley",
   "family_name": "Dick",
   "gender": "Male",
   "given_names": "Dugald Milton",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1052,15 +1132,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:doyle-mary",
-  "aph_url": null,
+  "aph_id": "299962",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299962",
   "chamber": "house",
   "electorate": "Aston",
   "family_name": "Doyle",
   "gender": "Female",
   "given_names": "Mary Judith Jacinta",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1068,15 +1150,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:dreyfus-mark",
-  "aph_url": null,
+  "aph_id": "HWG",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWG",
   "chamber": "house",
   "electorate": "Isaacs",
   "family_name": "Dreyfus",
   "gender": "Male",
   "given_names": "Mark Alfred",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP KC",
@@ -1102,19 +1186,39 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:elliot-maria",
-  "aph_url": null,
+  "aph_id": "DZW",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZW",
   "chamber": "house",
   "electorate": "Richmond",
   "family_name": "Elliot",
   "gender": "Female",
   "given_names": "Maria Justine",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
   "preferred_name": "Justine",
+  "state": "NSW"
+ },
+ {
+  "aph_id": "62329",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=62329",
+  "chamber": "house",
+  "electorate": "Farrer",
+  "family_name": "Farley",
+  "gender": null,
+  "given_names": "David",
+  "honorific": "Mr",
+  "parliaments": [
+   48
+  ],
+  "party": null,
+  "party_code": null,
+  "post_nominals": null,
+  "preferred_name": null,
   "state": "NSW"
  },
  {
@@ -1154,15 +1258,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:fernando-cassandra",
-  "aph_url": null,
+  "aph_id": "299964",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299964",
   "chamber": "house",
   "electorate": "Holt",
   "family_name": "Fernando",
   "gender": "Female",
   "given_names": "Cassandra Juanita",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1170,15 +1276,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:france-allison",
-  "aph_url": null,
+  "aph_id": "270198",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=270198",
   "chamber": "house",
   "electorate": "Dickson",
   "family_name": "France",
   "gender": "Female",
   "given_names": "Allison Anne",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1186,15 +1294,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:freelander-michael",
-  "aph_url": null,
+  "aph_id": "265979",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265979",
   "chamber": "house",
   "electorate": "Macarthur",
   "family_name": "Freelander",
   "gender": "Male",
   "given_names": "Michael Randolph",
   "honorific": "Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1202,15 +1312,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:french-thomas",
-  "aph_url": null,
+  "aph_id": "316550",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316550",
   "chamber": "house",
   "electorate": "Moore",
   "family_name": "French",
   "gender": "Male",
   "given_names": "Thomas Alan",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1236,15 +1348,17 @@
   "state": "ACT"
  },
  {
-  "aph_id": "roster:garland-carina",
-  "aph_url": null,
+  "aph_id": "295588",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=295588",
   "chamber": "house",
   "electorate": "Chisholm",
   "family_name": "Garland",
   "gender": "Female",
   "given_names": "Carina Mary Lindsay",
   "honorific": "Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1268,15 +1382,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:gee-andrew",
-  "aph_url": null,
+  "aph_id": "261393",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=261393",
   "chamber": "house",
   "electorate": "Calare",
   "family_name": "Gee",
   "gender": "Male",
   "given_names": "Andrew Robert",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -1284,15 +1400,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:georganas-steven",
-  "aph_url": null,
+  "aph_id": "DZY",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZY",
   "chamber": "house",
   "electorate": "Adelaide",
   "family_name": "Georganas",
   "gender": "Male",
   "given_names": "Steven",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1318,15 +1436,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:giles-andrew",
-  "aph_url": null,
+  "aph_id": "243609",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=243609",
   "chamber": "house",
   "electorate": "Scullin",
   "family_name": "Giles",
   "gender": "Male",
   "given_names": "Andrew James",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1334,15 +1454,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:gorman-patrick",
-  "aph_url": null,
+  "aph_id": "74519",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=74519",
   "chamber": "house",
   "electorate": "Perth",
   "family_name": "Gorman",
   "gender": "Male",
   "given_names": "Patrick Possum",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1350,15 +1472,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:gosling-luke",
-  "aph_url": null,
+  "aph_id": "245392",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=245392",
   "chamber": "house",
   "electorate": "Solomon",
   "family_name": "Gosling",
   "gender": "Male",
   "given_names": "Luke John",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "OAM MP",
@@ -1384,15 +1508,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:gregg-matthew",
-  "aph_url": null,
+  "aph_id": "315154",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315154",
   "chamber": "house",
   "electorate": "Deakin",
   "family_name": "Gregg",
   "gender": "Male",
   "given_names": "Matthew John",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1418,15 +1544,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:haines-helen",
-  "aph_url": null,
+  "aph_id": "282335",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282335",
   "chamber": "house",
   "electorate": "Indi",
   "family_name": "Haines",
   "gender": "Female",
   "given_names": "Helen Mary",
   "honorific": "Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -1434,15 +1562,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:hamilton-garth",
-  "aph_url": null,
+  "aph_id": "291387",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=291387",
   "chamber": "house",
   "electorate": "Groom",
   "family_name": "Hamilton",
   "gender": "Male",
   "given_names": "Garth Russell",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -1486,15 +1616,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:hastie-andrew",
-  "aph_url": null,
+  "aph_id": "260805",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=260805",
   "chamber": "house",
   "electorate": "Canning",
   "family_name": "Hastie",
   "gender": "Male",
   "given_names": "Andrew William",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -1502,15 +1634,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:hawke-alexander",
-  "aph_url": null,
+  "aph_id": "HWO",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWO",
   "chamber": "house",
   "electorate": "Mitchell",
   "family_name": "Hawke",
   "gender": "Male",
   "given_names": "Alexander George",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -1536,15 +1670,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:hill-julian",
-  "aph_url": null,
+  "aph_id": "86256",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=86256",
   "chamber": "house",
   "electorate": "Bruce",
   "family_name": "Hill",
   "gender": "Male",
   "given_names": "Julian Christopher",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1570,15 +1706,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:hogan-kevin",
-  "aph_url": null,
+  "aph_id": "218019",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=218019",
   "chamber": "house",
   "electorate": "Page",
   "family_name": "Hogan",
   "gender": "Male",
   "given_names": "Kevin John",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -1586,15 +1724,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:holzberger-rowan",
-  "aph_url": null,
+  "aph_id": "88411",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=88411",
   "chamber": "house",
   "electorate": "Forde",
   "family_name": "Holzberger",
   "gender": "Male",
   "given_names": "Rowan Aubrey Victor",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1620,15 +1760,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:husic-edham",
-  "aph_url": null,
+  "aph_id": "91219",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=91219",
   "chamber": "house",
   "electorate": "Chifley",
   "family_name": "Husic",
   "gender": "Male",
   "given_names": "Edham Nurredin",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1636,15 +1778,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:jarrett-madonna",
-  "aph_url": null,
+  "aph_id": "298574",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298574",
   "chamber": "house",
   "electorate": "Brisbane",
   "family_name": "Jarrett",
   "gender": "Female",
   "given_names": "Madonna Louise",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1652,15 +1796,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:jordanbaird-marionalice",
-  "aph_url": null,
+  "aph_id": "316021",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316021",
   "chamber": "house",
   "electorate": "Gorton",
   "family_name": "Jordan-Baird",
   "gender": "Female",
   "given_names": "Marion Alice Marguerite",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1668,15 +1814,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:joyce-barnaby",
-  "aph_url": null,
+  "aph_id": "e5d",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=e5d",
   "chamber": "house",
   "electorate": "New England",
   "family_name": "Joyce",
   "gender": "Male",
   "given_names": "Barnaby Thomas Gerard",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Pauline Hanson's One Nation",
   "party_code": "PHON",
   "post_nominals": "MP",
@@ -1684,15 +1832,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:katter-robert",
-  "aph_url": null,
+  "aph_id": "HX4",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HX4",
   "chamber": "house",
   "electorate": "Kennedy",
   "family_name": "Katter",
   "gender": "Male",
   "given_names": "Robert Carl",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Katter's Australian Party",
   "party_code": "KAP",
   "post_nominals": "MP",
@@ -1700,15 +1850,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:kearney-gerardine",
-  "aph_url": null,
+  "aph_id": "LTU",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=LTU",
   "chamber": "house",
   "electorate": "Cooper",
   "family_name": "Kearney",
   "gender": "Female",
   "given_names": "Gerardine Mary",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1716,15 +1868,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:kennedy-simon",
-  "aph_url": null,
+  "aph_id": "267506",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=267506",
   "chamber": "house",
   "electorate": "Cook",
   "family_name": "Kennedy",
   "gender": "Male",
   "given_names": "Simon Peter",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -1732,15 +1886,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:keogh-matt",
-  "aph_url": null,
+  "aph_id": "249147",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249147",
   "chamber": "house",
   "electorate": "Burt",
   "family_name": "Keogh",
   "gender": "Male",
   "given_names": "Matt James",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1748,15 +1904,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:khalil-peter",
-  "aph_url": null,
+  "aph_id": "101351",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=101351",
   "chamber": "house",
   "electorate": "Wills",
   "family_name": "Khalil",
   "gender": "Male",
   "given_names": "Peter",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1764,15 +1922,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:king-catherine",
-  "aph_url": null,
+  "aph_id": "00AMR",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AMR",
   "chamber": "house",
   "electorate": "Ballarat",
   "family_name": "King",
   "gender": "Female",
   "given_names": "Catherine Fiona",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1780,15 +1940,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:king-madeleine",
-  "aph_url": null,
+  "aph_id": "102376",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=102376",
   "chamber": "house",
   "electorate": "Brand",
   "family_name": "King",
   "gender": "Female",
   "given_names": "Madeleine Mary Harvie",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1832,15 +1994,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:landry-michelle",
-  "aph_url": null,
+  "aph_id": "249764",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249764",
   "chamber": "house",
   "electorate": "Capricornia",
   "family_name": "Landry",
   "gender": "Female",
   "given_names": "Michelle Leanne",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -1848,15 +2012,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:lawrence-tania",
-  "aph_url": null,
+  "aph_id": "299150",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299150",
   "chamber": "house",
   "electorate": "Hasluck",
   "family_name": "Lawrence",
   "gender": "Female",
   "given_names": "Tania Natalie",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1864,15 +2030,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:laxale-jerome",
-  "aph_url": null,
+  "aph_id": "299174",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299174",
   "chamber": "house",
   "electorate": "Bennelong",
   "family_name": "Laxale",
   "gender": "Male",
   "given_names": "Jerome Alexandre Alain",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1880,15 +2048,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:le-dai",
-  "aph_url": null,
+  "aph_id": "295676",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=295676",
   "chamber": "house",
   "electorate": "Fowler",
   "family_name": "Le",
   "gender": "Female",
   "given_names": "Dai Trang",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -1896,15 +2066,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:leeser-julian",
-  "aph_url": null,
+  "aph_id": "109556",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=109556",
   "chamber": "house",
   "electorate": "Berowra",
   "family_name": "Leeser",
   "gender": "Male",
   "given_names": "Julian",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -1912,15 +2084,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:leigh-andrew",
-  "aph_url": null,
+  "aph_id": "BU8",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BU8",
   "chamber": "house",
   "electorate": "Fenner",
   "family_name": "Leigh",
   "gender": "Male",
   "given_names": "Andrew Keith",
   "honorific": "Hon Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1928,15 +2102,17 @@
   "state": "ACT"
  },
  {
-  "aph_id": "roster:ley-sussan",
-  "aph_url": null,
+  "aph_id": "00AMN",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AMN",
   "chamber": "house",
   "electorate": "Farrer",
   "family_name": "Ley",
   "gender": "Female",
   "given_names": "Sussan Penelope",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -1962,15 +2138,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:lim-sam",
-  "aph_url": null,
+  "aph_id": "300130",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300130",
   "chamber": "house",
   "electorate": "Tangney",
   "family_name": "Lim",
   "gender": "Male",
   "given_names": "Sam Bon Cheng",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -1996,15 +2174,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:littleproud-david",
-  "aph_url": null,
+  "aph_id": "265585",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265585",
   "chamber": "house",
   "electorate": "Maranoa",
   "family_name": "Littleproud",
   "gender": "Male",
   "given_names": "David",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -2012,15 +2192,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:marles-richard",
-  "aph_url": null,
+  "aph_id": "HWQ",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWQ",
   "chamber": "house",
   "electorate": "Corio",
   "family_name": "Marles",
   "gender": "Male",
   "given_names": "Richard Donald",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2028,15 +2210,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:mascarenhas-zaneta",
-  "aph_url": null,
+  "aph_id": "298800",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298800",
   "chamber": "house",
   "electorate": "Swan",
   "family_name": "Mascarenhas",
   "gender": "Female",
   "given_names": "Zaneta Felice Antoinetta",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2062,15 +2246,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:mcbain-kristy",
-  "aph_url": null,
+  "aph_id": "281988",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281988",
   "chamber": "house",
   "electorate": "Eden-Monaro",
   "family_name": "McBain",
   "gender": "Female",
   "given_names": "Kristy Louise",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2078,15 +2264,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:mcbride-emma",
-  "aph_url": null,
+  "aph_id": "248353",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248353",
   "chamber": "house",
   "electorate": "Dobell",
   "family_name": "McBride",
   "gender": "Female",
   "given_names": "Emma Margaret",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2112,15 +2300,17 @@
   "state": "NT"
  },
  {
-  "aph_id": "roster:mccormack-michael",
-  "aph_url": null,
+  "aph_id": "219646",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=219646",
   "chamber": "house",
   "electorate": "Riverina",
   "family_name": "McCormack",
   "gender": "Male",
   "given_names": "Michael Francis",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -2164,15 +2354,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:mcintosh-melissa",
-  "aph_url": null,
+  "aph_id": "281513",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281513",
   "chamber": "house",
   "electorate": "Lindsay",
   "family_name": "McIntosh",
   "gender": "Female",
   "given_names": "Melissa Iris",
   "honorific": "Mrs",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -2198,15 +2390,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:mckenzie-zoe",
-  "aph_url": null,
+  "aph_id": "124514",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=124514",
   "chamber": "house",
   "electorate": "Flinders",
   "family_name": "McKenzie",
   "gender": "Female",
   "given_names": "Zoe Anne",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -2250,15 +2444,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:millerfrost-louise",
-  "aph_url": null,
+  "aph_id": "296272",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=296272",
   "chamber": "house",
   "electorate": "Boothby",
   "family_name": "Miller-Frost",
   "gender": "Female",
   "given_names": "Louise Jane",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2266,15 +2462,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:mitchell-robert",
-  "aph_url": null,
+  "aph_id": "M3E",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=M3E",
   "chamber": "house",
   "electorate": "McEwen",
   "family_name": "Mitchell",
   "gender": "Male",
   "given_names": "Robert George",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2282,15 +2480,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:moncrieff-david",
-  "aph_url": null,
+  "aph_id": "316540",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316540",
   "chamber": "house",
   "electorate": "Hughes",
   "family_name": "Moncrieff",
   "gender": "Male",
   "given_names": "David Sidney",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2316,15 +2516,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:mulino-daniel",
-  "aph_url": null,
+  "aph_id": "132880",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=132880",
   "chamber": "house",
   "electorate": "Fraser",
   "family_name": "Mulino",
   "gender": "Male",
   "given_names": "Daniel",
   "honorific": "Hon Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2350,15 +2552,17 @@
   "state": "NT"
  },
  {
-  "aph_id": "roster:neumann-shayne",
-  "aph_url": null,
+  "aph_id": "HVO",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HVO",
   "chamber": "house",
   "electorate": "Blair",
   "family_name": "Neumann",
   "gender": "Male",
   "given_names": "Shayne Kenneth",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2366,15 +2570,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:ng-gabriel",
-  "aph_url": null,
+  "aph_id": "316052",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316052",
   "chamber": "house",
   "electorate": "Menzies",
   "family_name": "Ng",
   "gender": "Male",
   "given_names": "Gabriel James",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2382,15 +2588,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:obrien-edward",
-  "aph_url": null,
+  "aph_id": "138932",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=138932",
   "chamber": "house",
   "electorate": "Fairfax",
   "family_name": "O'Brien",
   "gender": "Male",
   "given_names": "Edward Lynam",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -2398,15 +2606,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:obrien-llewellyn",
-  "aph_url": null,
+  "aph_id": "265991",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265991",
   "chamber": "house",
   "electorate": "Wide Bay",
   "family_name": "O'Brien",
   "gender": "Male",
   "given_names": "Llewellyn Stephen",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -2414,15 +2624,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:oneil-clare",
-  "aph_url": null,
+  "aph_id": "140590",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=140590",
   "chamber": "house",
   "electorate": "Hotham",
   "family_name": "O'Neil",
   "gender": "Female",
   "given_names": "Clare Ellen",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2466,15 +2678,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:pasin-antony",
-  "aph_url": null,
+  "aph_id": "240756",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=240756",
   "chamber": "house",
   "electorate": "Barker",
   "family_name": "Pasin",
   "gender": "Male",
   "given_names": "Antony",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -2518,15 +2732,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:payne-alicia",
-  "aph_url": null,
+  "aph_id": "144732",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=144732",
   "chamber": "house",
   "electorate": "Canberra",
   "family_name": "Payne",
   "gender": "Female",
   "given_names": "Alicia Emma",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2534,15 +2750,17 @@
   "state": "ACT"
  },
  {
-  "aph_id": "roster:penfold-alison",
-  "aph_url": null,
+  "aph_id": "248895",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248895",
   "chamber": "house",
   "electorate": "Lyne",
   "family_name": "Penfold",
   "gender": "Female",
   "given_names": "Alison Louise",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -2550,15 +2768,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:phillips-fiona",
-  "aph_url": null,
+  "aph_id": "147140",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=147140",
   "chamber": "house",
   "electorate": "Gilmore",
   "family_name": "Phillips",
   "gender": "Female",
   "given_names": "Fiona Evon",
   "honorific": "Mrs",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2566,15 +2786,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:pike-henry",
-  "aph_url": null,
+  "aph_id": "300120",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300120",
   "chamber": "house",
   "electorate": "Bowman",
   "family_name": "Pike",
   "gender": "Male",
   "given_names": "Henry Jon",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -2582,15 +2804,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:plibersek-tanya",
-  "aph_url": null,
+  "aph_id": "83M",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=83M",
   "chamber": "house",
   "electorate": "Sydney",
   "family_name": "Plibersek",
   "gender": "Female",
   "given_names": "Tanya Joan",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2652,15 +2876,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:price-melissa",
-  "aph_url": null,
+  "aph_id": "249308",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249308",
   "chamber": "house",
   "electorate": "Durack",
   "family_name": "Price",
   "gender": "Female",
   "given_names": "Melissa Lee",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -2668,15 +2894,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:rae-sam",
-  "aph_url": null,
+  "aph_id": "300122",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300122",
   "chamber": "house",
   "electorate": "Hawke",
   "family_name": "Rae",
   "gender": "Male",
   "given_names": "Sam Thomas",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2684,15 +2912,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:rebello-leon",
-  "aph_url": null,
+  "aph_id": "316547",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316547",
   "chamber": "house",
   "electorate": "McPherson",
   "family_name": "Rebello",
   "gender": "Male",
   "given_names": "Leon Stefan",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -2700,15 +2930,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:reid-gordon",
-  "aph_url": null,
+  "aph_id": "300126",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300126",
   "chamber": "house",
   "electorate": "Robertson",
   "family_name": "Reid",
   "gender": "Male",
   "given_names": "Gordon James",
   "honorific": "Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2716,15 +2948,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:repacholi-daniel",
-  "aph_url": null,
+  "aph_id": "298840",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298840",
   "chamber": "house",
   "electorate": "Hunter",
   "family_name": "Repacholi",
   "gender": "Male",
   "given_names": "Daniel Peter",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2732,15 +2966,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:rishworth-amanda",
-  "aph_url": null,
+  "aph_id": "HWA",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWA",
   "chamber": "house",
   "electorate": "Kingston",
   "family_name": "Rishworth",
   "gender": "Female",
   "given_names": "Amanda Louise",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2766,15 +3002,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:roberts-tracey",
-  "aph_url": null,
+  "aph_id": "157125",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=157125",
   "chamber": "house",
   "electorate": "Pearce",
   "family_name": "Roberts",
   "gender": "Female",
   "given_names": "Tracey Gardner",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2782,15 +3020,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:rowland-michelle",
-  "aph_url": null,
+  "aph_id": "159771",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=159771",
   "chamber": "house",
   "electorate": "Greenway",
   "family_name": "Rowland",
   "gender": "Female",
   "given_names": "Michelle Anne",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2816,15 +3056,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:ryan-joanne",
-  "aph_url": null,
+  "aph_id": "249224",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249224",
   "chamber": "house",
   "electorate": "Lalor",
   "family_name": "Ryan",
   "gender": "Female",
   "given_names": "Joanne Catherine",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2832,15 +3074,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:ryan-monique",
-  "aph_url": null,
+  "aph_id": "297660",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=297660",
   "chamber": "house",
   "electorate": "Kooyong",
   "family_name": "Ryan",
   "gender": "Female",
   "given_names": "Monique Marie",
   "honorific": "Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -2848,15 +3092,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:scamps-sophie",
-  "aph_url": null,
+  "aph_id": "299623",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299623",
   "chamber": "house",
   "electorate": "Mackellar",
   "family_name": "Scamps",
   "gender": "Female",
   "given_names": "Sophie Anna",
   "honorific": "Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -2882,15 +3128,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:scrymgour-marion",
-  "aph_url": null,
+  "aph_id": "F2S",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=F2S",
   "chamber": "house",
   "electorate": "Lingiari",
   "family_name": "Scrymgour",
   "gender": "Female",
   "given_names": "Marion Rose",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2898,15 +3146,17 @@
   "state": "NT"
  },
  {
-  "aph_id": "roster:sharkie-rebekha",
-  "aph_url": null,
+  "aph_id": "265980",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265980",
   "chamber": "house",
   "electorate": "Mayo",
   "family_name": "Sharkie",
   "gender": "Female",
   "given_names": "Rebekha Carina Che",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Centre Alliance",
   "party_code": "CA",
   "post_nominals": "MP",
@@ -2968,15 +3218,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:sitou-sally",
-  "aph_url": null,
+  "aph_id": "298121",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298121",
   "chamber": "house",
   "electorate": "Reid",
   "family_name": "Sitou",
   "gender": "Female",
   "given_names": "Sally",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -2984,15 +3236,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:small-benjamin",
-  "aph_url": null,
+  "aph_id": "291406",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=291406",
   "chamber": "house",
   "electorate": "Forrest",
   "family_name": "Small",
   "gender": "Male",
   "given_names": "Benjamin John",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3000,15 +3254,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:smith-david",
-  "aph_url": null,
+  "aph_id": "276714",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=276714",
   "chamber": "house",
   "electorate": "Bean",
   "family_name": "Smith",
   "gender": "Male",
   "given_names": "David Philip Benedict",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3052,15 +3308,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:smith-matthew",
-  "aph_url": null,
+  "aph_id": "312393",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312393",
   "chamber": "house",
   "electorate": "Leichhardt",
   "family_name": "Smith",
   "gender": "Male",
   "given_names": "Matthew John Howe",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3068,15 +3326,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:soon-xianzhi",
-  "aph_url": null,
+  "aph_id": "298618",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298618",
   "chamber": "house",
   "electorate": "Banks",
   "family_name": "Soon",
   "gender": "Male",
   "given_names": "Xian-Zhi",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3084,15 +3344,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:spender-allegra",
-  "aph_url": null,
+  "aph_id": "286042",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=286042",
   "chamber": "house",
   "electorate": "Wentworth",
   "family_name": "Spender",
   "gender": "Female",
   "given_names": "Allegra May",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -3100,15 +3362,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:stanley-anne",
-  "aph_url": null,
+  "aph_id": "265990",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265990",
   "chamber": "house",
   "electorate": "Werriwa",
   "family_name": "Stanley",
   "gender": "Female",
   "given_names": "Anne Maree",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3134,15 +3398,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:steggall-zali",
-  "aph_url": null,
+  "aph_id": "175696",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=175696",
   "chamber": "house",
   "electorate": "Warringah",
   "family_name": "Steggall",
   "gender": "Female",
   "given_names": "Zali",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "OAM MP",
@@ -3186,15 +3452,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:swanson-meryl",
-  "aph_url": null,
+  "aph_id": "264170",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=264170",
   "chamber": "house",
   "electorate": "Paterson",
   "family_name": "Swanson",
   "gender": "Female",
   "given_names": "Meryl Jane",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3202,15 +3470,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:taylor-angus",
-  "aph_url": null,
+  "aph_id": "231027",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=231027",
   "chamber": "house",
   "electorate": "Hume",
   "family_name": "Taylor",
   "gender": "Male",
   "given_names": "Angus James",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3218,15 +3488,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:teesdale-jessica",
-  "aph_url": null,
+  "aph_id": "314526",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=314526",
   "chamber": "house",
   "electorate": "Bass",
   "family_name": "Teesdale",
   "gender": "Female",
   "given_names": "Jessica Ann",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3234,15 +3506,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:tehan-daniel",
-  "aph_url": null,
+  "aph_id": "210911",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=210911",
   "chamber": "house",
   "electorate": "Wannon",
   "family_name": "Tehan",
   "gender": "Male",
   "given_names": "Daniel Thomas",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3250,15 +3524,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:templeman-susan",
-  "aph_url": null,
+  "aph_id": "181810",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=181810",
   "chamber": "house",
   "electorate": "Macquarie",
   "family_name": "Templeman",
   "gender": "Female",
   "given_names": "Susan Raye",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3266,15 +3542,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:thistlethwaite-matthew",
-  "aph_url": null,
+  "aph_id": "182468",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=182468",
   "chamber": "house",
   "electorate": "Kingsford Smith",
   "family_name": "Thistlethwaite",
   "gender": "Male",
   "given_names": "Matthew James",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3282,15 +3560,17 @@
   "state": "NSW"
  },
  {
-  "aph_id": "roster:thompson-phillip",
-  "aph_url": null,
+  "aph_id": "281826",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281826",
   "chamber": "house",
   "electorate": "Herbert",
   "family_name": "Thompson",
   "gender": "Male",
   "given_names": "Phillip",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP OAM",
@@ -3316,15 +3596,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:thwaites-kate",
-  "aph_url": null,
+  "aph_id": "282212",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282212",
   "chamber": "house",
   "electorate": "Jagajaga",
   "family_name": "Thwaites",
   "gender": "Female",
   "given_names": "Kate Lynne",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3350,15 +3632,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:urquhart-anne",
-  "aph_url": null,
+  "aph_id": "231199",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=231199",
   "chamber": "house",
   "electorate": "Braddon",
   "family_name": "Urquhart",
   "gender": "Female",
   "given_names": "Anne Elizabeth",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3366,15 +3650,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:venning-thomas",
-  "aph_url": null,
+  "aph_id": "315434",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315434",
   "chamber": "house",
   "electorate": "Grey",
   "family_name": "Venning",
   "gender": "Male",
   "given_names": "Thomas Howard",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3382,15 +3668,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:violi-aaron",
-  "aph_url": null,
+  "aph_id": "300147",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300147",
   "chamber": "house",
   "electorate": "Casey",
   "family_name": "Violi",
   "gender": "Male",
   "given_names": "Aaron Anthony",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3416,15 +3704,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:wallace-andrew",
-  "aph_url": null,
+  "aph_id": "265967",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265967",
   "chamber": "house",
   "electorate": "Fisher",
   "family_name": "Wallace",
   "gender": "Male",
   "given_names": "Andrew Bruce",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -3468,15 +3758,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:watsonbrown-elizabeth",
-  "aph_url": null,
+  "aph_id": "300127",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300127",
   "chamber": "house",
   "electorate": "Ryan",
   "family_name": "Watson-Brown",
   "gender": "Female",
   "given_names": "Elizabeth",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Greens",
   "party_code": "AG",
   "post_nominals": "MP",
@@ -3502,15 +3794,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:watts-timothy",
-  "aph_url": null,
+  "aph_id": "193430",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=193430",
   "chamber": "house",
   "electorate": "Gellibrand",
   "family_name": "Watts",
   "gender": "Male",
   "given_names": "Timothy Graham",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3518,15 +3812,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:webster-anne",
-  "aph_url": null,
+  "aph_id": "281688",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281688",
   "chamber": "house",
   "electorate": "Mallee",
   "family_name": "Webster",
   "gender": "Female",
   "given_names": "Anne Elizabeth",
   "honorific": "Dr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "The Nationals",
   "party_code": "NATS",
   "post_nominals": "MP",
@@ -3534,15 +3830,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:wells-anika",
-  "aph_url": null,
+  "aph_id": "264121",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=264121",
   "chamber": "house",
   "electorate": "Lilley",
   "family_name": "Wells",
   "gender": "Female",
   "given_names": "Anika Shay",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3550,15 +3848,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:white-rebecca",
-  "aph_url": null,
+  "aph_id": "224102",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=224102",
   "chamber": "house",
   "electorate": "Lyons",
   "family_name": "White",
   "gender": "Female",
   "given_names": "Rebecca Peta",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3602,15 +3902,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:wilkie-andrew",
-  "aph_url": null,
+  "aph_id": "C2T",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=C2T",
   "chamber": "house",
   "electorate": "Clark",
   "family_name": "Wilkie",
   "gender": "Male",
   "given_names": "Andrew Damien",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Independent",
   "party_code": "IND",
   "post_nominals": "MP",
@@ -3618,15 +3920,17 @@
   "state": "TAS"
  },
  {
-  "aph_id": "roster:willcox-andrew",
-  "aph_url": null,
+  "aph_id": "286535",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=286535",
   "chamber": "house",
   "electorate": "Dawson",
   "family_name": "Willcox",
   "gender": "Male",
   "given_names": "Andrew John",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -3634,15 +3938,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:wilson-joshua",
-  "aph_url": null,
+  "aph_id": "265970",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265970",
   "chamber": "house",
   "electorate": "Fremantle",
   "family_name": "Wilson",
   "gender": "Male",
   "given_names": "Joshua Hamilton",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3650,15 +3956,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:wilson-richard",
-  "aph_url": null,
+  "aph_id": "198084",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=198084",
   "chamber": "house",
   "electorate": "O'Connor",
   "family_name": "Wilson",
   "gender": "Male",
   "given_names": "Richard James",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3666,15 +3974,17 @@
   "state": "WA"
  },
  {
-  "aph_id": "roster:wilson-timothy",
-  "aph_url": null,
+  "aph_id": "IMW",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IMW",
   "chamber": "house",
   "electorate": "Goldstein",
   "family_name": "Wilson",
   "gender": "Male",
   "given_names": "Timothy Robert",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3682,15 +3992,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:witty-sarah",
-  "aph_url": null,
+  "aph_id": "316660",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316660",
   "chamber": "house",
   "electorate": "Melbourne",
   "family_name": "Witty",
   "gender": "Female",
   "given_names": "Sarah Jane",
   "honorific": "Ms",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",
@@ -3716,15 +4028,17 @@
   "state": "SA"
  },
  {
-  "aph_id": "roster:wood-jason",
-  "aph_url": null,
+  "aph_id": "E0F",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=E0F",
   "chamber": "house",
   "electorate": "La Trobe",
   "family_name": "Wood",
   "gender": "Male",
   "given_names": "Jason Peter",
   "honorific": "Hon",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": "MP",
@@ -3732,15 +4046,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:young-terry",
-  "aph_url": null,
+  "aph_id": "201906",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=201906",
   "chamber": "house",
   "electorate": "Longman",
   "family_name": "Young",
   "gender": "Male",
   "given_names": "Terry James",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal National Party of Queensland",
   "party_code": "LNP",
   "post_nominals": "MP",
@@ -3748,15 +4064,17 @@
   "state": "QLD"
  },
  {
-  "aph_id": "roster:zappia-antonio",
-  "aph_url": null,
+  "aph_id": "HWB",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWB",
   "chamber": "house",
   "electorate": "Makin",
   "family_name": "Zappia",
   "gender": "Male",
   "given_names": "Antonio",
   "honorific": "Mr",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Labor Party",
   "party_code": "ALP",
   "post_nominals": "MP",

@@ -1,0 +1,157 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": "2026-06-11",
+   "date_submitted": "2026-06-11",
+   "details": "Eungella NSW - Residential (jointly- owned with spouse).",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-06-11",
+   "date_submitted": "2026-06-11",
+   "details": "Eungella NSW - Residential (jointly- owned with spouse).",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
+ "aph_id": "DZW",
+ "chamber": "house",
+ "date_lodged": "2025-07-25",
+ "display_name": "Elliot, Maria",
+ "electorate": "Richmond",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Elliot",
+ "given_names": "Maria",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Fingal Head",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "bankwest",
+    "nature": "Credit Card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Credit Card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Qudos Bank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Australian Super)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation (Australian Super)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas and Virgin Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas and Virgin Lounge Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-06-11",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/DZW.pdf",
+  "sha256": "058add7d8ed1ff992d2dc3375968436d5cf82b17cc166638893024f67e11561c",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/DZW/statement/48"
+ },
+ "state": "NSW"
+}

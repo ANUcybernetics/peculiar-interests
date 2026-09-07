@@ -1,0 +1,474 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-11",
+   "date_submitted": "2025-08-11",
+   "details": "Tickets and hospitality - Rugby game at Suncorp Stadium (April 2025) - Courtesy of Suncorp",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "2 x tickets to Australian Grand Prix- Melbourne, Saturday 7 March 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "Self paid member of the Downs Club Toowoomba",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "Residential, Middle Ridge, purchase",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "Residential, Middle Ridge, purchase",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "South Toowoomba, Investment, sold",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "South Toowoomba, Investment, sold",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": null
+  }
+ ],
+ "aph_id": "291387",
+ "chamber": "house",
+ "date_lodged": "2025-08-11",
+ "display_name": "Hamilton, Garth",
+ "electorate": "Groom",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Hamilton",
+ "given_names": "Garth",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Garth & Louise Hamilton Family Trust",
+    "nature": "Property investment",
+    "role": "trustee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Garth & Louise Hamilton Family Trust",
+    "nature": "Property investment",
+    "role": "trustee"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Newtown",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "South Toowoomba",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Middle Ridge",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Newtown",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "South Toowoomba",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Middle Ridge",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Consulting",
+    "name": "G & L Hamilton Partnership",
+    "nature": "Financial partner"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Consulting",
+    "name": "G & L Hamilton Partnership",
+    "nature": "Financial partner"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Mortgage on residential property - Newtown"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Mortgage on investment property - South Toowoomba"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on investment property - Middle Ridge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ING",
+    "nature": "Credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Mortgage on residential property - Newtown"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Mortgage on investment property - South Toowoomba"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Mortgage on investment property - Middle Ridge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Credit card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Transaction account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings account"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Heritage People's Choice",
+    "nature": "Savings account"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - QSuper"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - AMP"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - UK Occupational Pension Scheme"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - AMP"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Lloyds"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - BUSSQ"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent - Investment property - South Toowoomba"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent - Investment property - Middle Ridge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent - Investment property - South Toowoomba"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent - Investment property - Middle Ridge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Business income"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment income"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - QANTAS Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Membership - Virgin Australia Beyond Program"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Upper Flagstone Rural Fire Brigade (Volunteer firefighter)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Dependent child - Academic scholarship"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-05-25",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/291387.pdf",
+  "sha256": "95b82c82394a77d0d0833f533b8242f3bc7f789c0a4d392681f67cccc9fdead7",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/291387/statement/48"
+ },
+ "state": "QLD"
+}

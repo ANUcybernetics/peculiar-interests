@@ -1,0 +1,657 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-11",
+   "date_submitted": "2026-03-11",
+   "details": "Virgin Australia 'Forever Gold' Membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-11",
+   "date_submitted": "2026-03-11",
+   "details": "WOMADelaide tickets from South Australian State Government",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-04",
+   "date_submitted": "2026-05-04",
+   "details": "2x Tickets from State Government at Adelaide Oval to the Adelaide Crows v Carlton AFL game",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-04",
+   "date_submitted": "2026-05-04",
+   "details": "4x Tickets from AFL to the Geelong Cats v West Coast Eagles AFL game in Adelaide",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
+ "aph_id": "HWA",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Rishworth, Amanda",
+ "electorate": "Kingston",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Rishworth",
+ "given_names": "Amanda",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ANTARES PERSONAL CHOICE FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BENDIGO AND ADELAIDE BANK"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BGP HOLDINGS"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "COLES GROUP"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CBA"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "DEXUS"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "GPT GROUP"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "HEALIUS LIMITED"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "INCITEC PIVOT LIMITED"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MIRVAC GROUP"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "PERPETUAL WEALTH FOCUS INVESTMENT ADVANTAGE"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WESFARMERS"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WESTPAC"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "POTENTIAL JOINT BENEFICIARY",
+    "name": "L & J RISHWORTH FAMILY TRUST",
+    "nature": "CASH",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "POTENTIAL JOINT BENEFICIARY",
+    "name": "TIM WALKER FAMILY TRUST",
+    "nature": "UNITS IN AN INDEX FUND",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "POTENTIAL JOINT BENEFICIARY",
+    "name": "L & J RISHWORTH FAMILY TRUST",
+    "nature": "CASH",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "POTENTIAL JOINT BENEFICIARY",
+    "name": "TIM WALKER FAMILY TRUST",
+    "nature": "UNITS IN AN INDEX FUND",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "POTENTIAL JOINT BENEFICIARY",
+    "name": "L & J RISHWORTH FAMILY TRUST",
+    "nature": "CASH",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "HALLETT COVE SA",
+    "purpose": "FAMILY HOME"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "GRIFFITH ACT",
+    "purpose": "SECOND HOME"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "CUMBERLAND PARK SA",
+    "purpose": "JOINT INVESTMENT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "HALLETT COVE SA",
+    "purpose": "FAMILY HOME"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "CUMBERLAND PARK SA",
+    "purpose": "JOINT INVESTMENT"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CREDIT UNION SA",
+    "nature": "MORTGAGES"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ BANK",
+    "nature": "ANZ CREDIT CARD"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CREDIT UNION SA",
+    "nature": "MORTGAGE"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "WESTPAC",
+    "nature": "CREDIT CARD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AMERICAN EXPRESS",
+    "nature": "CREDIT CARD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "AUSTRALIAN UNITY",
+    "type": "INVESTMENT BOND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CREDIT UNION SA",
+    "nature": "SAVINGS"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CREDIT UNION SA",
+    "nature": "SAVINGS"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "BANK SA",
+    "nature": "SAVINGS"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CREDIT UNION SA",
+    "nature": "SAVINGS"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "TAL INCOME PROTECTION / LIFE INSURANCE"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Care Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "TAL INCOME PROTECTION / LIFE INSURANCE"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "CAR"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Rest Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "CORPORATE TICKETS TO PORT ADELAIDE VS GEELONG CATS AFL GAME"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "PATRON OF CHRISTIES BEACH SLSC"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "PT NOARLUNGA SLSC (VICE PATRON)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "MORPHETT VALE YOUTH CLUB (VICE PATRON)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "SOUTH PORT SLSC (PATRON)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "SOUTHERN VALES ARCHERY (PATRON)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "SEAFORD STORM NETBALL (PATRON)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "POLICE HEALTH (MEMBER)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QANTAS CHAIRMANS LOUNGE"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "VIRGIN AUSTRALIA BEYOND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "CREDIT UNION SA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "SDA UNION"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "LIONS CLUB OF HALLETT COVE"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "SOUTH ADELAIDE FOOTBALL CLUB (SPONSOR)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AUSTRALIAN UNITY"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AUSTRALIAN LABOR PARTY - SA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "PANTHER CLUB"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ZOOS SA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "FRIENDS OF WILUNGA BASIN"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "NATIONAL PHARMACIES"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "RAA (MEMBER)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ZOOS SA (MEMBER)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "FSU (MEMBER)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AUSTRALIAN LABOR PARTY SA (MEMBER)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "POLICE HEALTH (MEMBER)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "VIRGIN AUSTRALIA BEYOND (MEMBER)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QANTAS CHAIRMANS LOUNGE"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "CREDIT UNIONS SA"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "THE COVE FOOTBALL CLUB"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "HALLET COVE LITTLE ATHLETICS CENTRE"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "MARION SWIMMING CLUB"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-05-04",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/HWA.pdf",
+  "sha256": "51e6de9e2d5657a5779754514cb0da2a977ed7e4924ee6c8938fc9e4cb290c7f",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/HWA/statement/48"
+ },
+ "state": "SA"
+}

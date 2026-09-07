@@ -1,0 +1,338 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-07-28",
+   "date_submitted": "2025-07-28",
+   "details": "Beam In Awards Gala 1x ticket- Guest of Compass House",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-08",
+   "date_submitted": "2026-05-08",
+   "details": "2 x VIP passes to 2026 Rocky Nats provided by Advance Rockhampton",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-08",
+   "date_submitted": "2026-05-08",
+   "details": "2 x tickets to Great Northern Brewing Company and GDL Calcutta sport Luncheon",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-08",
+   "date_submitted": "2026-05-08",
+   "details": "2 x tickets to Members Lounge Lunch-The Rocky Amateurs Race Day",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-08",
+   "date_submitted": "2026-05-08",
+   "details": "Supplied by Central Queensland Amateur Racing Club Inc",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  }
+ ],
+ "aph_id": "249764",
+ "chamber": "house",
+ "date_lodged": "2025-07-28",
+ "display_name": "Landry, Michelle",
+ "electorate": "Capricornia",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Landry",
+ "given_names": "Michelle",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Medibank"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "National Australia Bank"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Lammermoor QLD",
+    "purpose": "Home-Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Griffith ACT",
+    "purpose": "Unit-Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Unit Loan (Residential)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairmans Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Club membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "ASTRA TV Complimentary Subscription"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Beef week 2024:"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Beef week entry ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Commbank Nose to Tail dinner x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Cattle Australia Breakfast symposium ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "More to Meat Campaign- Networking event ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Beef week Woolworths Breakfast ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Celebrity Chef lunch with Tom Hitchcock ticket x 2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Beef Week welcome Reception ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "AMPC National Beef Carcass competition awards dinner ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Ray White Rural Industry Breakfast ticket x2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Westpac sundowner drinks and canapes ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Meat and Livestock Sundowner drinks and canapes ticket x2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Rural Press Club Breakfast ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Westpac High Tea ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "NAB Ladies Lunch ticket x1"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "World Butchers Challenge Dinner tickets x2"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Gala Beef Ball tickets x4"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Bowen River Utilities - Flight from Rockhampton to Collinsville return 29/6/2020 - 30/6/2020 (Visit to"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Urannah Dam site)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "1 x ticket to the North Qld Cowboys vs Canberra Raiders NRL game on"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "4 March 2023 - Bravus Corporate Box"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2 x return tickets to Carmichael Mine from Rockhampton- Bravus Mining and Resources (24th October 2023)"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-05-08",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/249764.pdf",
+  "sha256": "94ddd3dd8456fa97d6e9927ea7e189e2c54a8886fd4a4c817fb58de98429ffd5",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/249764/statement/48"
+ },
+ "state": "QLD"
+}

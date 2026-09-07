@@ -1,0 +1,190 @@
+{
+ "alterations": [
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-12",
+   "details": "Please add: Industry superannuation fund.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-12",
+   "details": "Please delete car.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Tickets x2 to Australian Open men’s semi final tennis from Sportsbet.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-12",
+   "details": "Tickets x2 to Australian Open men’s semi final tennis from Sportsbet.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-14",
+   "details": "12 month complimentary membership of the National Press Club of Australia following speech on 22 July, 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  }
+ ],
+ "aph_id": "11788",
+ "chamber": "house",
+ "date_lodged": "2025-08-12",
+ "display_name": "Aldred, Mary",
+ "electorate": "Monash",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Aldred",
+ "given_names": "Mary",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Warragul",
+    "purpose": "Residential home."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Port Melbourne",
+    "purpose": "Investment property."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank.",
+    "nature": "Mortgage on residential home."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank.",
+    "nature": "Mortgage on investment property."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank.",
+    "nature": "MasterCard credit card."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "American Express.",
+    "nature": "Amex credit card."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank.",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank.",
+    "nature": "Offset Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Beyond Lounge."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hawthorn Football Club."
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-14",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/11788.pdf",
+  "sha256": "f777b3ee34104fb182a9fde330bf75f35bf9d6537d4d69d5b39ac8afabce46e6",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/11788/statement/48"
+ },
+ "state": "VIC"
+}

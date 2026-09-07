@@ -1,0 +1,230 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "9/07/2025 Ampol State of Origin Game III Hospitality x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-08",
+   "date_submitted": "2025-10-08",
+   "details": "27/09/2025 2025 Toyota AFL Grand Final Commission Lunch x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-08",
+   "date_submitted": "2025-10-08",
+   "details": "5/10/2025 2025 NRL & NRLW Grand Final Chairman's Room x 3",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-30",
+   "date_submitted": "2025-11-28",
+   "details": "1/11/2025 2025 Melbourne Cup Carnival Howden Victoria Derby Day Kirin Ichiban Marquee The Birdcage x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-30",
+   "date_submitted": "2025-11-28",
+   "details": "1/11/2025 2025 Melbourne Cup Carnival Howden Victoria Derby Day TAB Marquee The Birdcage x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-13",
+   "details": "27/08/2025 Federal Parliamentary Press Gallery Midwinter Ball x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-13",
+   "details": "6/01/2026 NRMA Insurance Ashes Pink Test Day 3 x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  }
+ ],
+ "aph_id": "00AMN",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Ley, Sussan",
+ "electorate": "Farrer",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Ley",
+ "given_names": "Sussan",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Albury, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Albury, NSW",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Albury, NSW",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Gold Coast, QLD",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Investment Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on Investment Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Loan on Cessna 182 Aircraft"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Cessna 182 Aircraft"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Foxtel subscription in Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Complimentary Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Complimentary Virgin Club Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-01-13",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-static-pdf",
+  "raw_path": "raw/house/48/00AMN.pdf",
+  "sha256": "e3f6f995e4b3240b7e3bbdd13acb63f78eb9b454a3054501e198dab4fa4b463b",
+  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/KN/Ley_48P.pdf?rev=82da29d9e3c944ccb78e299a6ff238bf"
+ },
+ "state": "NSW"
+}

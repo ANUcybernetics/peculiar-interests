@@ -1,0 +1,489 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-06",
+   "date_submitted": "2026-04-02",
+   "details": "Margaret River Classic Chocolate Gift Hamper from Swan Christian Education Association. Value from website: $65.00",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-06",
+   "date_submitted": "2026-04-02",
+   "details": "2 Tickets AFC WOMEN'S ASIAN CUP QUARTER FINALS GAME 3 Saturday 14 March 2026 Valued at $270 each (Ticket $110, F&B $160)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-06",
+   "date_submitted": "2026-04-02",
+   "details": "2 Tickets AFC WOMEN'S ASIAN CUP SEMI FINALS GAME 1 Tuesday 17 March 2026 valued at $290 each (Ticket $130, F&B $160)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-04-06",
+   "date_submitted": "2026-04-02",
+   "details": "Caravan sold",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
+ "aph_id": "312871",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Cook, Patricia",
+ "electorate": "Bullwinkel",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Cook",
+ "given_names": "Patricia",
+ "honorific": "Dr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Commonwealth Bank Shares"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Cromwell Property Group - Cromwell Riverpark Trust holding"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ANZ Shares"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Nil applicable",
+    "name": "Nil applicable",
+    "nature": "Nil applicable",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Nil applicable",
+    "name": "Nil applicable",
+    "nature": "Nil applicable",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Nil applicable",
+    "name": "Nil applicable",
+    "nature": "Nil applicable",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Darlington, WA",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Nil applicable",
+    "company": "Nil applicable"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Nil applicable",
+    "company": "Nil applicable"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Nil applicable",
+    "company": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Nil applicable",
+    "name": "Nil applicable",
+    "nature": "Nil applicable"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Nil applicable",
+    "name": "Nil applicable",
+    "nature": "Nil applicable"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Nil applicable",
+    "name": "Nil applicable",
+    "nature": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Nil applicable",
+    "type": "Nil applicable"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Nil applicable",
+    "type": "Nil applicable"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Nil applicable",
+    "type": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bankwest",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Online",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo",
+    "nature": "MP Office Travel account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo",
+    "nature": "MP Office Electoral account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Plus",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation GESB"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation Future Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Caravan"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Praemium"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Superannuation GESB Allocated pension"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairmans Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Nil applicable"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairmans Lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Matildas 8th July 2025 East Perth Courtesy: Football Australia HBF Park"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Socceroos FIFA World Cup Qualifier 5th June 2025 Courtesy: Optus Stadium"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Nil applicable"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairmans Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Darlington Community Garden Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Nil applicable"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Nil applicable"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Nil applicable"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Nil applicable"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-04-02",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/312871.pdf",
+  "sha256": "396187c2628f94f669a64c64e576869f9e5c7d1344f68c97ba95c129463bdcbe",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/312871/statement/48"
+ },
+ "state": "WA"
+}

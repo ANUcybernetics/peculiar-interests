@@ -1,0 +1,215 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-23",
+   "date_submitted": "2026-01-23",
+   "details": "2 x Davis Cup Hospitality tickets from Tennis Australia for 14 September 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-25",
+   "date_submitted": "2026-02-25",
+   "details": "2 x tickets Matildas vs Silver Ferns - Polytec Stadium - Football Australia, 28 November 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-25",
+   "date_submitted": "2026-02-25",
+   "details": "2 x Tickets to NRL Pre-Season Double Header on Saturday, 21 February 2026 at Polytec Stadium, Central Coast",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-06",
+   "date_submitted": "2026-05-05",
+   "details": "2 x Tickets to AFC Women's Asian Cup - Stadium Australia Sydney - DSE - Sunday, 8 March 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
+ "aph_id": "248353",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "McBride, Emma",
+ "electorate": "Dobell",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McBride",
+ "given_names": "Emma",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "The Entrance",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Norah Head",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Smart Access Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australia Super Superannuation Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Electorate Office Foxtel Television Subscription"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Australia Club Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AHPRA Pharmacy Registration"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Advanced Pharmacy Australia (AdPha)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Pharmaceutical Society of Australia (PSA)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Pharmaceutical Defence Limited (PDL)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (NSW Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Health Services Union (HSU)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Volunteer Long Jetty Landcare"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Volunteer Toowoon Bay SLSC"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-05-05",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/248353.pdf",
+  "sha256": "240a552aaaab9ea33f522f2c5cb9d27200fcd2effe22c7426b70b9b09610503b",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/248353/statement/48"
+ },
+ "state": "NSW"
+}

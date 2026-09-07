@@ -1,0 +1,124 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": "2025-08-11",
+   "date_submitted": "2025-08-11",
+   "details": "Frankston South: Family home/property",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-23",
+   "date_submitted": "2025-09-23",
+   "details": "Flights, accommodation and meals provided by Save the Children for delegation to Laos PDR.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "HESTA Superannuation Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-21",
+   "date_submitted": "2026-04-21",
+   "details": "Women Deliver 27th April, 2026- Parliamentary Forum entrance fee @$950 USD.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
+ "aph_id": "309484",
+ "chamber": "house",
+ "date_lodged": "2025-08-04",
+ "display_name": "Belyea, Jodie",
+ "electorate": "Dunkley",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Belyea",
+ "given_names": "Jodie",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Charity that donates money to not for orgnaisations",
+    "company": "Common Good Foundation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Women's Spirit Project"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Airlines interest"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-04-21",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/309484.pdf",
+  "sha256": "8ff96d4df570d6c84bf4059530fe3c5ddc9ffa191de9da5e02ae169fad47b488",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/309484/statement/48"
+ },
+ "state": "VIC"
+}

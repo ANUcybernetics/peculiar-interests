@@ -1,0 +1,265 @@
+{
+ "alterations": [
+  {
+   "category": "other-assets",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Superannuation - AustralianSuper",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Qantas Chairmans Lounge membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Virgin Australia Beyond membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "ETU contribution to catering for Maiden Speech event (valued at $620.40)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Superannuation - AMP Super",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Superannuation - Public Sector Superannuation Accumulation Plan",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2025-08-18",
+   "date_submitted": "2025-08-18",
+   "details": "Digital Currency",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2025-10-12",
+   "date_submitted": "2025-10-10",
+   "details": "Spouse receiving Paid Parental Leave",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  }
+ ],
+ "aph_id": "316915",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Abdo, Basem",
+ "electorate": "Calwell",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Abdo",
+ "given_names": "Basem",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Greenvale, VIC",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Mortgage on residential home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank of Australia",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings (Joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Wise Australia",
+    "nature": "Transaction"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings (Joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Deutsche Kreditbank (DKB)",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Business Transaction Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Wise Australia",
+    "nature": "Transaction"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Vehicle"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - AMP Super (disposed of July 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Public Sector Superannuation Accumulation Plan (disposed of July 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Digital Currency (disposed of June 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Sole Trader for freelance work"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Manufacturing Workers' Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Community and Public Sector Union"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-10-10",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/316915.pdf",
+  "sha256": "d65bb72322024e012b7654f4df6f4093b9ab182be9568940809595ed3d402f7f",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/316915/statement/48"
+ },
+ "state": "VIC"
+}

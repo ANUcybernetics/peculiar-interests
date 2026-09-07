@@ -1,0 +1,402 @@
+{
+ "alterations": [
+  {
+   "category": "directorships",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "I resigned as a Non-Executive Director of the Royal Flying Doctor Service (SA/NT) effective as of 15 May 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "My position as a Non-Executive Director of the East Waste Management Authority was automatically vacated with the Declaration of the Polls for Sturt on 21 May 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-15",
+   "date_submitted": "2025-09-15",
+   "details": "Ticket to the Mid Winter Ball (Endeavour Group)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-15",
+   "date_submitted": "2025-09-15",
+   "details": "Ticket to the Mid Winter Ball (Endeavour Group)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-15",
+   "date_submitted": "2025-09-15",
+   "details": "Ticket to the Mid Winter Ball (Endeavour Group)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-15",
+   "date_submitted": "2025-09-15",
+   "details": "Ticket to The Hospital Research Foundation 60th Anniversary Celebration",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-15",
+   "date_submitted": "2025-09-15",
+   "details": "Ticket to The Hospital Research Foundation 60th Anniversary Celebration",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-15",
+   "date_submitted": "2025-09-15",
+   "details": "Ticket to The Hospital Research Foundation 60th Anniversary Celebration",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-11-17",
+   "date_submitted": "2025-11-14",
+   "details": "Investment property in the suburb of Millswood - Adelaide, South Australia purchased on 13 November 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-17",
+   "date_submitted": "2025-11-14",
+   "details": "Two bottles of perfume / cologne gifted by a constituent on 13 October 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-03-17",
+   "date_submitted": "2026-03-17",
+   "details": "Residential property at Barton, purchased on 16 March 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-05",
+   "date_submitted": "2026-05-05",
+   "details": "Two tickets to the pre-game function and then the match between Adelaide Thunderbirds v Queensland Firebirds on Saturday, 2 May 2026, through Netball SA.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-05",
+   "date_submitted": "2026-05-05",
+   "details": "Two tickets to the Gather Round Long Lunch, held on Saturday, 11 April 2026, through the Norwood, Payneham and St Peters Council",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-03",
+   "date_submitted": "2026-07-03",
+   "details": "One ticket to Mid-Winter Ball 2026 from the ABC",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  }
+ ],
+ "aph_id": "316101",
+ "chamber": "house",
+ "date_lodged": "2025-08-08",
+ "display_name": "Clutterham, Claire",
+ "electorate": "Sturt",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Clutterham",
+ "given_names": "Claire",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SMSF"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "Pudney Family Superannuation Fund",
+    "nature": "Superannuation",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Grange, SA",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Joslin, SA",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Aero-medical retrieval and primary healthcare services",
+    "company": "Non-Executive Director of the Royal Flying Doctor Service (SA/NT)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Waste management & collection",
+    "company": "Non-Executive Director of the East Waste Management Authority."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Facilitation of junior athletics training and competitions",
+    "company": "Non-Executive Director of South Australia Little Athletics Association"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "School management",
+    "company": "Non-Executive Director of the Wilderness School Council of Governors"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Magellan",
+    "type": "High Conviction Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Magellan",
+    "type": "High Conviction Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Adelaide Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Inactive savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from employment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Two tickets to the Suncorp Superleague Netball Grand Final including two tickets to the pre-game function on 2 August 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS Chairman's Club membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia Beyond membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia Beyond membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Constitutional Member of the Royal Flying Doctor Service (SA/NT)"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-03",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/316101.pdf",
+  "sha256": "32612fb416216555b0082f329b16945bf09b9e8ca99400a7e3af55568adcbd09",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/316101/statement/48"
+ },
+ "state": "SA"
+}

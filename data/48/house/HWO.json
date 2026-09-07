@@ -1,0 +1,175 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-16",
+   "date_submitted": "2025-09-16",
+   "details": "Two guest tickets from Parramatta Eels Directors Club for a home game match on Saturday 23 August 2025 at a value of $916.00",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-16",
+   "date_submitted": "2025-09-16",
+   "details": "One guest general admission ticket from Parramatta Eels Directors Club for a home game match on Saturday 23 August 2025 at a value of $35.00",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-16",
+   "date_submitted": "2025-09-16",
+   "details": "Four guests general admission tickets from Parramatta Eels Directors Club for a home game match on Saturday 23 August 2025 at a value of $140.00",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  }
+ ],
+ "aph_id": "HWO",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Hawke, Alexander",
+ "electorate": "Mitchell",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Hawke",
+ "given_names": "Alexander",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kellyville NSW",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kellyville NSW",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Residential Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Residential Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Casual Work Education"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Connection"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairmans Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin The Club Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "NRL occasional game tickets"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Castle Hill RSL District Club and RSL Sub Branch"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-09-16",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/HWO.pdf",
+  "sha256": "323afea4e2f37cf0344da387efef1678a94d32b63dc35ca22f5e059657efd0bc",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/HWO/statement/48"
+ },
+ "state": "NSW"
+}

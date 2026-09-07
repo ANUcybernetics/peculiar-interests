@@ -1,0 +1,174 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-11",
+   "date_submitted": "2025-09-11",
+   "details": "Qantas Chairmans Lounge",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "2 tickets to Sydney Test Cricket at SCG from Cricket NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "ACCI Business Leaders' Summit & Gala Dinner",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "2 tickets to AUSX Sydney Supercross from Cronulla Sharks",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "ACCI Business Leaders' Summit & Gala Dinner",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "2 tickets to AUSX Sydney Supercross from Cronulla Sharks",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-21",
+   "date_submitted": "2026-08-21",
+   "details": "Australian Regional Leadership Initiative cross-parliamentary delegation to Timor-Leste to view programs funded through Australian foreign aid, including health, education and infrastructure programs. The delegation was funded through Save The Children",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-21",
+   "date_submitted": "2026-08-21",
+   "details": "2 tickets to Bell Shakespeare's production of Julius Caesar provided by Bell Shakespeare",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-21",
+   "date_submitted": "2026-08-21",
+   "details": "2 tickets to Cronulla-Sutherland Sharks vs Dolphins game at Ocean Protect Stadium provided by Cronulla Sharks Group CEO",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  }
+ ],
+ "aph_id": "316540",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Moncrieff, David",
+ "electorate": "Hughes",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item accounts (self): columns listed different numbers of lines on page 4; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Moncrieff",
+ "given_names": "David",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Property Securities Index ETF"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Soul Burger Holdings Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares Global Sustainability Leaders ETF"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Transaction account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank Australia",
+    "nature": "Direct Investment account Transaction account Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-21",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/316540.pdf",
+  "sha256": "be46241b149d69d3597d154530975661f7977552e684e7e1718514a492d01792",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/316540/statement/48"
+ },
+ "state": "NSW"
+}

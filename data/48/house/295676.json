@@ -1,0 +1,222 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Dawn Media Productions Pty Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Dawn Foundation",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Hurlstone Park Residential/Investment",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Dawn Foundation - Charity",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Savings Commonwealth Bank",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  }
+ ],
+ "aph_id": "295676",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Le, Dai",
+ "electorate": "Fowler",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Le",
+ "given_names": "Dai",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "All Energy Group"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Dulwich Hill",
+    "purpose": "Residential/Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Smithfield",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Renewable Energy Marketing",
+    "company": "All Energy Group"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Car Finance",
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "St George Bank",
+    "nature": "Loans"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Great Southern Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George Bank",
+    "nature": "savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Council allowance"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Return Flights to Vietnam 6 - 13 September 2025 - Siemens"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Return Flights to Laos 14 - 20 September 2025 and accommodation - Gates Foundation"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-08-19",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/295676.pdf",
+  "sha256": "95e91af08648cd5c7466a5fbf91c12564ba76bdc820c387e33d26d3c1efd4152",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/295676/statement/48"
+ },
+ "state": "NSW"
+}

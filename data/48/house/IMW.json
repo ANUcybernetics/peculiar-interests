@@ -1,0 +1,507 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-15",
+   "details": "ASX: GLDN, IOO, NDQ, NUGG, WLE",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-15",
+   "details": "1 x motor vehicle",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-15",
+   "details": "1 x motor vehicle",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-05",
+   "date_submitted": "2026-03-05",
+   "details": "GWTH",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-05",
+   "date_submitted": "2026-03-05",
+   "details": "BBOZ",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-16",
+   "date_submitted": "2026-04-16",
+   "details": "Tickets to to Sammy J's 'Hero Complex' at Melbourne Comedy Festival",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-16",
+   "date_submitted": "2026-04-16",
+   "details": "Ticket to President's Club for Melbourne v St Kilda from Driver's Depot",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-16",
+   "date_submitted": "2026-04-16",
+   "details": "Ticket to to Sammy J's 'Hero Complex' at Melbourne Comedy Festival",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-16",
+   "date_submitted": "2026-04-16",
+   "details": "Ticket to President's Club for Melbourne v St Kilda from Driver's Depot",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-04-16",
+   "date_submitted": "2026-04-16",
+   "details": "BGBL",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-06-23",
+   "date_submitted": "2026-06-23",
+   "details": "VTS",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-23",
+   "date_submitted": "2026-06-23",
+   "details": "Guest Speaker membership: National Press Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-23",
+   "date_submitted": "2026-06-23",
+   "details": "Guest Speaker membership: National Press Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-06",
+   "date_submitted": "2026-08-06",
+   "details": "Ticket to Midwinter Ball from FreeTV Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-08-06",
+   "date_submitted": "2026-08-06",
+   "details": "VBS",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-14",
+   "details": "Framed David Rowe AFR cartoon from John Short",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  }
+ ],
+ "aph_id": "IMW",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Wilson, Timothy",
+ "electorate": "Goldstein",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Wilson",
+ "given_names": "Timothy",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VGS, VBS, BBOZ, RAIZ Aggressive, Dynamic Sunrise Pty Ltd, Bolger-Wilson Investments Pty Ltd (investment trust)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Dynamic Sunrise Pty Ltd, Bolger-Wilson Investments Pty Ltd (investment trust)."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "50 per cent",
+    "name": "Bolger-Wilson Investments Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "50 per cent",
+    "name": "Wilson-Bolger Superannuation",
+    "nature": "SMSF",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "50 per cent",
+    "name": "Bolger-Wilson Investments Pty Ltd",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "50 per cent",
+    "name": "Wilson-Bolger Superannuation",
+    "nature": "SMSF",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "City of Melbourne",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mornington Peninsula Shire",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "City of Melbourne",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mornington Peninsula Shire",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Holding company",
+    "company": "Dynamic Sunrise Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investment Trust",
+    "company": "Bolger-Wilson Investments Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Holding company",
+    "company": "Dynamic Sunrise Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investment Trust",
+    "company": "Bolger-Wilson Investments Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Credit card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Melbourne",
+    "nature": "Savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Melbourne",
+    "nature": "Savings accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "2 x motor vehicles"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "2 x paintings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "1 x photograph"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "1 motor vehicle"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Payments and royalties from copyrighted works"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Beyond Lounge, Gin from DIAGEO, Wine from Endeavour for office opening."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Beyond Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (Victorian Division), Melbourne Cricket Club, Melbourne Football Club, Sandringham Yacht Club, RACV Club, Royal Brighton Yacht Club, Royal South Yarra Tennis Club, Sorrento Sailing Couta Boat Club."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (Victorian Division), Melbourne Cricket Club,"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Melbourne Football Club, RACV Club, Royal South Yarra Tennis Club, Sorrento Sailing Couta Boat Club and Victorian Institute of Teaching."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "PhD scholarship, RMIT University (expires November 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-14",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/IMW.pdf",
+  "sha256": "94e2917c3b64e4d9fb8a1a7cb74aed0f7cf0f958b53814a6481aac82135e6473",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/IMW/statement/48"
+ },
+ "state": "VIC"
+}

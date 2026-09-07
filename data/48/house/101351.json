@@ -1,0 +1,362 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "One ticket to CommBank Matildas vs Argentina, 30 May 2025. Courtesy of Football Australia - $600",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "One ticket to A-League Match Melbourne City vs Melbourne Victory, 31 May 2025. Courtesy of A-League - Value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-03",
+   "date_submitted": "2025-10-03",
+   "details": "2 x AFL Semi Final Tickets - 20 September 2025 - value unknown - courtesy of AFL",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-18",
+   "date_submitted": "2025-12-18",
+   "details": "2 x National Press Club address tickets on 2 December 2025, courtesy of Anacta Strategies, value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-16",
+   "details": "2 tickets to The 'O', on 22 January, courtesy of Tennis Australia, valued at approximately $1200 per person.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-04",
+   "date_submitted": "2026-06-04",
+   "details": "2 x tickets, A League Grand Final, 16 May 2026, value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "1 x guest pass courtesy of RedOwl, Collingwood vs Melbourne AFL Game, 8 June, value unknown",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Pascoe Vale, Victoria",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Pascoe Vale, Victoria",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-24",
+   "details": "2 x President's Club tickets - Collingwood v Geelong - 30 July, courtesy of Collingwood Football Club, $595 per ticket",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  }
+ ],
+ "aph_id": "101351",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Khalil, Peter",
+ "electorate": "Wills",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Khalil",
+ "given_names": "Peter",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Arcana Partners Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Pascoe Vale, Victoria",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Murrumbeena, Victoria",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Pascoe Vale, Victoria",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Murrumbeena, Victoria",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Research/Consulting",
+    "company": "Arcana Partners Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AMEX",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AMEX",
+    "nature": "Credit card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "CSS"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Unisuper"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income from investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income from investment property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Chairman's Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "ALP Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Australian Workers' Union"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-24",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/101351.pdf",
+  "sha256": "3c8246019a674ab41a409677be2c70cc5225fafdd6074952e75cf25e22fabf11",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/101351/statement/48"
+ },
+ "state": "VIC"
+}

@@ -1,0 +1,250 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-25",
+   "date_submitted": "2026-03-25",
+   "details": "Tickets and hospitality from the Brisbane Lions at the Gabba on 7 March 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  }
+ ],
+ "aph_id": "HVO",
+ "chamber": "house",
+ "date_lodged": "2025-08-15",
+ "display_name": "Neumann, Shayne",
+ "electorate": "Blair",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item accounts (spouse): columns listed different numbers of lines on page 4; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Neumann",
+ "given_names": "Shayne",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Zenas Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Alanja pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Zenas Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Discretionary Beneficiary",
+    "name": "Zenas Pty Ltd as Trustee for the Shayne Neumann Family Trust",
+    "nature": "Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Discretionary Beneficiary",
+    "name": "Zenas Pty Ltd as Trustee for the Shayne Neumann Family Trust",
+    "nature": "Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Interest in residential unit at Caloundra Queensland",
+    "purpose": "Investment - rental"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Interest in residential unit at Palm Beach, Queensland",
+    "purpose": "Investment - rental"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Residential property in Ipswich, Queensland",
+    "purpose": "Residential property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Family Trust",
+    "company": "Zenas Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investment",
+    "company": "Alanja Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Family Trust",
+    "company": "Zenas Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Various streamline, keycard and cheque accounts in personal name and investment accounts via companies listed"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia Bank of Queensland",
+    "nature": "Various streamline, keycard and cheque accounts in personal name and investment accounts via companies listed"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Interest in Australian Super Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Interest in Australian Retirement Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investment properties and interest on various bank accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Family Trust and interest from various bank accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Subscription to Foxtel for Electorate Office by the Australian Subscription Television and Radio Association (ASTRA)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complimentary membership of Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complimentary membership of Virgin Club Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Tickets and hospitality from the Brisbane Lions at the Gabba on 9 August 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complimentary membership of Qantas Chairman's Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complimentary membership of Virgin Club Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-03-25",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/HVO.pdf",
+  "sha256": "238650032383aa3d65d43a9239ac7f8f0c8938d4b60b7238d3b4f2a66377ec67",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/HVO/statement/48"
+ },
+ "state": "QLD"
+}

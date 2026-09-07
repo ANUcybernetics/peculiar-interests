@@ -1,0 +1,471 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-22",
+   "date_submitted": "2025-10-21",
+   "details": "5 x Tickets to Australian Diamonds v South African Proteas netball on 12 October 2025 provided by Suncorp Group Ltd. Comparable tickets valued at approximately $60 each. Tickets were received on 30 September 2025. All 5 tickets were donated to the Northern Bombers Netball Club Inc.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-11-02",
+   "date_submitted": "2025-10-31",
+   "details": "Member, National Press Club of Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-19",
+   "date_submitted": "2025-12-19",
+   "details": "Kangaroo Plaited Stockwhip from R.M. Williams Pty Ltd",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Willaston, South Austalia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Principal Place of Residence (Jointly owned with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Mortgage on principal place of residence (Jointly held with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Unity Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Offset Account (Jointly held with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Unity Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-02-05",
+   "date_submitted": "2026-02-04",
+   "details": "Member, Playford City Soccer and Community Club Inc (Playford Patriots)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-13",
+   "details": "Personal Loan (Jointly held with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-02-16",
+   "date_submitted": "2026-02-13",
+   "details": "Unity Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "2 x Tickets to Comwire IT Club hospitality at Adelaide United Football Club v Wellington Phoenix on Friday 6 March 2026. Supplied by: Adelaide United Football Club. Value: Approximately $310 per ticket.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-04-08",
+   "date_submitted": "2026-04-08",
+   "details": "Member, Willaston 'Donnybrooks' Football Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-04-13",
+   "date_submitted": "2026-04-11",
+   "details": "Patron, Women in Government Relations Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-24",
+   "details": "Lifetime Member, Defence Reserves Association",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  }
+ ],
+ "aph_id": "300129",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Burnell, Matt",
+ "electorate": "Spence",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Burnell",
+ "given_names": "Matt",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Pi Network (Pi)",
+    "type": "Cryptocurrency"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Pi Network (Pi)",
+    "type": "Cryptocurrency"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Bank",
+    "nature": "Savings Account (Held jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Team Super",
+    "nature": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Bank",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Superannuation Corporation (Public Sector Superannuation accumulation plan)",
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Super SA (Triple S Scheme)",
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment - Department of Treasury and Finance, Government of South Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas - Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia - Beyond Club Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia - Beyond Club Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Labor Party (South Australian Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Transport Workers’ Union of Australia (SA/NT Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Shop Distributive & Allied Employees Association (SA/NT Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Associate Member, Maritime Union of Australia (SA Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Labor Unity SA Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Gawler Agricultural, Horticultural & Floricultural Society Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Royal Victoria Regiment Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Salisbury Bowling Club Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Central Districts Football Club Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Air Force Association (South Australia) Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Returned Services’ League (Gawler Sub Branch) Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Salisbury North Football Club Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, The Lions Club of Paralowie Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Gawler Central Football Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Parliament Sports Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Salisbury Business Association Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Labor Party (South Australian Branch)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Services Union (SA/NT Branch)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Returned Services’ League (Gawler Sub Branch) Inc"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Conservation Foundation Inc"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-24",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/300129.pdf",
+  "sha256": "38a3500e2373a699fa258b1d66b7ca8174f06b6a9b6fccd5d4905f4e6ef9ba6c",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/300129/statement/48"
+ },
+ "state": "SA"
+}

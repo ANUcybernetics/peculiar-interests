@@ -1,0 +1,31 @@
+{
+ "alterations": [],
+ "aph_id": "R36",
+ "chamber": "house",
+ "date_lodged": null,
+ "display_name": "Albanese, Anthony",
+ "electorate": "Grayndler",
+ "extraction": {
+  "method": "pending",
+  "notes": [
+   "scanned PDF; run `pollie ocr` and review the override"
+  ],
+  "version": 1
+ },
+ "family_name": "Albanese",
+ "given_names": "Anthony",
+ "honorific": "Hon",
+ "interests": [],
+ "last_updated": "2026-08-14",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-static-pdf",
+  "raw_path": "raw/house/48/R36.pdf",
+  "sha256": "2e743041759bfaecc8699b0422cad4217ec5a60437977937c4bec5244615bc98",
+  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/AB/Albanese_48P.pdf?rev=fa206964bbea4ca5888b3b617f760485&hash=477C22908F44B7805199DB93199EB4F7"
+ },
+ "state": "NSW"
+}

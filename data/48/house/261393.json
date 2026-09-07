@@ -1,0 +1,468 @@
+{
+ "alterations": [
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Assets held through operation of SMSF referred to above being a property, funds in SMSF bank account and precious metal",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Assets held through operation of SMSF referred to above being a property, funds in SMSF bank account and precious metal",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-11",
+   "details": "2 tickets/guest passes to Australian Open Tennis Women's Final 31/1/26 from Emirates",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-12",
+   "date_submitted": "2026-02-11",
+   "details": "Bottle of wine from Chris Gittani, Kandos tea towel from Buzz Sanderson/Kandos Museum",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
+ "aph_id": "261393",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Gee, Andrew",
+ "electorate": "Calare",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item trusts (self): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries",
+   "item trusts (spouse): columns listed different numbers of lines on page 2; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Gee",
+ "given_names": "Andrew",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Country Mile Superannuation Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ACGee Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Country Mile Superannuation Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ACGee Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "-Director and shareholder of Country Mile",
+    "name": "-Director and shareholder of Country Mile Superannuation",
+    "nature": "-Self Managed Super Fund (SMSF)",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Superannuation Pty Ltd which is trustee of",
+    "name": "Pty Ltd which is trustee of ACG Superannuation Fund",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "ACG Superannuation Fund -Director and shareholder of ACGee Pty Ltd, SMSF property trustee",
+    "name": "-Director and shareholder of ACGee Pty Ltd, SMSF property trustee",
+    "nature": "-SMSF",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "-Director and shareholder of Country Mile Superannuation Pty Ltd which is trustee of ACG Superannuation Fund -Director and shareholder of ACGee Pty Ltd, SMSF property trustee",
+    "name": "-Director and shareholder of Country Mile Superannuation Pty Ltd which is trustee of ACG Superannuation Fund -Director and shareholder of ACGee Pty Ltd, SMSF property trustee",
+    "nature": "- SMSF",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "nature": "- SMSF",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sydney",
+    "purpose": "Rental"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sydney",
+    "purpose": "Rental held via SMSF company"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Orange",
+    "purpose": "Home"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Orange",
+    "purpose": "Rental"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sydney",
+    "purpose": "Rental held via SMSF company"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "SMSF",
+    "company": "Country Mile Superannuation Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "SMSF",
+    "company": "ACGee Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "SMSF",
+    "company": "Country Mile Superannuation Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "SMSF",
+    "company": "ACGee Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Liberty Financial",
+    "nature": "Mortgage on property held via SMSF referred to above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on home"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Liberty Financial",
+    "nature": "Mortgage on property held via SMSF referred to above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ, Commonwealth and Greater Banks",
+    "nature": "Savings, mortgage and SMSF accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ and Commonwealth Banks",
+    "nature": "Savings, mortgage and SMSF accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Assets held through operation of SMSF referred to above, Legal Super and associated benefits, caravan, precious metal, vehicle"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Assets held through operation of SMSF referred to above, Legal Super and associated benefits, AMP Life Insurance Policy"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from rental property referred to above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from employment, income from rental property referred to above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Office Foxtel Subscription value unknown, Virgin Australia Club membership, Bathurst Thoroughbred Racing 2 complimentary passes to 25/26 race meets - value unknown, Bathurst Regional Council complimentary passes to motor racing events and council suite (incl lunch) at Mt Panorama including but not limited to Bathurst 1000; 2025 Garma Festival entry/attendance from Australian Government"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Patron Oberon Tarana Heritage Railway Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Patron Lithgow RSL Sub Branch"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Member Orange Ex-Services Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Member Lions Club of Orange"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Honorary Member Orange Golf Club t/as Duntryleague"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Member Bathurst RSL Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Patron Orange & District Pistol Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Member NSW Rural Fire Service"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Orange Emulators Rugby"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Member NSW Rural Fire Service Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Patron Orange Show Society"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Member Cudgegong Cruisers"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "- Member Litghow Workies"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-02-11",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/261393.pdf",
+  "sha256": "331394a643c3f4ebab2bbf19e141942eb4763c136d9e7ffcb8c6f245c845e63f",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/261393/statement/48"
+ },
+ "state": "NSW"
+}

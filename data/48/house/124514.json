@@ -1,0 +1,238 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-17",
+   "date_submitted": "2025-08-17",
+   "details": "Ongoing membership of Qantas Chairman's Lounge and Virgin Beyond.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-17",
+   "date_submitted": "2025-08-17",
+   "details": "Complimentary Foxtel subscription for Electorate Office and Foxtel Go from Foxtel.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-28",
+   "date_submitted": "2025-08-28",
+   "details": "Guest of Richmond Football Club President’s Lunch and Game at Melbourne Cricket Ground: Richmond v Geelong, 23 August 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-28",
+   "date_submitted": "2025-08-28",
+   "details": "Guest of NewsCorp at MidWinter Ball 2025, 27 August 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-23",
+   "date_submitted": "2025-09-23",
+   "details": "Ticket for self and guest to attend Bell Shakespeare at Canberra Theatre on 4 September 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-23",
+   "date_submitted": "2025-09-23",
+   "details": "Denmark Offshore Wind Delegation 6 - 13 September 2025: Partial coverage of international flights and all in-country costs provided by the Royal Danish Embassy and Danish Ministry of Foreign Affairs, with visits to onshore and offshore wind and Renewable Energy Terminal / port interests in Copenhagen, Allborg, Osterlid, Hvide Sande, Give, Billund and Esbjerg.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-03",
+   "date_submitted": "2026-01-03",
+   "details": "Hospitality and ticket to attend Australia v England 27 December 2025 from Cricket Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-12",
+   "date_submitted": "2026-01-12",
+   "details": "Balnarring Race Course complimentary membership 2026 x 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-04",
+   "date_submitted": "2026-02-04",
+   "details": "Accommodation, flights and hospitality to attend and address the Political Tech Summit in Germany (Berlin) 21 - 25 January 2026, hosted by the Meliore Foundation.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "Hospitality - 2 x guest tickets for Melbourne Grand Prix - Suncorp Insurance",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "- Albert Park - 8 March 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "Travel to Germany, Belgium and France 13 - 28 February 2026 (France component self-funded), and transport, meals and accommodation 19-28 February in Brussels and Berlin provided by the Konrad Adenauer Stiftung Regional Programme - Australia and the Pacific.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  }
+ ],
+ "aph_id": "124514",
+ "chamber": "house",
+ "date_lodged": "2025-08-01",
+ "display_name": "McKenzie, Zoe",
+ "electorate": "Flinders",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McKenzie",
+ "given_names": "Zoe",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Sorrento, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "HSBC",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Name of organisation: McKinnon Institute for Political Leadership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Name of program: Advanced Political Leadership 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Cost: The total cost of the program is $32,000 (plus GST)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "BACKGROUND: Participants are provided with a full scholarship funded by the McKinnon Institute, covering the costs of tuition, induction, residential intensive and workshop (accommodation for 7-9 nights) and all meals and refreshments."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Advanced Political Leadership is a cohort based, face-to-face program designed to help MPs prepare for ministerial life, and enhance impact and influence through their career. The curriculum is practical and applied, and challenges participants to prepare for their future roles through a combination of self-reflection, structured small group work and whole-of-cohort dialogues."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "APL is a non-partisan program bringing together MPs from the federal, state and territory parliaments. It is expected that participants will have had no or minimal ministerial experience and have reasonable prospects for a ministerial career."
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-03-09",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/124514.pdf",
+  "sha256": "978241c2b4e159c2b7ab0514834f385f2ee1c1c73e13269f18cebd94dead0039",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/124514/statement/48"
+ },
+ "state": "VIC"
+}

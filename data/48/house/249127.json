@@ -1,0 +1,531 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-09",
+   "date_submitted": "2025-10-09",
+   "details": "Accepted tickets from the Sydney Roosters to the NRLW Preliminary Final, Gosford, 27 September 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-09",
+   "date_submitted": "2025-10-09",
+   "details": "Accepted tickets from the NRL to the NRL and NRLW Grand Finals, Sydney, 5 October 2025, to support visit by PNG PM Marape's and PNG Ministers' attendance.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-09",
+   "date_submitted": "2025-10-09",
+   "details": "Received a decanter set and bourbon from US Secretary of Army.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-09",
+   "date_submitted": "2025-10-09",
+   "details": "Tickets to events as noted against 'Self' entries.",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-03-12",
+   "date_submitted": "2026-03-12",
+   "details": "Savings Account, Commonwealth Bank of Australia",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "Accepted tickets from the NRL to the Women's State of Origin, Newcastle, 30 April 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-25",
+   "date_submitted": "2026-05-25",
+   "details": "Tickets to the 30 April 2026 event as noted against 'Self' entry.",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-29",
+   "date_submitted": "2026-05-29",
+   "details": "Accepted an invitation from the NRL for myself and guests to attend the NRL Magic Round at Suncorp Stadium in Brisbane in May 2026, attending with Ministers from PNG.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-07",
+   "date_submitted": "2026-08-07",
+   "details": "Accepted tickets from Rugby Australia for myself and guests to attend the Ireland-Japan Nations Championship game in Newcastle on 11 July 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-07",
+   "date_submitted": "2026-08-07",
+   "details": "Qantas provided an upgrade on a flight from Los Angeles to Sydney on 1 August 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-07",
+   "date_submitted": "2026-08-07",
+   "details": "Tickets as noted against 'Self' to the Ireland-Japan game on 11 July 2026.",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  }
+ ],
+ "aph_id": "249127",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Conroy, Patrick",
+ "electorate": "Shortland",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Conroy",
+ "given_names": "Patrick",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Warners Bay (owned 77.5 per cent by myself and my spouse with remaining 22.5 per cent owned by another relative)",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston ACT",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Warners Bay (owned 77.5 per cent by my spouse and myself with remaining 22.5 per cent owned by another relative)",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Greater Bank",
+    "nature": "Mortgage on Warners Bay residential property (joint with spouse and relative who owns remaining share)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Greater Bank",
+    "nature": "Mortgage on residential property, Kingston ACT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Greater Bank",
+    "nature": "Mortgage on Warners Bay residential property (joint with myself and relative who owns remaining share)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Greater Bank",
+    "nature": "Transaction account - Electorate Office Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Greater Bank",
+    "nature": "Offset accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ME Bank",
+    "nature": "Transaction accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Greater Bank",
+    "nature": "Offset account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Greater Bank",
+    "nature": "Transaction accounts"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - Australian Super"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Food and board payments from lodger at Kingston residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income as Lake Macquarie City Councillor"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel service provided in electorate office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Virgin and Qantas lounge memberships"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Virgin and Qantas lounge memberships"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Accepted tickets from the NRL to the Women's State of Origin at Newcastle Stadium, 29 May 2025."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Accepted tickets for Australia vs Fiji at Newcastle Stadium, 6 July 2025, to support visit by Fiji Prime Minister Rabuka's attendance."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Accepted tickets for Australia vs British and Irish Lions at Stadium Australia, 2 August 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Tickets to events as noted against 'Self' entries"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Tickets to events as noted against 'Self' entries"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (Cardiff Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "BHP Rifle Club – Honorary Vice President"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Filipino-Australian Society of the Hunter Valley – Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Redhead Surf Life Saving Club – Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Speers Point Amateur Sailing Club – Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Westlakes Access and Support – Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Eastlakes U3A – Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Rotary Club of Belmont – Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Manufacturing Workers’ Union – Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Belmont RSL Sub Branch – Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Southern Beaches Rugby Club – Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Belmont 16s – Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Cardiff RSL club – member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Doyalson RSL club – Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (Cardiff Branch)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "NSW Nurses and Midwives’ Association"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Biddabah School P&C"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Lake Macquarie City Council"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Cardiff RSL club – member"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Club Macquarie – member"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Southern Beaches Rugby Club – Member"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Regals Hockey Club"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-07",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/249127.pdf",
+  "sha256": "f76c642673cbcab8e0a9074d80e3ad584f3590d0f15a28c203da35f27eca9610",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/249127/statement/48"
+ },
+ "state": "NSW"
+}

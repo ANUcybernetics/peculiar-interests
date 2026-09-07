@@ -1,0 +1,300 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "FMG Fortescue",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "VAS Vanguard",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "F100 Betashares FTSE 100 ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "IVV IShares S&P 500 ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "JBH JB HiFi",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "WES Wesfarmers",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": null
+  }
+ ],
+ "aph_id": "315434",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Venning, Thomas",
+ "electorate": "Grey",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Venning",
+ "given_names": "Thomas",
+ "honorific": null,
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "FMG Fortescue"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VAS Vanguard Australian Shares"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "F100 Betashares FTSE 100 ETF"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "IVV Ishares S&P 500 ETF"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JBH JB HiFi"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "WES Wesfarmers"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Media Sociale"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "South Melbourne",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Hawthorn",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Magil",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Digital Marketing Services",
+    "company": "Media Sociale"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "UBank (Part of National Australia Bank)",
+    "nature": "Mortgage on property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "Mortgage on property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "HSBC Australia",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments - Investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments - Investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Shareholdings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments - Investment property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Access to Chairmans Lounge - QANTAS"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Access to Beyond Lounge - Virgin Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-08-18",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/315434.pdf",
+  "sha256": "81d3be6bcb847c2de30f6ce39faaa2918321a8b4aa37048c098e884de65b2643",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/315434/statement/48"
+ },
+ "state": null
+}

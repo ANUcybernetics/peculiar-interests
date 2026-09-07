@@ -1,0 +1,465 @@
+{
+ "alterations": [
+  {
+   "category": "liabilities",
+   "date_processed": "2025-09-05",
+   "date_submitted": "2025-09-05",
+   "details": "My wife is no longer employed at Sydney Water.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-09-05",
+   "date_submitted": "2025-09-05",
+   "details": "In addition, the previously declared car loan with Macquarie Bank has now been discharged.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-12",
+   "date_submitted": "2025-11-12",
+   "details": "1) I have been conferred First Class Order of Zayed ll by the President of the United Arab Emirates. The citation reads: \"in recognition of his outstanding contributions and dedicated efforts toward the success of the 28th Conference of the Parties to the United Nations Framework Convention on Climate Change (COP28)\".",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-12",
+   "date_submitted": "2025-11-12",
+   "details": "2) I have received a bottle of Amrut Whiskey from the Indian High Commissioner to Australia, His Excellency Gopal Baglay",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-12",
+   "date_submitted": "2025-11-12",
+   "details": "3) I have received a bottle of Penfolds \"Rare Find\" red wine from the Assyrian Australian Association",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-12",
+   "date_submitted": "2025-11-12",
+   "details": "4) I have received a pair of cuff links from the Mandaean Cultural Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-12",
+   "date_submitted": "2025-11-12",
+   "details": "I received 2 complimentary tickets to the 2025 AFL Finals Series game between GWS Giants and Hawthorn on Saturday 6 September at the Engie Stadium in Sydney.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-02-18",
+   "date_submitted": "2026-02-18",
+   "details": "My son is a part time Electorate Officer in the employ of Hon. Anoulack Chanthivong MP.",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-02-18",
+   "date_submitted": "2026-02-18",
+   "details": "My son is a part time waiter in a local café.",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-25",
+   "date_submitted": "2026-06-24",
+   "details": "I received two Turkish football jerseys, a tin of baclava and tin of pistachio nuts from the Minister for Climate of Turkiye, Murat Kurum.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-06-25",
+   "date_submitted": "2026-06-24",
+   "details": "My wife has been employed by Liebherr Australia",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-13",
+   "date_submitted": "2026-08-13",
+   "details": "On Wednesday 5 August, I received a decorative vase, a box of sweets and two ties from the Deputy Climate Minister of Turkiye, Fatma Varank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-13",
+   "date_submitted": "2026-08-13",
+   "details": "On August 5, following a tour of carbon farming initiatives I stayed as guest of Mr Alasdair MacLeod at his home.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  }
+ ],
+ "aph_id": "DZS",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Bowen, Christopher",
+ "electorate": "McMahon",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Bowen",
+ "given_names": "Christopher",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Smithfield NSW",
+    "purpose": "Residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bawley Point NSW",
+    "purpose": "Holiday/Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Half share in spouse's"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Australian Mutual Bank",
+    "nature": "Mortgage on residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Australian Mutual Bank",
+    "nature": "Mortgage on holiday home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank",
+    "nature": "Car Loan"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AMB",
+    "nature": "Half share of spouse's debts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Australian Mutual Bank",
+    "nature": "Savings Offset Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Australian Mutual Bank",
+    "nature": "Half Share of spouses savings account (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Australian Mutual Bank",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation, Vanguard"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation, Australian Retirement Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Daughter: Superannuation, TWU Super"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Son: Superannuation, Hostplus"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary, House of Representatives and Department of Climate Change, Energy and Water"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary, Sydney Water"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "My daughter is a part time employee of the Transport Workers Union (NSW)"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "My son is a part time waiter in a local cafe."
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Since my last return I have received a signed cricket bat from Pat Cummins and a Taiaha from the Sydney Maere Collective."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Labor Party (NSW)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Fabians"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member Fairfield RSL Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member Smithfield RSL Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member Blacktown Workers Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member Ulladulla/Shoalhaven Returned Ex-Services Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Matlese Community of NSW"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, GWS Giants"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, GWS Giants"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Members, GWS Giants"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Qantas Chairmans Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Virgin Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Qantas Chairmans Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Member, Virgin Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-13",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/DZS.pdf",
+  "sha256": "4d16644e5da41273df49e6b2cd5894b728c64053e696d888170db6b893311260",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/DZS/statement/48"
+ },
+ "state": "NSW"
+}

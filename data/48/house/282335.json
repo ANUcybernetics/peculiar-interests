@@ -1,0 +1,841 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "22-Jul-25 UNSW Hoodie from UNSW Alumni",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "02-Sep-25 Book: Australia's Agricultural Identity by Joshua Gilbert from Farmers for Climate Action",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "05-Sep-25 Framed Photo from Australian College of Midwives",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "12-Sep-25 Jar of Olives from Gooramadda Olives",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-04",
+   "date_submitted": "2025-12-04",
+   "details": "09-Oct-25: 18 cans Little Creatures Pale Ale, 24 cans Carlton Draught, 24 cans Coopers Lager - from the Brewers Association of Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-04",
+   "date_submitted": "2025-12-04",
+   "details": "29-Oct-25: Plush koala toy - from Australia Post",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-04",
+   "date_submitted": "2025-12-04",
+   "details": "25-Nov-25: Note book & pen - from Pathways to Politics",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-04",
+   "date_submitted": "2025-12-04",
+   "details": "27-Nov-25: Wally the Wombat Loaf Cake - from Woolworths",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-04",
+   "date_submitted": "2025-12-04",
+   "details": "17-Oct-25: Entry to the Benalla Spring Show - from the Benalla Agricultural & Pastoral Society",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "09-Dec-25 - Book: Step by Step - Living with Autism by Kirk Mercuri - from Kathleen Stewart",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "12-Dec-25- Socks and Portable Power Bank - from The Royal Australian College of General Practitioners (RACGP)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "15-Dec-25 -Frank Green Ceramic Reusable Cup - from the Australian College of Midwives",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Northcote, Victoria",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Residential investment property held jointly with spouse",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Northcote, Victoria (50% share jointly held with spouse)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Residential investment property",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Northcote, Victoria Residential investment property jointly held with spouse",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Northcote, Victoria (50% share jointly held with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Residential investment property",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Home loan mortgage CBA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-12-16",
+   "date_submitted": "2025-12-16",
+   "details": "Home loan mortgage CBA",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "P and H Haines Investments Pty Ltd ATF Haines Superannuation Fund MDA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Held jointly with spouse",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Held jointly with spouse",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "P and H Haines Investments Pty Ltd ATF Haines Superannuation Fund MDA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Australian Equities Extension Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Australian Small and Mid-Cap",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "WaveStone Australian Share I",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Multi Strategy Alternative 2",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "CC JCB Active Bond B",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Diversified Australian Fixed Income Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Mutual Credit",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Mutual High Yield",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Alceon Australian Property Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "CC Sage Capital Absolute Return",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Multi Strategy Alternative",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Arrowstreet Global Equity No.2 Class E",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Custom Portfolio Solutions - Global Growth Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Global Small and Mid-Cap",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 39,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "MFS Concentrated Global Equity Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 40,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Vinva Global Alpha Extension Fund – Class F Units",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 41,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "BetaShares U.S. Treasury Bond 20+ Year ETF – Currency Hedged",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 42,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "ClearBridge Global Infras Val",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 43,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Resolution Capital Global Property Securities Fund (Unhedged) - Series II – Class B",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 44,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Findex MDA Equity Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 45,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-14",
+   "date_submitted": "2026-01-14",
+   "details": "Findex MDA Fixed Income Trust",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 46,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "23-Mar-26 Book: \"The Future of Sleep\" by Catherine Ball from Catherine Ball",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 47,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "10-Apr-26 Socks from Australian College of Midwives",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 48,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "4 May 2026 - Various Body Image books from Embrace Kids",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 49,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "13-May-26 Book: The Junior Headmaster's Daughter by Joanna Mary from Joanna Mary",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 50,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "18-May-26 Jar of Honey from Gundowring Red Cross",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 51,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "02-Jun-26 Book: Many Colours of Home - A Record of Ukranians Seeking Refuge in Victoria from Dolli Dollimore",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 52,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "04-Jun-26 Book: Power, Prosperity & Planet: Climate & Energy Policy for All by Thom Woodroofe from Thom Woodroofe",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 53,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "09-Jun-26 Book: The View From Point Lookout - The story of Bill Spargo's Queensland Retirement by Stephen Whiteside from Stephen Whiteside",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 54,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "17-Jun-26 - Book: In History's Page - from Morgan Begg, Institute of Public Affairs",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 55,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "05-Aug-26 - Book: Unspeakable by Richard Hill & Jean Renouf - from Dr Jean Renouf",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 56,
+   "source_id": null
+  }
+ ],
+ "aph_id": "282335",
+ "chamber": "house",
+ "date_lodged": "2025-08-05",
+ "display_name": "Haines, Helen",
+ "electorate": "Indi",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Haines",
+ "given_names": "Helen",
+ "honorific": "Dr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CBA jointly held with spouse"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AMC, ANZ, BHP, CBA, CSL, IPL, NAB, ORA, SHV, TCL, TLS, WBC, WOW"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wangaratta, Victoria (jointly held with spouse)",
+    "purpose": "Family home, Beef and cattle farm business"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Northcote, Victoria (50% share of property jointly held with spouse)",
+    "purpose": "Residential investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wangaratta, Victoria (jointly held with spouse)",
+    "purpose": "Family home, Beef and cattle farm business"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Northcote, Victoria (50% share jointly held with spouse)",
+    "purpose": "Residential investment property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Farming",
+    "name": "PJ & HM Haines",
+    "nature": "Financial and Business Operation Partner"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "Farming",
+    "name": "PJ & HM Haines",
+    "nature": "Financial and Business Operation Partner"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA, ING, ANZ",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA, ING, ANZ",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "P & H Haines PTY, LTD ATF Haines Self Managed Superannuation Fund (jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Beef cattle herd (jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Water use licence of 56.0ML in trading zone 9B King (jointly with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "P & H Haines PTY, LTD ATF Haines Self Managed Superannuation Fund (jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Beef cattle herd (jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Water use licence of 56.0ML in trading zone 9B King (jointly with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Beef cattle farm business partnership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Beef cattle farm business partnership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Superannuation Income Pension"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "June 3 2025 - Book: Careless People - A story of where I used to work by Sarah Wynn-Williams from Reset Tech. Value $29.75"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "June 5 2025 - Book: Pearl Bradshaw - Princess of Hotham by Stephen Whiteside from Stephen Whiteside. Value $29.99"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Nurse Midwifery Federation (ANMF)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "College of Midwives"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-17",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/282335.pdf",
+  "sha256": "931bfa278d7e97e7161d9c2762ad0434f1705e8aaad70d235b2eb465fac5346b",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/282335/statement/48"
+ },
+ "state": "VIC"
+}

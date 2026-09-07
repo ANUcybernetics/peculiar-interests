@@ -1,0 +1,250 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-19",
+   "date_submitted": "2026-02-19",
+   "details": "Self and partner attended Lady Gaga concert and hospitality on 9 December 2025 at Suncorp Stadium Brisbane as the guests of WestPac Bank (each ticket $700 p/p)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-02-19",
+   "date_submitted": "2026-02-19",
+   "details": "Please delete me as a member of Emily's List",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-06-03",
+   "date_submitted": "2026-06-03",
+   "details": "Redcliffe Art Society - Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-06-03",
+   "date_submitted": "2026-06-03",
+   "details": "Redcliffe Sub Branch of the TPI Federation - Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-03",
+   "date_submitted": "2026-06-03",
+   "details": "Redcliffe and District Family History Group - Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-03",
+   "date_submitted": "2026-06-03",
+   "details": "08 March 2026 Dolphins V Rabbitohs - 2 Corporate Tickets included hospitality",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-03",
+   "date_submitted": "2026-06-03",
+   "details": "Invitation from Redcliffe Dolphins",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  }
+ ],
+ "aph_id": "316551",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Comer, Emma",
+ "electorate": "Petrie",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item accounts (self): columns listed different numbers of lines on page 4; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Comer",
+ "given_names": "Emma",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Suncorp",
+    "nature": "Electorate allowance"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Wise Bank",
+    "nature": "Savings savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Up Bank Up Bank",
+    "nature": "Joint savings savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Up Bank",
+    "nature": "Savings (with partner)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "2 General Admission to State Of Origin game 1 Wednesday 28 May 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "(no hospitality)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Invitation from Suncorp"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Virgin Beyond"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "4 Corporate tickets - Broncos V Titans"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Incl Hospitality invitation from Suncorp"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Dolphins V Rabbitohs - 2 Corporate Tickets included hospitality"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Invitation from Redcliffe Dolphins"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Queensland Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Australian Institute of International Affairs"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member - Emily's List"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-06-03",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/316551.pdf",
+  "sha256": "a89b6deb73d66b162973e2c645603de610eccc051fc29d37d9dfb9125bf0a86c",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/316551/statement/48"
+ },
+ "state": "QLD"
+}

@@ -1,0 +1,677 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-02",
+   "date_submitted": "2025-09-02",
+   "details": "Midwinter ball ticket provided by Lion Pty Ltd (valued at $200)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2025-10-09",
+   "date_submitted": "2025-10-09",
+   "details": "Bank accounts - Suncorp Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-10-09",
+   "date_submitted": "2025-10-09",
+   "details": "Sale of Future Generation Australia Ltd shareholdings on 3 October, 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-17",
+   "date_submitted": "2025-10-17",
+   "details": "Unrequested flight upgrade from Qantas on 16/10/2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-05",
+   "details": "House - Brisbane, formerly residential, now investment",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-05",
+   "details": "Apartment - Canberra, secondary residence (with spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-05",
+   "details": "Apartment - Canberra, secondary residence (with spouse)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-19",
+   "date_submitted": "2026-01-19",
+   "details": "Queensland Performing Arts Centre membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-19",
+   "date_submitted": "2026-01-19",
+   "details": "Queensland Performing Arts Centre membership",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Vanguard Cash Account",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Vanguard Ethically Conscious Australian Shares ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Vanguard Ethically Conscious International Shares Index ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "EMILY's List Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Vanguard Ethically Conscious Australian Shares ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Vanguard Ethically Conscious International Shares Index ETF",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-02-27",
+   "date_submitted": "2026-02-26",
+   "details": "Sale of Vanguard Ethically Conscious International Shares Index ETF shareholdings on 26 February 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-02-27",
+   "date_submitted": "2026-02-26",
+   "details": "Sale of Vanguard Ethically Conscious Australian Shares ETF on 26 February 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-07",
+   "date_submitted": "2026-04-07",
+   "details": "Donation of miscellaneous health and hygiene items from TerryWhite Chemmart Coorparoo (332 Old Cleveland Road, Coorparoo QLD 4151) to the Electorate Office “Kindness Cupboard.” All donated items are being made available to local community members in need of support. Estimated value: $750.00",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-22",
+   "date_submitted": "2026-06-19",
+   "details": "2X Tickets provided by Opera Queensland to La Cenerentola (valued between $79 - $199 each)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-06-24",
+   "date_submitted": "2026-06-24",
+   "details": "Income from investment property (formerly residence) ceased following the sale of the property 05/12/25.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-07-03",
+   "date_submitted": "2026-07-03",
+   "details": "NGA Foundation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-07-03",
+   "date_submitted": "2026-07-03",
+   "details": "NGA Foundation",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-03",
+   "date_submitted": "2026-07-03",
+   "details": "Midwinter ball ticket provided by Precision Public Affairs (valued at $200)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  }
+ ],
+ "aph_id": "312323",
+ "chamber": "house",
+ "date_lodged": "2025-08-15",
+ "display_name": "Coffey, Renee",
+ "electorate": "Griffith",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item directorships (spouse): columns listed different numbers of lines on page 3; lines were merged onto the shortest column rather than split into separate entries",
+   "item real-estate (self): columns listed different numbers of lines on page 3; lines were merged onto the shortest column rather than split into separate entries",
+   "item real-estate (spouse): columns listed different numbers of lines on page 3; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Coffey",
+ "given_names": "Renee",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Future Generation Australia Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Jason McKenzie Holdings Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "House - Brisbane House – Brisbane",
+    "purpose": "residential (with spouse) formerly residential, now investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "House - Brisbane Townhouse - Brisbane Unit - Melbourne",
+    "purpose": "residential (with spouse, as above) formerly residential, now investment investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Queensland branch of the Australian Labor Party",
+    "company": "Administrative Committee – Queensland Labor"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "application development holdings company",
+    "company": "Katanya Ventures Limited (UK) Jason McKenzie Holdings Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "fields": {
+    "activities": "digital communications management",
+    "name": "M GALLIERS & B LEVY & J MCKENZIE",
+    "nature": "Partner"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "HSBC",
+    "nature": "Joint mortgage with spouse"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Heritage Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "HSBC, Heritage Bank",
+    "nature": "Credit Cards"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "HSBC",
+    "nature": "Joint mortgage with spouse (as above) and other mortgages"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AMERICAN EXPRESS, NAB, HSBC",
+    "nature": "Credit Cards"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Heritage Bank, HSBC",
+    "nature": "Bank accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB, HSBC",
+    "nature": "Bank accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation - QSuper"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance (as part of superannuation)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation – Australian Retirement Trust"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance (as part of superannuation)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments and partnerships as listed"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman’s Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (QLD)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Rail Tram Bus Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Alliance Francaise de Brisbane"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Institute of Company Directors"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fundraising Institute of Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "CHAC Alumni"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QAGOMA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Beelarong Community Farm"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Morningside School of the Arts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Morningside Panthers"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Carina Leagues Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Cannon Hill State School P&C"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Brisbane Broncos"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Brisbane Lions"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Various airline, hotel and other loyalty programs"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (QLD)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Alliance Francaise de Brisbane"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Institute of Company Directors"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QAGOMA"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QAGOMA Foundation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Beelarong Community Farm"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Morningside School of the Arts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Various airline, hotel and other loyalty programs"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QAGOMA"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Beelarong Community Farm"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-03",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/312323.pdf",
+  "sha256": "e0f71cc3101136a65feb12c6a8a85ecdbb046d120d2ab210b98754453848bb63",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/312323/statement/48"
+ },
+ "state": "QLD"
+}

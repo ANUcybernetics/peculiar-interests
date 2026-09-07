@@ -1,0 +1,235 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-29",
+   "details": "1 x Ticket to Corporate Box at Gold Coast Titans Game (10 August 2025)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-29",
+   "details": "2 x Tickets to Corporate Box at Gold Coast Titans Game (23 August 2025)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-30",
+   "date_submitted": "2025-09-29",
+   "details": "(did not proceed)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "Superannuation - PSSAP",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-10",
+   "date_submitted": "2026-04-10",
+   "details": "Sponsored hospitality - 2x complimentary tickets to AFC Women's Asian Cup match",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-02",
+   "date_submitted": "2026-06-01",
+   "details": "27 April 2026 to 3 May 2026, sponsored international travel, accommodation and meals for self for a visit to Taiwan as part of a",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-02",
+   "date_submitted": "2026-06-01",
+   "details": "Parliamentary delegation.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-02",
+   "date_submitted": "2026-06-01",
+   "details": "Provider of the benefit was the",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-02",
+   "date_submitted": "2026-06-01",
+   "details": "Taiwan Economic & Cultural Office in",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-02",
+   "date_submitted": "2026-06-01",
+   "details": "Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  }
+ ],
+ "aph_id": "316547",
+ "chamber": "house",
+ "date_lodged": "2025-08-04",
+ "display_name": "Rebello, Leon",
+ "electorate": "McPherson",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Rebello",
+ "given_names": "Leon",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Griffith, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Burleigh Heads, QLD",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "MCCGC provides a wide range of services and activities aimed at supporting and empowering multicultural communities on the Gold Coast.",
+    "company": "Multicultural Communities Council Gold Coast Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Beyond Bank",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Beyond Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Interest on savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership - Virgin Beyond Program"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership - Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "1 x Ticket to Corporate Box at Gold Coast Titans Game (10 August 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2 x Tickets to Corporate Box at Gold Coast Titans Game (23 August 2025)"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-06-01",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/316547.pdf",
+  "sha256": "2d8fe86eccfeb1b4bf06acd5b0934609bb08d962f955850a67f669e279f00cdf",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/316547/statement/48"
+ },
+ "state": "QLD"
+}

@@ -1,0 +1,424 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-07-31",
+   "date_submitted": "2025-07-31",
+   "details": "Two tickets to State of Origin 3 - 9 July 2025. Sydney",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-09",
+   "date_submitted": "2025-08-08",
+   "details": "Complimentary Membership of QANTAS Chairman's Lounge.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-09",
+   "date_submitted": "2025-08-08",
+   "details": "Complimentary Membership of Virgin Club Lounge.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-09",
+   "date_submitted": "2026-03-09",
+   "details": "A one-way flight on the Prime Minister's plane from Canberra to Wagga Wagga to attend the Bush Summit in Wagga Wagga on Wednesday, 27 August 2025.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-10",
+   "date_submitted": "2026-03-10",
+   "details": "2 x tickets and hospitality to 1st day of 5th Ashes Test at Sydney Cricket Ground, Sunday, 4 January 2026, courtesy of Australian Cricket Board.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-10",
+   "date_submitted": "2026-03-10",
+   "details": "Hospitality to 1st day of 5th Ashes Test at Sydney Cricket Ground, Sunday, 4 January 2026, courtesy of Australian Cricket Board.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-09",
+   "date_submitted": "2026-07-09",
+   "details": "2 x tickets and hospitality to the Midwinter Ball at Parliament House on 1 July 2026, provided by the CEO of Sky News",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-09",
+   "date_submitted": "2026-07-09",
+   "details": "Hospitality at the Midwinter Ball at Parliament House on 1 July 2026, provided by the CEO of Sky News",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  }
+ ],
+ "aph_id": "219646",
+ "chamber": "house",
+ "date_lodged": "2025-07-31",
+ "display_name": "McCormack, Michael",
+ "electorate": "Riverina",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "McCormack",
+ "given_names": "Michael",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Myer"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wagga Wagga",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Melbourne",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Wagga Wagga",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Melbourne",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Investment Property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Investment Property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Annual renewal for Foxtel subscription from the Australian Subscription Television and Radio Association for the Wagga Wagga Electorate Office."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Received a signed cricket bat by 1970's International Test Cricket Players on 4 March 2019."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Hawthorn Hawks 2023 team signed jersey unframed presented at the launch of Parliamentary Friends of the AFL on Tuesday, 8 Aug 2023."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Tickets and hospitality at National Rugby League Grand Final in Sydney, 6 October 2024 for two people provided by Bunnings."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complimentary Membership of Qantas Chairman's Lounge."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Complimentary Membership of Virgin Club Lounge."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Partial reimbursement for accommodation, some food and partial reimbursement for air fares for World Hellenic Inter-Parliamentary trip to Greece - 14-24 July 2022."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Randwick Races ticket and hospitality - 2/11/2021"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "State of Origin 3 - 2 tickets 09/07/2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "MP Learning Tour with travel, accommodation and hospitality in PNG, provided by Save the Children - Australia (From 15 to 20 Jan 2023)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Parliamentary (MP) Learning Tour to Kenya, Africa (3 -10 Dec 2022) hosted by Save the Children Australia (Travel, hospitality and accommodation)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Travel provided to and from the United State of America (USA) by the Bill and Melinda Gates Foundation. Some accommodation, land transport and meals were provided by the Bill and Melinda Gates Foundation."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Parliamentary (MP) Learning Tour to Greece (16-25 July 2023) hosted by the World Hellenic Inter- Parliamentary Association (Part payment of travel, hospitality and accommodation)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Sponsored travel by UAE Government to Abu Dhabi/Dubai, 16-23 Sept 2023, as part of Parliamentary delegation."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Sponsored travel provided by Australian American Leadership Youth Dialogue to Hawaii, 24-29 Oct 2023 as part of Parliamentary Delegation."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Mar 2024 - Return travel to Dharamsala, India."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Travel, Accommodation and meals were paid for by the Australia Tibet Council."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Travel to Vanuatu and Accommodation and Meals provided by Save the Children fund. 28 July to 3 August 2024."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Sponsored travel, meals and accommodation provided by the Embassy of Morocco to Morocco 26 Oct - 1 Nov 2024 as part of Parliamentary Delegation."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Sponsored travel by UAE Government to Abu Dhabi/Dubai, 16-23 Sept 2023, as part of Parliamentary delegation."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Mar 2024 - Return travel to Dharamsala, India"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Accommodation and meals were paid for by the Australia Tibet Council."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Accommodation and meals provided by Save the Children Fund in Vanuatu - 28 July to 3 Aug 2024."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Sponsored travel, meals and accommodation provided by the Embassy of Morocco to Morocco 26 Oct - 1 Nov 2024 as part of a Parliamentary Delegation."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "I have been appointed co-chair (with Effie Triantafilopoulos of Canada) of the Communications Committee of the PADEE-WHIA (World Hellenic Inter-Parliamentary Association."
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-09",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/219646.pdf",
+  "sha256": "a5793a3c05b07e4884d7e2eba68e6dc22ea65d349e02e13833b9a88568adc149",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/219646/statement/48"
+ },
+ "state": "NSW"
+}

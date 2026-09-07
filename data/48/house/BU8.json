@@ -1,0 +1,321 @@
+{
+ "alterations": [
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-04",
+   "date_submitted": "2026-05-04",
+   "details": "Wise account",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-05-04",
+   "date_submitted": "2026-05-04",
+   "details": "Member of the Institute for the Economy and the Future of Work, Rockwool Foundation Berlin (RFBerlin)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-05-04",
+   "date_submitted": "2026-05-04",
+   "details": "Salary from the ACT Government",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-05-04",
+   "date_submitted": "2026-05-04",
+   "details": "Serves as the ACT Government Landscape Architect",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-05-06",
+   "date_submitted": "2026-05-06",
+   "details": "Son works part-time at Woolworths.",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-11",
+   "date_submitted": "2026-06-11",
+   "details": "One year's membership to the National Press Club (provided by the Press Club as a gift for giving a speech there on 10 June 2026)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-06-11",
+   "date_submitted": "2026-06-11",
+   "details": "National Press Club (2026-27)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-08-10",
+   "date_submitted": "2026-08-10",
+   "details": "Donation by Australian Information Industry Association (AIIA) directly to Hands Across Canberra in appreciation of my contribution as a speaker at an AIIA event on 4 August 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-10",
+   "date_submitted": "2026-08-10",
+   "details": "Entry into the 2026 Sydney Marathon facilitated by race sponsor Tata Consultancy Services. I paid the applicable registration fee personally. Tata Consultancy Services provided access to an entry place in the event. No registration fee or other associated race costs were paid by Tata Consultancy Services.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  }
+ ],
+ "aph_id": "BU8",
+ "chamber": "house",
+ "date_lodged": "2025-07-31",
+ "display_name": "Leigh, Andrew",
+ "electorate": "Fenner",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Leigh",
+ "given_names": "Andrew",
+ "honorific": "Hon Dr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BetaShares Australia 200 ETF (A200)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Ethically Conscious International Shares Index ETF (VESG)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Hackett (ACT)",
+    "purpose": "Residential (jointly owned)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Hackett (ACT)",
+    "purpose": "Residential (jointly owned)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Well Nigh Capital No. 1 Pty Ltd (via Mortgage Ezy)",
+    "nature": "Mortgage on residential home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Well Nigh Capital No. 1 Pty Ltd (via Mortgage Ezy)",
+    "nature": "Mortgage on residential home"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings account (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings account (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance policies from Prudential and New York Life"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Royalties and payments related to writings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary from the University of Canberra"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Dividends from shareholdings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas, Rex and Virgin lounge memberships"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas, Rex and Virgin lounge memberships"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fellow of the Academy of Social Sciences in Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fellow of IZA - Institute of Labor Economics"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fellow of the Economic Society of Australia"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fellow of the CESifo Research Network"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of the Australian Institute of Landscape Architects"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of the American Society of Landscape Architects"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-10",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/BU8.pdf",
+  "sha256": "19d7fde62191488fc65f29189b4fae74b67ccef1f4f4c3b59e7e88b6f5837d0a",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/BU8/statement/48"
+ },
+ "state": "ACT"
+}

@@ -1,0 +1,657 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-17",
+   "date_submitted": "2025-09-16",
+   "details": "Ticket to Midwinter Ball on Wednesday 27 August 2025 at APH, supplied by Qantas.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-17",
+   "date_submitted": "2025-09-16",
+   "details": "Tickets to Roosters v Rabbitohs NRL game, Friday 5 September 2025, NRL Suite Allianz Stadium, supplied by NRL.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-07",
+   "date_submitted": "2025-10-07",
+   "details": "Tickets supplied by NBL - Pavlos Giannakopoulos Tournament (Partizan v Sydney & Panathinaikos v Adelaide)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-07",
+   "date_submitted": "2025-10-07",
+   "details": "Sunday 21 September, Qudos Bank Arena, Homebush",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-23",
+   "date_submitted": "2026-01-23",
+   "details": "Tickets supplied by Cricket Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-23",
+   "date_submitted": "2026-01-23",
+   "details": "The Ashes Australia v England",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-23",
+   "date_submitted": "2026-01-23",
+   "details": "Sunday 4 January 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-23",
+   "date_submitted": "2026-01-23",
+   "details": "Sydney Cricket Ground",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-10",
+   "date_submitted": "2026-03-10",
+   "details": "Tickets to AFC Women's Asian Cup - Australia v Korea Republic @ Accor Stadium 8 March 2026",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-10",
+   "date_submitted": "2026-03-10",
+   "details": "AFC Women's Asian Cup, Aus v Korea Republic @ Stadium Australia",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-10",
+   "date_submitted": "2026-03-10",
+   "details": "8 March 2026",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-10",
+   "date_submitted": "2026-03-10",
+   "details": "2 general admission tickets",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "Tickets - AFC Women's Asian Cup Australia v Japan 21 March 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "At Stadium Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "Tickets supplied by NSW Ports Rabbitohs v Roosters NRL Match 13 March 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-03-31",
+   "date_submitted": "2026-03-31",
+   "details": "Allianz Stadium",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-22",
+   "date_submitted": "2026-04-21",
+   "details": "Tickets supplied by South Sydney Rabbitohs",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-22",
+   "date_submitted": "2026-04-21",
+   "details": "Rabbitohs v Bulldogs NRL Match - Friday 3 April, 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-22",
+   "date_submitted": "2026-04-21",
+   "details": "Accor Stadium, Homebush",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-19",
+   "date_submitted": "2026-05-19",
+   "details": "Tickets supplied by Sydney Swans AFL",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-19",
+   "date_submitted": "2026-05-19",
+   "details": "Round 10 Sydney v Collingwood game - Friday 15 May, 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-19",
+   "date_submitted": "2026-05-19",
+   "details": "Venue: Sydney Cricket Ground",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "Tickets to Matilda's v Mexico women's football game",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "Tuesday 9 June, 2026 - Commbank Stadium",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-15",
+   "date_submitted": "2026-06-15",
+   "details": "Supplied by Football Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-14",
+   "date_submitted": "2026-07-14",
+   "details": "Ticket supplied by The Pharmacy Guild of Australia to the Midwinter Ball",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-14",
+   "date_submitted": "2026-07-14",
+   "details": "Wednesday 1 July",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-14",
+   "date_submitted": "2026-07-14",
+   "details": "Great Hall, Parliament House",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-13",
+   "date_submitted": "2026-08-13",
+   "details": "Tickets supplied by South Sydney Rabbitohs",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-13",
+   "date_submitted": "2026-08-13",
+   "details": "Rabbitohs v Eels - Round 23 NRL game",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-13",
+   "date_submitted": "2026-08-13",
+   "details": "Saturday 8 August, 2026 at Allianz Stadium, Moore Park",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  }
+ ],
+ "aph_id": "182468",
+ "chamber": "house",
+ "date_lodged": "2025-08-05",
+ "display_name": "Thistlethwaite, Matthew",
+ "electorate": "Kingsford Smith",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item accounts (self): columns listed different numbers of lines on page 4; lines were merged onto the shortest column rather than split into separate entries",
+   "item liabilities (self): columns listed different numbers of lines on page 4; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Thistlethwaite",
+ "given_names": "Matthew",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Matraville NSW",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Matraville, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank Amex Bendigo bank",
+    "nature": "Mortgage on residential home credit card credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank",
+    "nature": "Mortgage on residential home"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Amex",
+    "nature": "Credit card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George Bendigo Bank",
+    "nature": "Savings savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Australia Super",
+    "nature": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Aware Super",
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Cereal, muesli bars and chips supplied by Kellogs for gift packs for a seniors morning tea"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Tickets to state of origin game 3 in Sydney on 9 July 2025 supplied by the NRL"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Tickets to Matilda's v Sth Korea game on 8 April 2025 at Allianz stadium supplied by Football Australia."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Qantas Chairmans Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Virgin Lounge Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Maroubra Surf Lifesaving Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• South Sydney Rabbitohs"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Souths Juniors"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Australian Republic Movement"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Mascot RSL Sub-Branch"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Yarra Bay Sailing Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Maroubra Seals Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Coogee Legion Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Matraville RSL"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Randwick Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Coogee Diggers Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Surfrider Foundation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Maroubra Lions Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Australian Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Coogee Dolphins Hockey Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Qantas Chairmans Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• Virgin Lounge Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "• NSW Nurses and Midwives Association"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-13",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/182468.pdf",
+  "sha256": "1a05d5b9470e13e79eb6e6428761b34393074effcf25eb377f1df2d9011afa36",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/182468/statement/48"
+ },
+ "state": "NSW"
+}

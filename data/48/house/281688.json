@@ -1,0 +1,743 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Global X Battery Tech & Lithium ETF",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Westpac Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Brambles Industries",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Telstra",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Piedmont Lithium",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Vicinity Centres",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "West Wits Mining",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Liontown Resources",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Empire Resources",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Arizona Lithium",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Coles Group",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Scentre Group",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Deep Yellow Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Spouse- Medical Advisor for Murray PHN",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "EFTS Battery Tech & Lithium",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Westpac Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Brambles Industries",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Telstra",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Uranium",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Piedmont Lithium",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Vicinity Centres",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "West Wits Mining",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Liontown Resources",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Empire Resources",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Arizona Lithium",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Coles Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Scentre Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-09-12",
+   "date_submitted": "2025-09-12",
+   "details": "Declared for self in clerical error. All shares are owned by Spouse.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-24",
+   "date_submitted": "2025-09-24",
+   "details": "Gifted two tickets to attend AFL Grand Final 2025 - Brisbane Lions vs Geelong Cats on the 27th September 2025. Tickets are a gift from the Brisbane Lions.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-11-25",
+   "date_submitted": "2025-11-25",
+   "details": "Bubs Australia Limited Share",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-16",
+   "date_submitted": "2026-01-16",
+   "details": "Gifted 2 tickets to attend Day 2 of the NRMA Insurance Ashes Boxing Day Test between Australia and England on 27.12.25",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-16",
+   "date_submitted": "2026-01-16",
+   "details": "purchase of Prairie Lithium Limited",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-01-16",
+   "date_submitted": "2026-01-16",
+   "details": "Spouse - Board Member on the Board of the Murray PHN",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-16",
+   "date_submitted": "2026-03-13",
+   "details": "Tickets for Geelong Cats v Fremantle Dockers match at GMHBA Stadium (VIC)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-07-08",
+   "date_submitted": "2026-07-08",
+   "details": "Vanguard Australian Shares - ASX",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-24",
+   "date_submitted": "2026-07-24",
+   "details": "Free TV - 1 ticket for the Mid-winter Ball Canberra",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  }
+ ],
+ "aph_id": "281688",
+ "chamber": "house",
+ "date_lodged": "2025-07-30",
+ "display_name": "Webster, Anne",
+ "electorate": "Mallee",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Webster",
+ "given_names": "Anne",
+ "honorific": "Dr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "EFTS Battery Tech & Lithium"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Westpac Bank"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Brambles Industries"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Uranium"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Piedmont Lithium"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vicinity Centres"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "West Wits Mining"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Liontown Resources"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Empire Resources"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Arizona Lithium"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Coles Groups"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Scentre Group"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "General Beneficiary",
+    "name": "Webster Family Trust",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "General Beneficiary",
+    "name": "Webster Family Trust",
+    "nature": "Investment Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "General Beneficiary",
+    "name": "Ontario Medical Clinic",
+    "nature": "Unit Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Cabarita, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Griffith, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Cabarita, Victoria",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Griffith, ACT",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "NFP Charity",
+    "company": "Zoe Support Australia"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "MLC",
+    "type": "Managed Super Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "MLC",
+    "type": "Managed Super Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Investment Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Investment Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Mercedes Benz 350 E (2006)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Porsche Macan S (2018)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Self employed Medical Practice"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Subscription for the Mildura Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Australia Beyond Lounge - Melbourne, Sydney & Brisbane"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Spouse - Medical Advisor for Murray PHN"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Dr Philip Webster is on the Board of Directors for Zoe Support Mildura."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Dr Anne Webster was the founding director until 2018"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Daughter Bethany Scholar is also a Director but is not a dependent of Dr Anne Webster"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-24",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/281688.pdf",
+  "sha256": "7b98f67d8f200d1b5aa776e01080f9580238209dc225697048ee1d6053ec4078",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/281688/statement/48"
+ },
+ "state": "VIC"
+}

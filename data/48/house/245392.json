@@ -1,0 +1,31 @@
+{
+ "alterations": [],
+ "aph_id": "245392",
+ "chamber": "house",
+ "date_lodged": null,
+ "display_name": "Gosling, Luke",
+ "electorate": "Solomon",
+ "extraction": {
+  "method": "pending",
+  "notes": [
+   "scanned PDF; run `pollie ocr` and review the override"
+  ],
+  "version": 1
+ },
+ "family_name": "Gosling",
+ "given_names": "Luke",
+ "honorific": "Mr",
+ "interests": [],
+ "last_updated": "2026-08-06",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-static-pdf",
+  "raw_path": "raw/house/48/245392.pdf",
+  "sha256": "66c42a62c04c58674399192793bab64a9de69a3c58cde91a5105e85d036e43e0",
+  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/GJ/Gosling_48P.pdf?rev=ddfb21f111ee479e8a5c4a7dd6626524&hash=2390DE68517173F8F93C6FF96C395BAF"
+ },
+ "state": "NT"
+}

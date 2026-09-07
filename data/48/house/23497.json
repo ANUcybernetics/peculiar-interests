@@ -1,0 +1,322 @@
+{
+ "alterations": [
+  {
+   "category": "liabilities",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Credit card - Teachers Mutual Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Mortgage - Teachers Mutual Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Superannuation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Australian Labor Party",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Emily's List",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Australian Services Union (ASU)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Community and Public Sector Union (CPSU)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Shellharbour Lions Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "National Parks Association of NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Patron - Shellharbour U3A",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Residential - Mt Kembla (co-owned with spouse)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Investment - Balgownie (co-owned with spouse)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Mortgage - Teachers Mutual Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Savings accounts - Teachers Mutual Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Term Deposit Accounts - Teachers Mutual Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Superannuation",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Employment income - NSW Department of Education",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Term deposit interest earnings",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Rental income from investment property",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-15",
+   "date_submitted": "2026-01-15",
+   "details": "Illawarra Hawks",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-16",
+   "date_submitted": "2026-07-16",
+   "details": "Complimentary ticket to attend the Ocean Decade Australia Ocean Summit.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  }
+ ],
+ "aph_id": "23497",
+ "chamber": "house",
+ "date_lodged": "2025-08-01",
+ "display_name": "Berry, Carol",
+ "electorate": "Whitlam",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Berry",
+ "given_names": "Carol",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mt Kembla",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Balgownie",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Teachers Mutual Bank",
+    "nature": "Savings Accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Teachers Mutual Bank",
+    "nature": "Term Deposit Accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Term Deposit interest earnings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income from investment property set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment income"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-16",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/23497.pdf",
+  "sha256": "317741b70a7a4445a4cdb80ad4c3dc8175cfceec479ccf9cd764147aa55e0048",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/23497/statement/48"
+ },
+ "state": "NSW"
+}

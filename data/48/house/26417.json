@@ -1,0 +1,1310 @@
+{
+ "alterations": [
+  {
+   "category": "accounts",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Personal transaction account - Bendigo Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Business transaction account (Nixs Run Pty Ltd) - Bendigo Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Member, Australian Conservation Foundation",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "Cash Management Accelerator - Macquarie",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "Cash Management Account - Macquarie",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "Personal - AMP",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "Theatre tickets from Lateral",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "FIFA World Cup 2026 jerseys",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "Everyday account (joint) Great Southern Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "Savings account (joint) Great Southern Bank",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "All spouse / partner details",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "All spouse / partner details",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "All spouse / partner details",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "All spouse / partner details",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "All spouse / partner details",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "All spouse / partner details",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-05-14",
+   "date_submitted": "2026-05-14",
+   "details": "All dependent details",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "deletion",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Mid-winter press ball tickets (pax 2) from Capital Media",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Manly (part share), investment",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Climate Venture Capital Fund, Limited Partner, VC fund (New Zealand)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Australian Ethical Altius Short Duration Bond Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Australian Ethical Emerging Companies Fund (wholesale)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "AGL Energy Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Azur Tech Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "CCM Technologies",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Eagle HoldCo Pty Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Pollination Global Holdings Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Through externally managed investment portfolio:",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Aoris International Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Hamilton Lane Global Private Assets Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Hamilton Lane Global Venture Capital and Growth Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Hamilton Lane Impact Fund II",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Hyperion Small Growth Companies Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Main Sequence Core Fund 3",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Main Sequence Opportunity Fund 3",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "MA Prime Logistics Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Munro Global Growth Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "partnerships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Murray-Darling Water Basin Balanced Water Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Ophir Global High Conviction Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 39,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Pacific Equity Partners Capital Solutions Pathway Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 40,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "ROC Private Investment Fund II",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 41,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Stepstone Private Venture and Growth Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 42,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Spire US Data Centre Colocation Fund II",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 43,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "The Impact Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 44,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "1851 Emerging Companies Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 45,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Sharpe Family Trust (holds investments in Eagle HoldCo Pty Ltd) Beneficiary",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 46,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Frederick Sharpe Trust No 1 (holds investments, including externally managed investment portfolio Kilara Growth Fund, Pollination Global Holdings Ltd (in part), Azure Tech Ltd. Beneficiary",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 47,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "F Sharpe Super Fund (holds superannuation investment portfolio, including Pollination Global Holdings Ltd (in part) and CCM Technologies. Beneficiary",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 48,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Redfern residential",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 49,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Manly (part share) Investment",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 50,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "France (part share) investment",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 51,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Eagle HoldCo Pty Ltd, Environmental Services",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 52,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Climate Friendly Financial Services Pty Ltd, ASFL holder",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 53,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Kilara Growth Fund, Limited Partner, Impact focused investment",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 54,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Investment in credit fund (Apollo Asset Backed Credit Trust), Frederick Sharpe Trust No. 1 (as part of externally managed investment portfolio)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 55,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Investment in credit fund (Community Capital Credit Fund), Frederick Sharpe Trust No 1 (as part of externally managed investment portfolio)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 56,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Investment in credit fund (Pantheon Global Credit Secondaries), Frederick Sharpe Trust No 1 (as part of externally managed investment portfolio)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 57,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Syndicated loan facility, Frederick Sharpe Trust No 1",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 58,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Syndicated loan facility, F Sharpe Super Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 59,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Transaction account (personal) ANZ",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 60,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Savings account (personal) ANZ",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 61,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Savings account (personal) ANZ Plus",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 62,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Cash Management Account (Sharpe Family Trust) Macquarie Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 63,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Accelerator Savings Account (Sharpe Family Trust) Macquarie Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 64,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Cash management account (personal) Macquarie Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 65,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Accelerator savings account (personal) Macquarie Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 66,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Accelerator savings account (F Sharpe Super Fund) Macquarie Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 67,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Savings account (personal) AMP",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 68,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Accelerator savings account (personal) ING",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 69,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Savings account (personal) Beyond Bank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 70,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Cars (x2)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 71,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Superannuation (industry fund)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 72,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Director's salary",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 73,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Sponsor of Climate Capital Forum",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 74,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Director and shareholder in Climate Friendly Pty Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 75,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "Stewart Investors Wholesale Worldwide Leaders Sustainability Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 76,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-08-18",
+   "date_submitted": "2026-08-18",
+   "details": "North Turramurra, NSW",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 77,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-21",
+   "date_submitted": "2026-08-21",
+   "details": "Mid-winter press ball tickets (pax 2) from Capital Brief (previously incorrectly declared as from Capital Media)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 78,
+   "source_id": null
+  }
+ ],
+ "aph_id": "26417",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Boele, Nicolette",
+ "electorate": "Bradfield",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "a table continued onto page 14; its rows were joined to the one before",
+   "a table continued onto page 15; its rows were joined to the one before",
+   "a table continued onto page 16; its rows were joined to the one before"
+  ],
+  "version": 1
+ },
+ "family_name": "Boele",
+ "given_names": "Nicolette",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra TLS"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Ventures 2040 (trading as Climate Venture Capital Fund) (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares FAIR (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares ERTH (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares GBND (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares HETH (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Ethical Australian Shares Fund (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Dimensional Global Bond Sustainability Trust - AUD (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Nanuk New World Fund (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Stewart Investors Wholesale Worldwide Leaders Sustainability Fund (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Cash Reserve Fund (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Ventures 2040 (trading as Climate Venture Capital Fund) (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares FAIR (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares ERTH (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares GBND (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Betashares HETH (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Ethical Australian Shares Fund (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Dimensional Global Bond Sustainability Trust - AUD (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Nanuk New World Fund (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Stewart Investors Wholesale Worldwide Leaders Sustainability Fund (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Cash Reserve Fund (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Gerabo Family Trust",
+    "nature": "Holds BT Panorama share portfolio and the Climate Venture Capital Fund.",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint beneficiary",
+    "name": "Gerabo Family Trust",
+    "nature": "Holds BT Panorama share portfolio and the Climate Venture Capital Fund.",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "North Turramurra, NSW (joint)",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "North Turramurra, NSW (joint)",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Potato Point, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Political campaign, not for profit",
+    "company": "Nixs Run Pty Ltd."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Manages family trust",
+    "company": "Gerabo Pty Ltd."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Manages family trust",
+    "company": "Gerabo Pty Ltd."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Everyday account 1 (personal)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Savings account (personal)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Business account transaction 1 (Nixs Run Pty Ltd.)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Cash Management Account (Gerabo family trust) (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Great Southern Bank",
+    "nature": "Everyday account (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Great Southern Bank",
+    "nature": "Savings account (joint)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Business account transaction 2 (Nixs Run Pty Ltd.)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Business account savings (Nixs Run Pty Ltd.)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Great Southern Bank",
+    "nature": "Everyday account (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Great Southern Bank",
+    "nature": "Savings account (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Cash Management Account (Gerabo family trust) (joint)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank Australia",
+    "nature": "Savings"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank Australia",
+    "nature": "Transaction"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Conservation Foundation"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-21",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/26417.pdf",
+  "sha256": "6310d8654ae244084f55cf05f12ff92cf218855fc74f6bfe6329af74c809ccb4",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/26417/statement/48"
+ },
+ "state": "NSW"
+}

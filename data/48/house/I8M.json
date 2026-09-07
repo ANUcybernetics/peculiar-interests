@@ -1,0 +1,774 @@
+{
+ "alterations": [
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-16",
+   "date_submitted": "2025-08-16",
+   "details": "UBS Diversified Fund",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-16",
+   "date_submitted": "2025-08-16",
+   "details": "UBS Diversified Fund",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-16",
+   "date_submitted": "2025-08-16",
+   "details": "CREDIT SUISSE DISCRECTIONARY PORTFOLIO (ALL INVESTMENT DECISIONS MADE BY CREDIT SUISSE) BENNELONG AUSTRALIAN EQUITIES FUND ALLAN GRAY AUSTRALIA EQUITY FUND CAPITAL GROUP NEW PERSPECTIVE FUND BLACKROCK CONCENTRATED INDUSTRIAL SHARE FUND UNITS OC MICRO-CAP FUND SANDS CAPITAL GLOBAL GROWTH FUND GOLDMAN SACHS EMERGING MARKETS FUND VANGUARD AUSTRALIAN SHARES INDEX FUND MORGAN STANLEY GLOBAL OPPORTUNITY FUND MELCHIOR EUROPEAN OPPORTUNITIES FUND SCHRODER GLOBAL ENERGY TRANSITION FUND THREADNEEDLE INVESTMENT FUND VANGUARD S&P 500 FUND NINETY ONE GLOBAL STRATEGY FUND NEUBERGER BERMAN CONNECTIVITY FUND PARTNERS GROUP LISTED INFRASTRUCTURE FUND UBS ALL CHINA FUND T.ROWE PRICE US SMALL COMPANIES FUND SEASONS GLOBAL PRIVATE EQUITY FUND",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2025-08-16",
+   "date_submitted": "2025-08-16",
+   "details": "Leander Holdings",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "date_processed": "2025-08-16",
+   "date_submitted": "2025-08-16",
+   "details": "NOTES NAB LTD CAPITAL NOTES WESTPAC NOTES CBA CAPITAL NOTES ANZ NOTES NAB LTD CAPITAL GROUP GLOBAL HIGH INCOME OPPORTUNITIES",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2025-08-16",
+   "date_submitted": "2025-08-16",
+   "details": "CREDIT SUISSE DISCRECTIONARY PORTFOLIO (ALL INVESTMENT DECISIONS MADE BY CREDIT SUISSE) BENNELONG AUSTRALIAN EQUITIES FUND ALLAN GRAY AUSTRALIA EQUITY FUND CAPITAL GROUP NEW PERSPECTIVE FUND BLACKROCK CONCENTRATED INDUSTRIAL SHARE FUND UNITS OC MICRO-CAP FUND SANDS CAPITAL GLOBAL GROWTH FUND GOLDMAN SACHS EMERGING MARKETS FUND VANGUARD AUSTRALIAN SHARES INDEX FUND MORGAN STANLEY GLOBAL OPPORTUNITY FUND MELCHIOR EUROPEAN OPPORTUNITIES FUND SCHRODER GLOBAL ENERGY TRANSITION FUND THREADNEEDLE INVESTMENT FUND VANGUARD S&P 500 FUND NINETY ONE GLOBAL STRATEGY FUND NEUBERGER BERMAN CONNECTIVITY FUND PARTNERS GROUP LISTED INFRASTRUCTURE FUND UBS ALL CHINA FUND T.ROWE PRICE US SMALL COMPANIES FUND SEASONS GLOBAL PRIVATE EQUITY FUND",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-17",
+   "date_submitted": "2026-06-17",
+   "details": "Matilda's Tickets - 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-17",
+   "date_submitted": "2026-06-17",
+   "details": "Source - Football Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  }
+ ],
+ "aph_id": "I8M",
+ "chamber": "house",
+ "date_lodged": "2025-08-16",
+ "display_name": "Charlton, Andrew",
+ "electorate": "Parramatta",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "a table continued onto page 11; its rows were joined to the one before",
+   "a table continued onto page 4; its rows were joined to the one before",
+   "item investments (self): columns listed different numbers of lines on page 6; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Charlton",
+ "given_names": "Andrew",
+ "honorific": "Hon Dr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CREDIT SUISSE DISCRECTIONARY PORTFOLIO (ALL INVESTMENT DECISIONS MADE BY CREDIT SUISSE)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BENNELONG AUSTRALIAN EQUITIES FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ALLAN GRAY AUSTRALIA EQUITY FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CAPITAL GROUP NEW PERSPECTIVE FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BLACKROCK CONCENTRATED INDUSTRIAL SHARE FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "UNITS OC MICRO-CAP FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SANDS CAPITAL GLOBAL GROWTH FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "GOLDMAN SACHS EMERGING MARKETS FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VANGUARD AUSTRALIAN SHARES INDEX FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MORGAN STANLEY GLOBAL OPPORTUNITY FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MELCHIOR EUROPEAN OPPORTUNITIES FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SCHRODER GLOBAL ENERGY TRANSITION FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "THREADNEEDLE INVESTMENT FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VANGUARD S&P 500 FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "NINETY ONE GLOBAL STRATEGY FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "NEUBERGER BERMAN CONNECTIVITY FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "PARTNERS GROUP LISTED INFRASTRUCTURE FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "UBS ALL CHINA FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "T.ROWE PRICE US SMALL COMPANIES FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SEASONS GLOBAL PRIVATE EQUITY FUND"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CREDIT SUISSE DISCRECTIONARY PORTFOLIO (ALL INVESTMENT DECISIONS MADE BY CREDIT SUISSE)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BENNELONG AUSTRALIAN EQUITIES FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "ALLAN GRAY AUSTRALIA EQUITY FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CAPITAL GROUP NEW PERSPECTIVE FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BLACKROCK CONCENTRATED INDUSTRIAL SHARE FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "UNITS OC MICRO-CAP FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SANDS CAPITAL GLOBAL GROWTH FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "GOLDMAN SACHS EMERGING MARKETS FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VANGUARD AUSTRALIAN SHARES INDEX FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MORGAN STANLEY GLOBAL OPPORTUNITY FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "MELCHIOR EUROPEAN OPPORTUNITIES FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SCHRODER GLOBAL ENERGY TRANSITION FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "THREADNEEDLE INVESTMENT FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "VANGUARD S&P 500 FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "NINETY ONE GLOBAL STRATEGY FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "NEUBERGER BERMAN CONNECTIVITY FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "PARTNERS GROUP LISTED INFRASTRUCTURE FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "UBS ALL CHINA FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "T.ROWE PRICE US SMALL COMPANIES FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SEASONS GLOBAL PRIVATE EQUITY FUND"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "RTW VENTURES HOLDING EQUAPHI"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "5 WENTWORTH CHAMBERS"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Charlton Family Trust",
+    "nature": "Investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Shareholder",
+    "name": "Leander Holdings",
+    "nature": "Investment",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Joint Beneficiary",
+    "name": "Charlton Family Trust",
+    "nature": "Investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Shareholder",
+    "name": "Leander Holdings",
+    "nature": "Investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Unit holder",
+    "name": "RTW Unit Trust",
+    "nature": "Investment",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "Charlton Family Trust",
+    "nature": "Investment",
+    "role": "trustee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Parramatta",
+    "purpose": "Residential Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Parramatta",
+    "purpose": "Residential Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Bellevue Hill",
+    "purpose": "Residential Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Woollahra",
+    "purpose": "Residential Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Northern Beaches",
+    "purpose": "Residential Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Same",
+    "purpose": "Same"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Investment",
+    "company": "Leander Holdings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Chambers",
+    "company": "5 Wentworth PTY LTD"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA, ANZ",
+    "nature": "Credit cards & facilities"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "CBA",
+    "nature": "Joint mortgage with spouse"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "same",
+    "nature": "same"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Leander",
+    "type": "NOTES NAB LTD CAPITAL NOTES WESTPAC NOTES CBA CAPITAL NOTES ANZ NOTES NAB LTD CAPITAL GROUP GLOBAL HIGH INCOME OPPORTUNITIES"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Same",
+    "type": "Same"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Credit Suisse/UBS",
+    "nature": "Investment Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "same",
+    "nature": "same"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Motor vehicle"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Motor vehicle"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from employment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Services Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party (NSW)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Parramatta Leagues Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "The Club, Virgin"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-06-17",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/I8M.pdf",
+  "sha256": "88be8f5eb2095c1fb319e0efa3430a1958d991b37b1f113a1ddf52222129949d",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/I8M/statement/48"
+ },
+ "state": "NSW"
+}

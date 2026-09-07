@@ -1,0 +1,268 @@
+{
+ "alterations": [
+  {
+   "category": "other-interests",
+   "date_processed": "2025-12-11",
+   "date_submitted": "2025-12-11",
+   "details": "My partner has been appointed a Board Member of the Adelaide Festival of Arts.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-15",
+   "date_submitted": "2025-12-14",
+   "details": "FIFA - 2 x tickets Australia v France",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-13",
+   "details": "McGrath Foundation - 2 x tickets - Jane McGrath High Tea",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-13",
+   "details": "Cricket Australia - 2 x tickets - Ashes Pink Test Day Three- Australia v England",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-13",
+   "details": "Virgin Australia - Forever Gold Status membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-01-13",
+   "date_submitted": "2026-01-13",
+   "details": "My partner has been appointed a Board Member of the Adelaide Festival of Arts",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-12",
+   "date_submitted": "2026-03-12",
+   "details": "WOMADelaide - 2 x Guest weekend passes",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-16",
+   "date_submitted": "2026-06-16",
+   "details": "Received a Qantas business class upgrade for personal flight 7 June 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-09",
+   "date_submitted": "2026-07-09",
+   "details": "The Australian - 2 x tickets for the Mid-Winter Ball Canberra",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-09",
+   "date_submitted": "2026-07-09",
+   "details": "Fred Hollows Foundation - Indigenous Art piece",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  }
+ ],
+ "aph_id": "HWK",
+ "chamber": "house",
+ "date_lodged": "2025-08-14",
+ "display_name": "Butler, Mark",
+ "electorate": "Hindmarsh",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Butler",
+ "given_names": "Mark",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Grange, South Australia",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Grange, South Australia",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on residential property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank SA",
+    "nature": "Savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING, Beyond Bank",
+    "nature": "Savings accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank SA",
+    "nature": "Savings accounts"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation account with Australian Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation accounts with Australian Super and PSS"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Self employed as a communications consultant, events MC."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Subscription for Foxtel in electorate office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Airport lounge memberships from Qantas and Virgin"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Airport lounge membership from Qantas and Virgin"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "United Workers Union; Port Adelaide Football Club; RSL (Semaphore and Port Adelaide Sub- Branch); Progressive Left Unions and Sub-branches (PLUS); Australian Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "My partner is self employed as a communications consultant and events MC."
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-09",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/HWK.pdf",
+  "sha256": "4b2f5ebe4848d43b094695993f9fd68262e05f89203ade2d1ce43e995dc3c7cd",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/HWK/statement/48"
+ },
+ "state": "SA"
+}

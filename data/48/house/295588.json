@@ -1,0 +1,139 @@
+{
+ "alterations": [
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "Credit Card St George",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "Credit Card American Express",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
+ "aph_id": "295588",
+ "chamber": "house",
+ "date_lodged": "2025-08-15",
+ "display_name": "Garland, Carina",
+ "electorate": "Chisholm",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Garland",
+ "given_names": "Carina",
+ "honorific": "Dr",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Clayton, Vic",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bankwest",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Australian Super",
+    "type": "Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "St George",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bendigo Bank",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, United Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, CPSU"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Virgin Beyond"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-08-18",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/295588.pdf",
+  "sha256": "a8ee38610e8a61b4c363762b037ffb3a3518e3e2ed74a38a75a2f5d31285957a",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/295588/statement/48"
+ },
+ "state": "VIC"
+}

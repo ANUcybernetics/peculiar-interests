@@ -1,0 +1,1534 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Sydney Royal Easter Show tickets from the Royal Agricultural Society of NSW – received on 19 April 2025 – valued at $178",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Two pens from the National Growth Area Alliance – received on 28 April 2025 – valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Sweets from the Australians for Syria Association – received on 1 May 2025 – valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Flowers from Gallipoli Home - received on 20 May 2025 – valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Ornament and chocolates from Human Appeal - received on 29 May 2025 – valued at $100",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Card game and tea towel from Sound Slam – received on 2 June 2025 – valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Book from Black Inc – received on 4 June 2025 – valued at $35",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Book from Islamic Museum of Australia - received on 6 June 2025 – valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Beanie from Bankstown RSL – received on 10 June 2025 – valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Book from Monash University Publishing – received on 13 June 2025 – valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Badge from National Police Legacy Day – received on 17 June 2025 – valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Traditional Nepalese ornaments and scarves from Auburn Nepalese Community – received on 18 June 2025 – valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Book from George Petrou OAM – received on 7 July 2025 – valued at $85",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Tote bag containing jellybeans, coffee mug, notepad, pens, mini first aid kit, hand sanitizer from The Pharmacy Guild of Australia – received on 21 July 2025 – valued at $70",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Coffee mug and tea from Embassy of Israel in Australia – received on 21 July 2025 – valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Book from Ian Hunter – received on 23 July 2025 – valued at $35",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Composition of Parliament poster from The Pharmacy Guild of Australia – received on 23 July 2025 – valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Travel mug, notebook and pen from MTC FutureReady – received on 24 July 2025 – valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Lunchbox, stress ball from the Heart Foundation - received on 31 July 2025 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Original artwork and chocolates from Lansvale Public School - received on 6 August 2025 - valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-07",
+   "date_submitted": "2025-08-06",
+   "details": "Bottle of alcohol from Embassy of Japan - received on 4 August 2025 - valued at $190",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-24",
+   "date_submitted": "2025-09-24",
+   "details": "Wooden ornament from the Hindu Council of Australia - received on 10 September 2025 - valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-09-24",
+   "date_submitted": "2025-09-24",
+   "details": "Tie from the University of NSW - received on 24 September 2025 - valued at $55",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-31",
+   "date_submitted": "2025-10-31",
+   "details": "AFL Premiership Cup Pin from the Ladder Project Foundation - received on 1 October 2025 - valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-31",
+   "date_submitted": "2025-10-31",
+   "details": "Tray of fruit and calico bag from the Australian Fresh Produce Alliance - received on 27 October 2025 - valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-10-31",
+   "date_submitted": "2025-10-31",
+   "details": "School tote bag, mug, notebook, pen and chocolates from St Joseph the Worker Catholic Primary School (Auburn South) - received on 24 October 2025 - valued at $40",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-07",
+   "details": "Book '50 Years Fifty Stories\" from the University of Newcastle - received on 3 November 2025 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-07",
+   "details": "Book 'Gough Whitlam - The Vista of the New' from Troy Bramston and Harper Collins Publishers - received on 3 November 2025 - valued at $55",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-07",
+   "details": "Commemorative glass trophy from Australian Islamic Cultural Centre (Auburn) - received on 24 October 2025 - valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-07",
+   "details": "Two books from Rebecca Birch - received on 5 November 2025 - valued at $88",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 30,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-07",
+   "details": "Two books from Ian Findley - received on 6 November 2025 - valued at $80",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-07",
+   "details": "Book from Prof George Williams - received on 4 November 2025 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-07",
+   "date_submitted": "2025-11-07",
+   "details": "Book from Beth Graham - received on 7 November 2025 - valued at $25",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-18",
+   "date_submitted": "2025-11-17",
+   "details": "Book from Curtin University - received on Tuesday 11 November 2025 - valued at $45",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-18",
+   "date_submitted": "2025-11-17",
+   "details": "School tote bag, lanyard, keyrings, notepad and toy koala from Shailer Park State High School - received on 13 November 2025 - valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-18",
+   "date_submitted": "2025-11-17",
+   "details": "Two concert tickets from Destination NSW - received on 15 November 2025 - valued at $600",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Book from the Copyright Agency - received on 17 November 2025 - valued at $35",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Eight STEM books from H.Solyom - received on 17 November 2025 - valued at $48",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Tray of sweets from Canterbury- Bankstown Chamber of Commerce - received on 21 November 2025 - valued at $90",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 39,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Desk calendar and jelly beans from The Pharmacy Guild of Australia - received on 24 November 2025 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 40,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Cake from the Woolworths Group - received on 24 November 2025 - valued at $25",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 41,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Braille office sign from Braille House – received on 17 November 2025 – valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 42,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Wall calendar from Embassy of Japan – received on 25 November 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 43,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Plum Pudding from Croplife - received on 25 November 2025 – valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 44,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-28",
+   "date_submitted": "2025-11-28",
+   "details": "Christmas ornament from AFPA – received on 26 November 2025 - valued at $5",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 45,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-08",
+   "date_submitted": "2025-12-05",
+   "details": "Four tickets to the School Spectacular Concert from NSW Department of Education - received on 29 November 2025 - valued at $145",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 46,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Small handmade wooden ornament from Professor Shahin AO - received on 11 December 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 47,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Ruled notebook from Bespoke Approach - received on 12 December 2025 - valued at $45",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 48,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Desk diary from the Australasian Institute of Policing - received on 18 December 2025 - valued at $40",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 49,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Book from Australian Catholic Bishops General Secretariat - received on 18 December 2025 - valued at $14",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 50,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Personalised scarf from Indian Government - received on 8 December 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 51,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Conference bag, calendar, pen, notebook and copy of Indian Constitution from Indian Government - received on 8 December 2025 - surrendered (Australian High Commission in India)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 52,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Pashmina scarf and Jaipur watch from Minister Pradhan - received on 8 December 2025 - surrendered (Australian High Commission in India)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 53,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Artwork from RMIT student (South Saigon campus) - received on 10 December 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 54,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Commemorative plaque and painting made of rice from Western Sydney University and University of Economics Ho Chi Minh City - received on 10 December 2025 - surrendered (Australian Embassy in Vietnam)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 55,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Framed embroidery of Hanoi from Vietnam Education Minister - received on 11 December 2025 - surrendered (Australian Embassy in Vietnam)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 56,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-22",
+   "date_submitted": "2025-12-22",
+   "details": "Tote bag, umbrella, desk calendar, pen and student artwork from Hanoi Adelaide School - received on 11 December 2025 - surrendered (Australian Embassy in Vietnam)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 57,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "CBUS Superannuation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 58,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "Ethical Super",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 59,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-03",
+   "date_submitted": "2026-03-03",
+   "details": "Book by David Maywald - received on 4 February 2026 - valued at $32",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 60,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-03",
+   "date_submitted": "2026-03-03",
+   "details": "Book by Naba Alfayadh - received on 27 January 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 61,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-03",
+   "date_submitted": "2026-03-03",
+   "details": "Wooden reed diffuser and candle from Antonine College - received on 19 February 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 62,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-03",
+   "date_submitted": "2026-03-03",
+   "details": "Tray of sweets from Holy Saviour School, Greenacre - received 24 February 2026 - valued at $40",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 63,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-16",
+   "date_submitted": "2026-03-16",
+   "details": "Four Healthy Harold soft toys from Life Ed Australia - received on 24 February 2026 - valued at $39",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 64,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-16",
+   "date_submitted": "2026-03-16",
+   "details": "Candle and student artwork from Bright Gems Childcare - received on 24 February 2026 - valued at $25",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 65,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-16",
+   "date_submitted": "2026-03-16",
+   "details": "Tray of sweets from the Lebanese Muslim Association - received on 11 March 2026 - valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 66,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-16",
+   "date_submitted": "2026-03-16",
+   "details": "Book from NextSense School - received on 13 March 2026 - valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 67,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Pair of socks from MATES Australia - received on 20 March 2026 - valued at $13",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 68,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Book from Minerals Council of Australia - received on 23 March 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 69,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Book from C.Ball - received on 23 March 2026 - valued at $14",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 70,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Book from T.Payne - received on 23 March 2026 - Valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 71,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Book from Eating Disorders Families Australia - received on 27 March 2026 - valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 72,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-27",
+   "date_submitted": "2026-03-27",
+   "details": "Chocolates from Christian Schools Australia - received on 27 March 2026 - valued at $15",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 73,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-06",
+   "date_submitted": "2026-04-02",
+   "details": "Matchbox truck from Minerals Council of Australia - received on Tuesday 31 March 2026 - valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 74,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-04-06",
+   "date_submitted": "2026-04-02",
+   "details": "Book from Story Factory - received on Wednesday 1 April 2026 - valued at $15",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 75,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-05",
+   "date_submitted": "2026-05-05",
+   "details": "Book from D. Paris - received on 15 April 2026 - valued at $27",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 76,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-05",
+   "date_submitted": "2026-05-05",
+   "details": "Decorative brass tray from Dr K Martin - received on 24 April 2026 - valued at $50.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 77,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Book from the University of Tasmania - received on 29 May 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 78,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Scarf from the Top Blokes Foundation - received on 1 June 2026 - valued at $15",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 79,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Two notebooks from The Smith Family 'Growing Careers Project' - received on 16 June 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 80,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "Coffee mug and pen from Miller Technology High School - received on 16 June 2026 - valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 81,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-02",
+   "date_submitted": "2026-07-02",
+   "details": "Book from Australia Institute Press - received on 22 June 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 82,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-02",
+   "date_submitted": "2026-07-02",
+   "details": "Cupcake and pin from MND Australia - received on 22 June 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 83,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-02",
+   "date_submitted": "2026-07-02",
+   "details": "Book from Kath Stewart - received on 23 June 2026 - valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 84,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-02",
+   "date_submitted": "2026-07-02",
+   "details": "Book from Catholic Archbishop of Melbourne - received on 26 June 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 85,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-02",
+   "date_submitted": "2026-07-02",
+   "details": "Book from Brad Gaynor - received on 1 July 2026 - valued at $40",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 86,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-14",
+   "date_submitted": "2026-07-14",
+   "details": "Book from the Institute of Public Affairs - received on 8 July 2026 - valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 87,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-14",
+   "date_submitted": "2026-07-14",
+   "details": "Book from Stephen Byron - received on 1 July 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 88,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-14",
+   "date_submitted": "2026-07-14",
+   "details": "Tray of mangoes from the High Commission for Pakistan in Canberra - received on 14 July 2026 - valued at $55",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 89,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-16",
+   "date_submitted": "2026-07-16",
+   "details": "Hoodie from the University of New South Wales - received on 13 July 2026 - valued at $80",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 90,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-16",
+   "date_submitted": "2026-07-16",
+   "details": "Book from the National Museum of Australia - received on 15 July 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 91,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-21",
+   "date_submitted": "2026-07-21",
+   "details": "Travel mug, note book, pen and power bank from the University of Notre Dame - received on 21 July 2026 - valued at $100",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 92,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-31",
+   "date_submitted": "2026-07-30",
+   "details": "Handball from St Patrick's Catholic Primary School, Mortlake- received on 27 July 2026 - valued at $5",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 93,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-31",
+   "date_submitted": "2026-07-30",
+   "details": "Glass plaque, pen and biscuits from Salamah College, Chester Hill - received on 30 July 2026 - valued at $70",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 94,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-07",
+   "date_submitted": "2026-08-07",
+   "details": "Book from Dr Anna Boucher - received on 6 August 2026 - valued at $60",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 95,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Commemorative framed replica of Vietnamese bronze drum from the Vietnam Ministry of Education and Training - received on 11 August 2026 - surrendered.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 96,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Water bottle and pen from the University of Sydney - received on 17 August 2026 - valued at $35",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 97,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Book and jar of honey from the Australasian Union of Jewish Students - received on 17 August 2026 - valued at $40",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 98,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-21",
+   "details": "Original framed student artwork from Merrylands East Public School - received on 7 August 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 99,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-21",
+   "details": "Original student artwork from Youth Off The Streets - received on 18 August 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 100,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-21",
+   "details": "Tote bag, water bottle, apron, fridge planner and cap from Outback Global Australia - received on 18 August 2026 - valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 101,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-21",
+   "details": "Book from D. Maywald - received on 18 August 2026 - valued at $54",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 102,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-21",
+   "details": "Tote bag, tie, umbrella, pens, mints from Pharmaceutical Society of Australia - received on 18 August 2026 - valued at $50",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 103,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-21",
+   "details": "T-shirt and stickers from the National Indigenous Youth Education Coalition (NIYEC) - received on 19 August 2026 - valued at $30",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 104,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-08-24",
+   "date_submitted": "2026-08-21",
+   "details": "Book from Tim McDonald - received on 20 August 2026 - valued at $70",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 105,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-07",
+   "date_submitted": "2026-09-07",
+   "details": "Book from M.Dent - received on 28 August 2026 - valued at $35",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 106,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-07",
+   "date_submitted": "2026-09-07",
+   "details": "Tie, earrings and flag from Mates Australia \"Fly the Flag Week\" for suicide prevention - received on 2 September 2026 - valued at $40",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 107,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-07",
+   "date_submitted": "2026-09-07",
+   "details": "Book from Cooperative Research Australia and the Rozetta Institute - received on 4 September 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 108,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-07",
+   "date_submitted": "2026-09-07",
+   "details": "Two books from The Australia Institute - received on 4 September 2026 - valued at $40",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 109,
+   "source_id": null
+  }
+ ],
+ "aph_id": "HWL",
+ "chamber": "house",
+ "date_lodged": "2025-08-06",
+ "display_name": "Clare, Jason",
+ "electorate": "Blaxland",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "a table continued onto page 10; its rows were joined to the one before",
+   "a table continued onto page 11; its rows were joined to the one before",
+   "a table continued onto page 32; its rows were joined to the one before",
+   "a table continued onto page 33; its rows were joined to the one before"
+  ],
+  "version": 1
+ },
+ "family_name": "Clare",
+ "given_names": "Jason",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Institute for Teaching and School Leadership (Corporate Commonwealth Entity; Sole Shareholder)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Education Services Australia (Corporate Commonwealth Entity; Joint Shareholder with State and Territory Education Ministers)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Curriculum, Assessment and Reporting Authority (Corporate Commonwealth Entity; Joint Shareholder with State and Territory Education Ministers)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Australian Education Research Organisation (Corporate Commonwealth Entity; Joint Shareholder with State and Territory Education Ministers)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Padstow Heights, NSW",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Milton, NSW",
+    "purpose": "Holiday and Investment (50% ownership - split with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Milton, NSW",
+    "purpose": "Holiday and Investment (50% ownership - split with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on holiday/investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage on holiday/investment property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Chequing (electorate allowance)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings (joint account)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings (joint account)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent from investment property"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rent from investment property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Employment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Velocity Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel subscription for electorate office from Australian Subscription Television and Radio Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Velocity Lounge Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Care Leavers Australasia Network (CLAN)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Honorary Member, South Metropolitan Regional Scouts Council"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Bankstown District Sports Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Bankstown RSL"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Berala Carramar Hardcourt Tennis Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Canterbury Bankstown Chamber of Commerce"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Bankstown District Amateur Football Association (BDAFA)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Labor Party (NSW Branch)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Australian Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Patron, Outloud Inc"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Chair, Multicultural Leadership Initiative"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Employed by OzHarvest as part of the leadership team (CEO of OzHarvest ventures, and founder of VietHarvest)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-09-07",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/HWL.pdf",
+  "sha256": "e572ea8c8b7a8246449105e1bcc373cf9f0f27f8d7cb46f31e1737ac89c22c35",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/HWL/statement/48"
+ },
+ "state": "NSW"
+}

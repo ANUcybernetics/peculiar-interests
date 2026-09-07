@@ -1,0 +1,1006 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Guest of News Limited to the Parliamentary Press Gallery Mid Winter Ball",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Attendance at ABA Conference courtesy of the Australian Bar Association",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Lifeline Harbour to Hawkesbury Sydney Gala Ball - Guest of Lifeline",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Northern District Cricket Club Centenary Dinner - Guest of Northern District Cricket Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Two tickets from the Sydney Theatre Company to attend the Sydney Theatre Company 2026 Season Launch.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Two tickets from Alexis Fishman to attend a performance of Anne Being Frank.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Two tickets from MOST to attend the IFAC Handa Australian Singing Competition Finals.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Ticket from the Sydney Theatre Company to attend The Talented Mr Ripley",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Motor Vehicle - Kia EV6",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Lifeline Harbour to Hawkesbury Sydney Gala Ball - Guest of Lifeline",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Ticket from the Sydney Theatre Company to attend the Talented Mr Ripley",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Motor Vehicle - Mazda 3",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "Ramsay Centre for Western Civilisation",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2025-10-24",
+   "date_submitted": "2025-10-24",
+   "details": "NSW Anti-Discrimination Board",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-24",
+   "date_submitted": "2025-12-24",
+   "details": "Two tickets from Australian Chamber Orchestra to attend a performance of Mountain",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "November 11,2025 Attendance at Who's Afraid of Virginia Woolf - Roslyn Packer Theatre",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "November 19,2025 Attendance at ARIA Awards - Hordern Pavilion",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "January 27,2026 Attendance at Hansel & Gretel - Sydney Opera House",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "March 17, 2026 Attendance at Eugene Onegin - Sydney Opera House",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "April 7, 2026 Attendance at Flora - Sydney Opera House",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-12",
+   "date_submitted": "2026-05-12",
+   "details": "Painting - Biripi Billabongs - Registered Number A219 - Thomas Smith",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-29",
+   "date_submitted": "2026-07-29",
+   "details": "July 1, 2026 - Press Gallery Mid Winter Ball - Guest of NITV",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-07-29",
+   "date_submitted": "2026-07-29",
+   "details": "July 30, 2026 - Garma Festival Tickets for Me & my family - Guests of Yothu Yindi Foundation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-29",
+   "date_submitted": "2026-07-29",
+   "details": "July 31 - August 1,2026 - Garma Festival Ticket - Guest of Yothu Yindi Foundation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-29",
+   "date_submitted": "2026-07-29",
+   "details": "July 31 - August 1,2026 - Garma Festival Ticket - Guest of Yothu Yindi Foundation",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-29",
+   "date_submitted": "2026-07-29",
+   "details": "July 31 - August 1,2026 - Garma Festival Tickets - Guest of Yothu Yindi Foundation",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  }
+ ],
+ "aph_id": "109556",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Leeser, Julian",
+ "electorate": "Berowra",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Leeser",
+ "given_names": "Julian",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Counsel's Chambers Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Thornleigh",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Thornleigh",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Education",
+    "company": "Ramsay Centre for Western Civilisation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "NSW Government entity",
+    "company": "NSW Anti-Discrimination Board"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Education",
+    "company": "Council Member of the Council of Abbotsleigh School"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Adelaide Bendigo Bank",
+    "nature": "Residential Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Adelaide Bendigo Bank",
+    "nature": "Residential Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Colonial First State",
+    "nature": "Investment Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Adelaide Bendigo",
+    "nature": "Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Colonial First State",
+    "nature": "Investment Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Adelaide Bendigo",
+    "nature": "Savings Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation Fund - Colonial First State"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance Asterton"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Motor Vehicle - Mazda 3"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation Fund - Colonial First State"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation Fund - First State Super"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance Asterton"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Directors' fees from Ramsay Centre for Western Civilisation Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Investments as set out above"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from business as a barrister"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Board member fees from the NSW Anti-Discrimination Board"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from Investments as set out above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of the Qantas Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Virgin The Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Foxtel Services at the Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of the Qantas Chairman's Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership of Virgin The Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "April 20, 2025 Attendance at Guys and Dolls Musical - Handa Opera, Sydney Harbour"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "June 25, 2025 National Press Club Lunch - Guest of Woolworths"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "July 2, 2025 Concert Live at the Great: Richard Tognetti x Konstantin Shamray"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "July 10, 2025 Attendance at Cairns Indigenous Arts Fair"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "August 1 - 3, 2025 Attendance at Yothu Yindi Foundation Garma Festival"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "August 5 - 6, 2025 Attendance at Philanthropy Australia Summit"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "August 7, 2025 Attendance at Darwin Aboriginal Art Fair Opening Ceremony"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "August 8, 2025 Attendance at Telstra NATSIAA Awards Ceremony, Darwin"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "August 13, 2025 Melbourne Symphony Orchestra Send Off Concert"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "April 20, 2025 Attendance at Guys and Dolls Musical - Handa Opera, Sydney Harbour"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "July 2, 2025, concert Live at the Great: Richard Tognetti x Konstantin Shamray"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Community Inspired Association Inc - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Jewish Historical Society - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Monarchist League - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Berowra Lions Club - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Berowra Rotary Club - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "B'nai B'rith - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Cherrybrook Chinese Community Association - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Chinese Australian Forum - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Club Berowra - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Dangar Island Bowling Club - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Dural and District Business Chamber of Commerce - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Emanuel Synagogue - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Glenorie RSL - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hornsby Chamber of Commerce - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hornsby Connect - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hornsby Gang Show - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hornsby Kuring-gai and Hills District Cricket Association - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hornsby Model Engineers - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Hornsby RSL - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (NSW Division) - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Life Education - Ambassador"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mentoring Men - Ambassador"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mooney Mooney Club on the Hawkesbury (Revesby Workers' Club & Revesby Workers' Sports Club) - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Northside Montessori Society - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "North West Sydney Tennis - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "NSW Jewish Board of Deputies - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Old Cranbrookians Association - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Operation Food for Life - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Parents Beyond Breakup - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Parramatta and District Synagogue - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Samuel Griffith Society - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Sydney Cricket Ground - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Teach for Australia - Ambassador"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Together for Humanity Foundation - Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "West Pennant Hills Sports Club - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "NSW Bar Association"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Northside Montessori Society - Member"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Sixth Floor Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Not Applicabale"
+   },
+   "holder": "dependent",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-29",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/109556.pdf",
+  "sha256": "906a151d28c77989d75951dabf35ae98144c1c42e617b5a6dc1ed0be4ed81d0d",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/109556/statement/48"
+ },
+ "state": "NSW"
+}

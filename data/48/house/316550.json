@@ -1,0 +1,723 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Qantas Chairmans Lounge membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-19",
+   "details": "Virgin Australia Beyond membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "Residential property in Duncraig, WA",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "NAB mortgage",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "NAB offset/transaction accounts",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "Residential property in Duncraig, WA",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "PLS Group Limited",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "Employment at PLS Group Limited",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "Investment property in Mosman Park, WA",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "2 x Home Loan with Ubank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "NAB mortgage",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "NAB offset/transaction accounts",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "Pilbara Minerals Limited",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "Employment at Pilbara Minerals Limited",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "Residential property in Mosman Park, WA",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "The Corporate GP Hub Pty Ltd",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "3x Home Loan with Ubank",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "date_processed": "2026-01-26",
+   "date_submitted": "2026-01-26",
+   "details": "McNeill French Family Trust - Beneficiary",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "deletion",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-02-19",
+   "date_submitted": "2026-02-19",
+   "details": "Supporter of the Art Gallery of Western Australia through the Next Collective donor program.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Hillarys Yacht Club - Vice Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Joondalup Sports Association (includes Joondalup Districts Cricket Club, Joondalup Bowling Club, Joondalup Football Club) - Social Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Joondalup Business Association - Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Sorrento Surf Life Saving Club - Vice Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "North Shore Community Hub - Vice Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Sorrento Bowling Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-01-30",
+   "date_submitted": "2026-01-30",
+   "details": "Sorrento Tennis Club - Vice Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-02",
+   "date_submitted": "2026-09-02",
+   "details": "1 x ticket to the Midwinter Charity Ball 2026, sponsored by Endeavour Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-02",
+   "date_submitted": "2026-09-02",
+   "details": "1 x ticket to the Midwinter Charity Ball 2026, sponsored by Endeavour Group",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
+  }
+ ],
+ "aph_id": "316550",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "French, Thomas",
+ "electorate": "Moore",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "French",
+ "given_names": "Thomas",
+ "honorific": "Mr",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Valkyrie Bitcoin Fund (BRRR)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Ishares Bitcoin Trust Fund (IBIT)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "JP Morgan Equity Premium Income ETF (JEPI)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Nano Dimension Ltd (NNDM)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "SoFi Technologies Incorporated (SOFI)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Legend Mining (LEG)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Pilbara Minerals Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Macquarie Group Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Fortescue Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "McNeill French Family Trust",
+    "nature": "Discretionary Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "McNeill French Family Trust",
+    "nature": "Discretionary Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "B eneficiary",
+    "name": "McNeill French Family Trust",
+    "nature": "Discretionary Family Trust",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "McNeill French Family Trust",
+    "nature": "Trustee of Discretionary Family Trust",
+    "role": "trustee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "McNeill French Family Trust",
+    "nature": "Trustee of Discretionary Family Trust",
+    "role": "trustee"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "B e n eficiary",
+    "name": "McNeill French Family Trust",
+    "nature": "Discrentionary Family Trust",
+    "role": "trustee"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mosman Park, WA",
+    "purpose": "Residential property"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "General practice services",
+    "company": "The Corporate GP Hub Pty Ltd"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "NAB",
+    "nature": "Credit Card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Ubank",
+    "nature": "3x Home Loan"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "1x Transaction Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "1x joint transaction action with partner"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "2x Saving Accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "2x transaction accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "UBank",
+    "nature": "1x transaction accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Ubank",
+    "nature": "4x savings accounts"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Ubank",
+    "nature": "3 x saving/offset accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "3 x saving/transactional accounts"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "1 x jointly held transactional account with Partner"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie",
+    "nature": "Share trading and cash account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "CBUS Super"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Bitcoin"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Superannuation Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "UK Pension Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Employment at Pilbara Minerals Limited"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2x tickets to Lions v Western Force at Optus Stadium (Lion Nathan)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2x tickets to Socceroos v Japan (Optus)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2x tickets to Business News Post Budget Breakfast (Woodside)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, WA Labor"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Electrical Trades Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Social Member, Joondalup Sports Association"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Vice Patron, Mullaloo Surf Life Saving Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Vice Patron, Sorrento Surf Life Saving Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Vice Patron, North Shore Community Hub"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Vice Patron, Hillarys Yacht Club"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-09-02",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/316550.pdf",
+  "sha256": "63ff270525d513d2eb06cb1ddf10463c73daf750ed7fbd8bd77962571a79a0d3",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/316550/statement/48"
+ },
+ "state": "WA"
+}

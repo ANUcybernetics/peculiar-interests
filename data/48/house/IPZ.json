@@ -1,0 +1,390 @@
+{
+ "alterations": [
+  {
+   "category": "memberships",
+   "date_processed": "2025-07-30",
+   "date_submitted": "2025-07-30",
+   "details": "Member of Accor Hotels Loyalty Program",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-07-30",
+   "date_submitted": "2025-07-30",
+   "details": "Vice President and Volunteer Member of Lakes Entrance Surf Life Saving Club as of 04.08.2024",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-07-30",
+   "date_submitted": "2025-07-30",
+   "details": "Honorary Chair and Community Captain - Cycling Without Age Gippsland as of 15.07.2024",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-07-30",
+   "date_submitted": "2025-07-30",
+   "details": "Member - Lakes Entrance Community Land Care Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-07-30",
+   "date_submitted": "2025-07-30",
+   "details": "Honorary Member of Lakes Entrance Rotary Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-28",
+   "date_submitted": "2025-10-28",
+   "details": "Travel and Accommodation as Guest of Tapei Economic and Cultural Office",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-28",
+   "date_submitted": "2025-10-28",
+   "details": "Travel and Accommodation as Guest of Tapai Economic and Cultural Office (Spelling error)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-08",
+   "date_submitted": "2026-01-08",
+   "details": "Superannuation (BT Panorama Super Fund)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-02-27",
+   "date_submitted": "2026-02-27",
+   "details": "Traralgon Harriers Athletic Club - Recreational Runner Membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-01",
+   "date_submitted": "2026-04-01",
+   "details": "2 x Tickets to Sydney v's Hawthorn Game in the Sydney Swans Suite at the MCG 19/03/2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "Vice-Chair of the Columbia Parliamentary Country Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "Member - Inter-Parliamentary Union",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-20",
+   "date_submitted": "2026-04-20",
+   "details": "Guest Ticket - Anzac Weekend Airshow, West Sale",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-21",
+   "date_submitted": "2026-07-21",
+   "details": "Mid Winter Ball Tickets provided by Qantas",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-07-21",
+   "date_submitted": "2026-07-21",
+   "details": "Mid Winter Ball Tickets provided by Qantas",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Parliamentary Sports Club hosted visit to tennis experience. Australia Vs UK Parliamentarians",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Latrobe Health Services Gala Dinner ticket (Gippsland Business Awards)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-08-17",
+   "date_submitted": "2026-08-17",
+   "details": "Latrobe Health Services Gala Dinner ticket (Gippsland Business Awards)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  }
+ ],
+ "aph_id": "IPZ",
+ "chamber": "house",
+ "date_lodged": "2025-07-28",
+ "display_name": "Chester, Darren",
+ "electorate": "Gippsland",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Chester",
+ "given_names": "Darren",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AXXA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "OPTISCAN"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Primary",
+    "name": "Chester Family Trust",
+    "nature": "No longer trading",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Primary",
+    "name": "Chester Family Trust",
+    "nature": "No longer trading",
+    "role": "beneficiary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Primary",
+    "name": "Chester Family Trust",
+    "nature": "No longer trading",
+    "role": "beneficiary"
+   },
+   "holder": "dependent",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Lakes Entrance VIC",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Lakes Entrance VIC",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ivanhoe VIC",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Kingston ACT",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Mortgage Lakes Entrance VIC"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Bendigo Bank",
+    "nature": "Mortgage Kingston ACT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Cheque/Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Cheque/Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Self Employed - Disability Sector"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership Airline Lounges (Qantas/Virgin)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership Golf Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Membership Press Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Pay TV subscription - Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-08-17",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/IPZ.pdf",
+  "sha256": "087811f5691f048a47472130f2db577d70e6a3f4be3151ae01dee48fc2e1523f",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/IPZ/statement/48"
+ },
+ "state": "VIC"
+}

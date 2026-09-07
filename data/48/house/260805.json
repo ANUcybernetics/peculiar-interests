@@ -1,0 +1,701 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-08-19",
+   "date_submitted": "2025-08-18",
+   "details": "Four tickets to 2025 Ampol State of Origin Perth (Wednesday 16 June 2025), provided by National Rugby Leauge (NRL)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-06",
+   "date_submitted": "2025-10-03",
+   "details": "Two tickets to Romeo and Juliet (23 September 2025), provided by Bell Shakespeare.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Port Bouvard Surf Life Saving Club: Honorary Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Rotary Club of Mandurah: Honorary Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Gloucester Park Harness Racing Club: Honorary Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Pinjarra Race Club: Honorary Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Peel and District Gun Club: Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Rotary Club of Pinjarra: Honorary Member",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Rats of Tobruk Association: Patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Mandurah Presbyterian Church",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2025-10-23",
+   "date_submitted": "2025-10-22",
+   "details": "Mandurah Presbyterian Church",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-12",
+   "date_submitted": "2025-12-11",
+   "details": "7-10 December 2025: Return Economy flights Perth-Sydney and accommodation provided by The Scots College to speak at the Preparatory, Middle and Senior School Speech Days.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-07-10",
+   "date_submitted": "2026-07-10",
+   "details": "Payments related to writing project with Allen & Unwin.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  }
+ ],
+ "aph_id": "260805",
+ "chamber": "house",
+ "date_lodged": "2025-08-18",
+ "display_name": "Hastie, Andrew",
+ "electorate": "Canning",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Hastie",
+ "given_names": "Andrew",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mandurah, WA",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Mandurah, WA",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Residential Property (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank",
+    "nature": "Mortgage on Residential Property (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Joint Everyday Account (with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Individual Everyday Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank",
+    "nature": "Joint Everyday Account (with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance with ALI Group (including trauma cover) (joint with spouse)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Military Super (MSBS)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super Fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life insurance with ALI Group (joint with spouse)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Super Fund"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Complimentary Foxtel subscription in Electorate Office"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Honorarium for participation as a guest speaker at the Melbourne Conversazioni in 2018"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Tickets to Coldplay concert (Perth - Sunday, 19 Nov 2023) for Mr and"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Mrs Andrew and Ruth Hastie, provided by Racing and Wagering WA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "(RWWA)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Tickets to WACA (Perth - Saturday, 15 Dec 2023 - Australia v. Pakistan) for Mr Hastie and guest (son Jonathan Hastie), provided by Cricket WA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Tickets to Coldplay concert (Perth - Sunday, 19 Nov 2023) for Mr and"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Mrs Andrew and Ruth Hastie, provided by Racing and Wagering WA"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "(RWWA)."
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Membership- The Club (including platinum status)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2022: Return flights and accommodation from Dr Alan Mendoza and Henry Jackson Society to participate in their London conference on \"Securing the Taiwan Strait with Indo-Pacific Tilt\""
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2019: Return flights and accommodation from the Konrad-Adenauer Siftung and Henry Jackson Society to participate in their London conference on Chinese and Russian hybrid Warfare."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2019: Hospitality at the Australian American Leadership Dialogue (AALD) Forum in Perth."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2019: Hospitality at the Australian Leadership Dialogue (AALD) Honolulu Leadership Dialogue."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2019: Return flights, accommodation and registration from the Australian Strategic Policy Institute for the ASPI-BESA Beersheba Dialogue in Israel."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2018: Return flights to Sydney, accommodation and transport for the purpose of the Pacific Equity Partners Annual Investor Meeting. Participated in a forum with Jennifer Hewitt and Former DPM John"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Anderson."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2017: Flights, accommodation, transport and meals for a member of staff to participate in the Joshua Berger Family Fellowship program, conducted jointly by the NSW Jewish Board of Deputies and the Executive Council of Australian Jewry Inc."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2017: Flights, accommodation, consumables and transport form Australia/Israel and Jewish Affairs Council through the Rambam Israel Fellowship program to attend the Coalition MP Study Group visit to Israel."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2017: Reimbursement of flight costs from Soldier On Australia in order to fundraiser and take part in Pollie Pedal."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2016: Complimentary Airport Parking from Perth Airport."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2016: Economy flights from Perth to Honolulu from the Australian American Leadership Dialogue to attend their Honolulu Dialogue"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2022: Return flights from IPAC (Inter-Parliamentary Alliance on China) to participate in their Washington DC conference."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2023: 9- 19th January 2023 Return economy flights Perth to Singapore, accommodation and incidental expenses for myself, wife and children to attend the Lee Kwan Yew Exchange Fellowship at the invitation of Lee"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Tzu Yang, Chairman of the LKY Exchange Fellowship. Commemorative gifts were provided by the host and dignitaries."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2023: 28th October - 4th November 2023 Return business flights Perth - London, accommodation and incidentals for myself to attend the ARC"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Conference as a member of the ARC Organising Committee Advisory"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Board."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2024: 19-26 September 2024- Return economy flights Perth -Washington DC, accommodation and incidentals for myself to attend a national security conference sponsored by the Jamestown Foundation."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "2024: 19-26 September 2024- Return economy flights Sydney- Washington DC, accommodation and incidentals for a staff member to attend a national security conference sponsored by the Jamestown Foundation."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Virgin Membership- The Club (including platinum status)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Qantas Chairman's Lounge Membership"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (Western Australia Division)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Port Bouvard Surf Life Saving Club: Honorary Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Peel Thunderbirds: Number 3 Ticket Holder"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Rotary Club of Mandurah: Honorary Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mandurah Offshore Fishing and Sailing Club: Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Gloucester Park Harness Racing Club: Honorary Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Port Bouvard Pistol and Small Bore Rifle Club: Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Surf Life Saving WA: Vice Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mandurah Presbyterian Church"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mandurah Country Club: Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Pinjarra Race Club: Honorary Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Peel and District Gun Club: Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Rotary Club of Pinjarra: Honorary Member"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "25/03/2023 Member of the Organisation Committee ARC (Alliance for"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Responsible Citizenship) nominated by Gerard Holland"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Commonwealth Club: Membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Rats of Tobruk Association: Patron"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Mandurah Presbyterian Church"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Liberal Party of Australia (Western Australia Division)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Firearms Licence holder (category A & B)"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-07-10",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/260805.pdf",
+  "sha256": "8c5ea3db0c5b19b3e0bce5c977f99b16d712d53c22de7f9176acaa28a0e55e26",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/260805/statement/48"
+ },
+ "state": "WA"
+}

@@ -1,0 +1,642 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-09-24",
+   "date_submitted": "2025-09-24",
+   "details": "Two tickets and hospitality to AFL game between Giants and Hawthorn on 6 September 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-10-31",
+   "date_submitted": "2025-10-31",
+   "details": "Six tickets and hospitality to Basketball game between the Sydney Kings and Fremantle on 19 October 2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-11-14",
+   "date_submitted": "2025-11-14",
+   "details": "University of Sydney water bottle and windbreaker",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-11-14",
+   "date_submitted": "2025-11-14",
+   "details": "Dinner on 3 November hosted by the University of Sydney marking the University's 175th Anniversary.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-12-02",
+   "date_submitted": "2025-12-02",
+   "details": "4 x Football Jerseys from Football Australia (Jerseys are worth $150.00 each). Total value $600.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-10",
+   "date_submitted": "2025-12-10",
+   "details": "Parliamentary delegation visit to Japan (11 - 18 October) partially funded by the Ministry of Foreign Affairs of Japan, including flights, accommodation, meals and ground transportation.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-03-19",
+   "date_submitted": "2026-03-19",
+   "details": "4 x Tickets and Hospitality for AFC Women's Asian Cup - from the Local Organising Committee. 2 x Tickets on 8th March and 2 x Tickets on 15th March.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-03-24",
+   "date_submitted": "2026-03-24",
+   "details": "Purchased IBM shares on 3 March",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-07",
+   "date_submitted": "2026-09-07",
+   "details": "AFC Women's Asian Cup 2026 from the Local Organising Committee. Three x tickets and hospitality to the AFC Final, Saturday 21 March, 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-04-10",
+   "date_submitted": "2026-04-09",
+   "details": "Sydney Kings – three tickets and hospitality to the Sydney Kings match on 29 March, Qudos Bank Arena.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-05-07",
+   "date_submitted": "2026-05-06",
+   "details": "4 x Netball Tickets @ $275 each from Netball NSW. NSW Swifts v GIANTS Derby, Ken Roswell Arena on 25th April, 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-06-18",
+   "date_submitted": "2026-06-18",
+   "details": "2 x $200 tickets to the Midwinter Ball, Parliament House, Canberra, on 1st July 2026 from the Australian Investment Council. Total amount $400.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-09-07",
+   "date_submitted": "2026-09-07",
+   "details": "Vanguard International Small Companies ETF (VISM) - shares sold",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": null
+  }
+ ],
+ "aph_id": "298121",
+ "chamber": "house",
+ "date_lodged": "2025-08-08",
+ "display_name": "Sitou, Sally",
+ "electorate": "Reid",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item accounts (self): columns listed different numbers of lines on page 5; lines were merged onto the shortest column rather than split into separate entries",
+   "item accounts (spouse): columns listed different numbers of lines on page 5; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Sitou",
+ "given_names": "Sally",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Telstra (TLS)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AUSTRALIAN ASX SHARES"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Cochlear (COH)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Endeavour (EDV)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Resmed (RMD)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Australian Shares ETF (VAS)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Internationsal Shares ETF (VGS)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Commonwealth Bank of Australia (CBA)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "AGL (AGL)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "BHP (BHP)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Fortescue (FMG)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Asia Ex Japan Shares ETF (VAE)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard Diversified High Growth ETF (VDHG)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Vanguard International Small Companies ETF (VISM)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "PRIVATE AUSTRALIAN COMPANY"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Beer Cartel"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "US SHARES"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Aecom (NYSE: ACM)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Advanced Micro Devices (NASDAQ: AMD)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Costco Wholesale (NASDAQ: COST)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "General Electric (NYSE: GE)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "GE Vernova (NYSE: GEV)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Meta Platforms (NASDQ: META)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Maximus Inc (NYSE: MMS)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Qualcomm (NASDAQ: QCOM)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Consumer Staples Vanguard ETF (NYSE: VDC)"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Marrickville (Joint ownership with spouse)",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Homebush (Joint ownership with spouse)",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Marrickville (Joint ownership with spouse)",
+    "purpose": "Investment"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Homebush (Joint ownership with spouse)",
+    "purpose": "Residential"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Commonwealth Bank",
+    "nature": "credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Coinspot",
+    "type": "Crypto currency (Ripple)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "ABC bullion",
+    "type": "Gold"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING Commonwealth Bank",
+    "nature": "savings savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING Commonwealth Bank",
+    "nature": "savings savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Unisuper - superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Retirement Trust - superannuation"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Australian Retirement Trust - life insurance"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Vehicle - Polestar"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Income from investments"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Salary"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Qantas chairman's lounge membership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Advanced Political Leadership 2025 provided by McKinnon Institute for Political Leadership"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Cost: The total cost of the program is $32,000 (plus GST)."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "This covers full scholarship funded by the McKinnon Institute, covering the costs of tuition, induction, residential intensive and workshop (accommodation for 7-9 nights) and all meals and refreshments."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Advanced Political Leadership is a cohort based, face-to-face program designed to help you prepare for ministerial life, and enhance impact and influence through your career. This program challenges participants to lead effectively, legitimately and with an understanding of their democratic stewardship responsibilities. It has been developed with insights from experienced and successful political leaders, and evolved with detailed feedback from past participants. The curriculum is practical and applied, and challenges participants to prepare for their future roles through a combination of self-reflection, structured small group work and whole-of-cohort dialogues."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Two tickets and hospitality to AFL game between Giants and Fremantle on 17 May 2025"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Labor Party"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Western Suburbs District Cricket Club (patron)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Concord Junior Soccer Club (patron)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Canterbury & District Soccer Football Association (patron)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "National Serviceman's Association - NSW Branch (patron)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Rotary Club - Strathfield (honorary member)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "NSW Labor Enabled (patron)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of the Transport Workers Union"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member of the United Services Union"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-09-07",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/298121.pdf",
+  "sha256": "8ce8ad0ff4dcf94df289ce4341cee26954a2e7b5b7e758a12ebd70b41d0fed8f",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/298121/statement/48"
+ },
+ "state": "NSW"
+}

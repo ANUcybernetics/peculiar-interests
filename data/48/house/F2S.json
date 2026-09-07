@@ -1,0 +1,128 @@
+{
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "voucher from Sarah Lyn Boutique as a personal gift from owner Viv Lee",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2025-08-08",
+   "date_submitted": "2025-08-08",
+   "details": "2 Tickets to the Darwin Aboriginal Art Fair @ $75.00 each",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
+ "aph_id": "F2S",
+ "chamber": "house",
+ "date_lodged": "2025-08-08",
+ "display_name": "Scrymgour, Marion",
+ "electorate": "Lingiari",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Scrymgour",
+ "given_names": "Marion",
+ "honorific": "Ms",
+ "interests": [
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "This is my registered business that has been inactive since 2022",
+    "company": "Mangililiwayu Consultants"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Commonwealth Savings Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "National Australia Bank"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Toyota Landcruiser 2021"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "NT Legislative Assembly superannuation pension"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Gift voucher from Sarah Lyn Boutique @ $800"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "2 tickets to the Darwin Aboriginal Art Fair @ $75.00 = $150"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Chairmans Lounge Membership till June 2026"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "fields": {
+    "nature": "Traditional land owner from the Miyartuwi Skin group on the Tiwi Islands"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2025-08-08",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/F2S.pdf",
+  "sha256": "cfd71e662791989c5e6773ea084bda4b1ef65920c0fba91194810bf92f8a804b",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/F2S/statement/48"
+ },
+ "state": "NT"
+}

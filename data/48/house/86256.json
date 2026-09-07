@@ -1,0 +1,288 @@
+{
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2025-12-15",
+   "date_submitted": "2025-12-14",
+   "details": "Unsolicited upgrade at the gate on oversold flight - Qantas (Melbourne to Canberra, 23 November 2025)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-09",
+   "date_submitted": "2026-01-09",
+   "details": "Superannuation Account - Aware Superannuation (formerly VicSuper)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-01-09",
+   "date_submitted": "2026-01-09",
+   "details": "Superannuation Account - Australian Ethical Super",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-03",
+   "date_submitted": "2026-02-03",
+   "details": "Australian Open Tennis - Hospitality (dinner and drinks) and evening match (men's semi-final) Friday 30 January provided by Australian Open.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-02-03",
+   "date_submitted": "2026-02-03",
+   "details": "Silver ring with turquoise stone. Gift from Mr Ahmad on behalf of Afghan Defence community. Value unknown.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-02-03",
+   "date_submitted": "2026-02-03",
+   "details": "Australian Open Tennis - Hospitality (dinner and drinks) and evening match (men's semi-final) Friday 30 January provided by Australian Open.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  }
+ ],
+ "aph_id": "86256",
+ "chamber": "house",
+ "date_lodged": "2025-08-12",
+ "display_name": "Hill, Julian",
+ "electorate": "Bruce",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Hill",
+ "given_names": "Julian",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Victoria, Port Melbourne",
+    "purpose": "Previous/family residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Victoria, Dandenong",
+    "purpose": "Residential lease/personal residence"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Australian Capital Territory, Kingston",
+    "purpose": "Residential/investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "New South Wales, Eden",
+    "purpose": "Investment, 60% share"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "New South Wales, Eden",
+    "purpose": "Investment, 40% share"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Owner, via real estate",
+    "nature": "Residential lease, personal residence in Dandenong"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank Ltd",
+    "nature": "Mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Credit card"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Macquarie Bank Ltd",
+    "nature": "Mortgage"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ Bank",
+    "nature": "Credit Card"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Bank of Melbourne/St George Bank",
+    "nature": "Transaction Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ Bank",
+    "nature": "Cheque Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank Ltd",
+    "nature": "Offset Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank Ltd",
+    "nature": "Offset Account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Teachers Mutual Bank",
+    "nature": "Savings account"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Minor income from accounts/investments listed"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Sole trader - Barrister at Victorian Bar"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Minor income from accounts/investments listed"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Hospitality/membership of Qantas and Virgin lounges"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Membership of Virgin Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "IPAA (Vic) - Member and Fellow"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "CPSU - Member"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-02-03",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/86256.pdf",
+  "sha256": "08693494b0bb7ecfee0dc7252ce57333f44f7543b38014e68496db63b62c999a",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/86256/statement/48"
+ },
+ "state": "VIC"
+}

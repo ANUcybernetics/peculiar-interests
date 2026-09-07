@@ -1,0 +1,359 @@
+{
+ "alterations": [
+  {
+   "category": "real-estate",
+   "date_processed": "2026-03-18",
+   "date_submitted": "2026-03-18",
+   "details": "The South Yarra property has been sold.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-03-18",
+   "date_submitted": "2026-03-18",
+   "details": "The South Yarra property has been sold",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
+ "aph_id": "HWG",
+ "chamber": "house",
+ "date_lodged": "2025-08-19",
+ "display_name": "Dreyfus, Mark",
+ "electorate": "Isaacs",
+ "extraction": {
+  "method": "pdf-text",
+  "notes": [
+   "item investments (self): columns listed different numbers of lines on page 6; lines were merged onto the shortest column rather than split into separate entries"
+  ],
+  "version": 1
+ },
+ "family_name": "Dreyfus",
+ "given_names": "Mark",
+ "honorific": "Hon",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Kenley Dale Pty Ltd (trustee of self-managed superannuation fund)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Fairbank Tower Pty Ltd (dormant trustee company)"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Beneficiary",
+    "name": "Dreyfus Superannuation Fund (trustee Kenley Dale Pty Ltd)",
+    "nature": "Self-managed superannuation fund",
+    "role": "beneficiary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Malvern",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "South Yarra",
+    "purpose": "Investment through superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Camberwell",
+    "purpose": "Investment"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Aireys Inlet",
+    "purpose": "Residential"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Trustee of self-managed superannuation fund",
+    "company": "Kenley Dale Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Dormant (former trustee)",
+    "company": "Fairbank Tower Pty Ltd"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Allan Gray Australia Equity Fund Class A SGH ICE Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "T.Rowe Price Global Equity Fund PIMCO Income Fund - Wholesale",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Fidelity Australian Equities Fund Greenscape Wholesale Broadcap Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Walter Scott Global Equity Fund Munro Global Growth Fund - Ordinary Class",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Perpetual Wholesale Concentrated Equity Fund Pengana Emerging Companies Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "ATLAS Infrastructure Australian Feeder Fund Unhedged WCM Quality Global Growth Fund - Class A",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Unhedged Clearbridge RARE Infrastructure Value -",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Unhedged A Bell Global Emerging Companies Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "CC Sage Capital Absolute Return Fund Ironbark Apis Global Small Companies Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "PIMCO TRENDS Managed Futures Strategy Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Aikya Emerging Market Opportunities Fund - A Class",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Vanguard Australian Shares Index Fund CC JCB Active Bond Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Smarter Money Long Short Credit Fund",
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "type": "Managed funds held by Dreyfus Superannuation fund"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Commonwealth Bank of Australia",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Macquarie Bank",
+    "nature": "Cash Management Account"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Emergency Services and State Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Dreyfus Superannuation Fund Superannuation"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "QANTAS Chairman's Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Virgin Beyond Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  }
+ ],
+ "last_updated": "2026-03-18",
+ "notes": [],
+ "parliament": 48,
+ "party": null,
+ "source": {
+  "fetched_at": "2026-09-07T08:23:41Z",
+  "kind": "house-api-pdf",
+  "raw_path": "raw/house/48/HWG.pdf",
+  "sha256": "84eb9010488b686056dfbec48670aa87e1b3fc493df82744080ddb6dbb5666bc",
+  "url": "https://interests-register-api-public.aph.gov.au/api/members/HWG/statement/48"
+ },
+ "state": "VIC"
+}
