@@ -1,23 +1,317 @@
 {
- "alterations": [],
+ "alterations": [
+  {
+   "category": "memberships",
+   "date_processed": "2025-08-21",
+   "date_submitted": "2025-08-19",
+   "details": "CPSU",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-08-06",
+   "details": "Tickets for Darwin Cup Day 2026 03 August 2026 from Mungalalu North Kimberley Airport",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  }
+ ],
  "aph_id": "245392",
  "chamber": "house",
- "date_lodged": null,
+ "date_lodged": "2025-08-19",
  "display_name": "Gosling, Luke",
  "electorate": "Solomon",
  "extraction": {
-  "method": "pending",
+  "method": "ocr",
   "notes": [
-   "scanned PDF; run `pollie ocr` and review the override"
+   "Transcribed from 7 page images by Claude (opus) via claude -p on 2026-09-07; not yet checked by a person",
+   "Page 1: the printed parliament number appears amended by hand; it reads \"48th Parliament\" with a handwritten \"19/8 2025\" and initials beside it. The registry stamp at top right is largely illegible; it appears to read \"PROCESSED 21 Aug 2025\" over \"Registry of Members' Interests\".",
+   "Page 4, item 12 (Self): three printed lines are struck through in the original --- \"Supercars VIP\", \"Brewers Association Lunch\", \"Excellence in Building and Construction Awards\" --- and so are not recorded as current interests. The handwritten replacement reads \"Flights return to North Kimberley airport for work.\"",
+   "Page 6 notification: the ADDITION row lists \"14. Other interests\" with the Details cell blank, so no alteration entry has been created for it.",
+   "Page 6 notification: the printed date \"22/08/2022\" is struck through and replaced by the handwritten \"19/08/2025\"; the signature is initials only.",
+   "The \"PROCESSED\" stamp appears only on page 1 and is partly illegible; it has been read as 21 August 2025 and applied to the page 6 notification."
   ],
   "version": 1
  },
  "family_name": "Gosling",
  "given_names": "Luke",
  "honorific": "Mr",
- "interests": [],
+ "interests": [
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Ludmilla, NT",
+    "purpose": "Family Home"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Same as above",
+    "purpose": "Jointly own the family home above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "AFG Homeloans",
+    "nature": "Home loan mortgage"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Mortgage is in joint account",
+    "nature": "As above"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Savings"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ING",
+    "nature": "Savings"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Car"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "MP Salary"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Sole Trader Income"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS Chairmans Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Lounge"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Supercars VIP Tix"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "QANTAS Chairmans Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Virgin Lounge"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "fields": {
+    "details": "Flights return to North Kimberley airport for work."
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Territory Labor"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "SDA"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Emily's List"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Republican Movement"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AFANT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AIBC NT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "AIIA NT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Order of Australia Association NT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Veterans Australia NT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "RSL SA/NT"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Darwin Ski Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Trailer Boat Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Casuarina Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Railway Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Buffalo Club"
+   },
+   "holder": "self",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Territory Labor"
+   },
+   "holder": "spouse",
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Darwin Ski Club"
+   },
+   "holder": "spouse",
+   "source_id": null
+  }
+ ],
  "last_updated": "2026-08-06",
- "notes": [],
+ "notes": [
+  "Statement of Gosling, Luke (given names \"LUKE JOHN\" on the page 7 notification), Member for Solomon, NT, 48th Parliament.",
+  "Items 1, 2(i), 2(ii), 4, 5, 7 and 14 are \"Not Applicable\" for all holders."
+ ],
  "parliament": 48,
  "party": null,
  "source": {

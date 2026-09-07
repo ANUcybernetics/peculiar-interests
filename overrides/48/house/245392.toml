@@ -1,0 +1,184 @@
+date_lodged = 2025-08-19
+notes = ["Statement of Gosling, Luke (given names \"LUKE JOHN\" on the page 7 notification), Member for Solomon, NT, 48th Parliament.", "Items 1, 2(i), 2(ii), 4, 5, 7 and 14 are \"Not Applicable\" for all holders."]
+
+[extraction]
+method = "ocr"
+version = 1
+notes = ["Transcribed from 7 page images by Claude (opus) via claude -p on 2026-09-07; not yet checked by a person", "Page 1: the printed parliament number appears amended by hand; it reads \"48th Parliament\" with a handwritten \"19/8 2025\" and initials beside it. The registry stamp at top right is largely illegible; it appears to read \"PROCESSED 21 Aug 2025\" over \"Registry of Members' Interests\".", "Page 4, item 12 (Self): three printed lines are struck through in the original --- \"Supercars VIP\", \"Brewers Association Lunch\", \"Excellence in Building and Construction Awards\" --- and so are not recorded as current interests. The handwritten replacement reads \"Flights return to North Kimberley airport for work.\"", "Page 6 notification: the ADDITION row lists \"14. Other interests\" with the Details cell blank, so no alteration entry has been created for it.", "Page 6 notification: the printed date \"22/08/2022\" is struck through and replaced by the handwritten \"19/08/2025\"; the signature is initials only.", "The \"PROCESSED\" stamp appears only on page 1 and is partly illegible; it has been read as 21 August 2025 and applied to the page 6 notification."]
+
+[[interests]]
+category = "real-estate"
+holder = "self"
+fields = { location = "Ludmilla, NT", purpose = "Family Home" }
+
+[[interests]]
+category = "real-estate"
+holder = "spouse"
+fields = { location = "Same as above", purpose = "Jointly own the family home above" }
+
+[[interests]]
+category = "liabilities"
+holder = "self"
+fields = { nature = "Home loan mortgage", creditor = "AFG Homeloans" }
+
+[[interests]]
+category = "liabilities"
+holder = "spouse"
+fields = { nature = "As above", creditor = "Mortgage is in joint account" }
+
+[[interests]]
+category = "accounts"
+holder = "self"
+fields = { nature = "Savings", institution = "NAB" }
+
+[[interests]]
+category = "accounts"
+holder = "spouse"
+fields = { nature = "Savings", institution = "ING" }
+
+[[interests]]
+category = "other-assets"
+holder = "spouse"
+fields = { nature = "Car" }
+
+[[interests]]
+category = "other-income"
+holder = "self"
+fields = { nature = "MP Salary" }
+
+[[interests]]
+category = "other-income"
+holder = "spouse"
+fields = { nature = "Sole Trader Income" }
+
+[[interests]]
+category = "gifts"
+holder = "self"
+fields = { details = "QANTAS Chairmans Lounge" }
+
+[[interests]]
+category = "gifts"
+holder = "self"
+fields = { details = "Virgin Lounge" }
+
+[[interests]]
+category = "gifts"
+holder = "self"
+fields = { details = "Supercars VIP Tix" }
+
+[[interests]]
+category = "gifts"
+holder = "spouse"
+fields = { details = "QANTAS Chairmans Lounge" }
+
+[[interests]]
+category = "gifts"
+holder = "spouse"
+fields = { details = "Virgin Lounge" }
+
+[[interests]]
+category = "travel-hospitality"
+holder = "self"
+fields = { details = "Flights return to North Kimberley airport for work." }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Territory Labor" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "SDA" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Emily's List" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Australian Republican Movement" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "AFANT" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "AIBC NT" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "AIIA NT" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Order of Australia Association NT" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Veterans Australia NT" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "RSL SA/NT" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Darwin Ski Club" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Trailer Boat Club" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Casuarina Club" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Railway Club" }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "Buffalo Club" }
+
+[[interests]]
+category = "memberships"
+holder = "spouse"
+fields = { organisation = "Territory Labor" }
+
+[[interests]]
+category = "memberships"
+holder = "spouse"
+fields = { organisation = "Darwin Ski Club" }
+
+[[alterations]]
+kind = "deletion"
+category = "memberships"
+holder = "unspecified"
+details = "CPSU"
+date_submitted = 2025-08-19
+date_processed = 2025-08-21
+sequence = 1
+
+[[alterations]]
+kind = "addition"
+category = "travel-hospitality"
+holder = "unspecified"
+details = "Tickets for Darwin Cup Day 2026 03 August 2026 from Mungalalu North Kimberley Airport"
+date_submitted = 2026-08-06
+sequence = 2

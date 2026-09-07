@@ -1,0 +1,86 @@
+notes = ["Cover page registry stamp: 'PROCESSED 09 Sep 2025'.", "Notification of alterations page signed line blank, dated 26/08/25, with 'N/A' in both the addition and deletion tables."]
+
+[extraction]
+method = "ocr"
+version = 1
+notes = ["Transcribed from 6 page images by Claude (opus) via claude -p on 2026-09-07; not yet checked by a person", "Statement for KATTER, ROBERT CARL, Division of Kennedy, QLD, 48th Parliament. Cover page bears registry stamp 'PROCESSED 09 Sep 2025'.", "No signature/date line appears on the statement pages supplied (pages 1-5), so date_lodged is left null; the only date in the document is the handwritten '26/08/25' on the notification of alterations page (page 6).", "Item 2(i): the Self and Spouse/partner cells in the 'Nature of its operation' column carry handwritten diagonal pen strokes across parts of the text (through 'interest in the gulf' / 'benefit directly and indirectly' / 'beef highway' in the Self cell and through 'interest in a trust that has interests in some cattle operations in Cape York' in the Spouse cell). The typed text remains legible and is transcribed in full; whether the strokes indicate deletion is unclear.", "Item 2(i): no trust/nominee company name or beneficial interest is given for the Self or Spouse rows; only the 'Nature of its operation' column is filled in.", "Item 3: the Spouse/partner row is blank (no 'N/A'), so no entry is recorded.", "Item 14: the Spouse/partner and Dependent children rows are blank, so no entries are recorded.", "Page 6 (notification of alteration(s) since dissolution or date of election): both the ADDITION and DELETION tables contain only a handwritten 'N/A', so no alterations are recorded. The signature line is blank; the date reads '26/08/25'."]
+
+[[interests]]
+category = "shareholdings"
+holder = "self"
+fields = { company = "A number of AMP shares" }
+
+[[interests]]
+category = "shareholdings"
+holder = "spouse"
+fields = { company = "She does not provide me with this information – regards this as personal business and I respect her wishes in these matters" }
+
+[[interests]]
+category = "trusts"
+holder = "self"
+fields = { nature = "I may have some interest in cattle operations in the gulf. Also I have close friends and relatives that will benefit directly and indirectly with the creation and opening up of the beef highway into Indonesia and China.", role = "beneficiary" }
+
+[[interests]]
+category = "trusts"
+holder = "self"
+fields = { nature = "And in mining nothing definite at this stage but I intend to take up old mining tenements discovered by myself prior to going into Parliament and involve myself in other mining activities but there are no specifics at this stage.", role = "beneficiary" }
+
+[[interests]]
+category = "trusts"
+holder = "spouse"
+fields = { nature = "My wife has an interest in a trust that has interests in some cattle operations in Cape York.", role = "beneficiary" }
+
+[[interests]]
+category = "liabilities"
+holder = "self"
+fields = { nature = "Loans", creditor = "ANZ, Commonwealth, NAB, Metway and others" }
+
+[[interests]]
+category = "liabilities"
+holder = "spouse"
+fields = { nature = "I assume that my wife has property loans and other loans", creditor = "She does business with the above and other banks from time to time" }
+
+[[interests]]
+category = "accounts"
+holder = "self"
+fields = { nature = "The usual saving and cheque accounts", institution = "ANZ, Commonwealth, Westpac etc." }
+
+[[interests]]
+category = "other-assets"
+holder = "self"
+fields = { nature = "Part ownership of a rental property in Charters Towers" }
+
+[[interests]]
+category = "other-assets"
+holder = "spouse"
+fields = { nature = "None of the present that I can think of" }
+
+[[interests]]
+category = "other-income"
+holder = "self"
+fields = { nature = "Refer to page 2,2 (1) \"Family and business trust and nominee companies\"" }
+
+[[interests]]
+category = "other-income"
+holder = "self"
+fields = { nature = "I may from time to time get royalties from book sales." }
+
+[[interests]]
+category = "other-income"
+holder = "spouse"
+fields = { nature = "Income from investment properties" }
+
+[[interests]]
+category = "travel-hospitality"
+holder = "self"
+fields = { details = "Use of a private aircraft from time to time, sometimes during election campaigns – probably not happening these days." }
+
+[[interests]]
+category = "memberships"
+holder = "self"
+fields = { organisation = "I have in-laws that have extensive dealings with Government." }
+
+[[interests]]
+category = "other-interests"
+holder = "self"
+fields = { nature = "Some members of my family have interests in cattle" }
