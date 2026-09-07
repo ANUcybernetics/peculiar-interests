@@ -2,12 +2,12 @@ import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import { defineConfig } from "astro/config";
 
-// Deployed to GitHub Pages at the domain root (custom domain to follow); every
-// internal href still goes through withBase() in src/lib/paths.ts so a base
-// change is a one-line edit.
+// Deployed to GitHub Pages under the repository path until a custom domain is
+// chosen; every internal href goes through withBase() in src/lib/paths.ts, so
+// moving to a domain root is a two-line edit here (plus a CNAME in public/).
 export default defineConfig({
-  site: "https://peculiarinterests.au",
-  base: "/",
+  site: "https://anucybernetics.github.io",
+  base: "/pollie-watch",
   trailingSlash: "ignore",
   output: "static",
   prefetch: { prefetchAll: true, defaultStrategy: "viewport" },
