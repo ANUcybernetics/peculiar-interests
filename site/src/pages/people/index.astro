@@ -1,0 +1,79 @@
+---
+import ChamberMark from "@/components/ChamberMark.astro";
+import Layout from "@/components/Layout.astro";
+import PersonLink from "@/components/PersonLink.astro";
+import RosterFilter from "@/islands/RosterFilter.svelte";
+import { dataset } from "@/lib/data";
+import { formatDate } from "@/lib/format";
+
+const { statements, personById, people } = dataset();
+const parties = [...new Set(people.map((p) => p.party).filter((p): p is string => Boolean(p)))].sort();
+const rows = statements.map((s) => {
+  const person = personById.get(s.aph_id);
+  return {
+    s,
+    party: person?.party ?? s.party ?? "",
+    place: s.chamber === "house" ? (s.electorate ?? person?.electorate ?? "") : (s.state ?? person?.state ?? ""),
+    declared: s.interests.length,
+    changes: s.alterations.length,
+  };
+});
+---
+
+<Layout title="People" description="Every federal MP and senator with a statement on the register of interests.">
+  <h1>People</h1>
+  <p class="prose muted">
+    Every member and senator with a statement on the {statements[0]?.parliament ?? 48}th Parliament's registers.
+    Declared counts the line items in the lodged statement; changes counts alterations notified since.
+  </p>
+
+  <RosterFilter client:idle parties={parties} />
+
+  <div class="table-scroll">
+    <table id="roster">
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Chamber</th>
+          <th scope="col">Party</th>
+          <th scope="col">Electorate or state</th>
+          <th scope="col" class="num">Declared</th>
+          <th scope="col" class="num">Changes</th>
+          <th scope="col">Last updated</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map(({ s, party, place, declared, changes }) => (
+            <tr
+              data-chamber={s.chamber}
+              data-party={party}
+              data-search={`${s.given_names} ${s.family_name} ${party} ${place}`.toLowerCase()}
+            >
+              <td>
+                <PersonLink
+                  aph_id={s.aph_id}
+                  given_names={s.given_names}
+                  family_name={s.family_name}
+                  chamber={s.chamber}
+                  surnameFirst
+                />
+              </td>
+              <td>
+                <ChamberMark chamber={s.chamber} />
+              </td>
+              <td>{party}</td>
+              <td>{place}</td>
+              <td class="num">
+                {s.extraction.method === "pending" ? <span class="muted">pending</span> : declared}
+              </td>
+              <td class="num">{changes}</td>
+              <td class="tnum">{formatDate(s.last_updated)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+  <p id="roster-empty" class="muted" hidden>No one matches that filter.</p>
+</Layout>

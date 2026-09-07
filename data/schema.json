@@ -1,0 +1,385 @@
+{
+ "$defs": {
+  "Alteration": {
+   "description": "A dated addition or deletion notified after the statement was lodged.\n\nBoth houses record these as free text against a category, so `details` is\nthe record and `fields` is filled only when a parser can do so reliably.",
+   "properties": {
+    "category": {
+     "anyOf": [
+      {
+       "$ref": "#/$defs/Category"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "date_processed": {
+     "anyOf": [
+      {
+       "format": "date",
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Date Processed"
+    },
+    "date_submitted": {
+     "anyOf": [
+      {
+       "format": "date",
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Date Submitted"
+    },
+    "details": {
+     "title": "Details",
+     "type": "string"
+    },
+    "fields": {
+     "additionalProperties": {
+      "type": "string"
+     },
+     "title": "Fields",
+     "type": "object"
+    },
+    "holder": {
+     "$ref": "#/$defs/Holder",
+     "default": "unspecified"
+    },
+    "kind": {
+     "$ref": "#/$defs/AlterationKind"
+    },
+    "sequence": {
+     "title": "Sequence",
+     "type": "integer"
+    },
+    "source_id": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Source Id"
+    }
+   },
+   "required": [
+    "kind",
+    "category",
+    "details",
+    "sequence"
+   ],
+   "title": "Alteration",
+   "type": "object"
+  },
+  "AlterationKind": {
+   "enum": [
+    "addition",
+    "deletion"
+   ],
+   "title": "AlterationKind",
+   "type": "string"
+  },
+  "Category": {
+   "description": "The fourteen registrable-interest categories, in form order.",
+   "enum": [
+    "shareholdings",
+    "trusts",
+    "real-estate",
+    "directorships",
+    "partnerships",
+    "liabilities",
+    "investments",
+    "accounts",
+    "other-assets",
+    "other-income",
+    "gifts",
+    "travel-hospitality",
+    "memberships",
+    "other-interests"
+   ],
+   "title": "Category",
+   "type": "string"
+  },
+  "Chamber": {
+   "enum": [
+    "house",
+    "senate"
+   ],
+   "title": "Chamber",
+   "type": "string"
+  },
+  "Extraction": {
+   "properties": {
+    "method": {
+     "$ref": "#/$defs/ExtractionMethod"
+    },
+    "notes": {
+     "items": {
+      "type": "string"
+     },
+     "title": "Notes",
+     "type": "array"
+    },
+    "version": {
+     "default": 1,
+     "title": "Version",
+     "type": "integer"
+    }
+   },
+   "required": [
+    "method"
+   ],
+   "title": "Extraction",
+   "type": "object"
+  },
+  "ExtractionMethod": {
+   "enum": [
+    "senate-api",
+    "pdf-text",
+    "ocr",
+    "manual",
+    "pending"
+   ],
+   "title": "ExtractionMethod",
+   "type": "string"
+  },
+  "Holder": {
+   "description": "Whose interest it is. The House form has a row for each; the Senate API\ndoes not record it, so Senate interests are `unspecified` unless the text\nsays otherwise.",
+   "enum": [
+    "self",
+    "spouse",
+    "dependent",
+    "unspecified"
+   ],
+   "title": "Holder",
+   "type": "string"
+  },
+  "Interest": {
+   "description": "One declared line item, as it stands in the lodged statement.",
+   "properties": {
+    "category": {
+     "$ref": "#/$defs/Category"
+    },
+    "fields": {
+     "additionalProperties": {
+      "type": "string"
+     },
+     "title": "Fields",
+     "type": "object"
+    },
+    "holder": {
+     "$ref": "#/$defs/Holder",
+     "default": "unspecified"
+    },
+    "source_id": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Source Id"
+    }
+   },
+   "required": [
+    "category"
+   ],
+   "title": "Interest",
+   "type": "object"
+  },
+  "Source": {
+   "description": "Where a statement came from and what we fetched.",
+   "properties": {
+    "fetched_at": {
+     "format": "date-time",
+     "title": "Fetched At",
+     "type": "string"
+    },
+    "kind": {
+     "enum": [
+      "senate-api",
+      "house-api-pdf",
+      "house-static-pdf"
+     ],
+     "title": "Kind",
+     "type": "string"
+    },
+    "raw_path": {
+     "title": "Raw Path",
+     "type": "string"
+    },
+    "sha256": {
+     "title": "Sha256",
+     "type": "string"
+    },
+    "url": {
+     "title": "Url",
+     "type": "string"
+    }
+   },
+   "required": [
+    "url",
+    "kind",
+    "sha256",
+    "fetched_at",
+    "raw_path"
+   ],
+   "title": "Source",
+   "type": "object"
+  }
+ },
+ "description": "One parliamentarian's register entry for one parliament: the lodged\nstatement plus every notified alteration.",
+ "properties": {
+  "alterations": {
+   "items": {
+    "$ref": "#/$defs/Alteration"
+   },
+   "title": "Alterations",
+   "type": "array"
+  },
+  "aph_id": {
+   "title": "Aph Id",
+   "type": "string"
+  },
+  "chamber": {
+   "$ref": "#/$defs/Chamber"
+  },
+  "date_lodged": {
+   "anyOf": [
+    {
+     "format": "date",
+     "type": "string"
+    },
+    {
+     "type": "null"
+    }
+   ],
+   "default": null,
+   "title": "Date Lodged"
+  },
+  "display_name": {
+   "title": "Display Name",
+   "type": "string"
+  },
+  "electorate": {
+   "anyOf": [
+    {
+     "type": "string"
+    },
+    {
+     "type": "null"
+    }
+   ],
+   "default": null,
+   "title": "Electorate"
+  },
+  "extraction": {
+   "$ref": "#/$defs/Extraction"
+  },
+  "family_name": {
+   "title": "Family Name",
+   "type": "string"
+  },
+  "given_names": {
+   "title": "Given Names",
+   "type": "string"
+  },
+  "honorific": {
+   "anyOf": [
+    {
+     "type": "string"
+    },
+    {
+     "type": "null"
+    }
+   ],
+   "default": null,
+   "title": "Honorific"
+  },
+  "interests": {
+   "items": {
+    "$ref": "#/$defs/Interest"
+   },
+   "title": "Interests",
+   "type": "array"
+  },
+  "last_updated": {
+   "anyOf": [
+    {
+     "format": "date",
+     "type": "string"
+    },
+    {
+     "type": "null"
+    }
+   ],
+   "default": null,
+   "title": "Last Updated"
+  },
+  "notes": {
+   "items": {
+    "type": "string"
+   },
+   "title": "Notes",
+   "type": "array"
+  },
+  "parliament": {
+   "title": "Parliament",
+   "type": "integer"
+  },
+  "party": {
+   "anyOf": [
+    {
+     "type": "string"
+    },
+    {
+     "type": "null"
+    }
+   ],
+   "default": null,
+   "title": "Party"
+  },
+  "source": {
+   "$ref": "#/$defs/Source"
+  },
+  "state": {
+   "anyOf": [
+    {
+     "type": "string"
+    },
+    {
+     "type": "null"
+    }
+   ],
+   "default": null,
+   "title": "State"
+  }
+ },
+ "required": [
+  "aph_id",
+  "chamber",
+  "parliament",
+  "family_name",
+  "given_names",
+  "display_name",
+  "source",
+  "extraction"
+ ],
+ "title": "Statement",
+ "type": "object"
+}

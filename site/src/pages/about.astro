@@ -1,0 +1,58 @@
+---
+import Layout from "@/components/Layout.astro";
+import { withBase } from "@/lib/paths";
+---
+
+<Layout title="About" description="What Peculiar Interests is, where the data comes from, and how it is read.">
+  <div class="prose">
+    <h1>About</h1>
+    <p>
+      Federal MPs and senators must declare their registrable interests within 28 days of being sworn in, and notify
+      any change within 28 days of it happening: property, shares, trusts, directorships, debts, accounts, other
+      assets and income, gifts, sponsored travel, and memberships that could give rise to a conflict. Spouses and
+      dependent children are included. The registers exist so the public can see where a parliamentarian's private
+      interests might meet their public duties.
+    </p>
+    <p>
+      The registers are public, but not easy. The House publishes one PDF per member; the Senate a web app. Neither
+      offers a download, a search across people, or a way to see what changed last month. Peculiar Interests reads
+      both into one schema, publishes the result as browsable pages and downloadable data, and keeps the history in
+      git so every change is dated and attributable.
+    </p>
+
+    <h2>How the data is read</h2>
+    <p>
+      The Senate register is read field by field from the data service behind the official web app. Most House
+      statements are system-generated PDFs whose tables are extracted exactly from the text layer, with no model
+      involved. A handful of House statements are handwritten scans; those are transcribed by a locally run
+      text-recognition model and then checked by a person before they are shown as confirmed. Every person page
+      says which of these applies to it and links to the official document.
+    </p>
+    <p>
+      The text is the parliamentarian's own. We normalise placeholders like "Not Applicable" to an empty item and
+      group identical names for the <a href={withBase("/mentions")}>mentions</a> pages, and otherwise leave the
+      wording alone.
+    </p>
+
+    <h2 id="corrections">Corrections</h2>
+    <p>
+      If an entry here does not match the official document, that is our error and we want to fix it: open an issue
+      on <a href="https://github.com/benswift/pollie-watch/issues">GitHub</a> or email
+      <a href="mailto:ben.swift@anu.edu.au">ben.swift@anu.edu.au</a> with the person's name and what is wrong. If
+      the official document itself is wrong or out of date, the place to raise that is the
+      <a href="https://www.aph.gov.au/Senators_and_Members/Members/Register">Registrar of Members' Interests</a> or
+      the
+      <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests"
+        >Senate Standing Committee of Senators' Interests</a
+      >.
+    </p>
+
+    <h2>Who</h2>
+    <p>
+      A <a href="https://cybernetics.anu.edu.au">Cybernetic Studio</a> project by
+      <a href="https://benswift.me">Ben Swift</a> at the ANU School of Cybernetics, and a sibling of the
+      <a href="https://apsaitracker.app">Australian Government AI Tracker</a>. Code is MIT, the dataset is CC BY 4.0.
+      Not affiliated with the Parliament of Australia or any party.
+    </p>
+  </div>
+</Layout>

@@ -1,0 +1,166 @@
+---
+import ChamberMark from "@/components/ChamberMark.astro";
+import Layout from "@/components/Layout.astro";
+import Ledger from "@/components/Ledger.astro";
+import { dataset } from "@/lib/data";
+import { countByCategory, mentionPeople } from "@/lib/derive";
+import { formatDate, pluralise } from "@/lib/format";
+import { categoryPath, mentionPath, withBase } from "@/lib/paths";
+import { CATEGORIES, CATEGORY_INFO } from "@/lib/schema";
+
+const { statements, ledger, mentions } = dataset();
+const recent = ledger.slice(0, 40);
+const house = statements.filter((s) => s.chamber === "house");
+const senate = statements.filter((s) => s.chamber === "senate");
+const pending = statements.filter((s) => s.extraction.method === "pending").length;
+const counts = countByCategory(statements);
+const totalInterests = statements.reduce((n, s) => n + s.interests.length, 0);
+const latest = ledger[0]?.date;
+const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
+---
+
+<Layout title="Peculiar Interests">
+  <section class="hero">
+    <h1>What Australia's federal politicians have declared they own, owe, and were given.</h1>
+    <p class="hero__lede prose">
+      Every entry from the <ChamberMark chamber="house" /> and <ChamberMark chamber="senate" /> registers of
+      interests, read into one schema and kept current:
+      {`${pluralise(totalInterests, "declared interest")} across ${pluralise(house.length, "member")} and ${pluralise(senate.length, "senator")}, plus ${pluralise(ledger.length, "alteration")} notified since the ${statements[0]?.parliament ?? 48}th Parliament opened.`} Free to browse, free to <a href={withBase("/data")}>download</a>.
+    </p>
+  </section>
+
+  <section class="section" aria-labelledby="recent">
+    <div class="section__head">
+      <h2 id="recent">Latest alterations</h2>
+      <p class="muted">
+        {latest ? `Most recent processed ${formatDate(latest)}. ` : ""}
+        <a href={withBase("/changes")}>All changes</a>
+      </p>
+    </div>
+    <Ledger entries={recent} />
+  </section>
+
+  <section class="section" aria-labelledby="browse">
+    <h2 id="browse">Browse the register</h2>
+    <div class="browse">
+      <div>
+        <h3>By item</h3>
+        <ol class="items">
+          {
+            CATEGORIES.map((c) => (
+              <li>
+                <a href={categoryPath(c)}>
+                  <span class="items__num">{CATEGORY_INFO[c].item}.</span> {CATEGORY_INFO[c].short}
+                </a>
+                <span class="muted tnum">{(counts[c] ?? 0).toLocaleString("en-AU")}</span>
+              </li>
+            ))
+          }
+        </ol>
+      </div>
+      <div>
+        <h3>By who</h3>
+        <ul class="plain">
+          <li>
+            <a href={withBase("/people?chamber=house")}>{pluralise(house.length, "member")} of the House</a>
+          </li>
+          <li><a href={withBase("/people?chamber=senate")}>{pluralise(senate.length, "senator")}</a></li>
+          <li><a href={withBase("/people")}>Everyone, filterable by party and state</a></li>
+        </ul>
+        <h3>Most-declared names</h3>
+        <p class="muted small">
+          Companies, banks and organisations named by three or more parliamentarians.
+          <a href={withBase("/mentions")}>All names</a>
+        </p>
+        <ul class="plain">
+          {
+            busiest.map((m) => (
+              <li>
+                <a href={mentionPath(m.slug)}>{m.name}</a>
+                <span class="muted tnum">{mentionPeople(m)}</span>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  {
+    pending > 0 && (
+      <p class="notice small">
+        {pluralise(pending, "statement is", "statements are")} handwritten and still being transcribed; those pages
+        show the official document without extracted entries for now.
+      </p>
+    )
+  }
+</Layout>
+
+<style>
+  .hero {
+    padding-block: var(--space-8) var(--space-4);
+  }
+
+  .hero h1 {
+    font-size: var(--display);
+    max-width: 24ch;
+    margin-bottom: var(--space-5);
+  }
+
+  .hero__lede {
+    font-size: var(--text-lg);
+  }
+
+  .section__head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-2) var(--space-5);
+  }
+
+  .browse {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    gap: var(--space-6) var(--space-12);
+  }
+
+  .items,
+  .plain {
+    list-style: none;
+    margin: 0 0 var(--space-6);
+    padding: 0;
+  }
+
+  .items li,
+  .plain li {
+    display: flex;
+    justify-content: space-between;
+    gap: var(--space-4);
+    padding: var(--space-2) 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .items a,
+  .plain a {
+    text-decoration: none;
+  }
+
+  .items a:hover,
+  .plain a:hover {
+    text-decoration: underline;
+  }
+
+  .items__num {
+    display: inline-block;
+    width: 2rem;
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+  }
+
+  h3 {
+    font-size: var(--text-base);
+    font-weight: 600;
+    margin-top: var(--space-2);
+  }
+</style>

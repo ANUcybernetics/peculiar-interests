@@ -3,7 +3,7 @@
 // statements, mentions, ledger) that every page draws on. Pure helpers live
 // in derive.ts so they can be unit-tested without the files.
 import { readdirSync, readFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { resolve } from "node:path";
 
 import { buildLedger, buildMentions, type LedgerEntry, type Mention } from "@/lib/derive";
 import {
@@ -14,7 +14,9 @@ import {
   type Statement,
 } from "@/lib/schema";
 
-const DATA_DIR = fileURLToPath(new URL("../../../data/", import.meta.url));
+// Resolved from the working directory (astro runs from site/), not from
+// import.meta.url, which points into dist/ once the build bundles this module.
+export const DATA_DIR = `${resolve(process.env.POLLIE_DATA_DIR ?? resolve(process.cwd(), "..", "data"))}/`;
 export const PARLIAMENT = 48;
 
 function readJson(path: string): unknown {
@@ -47,7 +49,7 @@ let cache: Dataset | undefined;
 export function dataset(): Dataset {
   if (cache) return cache;
   const people = PersonSchema.array().parse(readJson(`${DATA_DIR}people.json`));
-  const statements = [...loadStatements("house"), ...loadStatements("senate")].sort(
+  const statements = [...loadStatements("house"), ...loadStatements("senate")].toSorted(
     (a, b) =>
       a.family_name.localeCompare(b.family_name, "en-AU") ||
       a.given_names.localeCompare(b.given_names, "en-AU"),

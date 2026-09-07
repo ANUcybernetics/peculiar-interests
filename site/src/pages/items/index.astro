@@ -1,0 +1,69 @@
+---
+import Layout from "@/components/Layout.astro";
+import { dataset } from "@/lib/data";
+import { countByCategory } from "@/lib/derive";
+import { categoryPath } from "@/lib/paths";
+import { CATEGORIES, CATEGORY_INFO } from "@/lib/schema";
+
+const { statements, ledger } = dataset();
+const counts = countByCategory(statements);
+const changeCounts = Object.fromEntries(
+  CATEGORIES.map((c) => [c, ledger.filter((e) => e.alteration.category === c).length]),
+) as Record<string, number>;
+const declaring = Object.fromEntries(
+  CATEGORIES.map((c) => [c, new Set(statements.filter((s) => s.interests.some((i) => i.category === c)).map((s) => s.aph_id)).size]),
+) as Record<string, number>;
+---
+
+<Layout title="Items" description="The fourteen items every federal parliamentarian must declare, with everything declared under each.">
+  <h1>The fourteen items</h1>
+  <p class="prose muted">
+    Both registers ask the same fourteen questions, set out in 1984 and amended since. Each item below lists
+    everything declared under it across both chambers.
+  </p>
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Item</th>
+          <th scope="col">What must be declared</th>
+          <th scope="col" class="num">People declaring</th>
+          <th scope="col" class="num">Line items</th>
+          <th scope="col" class="num">Alterations</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          CATEGORIES.map((c) => (
+            <tr>
+              <td class="rubric">
+                <a href={categoryPath(c)}>
+                  {CATEGORY_INFO[c].item}. {CATEGORY_INFO[c].short}
+                </a>
+              </td>
+              <td class="muted">{CATEGORY_INFO[c].label}</td>
+              <td class="num">{declaring[c]}</td>
+              <td class="num">{counts[c] ?? 0}</td>
+              <td class="num">{changeCounts[c]}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Layout>
+
+<style>
+  .rubric {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .rubric a {
+    text-decoration: none;
+  }
+
+  .rubric a:hover {
+    text-decoration: underline;
+  }
+</style>

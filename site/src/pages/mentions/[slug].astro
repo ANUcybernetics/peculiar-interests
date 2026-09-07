@@ -1,0 +1,88 @@
+---
+import ChamberMark from "@/components/ChamberMark.astro";
+import Layout from "@/components/Layout.astro";
+import PersonLink from "@/components/PersonLink.astro";
+import { dataset } from "@/lib/data";
+import { mentionPeople } from "@/lib/derive";
+import { pluralise } from "@/lib/format";
+import { categoryPath } from "@/lib/paths";
+import { CATEGORY_INFO, FIELD_LABELS, HOLDER_LABELS } from "@/lib/schema";
+
+export function getStaticPaths() {
+  return dataset().mentions.map((m) => ({ params: { slug: m.slug }, props: { mention: m } }));
+}
+
+const { mention } = Astro.props;
+const { byId } = dataset();
+const rows = mention.rows.toSorted((a, b) => a.display_name.localeCompare(b.display_name));
+---
+
+<Layout title={mention.name} description={`Who declared ${mention.name} on the register of interests.`}>
+  <header class="head">
+    <p class="muted">Named in the register</p>
+    <h1>{mention.name}</h1>
+    <p class="prose">
+      {`Declared by ${pluralise(mentionPeople(mention), "parliamentarian")} in ${pluralise(rows.length, "line item")}.`}
+      {
+        mention.variants.length > 1 && (
+          <span class="muted">Also written as {mention.variants.slice(1).join("; ")}.</span>
+        )
+      }
+    </p>
+  </header>
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Who</th>
+          <th scope="col">Chamber</th>
+          <th scope="col">Item</th>
+          <th scope="col">Held by</th>
+          <th scope="col">As declared</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => {
+            const s = byId.get(r.aph_id)!;
+            return (
+              <tr>
+                <td>
+                  <PersonLink
+                    aph_id={s.aph_id}
+                    given_names={s.given_names}
+                    family_name={s.family_name}
+                    chamber={s.chamber}
+                    surnameFirst
+                  />
+                </td>
+                <td>
+                  <ChamberMark chamber={s.chamber} />
+                </td>
+                <td>
+                  <a href={categoryPath(r.category)}>
+                    {CATEGORY_INFO[r.category].item}. {CATEGORY_INFO[r.category].short}
+                  </a>
+                </td>
+                <td class="muted">{HOLDER_LABELS[r.holder]}</td>
+                <td>
+                  {Object.entries(r.interest.fields).map(([k, v]) => (
+                    <div>
+                      <span class="muted small">{FIELD_LABELS[k] ?? k}:</span> {v}
+                    </div>
+                  ))}
+                </td>
+              </tr>
+            );
+          })
+        }
+      </tbody>
+    </table>
+  </div>
+</Layout>
+
+<style>
+  .head {
+    padding-top: var(--space-6);
+  }
+</style>

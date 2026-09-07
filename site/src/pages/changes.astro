@@ -1,0 +1,18 @@
+---
+import Layout from "@/components/Layout.astro";
+import Ledger from "@/components/Ledger.astro";
+import { dataset } from "@/lib/data";
+import { pluralise } from "@/lib/format";
+
+const { ledger } = dataset();
+const additions = ledger.filter((e) => e.alteration.kind === "addition").length;
+---
+
+<Layout title="Changes" description="Every alteration notified to the registers of interests, newest first.">
+  <h1>Every alteration</h1>
+  <p class="prose muted">
+    {`${pluralise(ledger.length, "alteration")} notified since the statements were lodged: ${additions} additions and ${ledger.length - additions} deletions, across both chambers, newest first.`} Dates are the day the registrar
+    processed the notice where the House records one, otherwise the day it was made.
+  </p>
+  <Ledger entries={ledger} byMonth />
+</Layout>

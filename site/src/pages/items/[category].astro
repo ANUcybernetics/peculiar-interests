@@ -1,0 +1,91 @@
+---
+import ChamberMark from "@/components/ChamberMark.astro";
+import Layout from "@/components/Layout.astro";
+import Ledger from "@/components/Ledger.astro";
+import PersonLink from "@/components/PersonLink.astro";
+import { dataset } from "@/lib/data";
+import { pluralise } from "@/lib/format";
+import { CATEGORIES, CATEGORY_INFO, FIELD_LABELS, HOLDER_LABELS, type Category } from "@/lib/schema";
+
+export function getStaticPaths() {
+  return CATEGORIES.map((category) => ({ params: { category } }));
+}
+
+const category = Astro.params.category as Category;
+const info = CATEGORY_INFO[category];
+const { statements, ledger } = dataset();
+const rows = statements.flatMap((s) =>
+  s.interests.filter((i) => i.category === category).map((i) => ({ s, i })),
+);
+const fieldNames = [...new Set(rows.flatMap(({ i }) => Object.keys(i.fields)))];
+const anyHolder = rows.some(({ i }) => i.holder !== "unspecified");
+const changes = ledger.filter((e) => e.alteration.category === category);
+const people = new Set(rows.map((r) => r.s.aph_id)).size;
+---
+
+<Layout title={`${info.item}. ${info.short}`} description={`${info.label}: everything declared under item ${info.item} by federal MPs and senators.`}>
+  <header class="head">
+    <p class="muted">Item {info.item} of 14</p>
+    <h1>{info.short}</h1>
+    <p class="prose">
+      {`${info.label}. ${pluralise(rows.length, "line item")} declared by ${pluralise(people, "parliamentarian")}, and ${pluralise(changes.length, "alteration")} notified since.`}
+    </p>
+  </header>
+
+  <section class="section" aria-labelledby="declared">
+    <h2 id="declared">As lodged</h2>
+    {
+      rows.length === 0 ? (
+        <p class="muted">Nothing declared under this item.</p>
+      ) : (
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Who</th>
+                <th scope="col">Chamber</th>
+                {anyHolder && <th scope="col">Held by</th>}
+                {fieldNames.map((f) => (
+                  <th scope="col">{FIELD_LABELS[f] ?? f}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {rows.map(({ s, i }) => (
+                <tr>
+                  <td>
+                    <PersonLink
+                      aph_id={s.aph_id}
+                      given_names={s.given_names}
+                      family_name={s.family_name}
+                      chamber={s.chamber}
+                      surnameFirst
+                    />
+                  </td>
+                  <td>
+                    <ChamberMark chamber={s.chamber} />
+                  </td>
+                  {anyHolder && <td class="muted">{HOLDER_LABELS[i.holder]}</td>}
+                  {fieldNames.map((f) => (
+                    <td>{i.fields[f] ?? ""}</td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )
+    }
+  </section>
+
+  <section class="section" aria-labelledby="changes">
+    <h2 id="changes">Alterations</h2>
+    {changes.length === 0 ? <p class="muted">No alterations under this item.</p> : <Ledger entries={changes} byMonth />}
+  </section>
+</Layout>
+
+<style>
+  .head {
+    padding-top: var(--space-6);
+  }
+</style>

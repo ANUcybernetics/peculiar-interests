@@ -1,0 +1,48 @@
+---
+// Full-text search over every page, indexed at build time by Pagefind
+// (`pagefind --site dist` in the build script). The UI script and index are
+// emitted into dist/pagefind/ and load lazily; without JavaScript the page
+// still explains where to browse.
+import Layout from "@/components/Layout.astro";
+import { withBase } from "@/lib/paths";
+---
+
+<Layout title="Search" description="Search every declared interest, alteration and name across both registers.">
+  <h1>Search</h1>
+  <p class="prose muted">
+    Searches the text of every page: names, companies, gifts, travel, and the wording of every alteration.
+  </p>
+  <div id="search"></div>
+  <noscript>
+    <p class="notice">
+      Search needs JavaScript. Without it, browse by <a href={withBase("/people")}>person</a>,
+      <a href={withBase("/items")}>item</a> or <a href={withBase("/mentions")}>name</a>.
+    </p>
+  </noscript>
+  <link rel="stylesheet" href={withBase("/pagefind/pagefind-ui.css")} />
+  <script is:inline define:vars={{ base: withBase("/pagefind/pagefind-ui.js") }}>
+    const s = document.createElement("script");
+    s.src = base;
+    s.onload = () => {
+      const params = new URLSearchParams(location.search);
+      const ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false, autofocus: true });
+      const q = params.get("q");
+      if (q) ui.triggerSearch(q);
+    };
+    document.head.append(s);
+  </script>
+</Layout>
+
+<style is:global>
+  #search {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: var(--text);
+    --pagefind-ui-text: var(--text);
+    --pagefind-ui-background: var(--bg);
+    --pagefind-ui-border: var(--rule-strong);
+    --pagefind-ui-tag: var(--surface);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: var(--radius);
+    --pagefind-ui-font: var(--font-sans);
+  }
+</style>

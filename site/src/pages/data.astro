@@ -1,0 +1,78 @@
+---
+import Layout from "@/components/Layout.astro";
+import { dataset } from "@/lib/data";
+import { withBase } from "@/lib/paths";
+
+const { statements, generatedAt } = dataset();
+const endpoints = [
+  ["people.json", "Everyone on the roster: names, chamber, party, state or electorate, APH id."],
+  ["statements.json", "Every statement in full: interests, alterations, notes, source and extraction metadata."],
+  ["statements/{aph_id}.json", "One statement. The same JSON the person page is built from."],
+  ["interests.csv", "One row per declared line item, flattened: person, chamber, item, holder, field, value."],
+  ["alterations.csv", "One row per alteration: person, chamber, date, addition or deletion, item, details."],
+  ["ledger.json", "The alterations across both chambers, newest first, with the person attached."],
+  ["schema.json", "JSON Schema for a statement, generated from the Python models."],
+];
+---
+
+<Layout title="Data" description="Download the register of interests dataset as JSON and CSV, or read it through the static API.">
+  <h1>Data</h1>
+  <div class="prose">
+    <p>
+      Everything on this site is generated from a public git repository that stores the official documents as
+      fetched and the extracted statements as JSON. The extracted dataset is licensed
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: use it for anything, say where it came
+      from. The documents themselves are the Parliament of Australia's, published under CC BY-NC-ND 3.0 AU, and are
+      linked rather than served.
+    </p>
+    <h2>Static API</h2>
+    <p>
+      Plain files under <code>{withBase("/api/v1/")}</code>, rebuilt whenever the register changes. No keys, no rate
+      limits; cache them.
+    </p>
+  </div>
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">File</th>
+          <th scope="col">Contents</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          endpoints.map(([file, what]) => (
+            <tr>
+              <td>
+                <code>
+                  {file.includes("{") ? file : <a href={withBase(`/api/v1/${file}`)}>{file}</a>}
+                </code>
+              </td>
+              <td>{what}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+  <div class="prose">
+    <h2>Shape</h2>
+    <p>
+      A statement has fourteen categories of <em>interest</em> (the lodged form) and a list of dated
+      <em>alterations</em> (additions and deletions notified since). Interests carry typed fields where the source
+      has them; alterations are free text against a category, because that is all either chamber records. The
+      <code>holder</code> says whose interest it is (self, spouse or partner, dependent children) for the House;
+      the Senate does not record it. <code>extraction.method</code> tells you how the text was read:
+      <code>senate-api</code>, <code>pdf-text</code>, <code>ocr</code> (unreviewed), <code>manual</code>
+      (reviewed) or <code>pending</code>.
+    </p>
+    <pre><code>{`curl ${Astro.site ?? ""}${withBase("/api/v1/statements/")}${statements[0]?.aph_id ?? "HWK"}.json`}</code></pre>
+    <h2>Source code and raw documents</h2>
+    <p>
+      <a href="https://github.com/benswift/pollie-watch">github.com/benswift/pollie-watch</a> holds the scraper, the
+      parsers, this site, and every fetched document under <code>raw/</code>. The git history is the audit trail:
+      each nightly run commits what changed.
+    </p>
+    <p class="muted small">This build: {generatedAt.slice(0, 10)}.</p>
+  </div>
+</Layout>

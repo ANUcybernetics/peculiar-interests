@@ -1,0 +1,50 @@
+---
+import Layout from "@/components/Layout.astro";
+import { dataset } from "@/lib/data";
+import { mentionPeople } from "@/lib/derive";
+import { pluralise } from "@/lib/format";
+import { mentionPath } from "@/lib/paths";
+import { CATEGORY_INFO } from "@/lib/schema";
+
+const { mentions } = dataset();
+const shared = mentions.filter((m) => mentionPeople(m) >= 2);
+const single = mentions.length - shared.length;
+---
+
+<Layout title="Mentions" description="Every company, bank, creditor, trust and organisation named in the registers, and who named it.">
+  <h1>Names in the register</h1>
+  <p class="prose muted">
+    Every company, creditor, bank, trust and organisation named under the structured items (shareholdings,
+    trusts, directorships, partnerships, liabilities, investments, accounts, memberships), grouped by spelling.
+    Gift and travel details are free text and are searchable instead.
+    {`${pluralise(shared.length, "name is", "names are")} shared by two or more parliamentarians; ${single.toLocaleString("en-AU")} more appear once.`}
+  </p>
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col" class="num">People</th>
+          <th scope="col" class="num">Line items</th>
+          <th scope="col">Under</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          mentions.map((m) => (
+            <tr>
+              <td>
+                <a href={mentionPath(m.slug)}>{m.name}</a>
+              </td>
+              <td class="num">{mentionPeople(m)}</td>
+              <td class="num">{m.rows.length}</td>
+              <td class="muted small">
+                {[...new Set(m.rows.map((r) => CATEGORY_INFO[r.category].short))].join(", ")}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Layout>

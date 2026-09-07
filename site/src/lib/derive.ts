@@ -86,7 +86,8 @@ export function splitNames(value: string): string[] {
 }
 
 export function buildMentions(statements: Statement[]): Mention[] {
-  const groups = new Map<string, { names: Map<string, number>; rows: MentionRow[] }>();
+  type Group = { names: Map<string, number>; rows: MentionRow[] };
+  const groups = new Map<string, Group>();
   for (const s of statements) {
     for (const interest of s.interests) {
       const fields = MENTION_FIELDS[interest.category];
@@ -97,7 +98,7 @@ export function buildMentions(statements: Statement[]): Mention[] {
         for (const name of splitNames(value)) {
           const slug = slugify(name);
           if (!slug) continue;
-          const group = groups.get(slug) ?? { names: new Map(), rows: [] };
+          const group: Group = groups.get(slug) ?? { names: new Map<string, number>(), rows: [] };
           group.names.set(name, (group.names.get(name) ?? 0) + 1);
           group.rows.push({
             aph_id: s.aph_id,
