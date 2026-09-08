@@ -10,6 +10,17 @@
    "kind": "addition",
    "sequence": 1,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-08",
+   "date_submitted": "2026-09-08",
+   "details": "1 ticket to the AFL match Carlton vs Melbourne at the MCG on Saturday 29 August 2026. Provided by the AFL.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
   }
  ],
  "aph_id": "243609",
@@ -170,15 +181,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-02-19",
+ "last_updated": "2026-09-08",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-08T18:12:19Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/243609.pdf",
-  "sha256": "beb88a3e05d26585d71bda3bbc991db3974d808826489ff595062511986d9131",
+  "sha256": "679c26bb110c8b1008cc212b097d4c8519285db22a583b2355dd256772ad83f7",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/243609/statement/48"
  },
  "state": "VIC"

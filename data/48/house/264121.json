@@ -340,6 +340,17 @@
    "kind": "addition",
    "sequence": 31,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-08",
+   "date_submitted": "2026-09-08",
+   "details": "Tickets to AFLW Brisbane Lions v North Melbourne, gift of the Brisbane Lions on the 22 August 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
   }
  ],
  "aph_id": "264121",
@@ -354,7 +365,7 @@
  },
  "family_name": "Wells",
  "given_names": "Anika",
- "honorific": "Hon",
+ "honorific": null,
  "interests": [
   {
    "category": "real-estate",
@@ -574,16 +585,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-10",
+ "last_updated": "2026-09-08",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-08T18:12:19Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/264121.pdf",
-  "sha256": "6f81cbc0a3a22c383a7da9a89acb57adf9ce508a30963a93436aab9135ef4515",
+  "sha256": "ff869df32f765291779f82ad98be4a238637488d3011a60cb1ce3f13248bcbd8",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/264121/statement/48"
  },
- "state": "QLD"
+ "state": null
 }
