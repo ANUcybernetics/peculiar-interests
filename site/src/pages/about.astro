@@ -7,43 +7,32 @@ import { withBase } from "@/lib/paths";
   <div class="prose">
     <h1>About</h1>
     <p>
-      Federal MPs and senators must lodge a statement of their registrable interests at the start of each Parliament
-      (members within 28 days of being sworn in; senators within 28 days of the Senate's first meeting after the 1
-      July following an election) and notify any change within 28 days in the House or 35 days in the Senate:
-      property, shares, trusts, directorships, debts, accounts, other assets and income, gifts, sponsored travel,
-      and memberships or other interests that could give rise to a conflict. Both houses also require the interests
-      of a spouse or partner and of dependent children. The House publishes those alongside the member's own; the
-      Senate keeps that part of its register confidential to its Committee of Senators' Interests. The registers
-      exist so the public can see where a parliamentarian's private interests might meet their public duties.
+      Peculiar Interests brings together the interests declared by Australia's federal MPs and senators.
+      You can look up a politician, see who has declared shares in a company, or read the latest changes.
+      The data is also available to <a href={withBase("/data")}>download as JSON and CSV</a>.
     </p>
     <p>
-      The registers are public, but not easy. The House publishes one PDF per member; the Senate a web app. Neither
-      offers a download, a search across people, or a way to see what changed last month. Peculiar Interests reads
-      both into one schema, publishes the result as browsable pages and downloadable data, and keeps the history in
-      git so every change is dated and attributable.
+      The House publishes statements as PDFs; the Senate uses a web app. This site extracts the declarations from
+      both sources and checks for updates each night. Each politician's page links to their official statement.
     </p>
 
-    <h2>How the data is read</h2>
+    <h2>How we extract the data</h2>
     <p>
-      The Senate register is read field by field from the data service behind the official web app. Most House
-      statements are system-generated PDFs whose tables are extracted exactly from the text layer, with no model
-      involved. A handful of House statements are handwritten scans; those are transcribed from the page images by a
-      language model (Claude) and then checked by a person against the document before they are shown as
-      confirmed. Every person page
-      says which of these applies to it and links to the official document.
+      Senate declarations come from the data service behind the official register. For most House statements, we
+      extract the text from PDF tables. Handwritten scans are transcribed using Claude, then checked against the
+      document by a person. Transcriptions awaiting review are labelled on the politician's page.
     </p>
     <p>
-      The text is the parliamentarian's own. We normalise placeholders like "Not Applicable" to an empty item and
-      group identical names for the <a href={withBase("/mentions")}>mentions</a> pages, and otherwise leave the
-      wording alone.
+      We keep the wording of the declarations, treating placeholders such as "Not Applicable" as empty entries.
+      The <a href={withBase("/mentions")}>mentions</a> pages group names from company, bank and other organisation
+      fields so you can see who declared them.
     </p>
 
     <h2 id="corrections">Corrections</h2>
     <p>
-      If an entry here does not match the official document, that is our error and we want to fix it: open an issue
-      on <a href="https://github.com/anucybernetics/peculiar-interests/issues">GitHub</a> or email
-      <a href="mailto:ben.swift@anu.edu.au">ben.swift@anu.edu.au</a> with the person's name and what is wrong. If
-      the official document itself is wrong or out of date, the place to raise that is the
+      If we have misread a declaration, <a href="https://github.com/anucybernetics/peculiar-interests/issues">open a GitHub issue</a>
+      or email <a href="mailto:ben.swift@anu.edu.au">ben.swift@anu.edu.au</a> with the person's name and the error.
+      For errors in the official statement, contact the
       <a href="https://www.aph.gov.au/Senators_and_Members/Members/Register">Registrar of Members' Interests</a> or
       the
       <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests"
@@ -51,12 +40,14 @@ import { withBase } from "@/lib/paths";
       >.
     </p>
 
-    <h2>Who</h2>
+    <h2>About the project</h2>
     <p>
-      A <a href="https://cybernetics.anu.edu.au">Cybernetic Studio</a> project by
-      <a href="https://benswift.me">Ben Swift</a> at the ANU School of Cybernetics, and a sibling of the
-      <a href="https://apsaitracker.app">Australian Government AI Tracker</a>. Code is MIT, the dataset is CC BY 4.0.
-      Not affiliated with the Parliament of Australia or any party.
+      Peculiar Interests is a <a href="https://cybernetics.anu.edu.au">Cybernetic Studio</a> project by
+      <a href="https://benswift.me">Ben Swift</a> at the ANU School of Cybernetics.
+      Ben also makes the
+      <a href="https://apsaitracker.app">Australian Government AI Tracker</a>.
+      The code is licensed under MIT and the dataset under CC BY 4.0.
+      The project is independent of the Parliament of Australia and political parties.
     </p>
   </div>
 </Layout>

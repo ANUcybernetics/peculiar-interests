@@ -11,13 +11,13 @@ const shared = mentions.filter((m) => mentionPeople(m) >= 2);
 const single = mentions.length - shared.length;
 ---
 
-<Layout title="Mentions" description="Every company, bank, creditor, trust and organisation named in the registers, and who named it.">
+<Layout title="Mentions" description="Companies, banks, trusts and other organisations named in declarations, and the politicians who declared them.">
   <h1>Names in the register</h1>
   <p class="prose muted">
-    Every company, creditor, bank, trust and organisation named under the structured items (shareholdings,
-    trusts, directorships, partnerships, liabilities, investments, accounts, memberships), grouped by spelling.
-    Gift and travel details are free text and are searchable instead.
-    {`${pluralise(shared.length, "name is", "names are")} shared by two or more parliamentarians; ${single.toLocaleString("en-AU")} more appear once.`}
+    Find which politicians declared an interest in a company, bank, trust or other organisation.
+    Names come from the organisation fields in statements and are grouped by spelling; different names may refer to the same organisation.
+    Gift and travel descriptions are available through search.
+    {`${pluralise(shared.length, "name appears", "names appear")} in two or more politicians' statements; ${single.toLocaleString("en-AU")} appear in one politician's statement each.`}
   </p>
   <div class="table-scroll">
     <table>
@@ -27,7 +27,7 @@ const single = mentions.length - shared.length;
           <th scope="col">Name</th>
           <th scope="col" class="num">People</th>
           <th scope="col" class="num">Line items</th>
-          <th scope="col">Under</th>
+          <th scope="col">Category</th>
         </tr>
       </thead>
       <tbody>

@@ -10,11 +10,11 @@ interface Props {
 const { statement: s } = Astro.props;
 
 const METHOD: Record<Statement["extraction"]["method"], string> = {
-  "senate-api": "read field by field from the Senate register's data service",
-  "pdf-text": "read from the text of the official PDF; the tables are machine-generated so this is exact",
-  ocr: "transcribed from the scanned pages by a machine (a language model reading the page images) and not yet checked by a person",
-  manual: "read from a scanned document and checked line by line by a person",
-  pending: "a scanned document we have not yet transcribed",
+  "senate-api": "Read from the Senate register's data service.",
+  "pdf-text": "Extracted from the text in the official PDF.",
+  ocr: "Transcribed from scanned pages using Claude; awaiting review by a person.",
+  manual: "Transcribed from a scanned document and checked by a person.",
+  pending: "Awaiting transcription from the scanned document.",
 };
 const officialName = s.chamber === "house" ? "Register of Members' Interests" : "Register of Senators' Interests";
 const repoRaw = `https://github.com/anucybernetics/peculiar-interests/blob/main/${s.source.raw_path}`;
@@ -44,7 +44,7 @@ const repoRaw = `https://github.com/anucybernetics/peculiar-interests/blob/main/
     <div>
       <dt>How it was read</dt>
       <dd>
-        This statement was {METHOD[s.extraction.method]} (parser version {s.extraction.version}).
+        {METHOD[s.extraction.method]} Parser version {s.extraction.version}.
         {s.extraction.notes.length > 0 && <ul>{s.extraction.notes.map((n) => <li>{n}</li>)}</ul>}
       </dd>
     </div>

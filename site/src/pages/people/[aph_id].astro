@@ -40,9 +40,8 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
     pending && (
       <div class="notice">
         <p>
-          <strong>This statement is a handwritten scan we have not yet transcribed.</strong> The official document is
-          linked below and is the record; the item-by-item view will appear here once a person has checked the
-          transcription.
+          <strong>This scanned statement is awaiting transcription.</strong>
+          You can read the official document using the link below.
         </p>
       </div>
     )
@@ -51,8 +50,8 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
     unreviewed && (
       <div class="notice">
         <p>
-          <strong>Transcribed from a handwritten scan by a machine and not yet checked by a person.</strong> Handwriting is hard;
-          treat every line here as provisional and confirm against the official document below.
+          <strong>This transcription has not yet been checked by a person.</strong>
+          Claude read it from a scanned document. Check entries against the official document linked below before using them.
         </p>
       </div>
     )
@@ -64,10 +63,10 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
       <section class="items">
         <h2 id="statement">Statement of registrable interests</h2>
         <p class="muted small">
-          The fourteen items in the order the form asks them.{" "}
+          Entries follow the fourteen categories on the declaration form.{" "}
           {s.chamber === "house"
             ? "Each row says whose interest it is: the member's own, their spouse or partner's, or a dependent child's."
-            : "The Senate publishes only the senator's own interests; those of a spouse, partner or dependent children are lodged but kept confidential to the Committee of Senators' Interests."}
+            : "The Senate publishes the senator's own interests. Declarations for partners and dependent children are confidential to the Committee of Senators' Interests."}
         </p>
         <div class="items__list">
           {CATEGORIES.map((c) => (
@@ -90,8 +89,8 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
       ) : (
         <>
           <p class="muted small">
-            {`${pluralise(ledger.length, "change")} notified since lodgement, newest first.`} Additions carry a plus,
-            deletions a minus; the wording is the parliamentarian's own.
+            {`${pluralise(ledger.length, "change")} notified since lodgement, newest first.`}
+            A plus marks an addition; a minus marks a deletion. Details use the wording of the declaration.
           </p>
           <Ledger entries={ledger} showPerson={false} />
         </>

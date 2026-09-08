@@ -8,11 +8,11 @@ const { ledger } = dataset();
 const additions = ledger.filter((e) => e.alteration.kind === "addition").length;
 ---
 
-<Layout title="Changes" description="Every alteration notified to the registers of interests, newest first.">
-  <h1>Every alteration</h1>
+<Layout title="Changes" description="Changes recorded in MPs' and senators' declarations, newest first.">
+  <h1>Changes to declarations</h1>
   <p class="prose muted">
-    {`${pluralise(ledger.length, "alteration")} notified since the statements were lodged: ${additions} additions and ${ledger.length - additions} deletions, across both chambers, newest first.`} Dates are the day the registrar
-    processed the notice where the House records one, otherwise the day it was made.
+    {`${pluralise(ledger.length, "alteration")} across both chambers: ${additions} additions and ${ledger.length - additions} deletions, newest first.`}
+    Dates show when a notice was processed, where recorded, or when it was submitted.
   </p>
   <Ledger entries={ledger} byMonth />
 </Layout>

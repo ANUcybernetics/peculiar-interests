@@ -5,12 +5,12 @@ import { withBase } from "@/lib/paths";
 
 const { statements, generatedAt } = dataset();
 const endpoints = [
-  ["people.json", "Everyone on the roster: names, chamber, party, state or electorate, APH id."],
+  ["people.json", "MPs and senators, with names, chamber, party, state or electorate, and APH ID."],
   ["statements.json", "Every statement in full: interests, alterations, notes, source and extraction metadata."],
-  ["statements/{aph_id}.json", "One statement. The same JSON the person page is built from."],
-  ["interests.csv", "One row per declared line item, flattened: person, chamber, item, holder, field, value."],
+  ["statements/{aph_id}.json", "A politician's statement, identified by their APH ID."],
+  ["interests.csv", "One row per field in a declared interest, with the person, category, holder and value."],
   ["alterations.csv", "One row per alteration: person, chamber, date, addition or deletion, item, details."],
-  ["ledger.json", "The alterations across both chambers, newest first, with the person attached."],
+  ["ledger.json", "Dated alterations from both chambers, newest first, including each politician's details."],
   ["schema.json", "JSON Schema for a statement, generated from the Python models."],
 ];
 ---
@@ -19,16 +19,15 @@ const endpoints = [
   <h1>Data</h1>
   <div class="prose">
     <p>
-      Everything on this site is generated from a public git repository that stores the official documents as
-      fetched and the extracted statements as JSON. The extracted dataset is licensed
-      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: use it for anything, say where it came
-      from. The documents themselves are the Parliament of Australia's, published under CC BY-NC-ND 4.0, and are
-      linked rather than served.
+      Download the declarations as JSON or CSV using the links below. The extracted dataset is licensed under
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>; credit Peculiar Interests when you reuse it.
+      The original documents have a separate licence, CC BY-NC-ND 4.0. Each politician's page links to the official
+      copy on Parliament's website.
     </p>
     <h2>Static API</h2>
     <p>
-      Plain files under <code>{withBase("/api/v1/")}</code>, rebuilt whenever the register changes. No keys, no rate
-      limits; cache them.
+      These files live under <code>{withBase("/api/v1/")}</code> and update when the site rebuilds.
+      You can download them without an API key.
     </p>
   </div>
   <div class="table-scroll">
@@ -57,23 +56,27 @@ const endpoints = [
     </table>
   </div>
   <div class="prose">
-    <h2>Shape</h2>
+    <h2>Data structure</h2>
     <p>
-      A statement has fourteen categories of <em>interest</em> (the lodged form) and a list of dated
-      <em>alterations</em> (additions and deletions notified since). Interests carry typed fields where the source
-      has them; alterations are free text against a category, because that is all either chamber records. The
-      <code>holder</code> says whose interest it is (self, spouse or partner, dependent children) for the House;
-      the Senate publishes only the senator's own, so it is unspecified there. <code>extraction.method</code> tells you how the text was read:
+      Each statement contains <code>interests</code> from the lodged form and <code>alterations</code> recording
+      subsequent additions and deletions. Interests use named fields within fourteen categories; alterations contain
+      free text and a category where one is recorded.
+    </p>
+    <p>
+      For House statements, <code>holder</code> identifies interests belonging to the member, their spouse or partner,
+      or dependent children. Senate statements contain only the senator's published interests, with
+      <code>holder</code> set to <code>unspecified</code>.
+      The <code>extraction.method</code> field records how we read the statement:
       <code>senate-api</code>, <code>pdf-text</code>, <code>ocr</code> (unreviewed), <code>manual</code>
       (reviewed) or <code>pending</code>.
     </p>
     <pre tabindex="0"><code>{`curl ${Astro.site ?? ""}${withBase("/api/v1/statements/")}${statements[0]?.aph_id ?? "HWK"}.json`}</code></pre>
     <h2>Source code and raw documents</h2>
     <p>
-      <a href="https://github.com/anucybernetics/peculiar-interests">github.com/anucybernetics/peculiar-interests</a> holds the scraper, the
-      parsers, this site, and every fetched document under <code>raw/</code>. The git history is the audit trail:
-      each nightly run commits what changed.
+      The <a href="https://github.com/anucybernetics/peculiar-interests">GitHub repository</a> contains the site's code
+      and the documents we downloaded, stored under <code>raw/</code>.
+      Changes found during nightly updates are committed to git, where you can compare versions.
     </p>
-    <p class="muted small">This build: {generatedAt.slice(0, 10)}.</p>
+    <p class="muted small">Site built on {generatedAt.slice(0, 10)}.</p>
   </div>
 </Layout>

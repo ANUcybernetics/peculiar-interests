@@ -23,8 +23,8 @@ const rows = statements.map((s) => {
 <Layout title="People" description="Every federal MP and senator with a statement on the register of interests.">
   <h1>People</h1>
   <p class="prose muted">
-    Every member and senator with a statement on the {statements[0]?.parliament ?? 48}th Parliament's registers.
-    Declared counts the line items in the lodged statement; changes counts alterations notified since.
+    MPs and senators with statements in the {statements[0]?.parliament ?? 48}th Parliament's registers.
+    “Declared” counts entries in the lodged statement. “Changes” counts later additions and deletions.
   </p>
 
   <RosterFilter client:idle parties={parties} />

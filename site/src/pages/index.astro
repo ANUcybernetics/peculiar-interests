@@ -21,11 +21,13 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
 
 <Layout title="Peculiar Interests">
   <section class="hero">
-    <h1>What Australia's federal politicians have declared they own, owe, and were given.</h1>
+    <h1>The interests declared by Australia's federal politicians.</h1>
     <p class="hero__lede prose">
-      Every entry from the <ChamberMark chamber="house" /> and <ChamberMark chamber="senate" /> registers of
-      interests, read into one schema and kept current:{" "}
-      {`${pluralise(totalInterests, "declared interest")} across ${pluralise(house.length, "member")} and ${pluralise(senate.length, "senator")}, plus ${pluralise(ledger.length, "alteration")} notified since the ${statements[0]?.parliament ?? 48}th Parliament opened.`} Free to browse, free to <a href={withBase("/data")}>download</a>.
+      Search declarations from the <ChamberMark chamber="house" /> and <ChamberMark chamber="senate" /> registers,
+      including property, shares, gifts and travel.
+      {`This site has ${pluralise(totalInterests, "declared interest")} from ${pluralise(house.length, "member")} and ${pluralise(senate.length, "senator")} in the ${statements[0]?.parliament ?? 48}th Parliament.`}
+      {`It also records ${pluralise(ledger.length, "alteration")} to those statements.`}
+      <a href={withBase("/data")}>Download the data</a> as JSON or CSV.
     </p>
   </section>
 
@@ -33,7 +35,7 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
     <div class="section__head">
       <h2 id="recent">Latest alterations</h2>
       <p class="muted">
-        {latest ? `Most recent processed ${formatDate(latest)}. ` : ""}
+        {latest ? `Latest dated ${formatDate(latest)}. ` : ""}
         <a href={withBase("/changes")}>All changes</a>
       </p>
     </div>
@@ -59,15 +61,15 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
         </ol>
       </div>
       <div>
-        <h3>By who</h3>
+        <h3>By person</h3>
         <ul class="plain" role="list">
           <li>
             <a href={withBase("/people?chamber=house")}>{pluralise(house.length, "member")} of the House</a>
           </li>
           <li><a href={withBase("/people?chamber=senate")}>{pluralise(senate.length, "senator")}</a></li>
-          <li><a href={withBase("/people")}>Everyone, filterable by party and state</a></li>
+          <li><a href={withBase("/people")}>All MPs and senators</a></li>
         </ul>
-        <h3>Most-declared names</h3>
+        <h3>Frequently named organisations</h3>
         <p class="muted small">
           Companies, banks and organisations named by three or more parliamentarians.
           <a href={withBase("/mentions")}>All names</a>
@@ -89,8 +91,8 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
   {
     pending > 0 && (
       <p class="notice small">
-        {pluralise(pending, "statement is", "statements are")} handwritten and still being transcribed; those pages
-        show the official document without extracted entries for now.
+        {pluralise(pending, "statement is", "statements are")} awaiting transcription.
+        Those person pages link to the official documents.
       </p>
     )
   }
