@@ -6,8 +6,8 @@ import Layout from "@/components/Layout.astro";
 import Ledger from "@/components/Ledger.astro";
 import SourceBox from "@/components/SourceBox.astro";
 import { dataset } from "@/lib/data";
-import { buildLedger } from "@/lib/derive";
-import { fullName, pluralise } from "@/lib/format";
+import { buildLedger, giftTotal } from "@/lib/derive";
+import { formatMoney, fullName, pluralise } from "@/lib/format";
 import { CATEGORIES } from "@/lib/schema";
 
 export function getStaticPaths() {
@@ -21,6 +21,25 @@ const person = personById.get(s.aph_id);
 const name = fullName(s.given_names, s.family_name);
 const title = s.honorific && /hon/i.test(s.honorific) ? `${name}` : name;
 const ledger = buildLedger([s]);
+const gifts = giftTotal(s);
+// Where the gift figure comes from, or why there isn't one. Only a minority of
+// entries name a value at all, so the count matters as much as the total.
+const giftSource =
+  gifts.valued === 0
+    ? gifts.entries === 1
+      ? "The one gift entry names no value."
+      : `None of the ${gifts.entries} gift entries names a value.`
+    : gifts.entries === 1
+      ? "the only gift entry"
+      : gifts.valued === gifts.entries
+        ? `all ${gifts.entries} gift entries`
+        : `${gifts.valued} of ${gifts.entries} gift entries`;
+// Gifts arrive by alteration more often than at lodgement, so item 11 can read
+// "nothing declared" over a large total.
+const giftScope = s.interests.some((i) => i.category === "gifts")
+  ? "alterations included"
+  : "all notified by alteration";
+const giftClause = `, from ${giftSource} (${giftScope}).`;
 const pending = s.extraction.method === "pending";
 const unreviewed = s.extraction.method === "ocr";
 const description = `${name}'s register of interests: ${pluralise(s.interests.length, "declared item")} and ${pluralise(s.alterations.length, "alteration")}.`;
@@ -74,7 +93,20 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
               category={c}
               interests={s.interests.filter((i) => i.category === c)}
               showHolder={s.chamber === "house"}
-            />
+            >
+              {c === "gifts" && gifts.entries > 0 && (
+                <p class="gift-total small">
+                  {gifts.valued > 0 ? (
+                    <>
+                      <strong>At least {formatMoney(gifts.total)} in gifts</strong>{giftClause}
+                    </>
+                  ) : (
+                    giftSource
+                  )}{" "}
+                  <span class="muted">The register asks what was given, not what it was worth.</span>
+                </p>
+              )}
+            </ItemBlock>
           ))}
         </div>
       </section>
@@ -117,5 +149,12 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
 
   .items__list {
     border-bottom: 1px solid var(--rule);
+  }
+
+  .gift-total {
+    margin: var(--space-3) 0 0;
+    padding-top: var(--space-2);
+    border-top: 1px dotted var(--rule);
+    text-wrap: pretty;
   }
 </style>

@@ -1,7 +1,8 @@
 ---
 // One of the fourteen items on a person page, laid out as the form lays it
 // out: a rubric (number and name) beside the declared rows, each row showing
-// whose interest it is and the declared fields.
+// whose interest it is and the declared fields. Anything slotted in follows
+// the rows, for a note the page derives rather than reads off the form.
 import { categoryPath } from "@/lib/paths";
 import {
   CATEGORY_INFO,
@@ -57,6 +58,7 @@ const id = `item-${info.item}`;
         </table>
       )
     }
+    <slot />
   </div>
 </section>
 

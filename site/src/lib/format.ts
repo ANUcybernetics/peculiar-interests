@@ -36,3 +36,15 @@ export function pluralise(count: number, noun: string, plural = `${noun}s`): str
 export function oneLine(text: string): string {
   return text.replace(/\s+/g, " ").trim();
 }
+
+const moneyFormat = new Intl.NumberFormat("en-AU", {
+  style: "currency",
+  currency: "AUD",
+  maximumFractionDigits: 0,
+});
+
+/** "$3,837" from 3837.40. Rounds down: a total added up from declared values
+ * is a floor, and rounding up would overstate it. */
+export function formatMoney(amount: number): string {
+  return moneyFormat.format(Math.floor(amount));
+}
