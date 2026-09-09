@@ -175,6 +175,28 @@
    "kind": "addition",
    "sequence": 16,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Attendance at President's dinner courtesy of the AFL to watch the tragic end to the Mighty Melbourne Demon's 2026 season.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Attendance at President's dinner courtesy of the AFL to watch the tragic end to the Mighty Melbourne Demon's 2026 season.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
   }
  ],
  "aph_id": "IMW",
@@ -492,15 +514,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-14",
+ "last_updated": "2026-09-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-09T18:05:26Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/IMW.pdf",
-  "sha256": "94e2917c3b64e4d9fb8a1a7cb74aed0f7cf0f958b53814a6481aac82135e6473",
+  "sha256": "05a7220b37163df543e97a40a1937829e5644437b7a806dd919b6907e216e913",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/IMW/statement/48"
  },
  "state": "VIC"

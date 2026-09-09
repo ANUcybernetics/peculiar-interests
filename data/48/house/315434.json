@@ -65,6 +65,105 @@
    "kind": "deletion",
    "sequence": 6,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "3 x cartons of beer from the Brewers Association - 09/10/2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Invitation and tickets from Cricket Australia for the 3rd Day of Ashes Test at Adelaide Oval on Friday 19/12/2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Invitation and tickets from Meat and Livestock Australia and Livestock SA for the Annual Industry Dinner at the Adelaide Convention Centre on Wednesday 19/11/2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Invitation and tickets from The Spencer Gulf and West Coast Prawn Association for the Annual Industry Dinner at Victoria Park Social Club, Adelaide on Friday 07/11/2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Invitation and tickets from BHP for their 140th Anniversary Dinner at The Edge, Federation Square, Melbourne on Wednesday 22/10/2025",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "2/6/26 - ETF, VAS.ASX purchased",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Football Australia - World Cup ticket - MD2 Australia Vs United States 19/6/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "SANTOS Suite tickets - Adelaide v Carlton AFL 9/4/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Crows Vs Richmond Chairman's Club, with Vincent Tarzia - 8/8/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
   }
  ],
  "aph_id": "315434",
@@ -79,7 +178,7 @@
  },
  "family_name": "Venning",
  "given_names": "Thomas",
- "honorific": null,
+ "honorific": "Mr",
  "interests": [
   {
    "category": "shareholdings",
@@ -285,16 +384,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2025-08-18",
+ "last_updated": "2026-09-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-09T18:05:26Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/315434.pdf",
-  "sha256": "81d3be6bcb847c2de30f6ce39faaa2918321a8b4aa37048c098e884de65b2643",
+  "sha256": "867cdb412db04ffa7ae168595d1e4518d0c08e17806f1af138062cbfaf2ffcb1",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/315434/statement/48"
  },
- "state": null
+ "state": "SA"
 }

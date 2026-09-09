@@ -1,5 +1,61 @@
 {
- "alterations": [],
+ "alterations": [
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "10 x tickets to Perth Ashes Day 1 for Local Junior Cricket Clubs - gifted by Westpac Bank. Donated to Ballajura Landsdale Cricket Club. Total value $1900.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Member of Australian Labor Party (ALP) and United Workers Union (UWU)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "2x tickets to Midwinter Ball 2026 from eBay",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Salary for employment - spouse retired",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "No longer working at WA Corruption and Crime Commission (retired)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  }
+ ],
  "aph_id": "13050",
  "chamber": "house",
  "date_lodged": "2025-08-19",
@@ -113,15 +169,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2025-08-19",
+ "last_updated": "2026-09-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-09T18:05:26Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/13050.pdf",
-  "sha256": "3c952ac593a65edb39b706615fa9e9b40b5fdea8f77ec20adf0241dc9008be70",
+  "sha256": "a9f23ce720cc25c84cfd6fa8f3f4fcfcd1f8d6535e2eb7389946e44b687bb3d9",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/13050/statement/48"
  },
  "state": "WA"

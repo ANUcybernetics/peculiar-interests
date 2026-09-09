@@ -307,6 +307,17 @@
    "kind": "addition",
    "sequence": 28,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Australian Regional Leadership Initiative - July/August 2026 East Timor Delegation participant",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
   }
  ],
  "aph_id": "248895",
@@ -432,15 +443,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-03-09",
+ "last_updated": "2026-09-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-09T18:05:26Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/248895.pdf",
-  "sha256": "2fdd91cd2757b9c2cec89a15d4e20a38de99584af4d0e2b7afb7562698e24925",
+  "sha256": "79ec6f28d0e270bf5bfe041126f5812f9e6bdf2aa83ed606e156dbce73018edd",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/248895/statement/48"
  },
  "state": "NSW"

@@ -1,5 +1,50 @@
 {
- "alterations": [],
+ "alterations": [
+  {
+   "category": "accounts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "ING Bank Everyday Account closed",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 1,
+   "source_id": null
+  },
+  {
+   "category": "accounts",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "ING Bank Everyday Account closed",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Remove - Member - Catholic Parish of Bundaberg Finance Council",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-09",
+   "date_submitted": "2026-09-09",
+   "details": "Remove - Patron - Bundaberg Little Athletics",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": null
+  }
+ ],
  "aph_id": "315478",
  "chamber": "house",
  "date_lodged": "2025-08-19",
@@ -242,15 +287,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2025-08-19",
+ "last_updated": "2026-09-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-09T18:05:26Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/315478.pdf",
-  "sha256": "76f4340b46ea378588caae34f022a6c53d08d77fd244da86cd20d34b20766e5a",
+  "sha256": "f6bf0f9e7e48b5a80c274dadf6957587da3c646cfca25ac09d23c7c84eb800f3",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/315478/statement/48"
  },
  "state": "QLD"
