@@ -32,6 +32,28 @@
    "kind": "addition",
    "sequence": 3,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-11",
+   "date_submitted": "2026-09-11",
+   "details": "Ticket & accommodation for Cowboys v Tigers game - 29 August 2026 - Bravus Mining & Resources",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-11",
+   "date_submitted": "2026-09-11",
+   "details": "Ticket & accommodation for Cowboys v Tigers game - 29 August 2026 - Bravus Mining & Resources",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
   }
  ],
  "aph_id": "286535",
@@ -46,7 +68,7 @@
  },
  "family_name": "Willcox",
  "given_names": "Andrew",
- "honorific": "Mr",
+ "honorific": null,
  "interests": [
   {
    "category": "shareholdings",
@@ -1537,16 +1559,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-05-07",
+ "last_updated": "2026-09-11",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-11T18:23:31Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/286535.pdf",
-  "sha256": "de0229c53f35b0d025734e0c0f0bf0ae0d5e5355838ac13f9751ede462d8a032",
+  "sha256": "6b71bfb73ae1d46bb7f4517e217c259d2bae05298c8c5905e5a3a1d192c05d34",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/286535/statement/48"
  },
- "state": "QLD"
+ "state": null
 }

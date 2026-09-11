@@ -142,15 +142,15 @@
    "source_id": "09aa7718-c78e-f011-b4cc-6045bde63b9a"
   }
  ],
- "last_updated": "2025-10-14",
+ "last_updated": "2026-09-11",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-11T18:23:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/256063.json",
-  "sha256": "ffe544aa9753d56087702c6740d38122944c9e56eeaacbe947750f7a89db89f2",
+  "sha256": "c7904471ce7910982c7622a90fcac9573cedb637beee979911f5be209e0c3678",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=256063"
  },
  "state": "New South Wales"

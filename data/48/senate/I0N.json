@@ -426,15 +426,15 @@
    "source_id": "f164e705-bd7c-f011-b4cc-6045bdc323b4"
   }
  ],
- "last_updated": "2026-04-22",
+ "last_updated": "2026-09-11",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-11T18:23:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/I0N.json",
-  "sha256": "62f1ae7f53d1069031a122b13d721c26e2113d5a5bd5e3dcabcb35d8794fdbac",
+  "sha256": "473ebe87b5e6d2cb9441c8b6c85a020b42dd5ef2283cba7025307e977f20cdc2",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=I0N"
  },
  "state": "South Australia"

@@ -87,6 +87,28 @@
    "kind": "addition",
    "sequence": 8,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-11",
+   "date_submitted": "2026-09-11",
+   "details": "Travel to Greece, accommodation and hospitality provided by the World Hellenic Inter-Parliamentary Association. 17-28 July 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-11",
+   "date_submitted": "2026-09-11",
+   "details": "Accommodation and hospitality provided by the World Hellenic Inter- Parliamentary Association. 17-28 July 2026.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
   }
  ],
  "aph_id": "219646",
@@ -101,7 +123,7 @@
  },
  "family_name": "McCormack",
  "given_names": "Michael",
- "honorific": "Hon",
+ "honorific": null,
  "interests": [
   {
    "category": "shareholdings",
@@ -409,16 +431,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-09",
+ "last_updated": "2026-09-11",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-11T18:23:31Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/219646.pdf",
-  "sha256": "a5793a3c05b07e4884d7e2eba68e6dc22ea65d349e02e13833b9a88568adc149",
+  "sha256": "cbe3295f5137ba9ad49510d5730dcb09e4c2c80ee5e66cf57793f662d4ca3165",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/219646/statement/48"
  },
- "state": "NSW"
+ "state": null
 }
