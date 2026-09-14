@@ -794,6 +794,19 @@
    "title": "Senator"
   },
   {
+   "cdapId": "324140",
+   "id": "dae84693-d2af-f111-aaac-70a8a553fe6c",
+   "lastDateUpdated": "2026-09-14T11:46:59",
+   "lodgmentDate": "2026-09-11T14:00:00Z",
+   "name": "Gatenby, Chris",
+   "postNominal": "",
+   "publishNotes": false,
+   "senatorParty": "Liberal Party of Australia",
+   "state": "Tasmania",
+   "statementNotes": "",
+   "title": "Senator"
+  },
+  {
    "cdapId": "39801",
    "id": "ca839ced-bc7c-f011-b4cc-6045bdc323b4",
    "lastDateUpdated": "2026-08-30T14:22:14",
@@ -1025,6 +1038,7 @@
   "316935": "2026-09-07T08:12:21+00:00",
   "317026": "2026-09-07T08:12:21+00:00",
   "319142": "2026-09-07T08:12:21+00:00",
+  "324140": "2026-09-14T18:10:27+00:00",
   "39801": "2026-09-07T08:12:21+00:00",
   "55842": "2026-09-07T08:12:21+00:00",
   "BFQ": "2026-09-07T08:12:21+00:00",

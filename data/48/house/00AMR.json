@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-14",
+   "date_submitted": "2026-09-14",
+   "details": "Qantas Lifetime Platnium Status included Travel Wallet and Bag Tag",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
   }
  ],
  "aph_id": "00AMR",
@@ -468,15 +479,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-03-04",
+ "last_updated": "2026-09-14",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-14T18:10:46Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/00AMR.pdf",
-  "sha256": "cf510cc8e0506847e8a9f8f4f6fae1ed67722330d5a08b2ef68851864ae2d6f1",
+  "sha256": "ce21694cdb498d753f0ef039dff9f42c0c8bfeaef44f285815cfa30dfb20b3e4",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/00AMR/statement/48"
  },
  "state": "VIC"

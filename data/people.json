@@ -1366,15 +1366,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:gatenby-chris",
-  "aph_url": null,
+  "aph_id": "324140",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=324140",
   "chamber": "senate",
   "electorate": null,
   "family_name": "Gatenby",
   "gender": "Male",
   "given_names": "Chris John  Arnold",
   "honorific": "Senator",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": null,

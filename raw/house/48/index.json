@@ -860,7 +860,7 @@
    "given_names": "Catherine",
    "honorific": "Hon",
    "kind": "api",
-   "last_updated": "2026-03-04",
+   "last_updated": "2026-09-14",
    "state": "VIC",
    "url": "https://interests-register-api-public.aph.gov.au/api/members/00AMR/statement/48"
   },
@@ -1730,14 +1730,14 @@
   },
   {
    "aph_id": "265970",
-   "display_name": "Wilson, Josh",
+   "display_name": "Wilson, Joshua",
    "electorate": "Fremantle",
    "family_name": "Wilson",
-   "given_names": "Josh",
-   "honorific": "Hon",
+   "given_names": "Joshua",
+   "honorific": null,
    "kind": "api",
-   "last_updated": "2026-05-28",
-   "state": "WA",
+   "last_updated": "2026-09-14",
+   "state": null,
    "url": "https://interests-register-api-public.aph.gov.au/api/members/265970/statement/48"
   },
   {
@@ -1815,7 +1815,7 @@
  ],
  "fetched_at": {
   "00AMN": "2026-09-07T08:23:41+00:00",
-  "00AMR": "2026-09-07T08:23:41+00:00",
+  "00AMR": "2026-09-14T18:10:46+00:00",
   "101351": "2026-09-07T08:23:41+00:00",
   "102376": "2026-09-07T08:23:41+00:00",
   "109556": "2026-09-07T08:23:41+00:00",
@@ -1864,7 +1864,7 @@
   "264170": "2026-09-07T08:23:41+00:00",
   "265585": "2026-09-07T08:23:41+00:00",
   "265967": "2026-09-07T08:23:41+00:00",
-  "265970": "2026-09-07T08:23:41+00:00",
+  "265970": "2026-09-14T18:10:46+00:00",
   "265979": "2026-09-07T08:23:41+00:00",
   "265980": "2026-09-07T08:23:41+00:00",
   "265990": "2026-09-07T08:23:41+00:00",

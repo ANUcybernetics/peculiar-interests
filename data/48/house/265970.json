@@ -43,6 +43,28 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-14",
+   "date_submitted": "2026-09-14",
+   "details": "4x tickets to Sydney Swans v North Melbourne AFL game on 23 August, with hospitality, courtesy of QBE",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-14",
+   "date_submitted": "2026-09-14",
+   "details": "2x tickets to Fremantle Dockers v Hawthorn AF game on 3 September, with hospitality, courtesy of Good Drinks Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
   }
  ],
  "aph_id": "265970",
@@ -57,7 +79,7 @@
  },
  "family_name": "Wilson",
  "given_names": "Joshua",
- "honorific": "Hon",
+ "honorific": null,
  "interests": [
   {
    "category": "shareholdings",
@@ -431,16 +453,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-05-28",
+ "last_updated": "2026-09-14",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-14T18:10:46Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/265970.pdf",
-  "sha256": "e85524efcbae289675e42ed877811bc8c53bc9bfaf9c65a49f83edabd19c57df",
+  "sha256": "ef0f8e3c3d3208de649a6b4b55070d59e9e932e8a69670eb8f587a0233964181",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/265970/statement/48"
  },
- "state": "WA"
+ "state": null
 }

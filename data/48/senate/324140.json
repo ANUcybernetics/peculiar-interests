@@ -1,0 +1,395 @@
+{
+ "alterations": [],
+ "aph_id": "324140",
+ "chamber": "senate",
+ "date_lodged": "2026-09-11",
+ "display_name": "Gatenby, Chris",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Gatenby",
+ "given_names": "Chris",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "CBA"
+   },
+   "holder": "unspecified",
+   "source_id": "a87d27ac-d2af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Alcoa"
+   },
+   "holder": "unspecified",
+   "source_id": "677099b2-d2af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Doge/Bitcoin"
+   },
+   "holder": "unspecified",
+   "source_id": "a3d08eb9-d2af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "West Launceston",
+    "purpose": "Residence (joint with spouse)"
+   },
+   "holder": "unspecified",
+   "source_id": "311ce1df-d2af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Newnham",
+    "purpose": "Investment property (with spouse)"
+   },
+   "holder": "unspecified",
+   "source_id": "dabd74ec-d2af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Newstead",
+    "purpose": "Investment property (with spouse)"
+   },
+   "holder": "unspecified",
+   "source_id": "c46916f3-d2af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "St Helens",
+    "purpose": "Investment property (with spouse)"
+   },
+   "holder": "unspecified",
+   "source_id": "f24030f9-d2af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage on residence"
+   },
+   "holder": "unspecified",
+   "source_id": "7668b20b-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "ANZ",
+    "nature": "Mortgage on investment properties x 3"
+   },
+   "holder": "unspecified",
+   "source_id": "219ba811-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "Westpac",
+    "nature": "Credit card"
+   },
+   "holder": "unspecified",
+   "source_id": "0c84b81d-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "a164672b-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Cash investment"
+   },
+   "holder": "unspecified",
+   "source_id": "cfd96d37-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Westpac",
+    "nature": "Share trading"
+   },
+   "holder": "unspecified",
+   "source_id": "cc95663d-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "ANZ",
+    "nature": "Offset"
+   },
+   "holder": "unspecified",
+   "source_id": "8f727b4f-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "Lloyds Bank",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "49a97855-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "CBA",
+    "nature": "Savings (joint with family)"
+   },
+   "holder": "unspecified",
+   "source_id": "e49cf45b-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Life Insurance – AIA"
+   },
+   "holder": "unspecified",
+   "source_id": "df041368-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Private Pension (UK) – Scottish Widows"
+   },
+   "holder": "unspecified",
+   "source_id": "2fc12c6e-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Private Pension (UK) – AVIVA"
+   },
+   "holder": "unspecified",
+   "source_id": "72c12c6e-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation – Guild Group (Life, TPD, IP)"
+   },
+   "holder": "unspecified",
+   "source_id": "a5249f74-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Superannuation – PSSAP (Life, TPD)"
+   },
+   "holder": "unspecified",
+   "source_id": "1db7327b-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Potential Future National Insurance Pension (UK)"
+   },
+   "holder": "unspecified",
+   "source_id": "9ca17e81-d3af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Motor vehicle"
+   },
+   "holder": "unspecified",
+   "source_id": "73fe3c29-d4af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "other-income",
+   "fields": {
+    "nature": "Rental income from investment properties"
+   },
+   "holder": "unspecified",
+   "source_id": "0cae5a36-d4af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Vice-President, Trevallyn Branch, Tasmanian Division of the Liberal Party"
+   },
+   "holder": "unspecified",
+   "source_id": "62362449-d4af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Bass Electorate Executive, Tasmanian Division of the Liberal Party"
+   },
+   "holder": "unspecified",
+   "source_id": "481c1f4f-d4af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Fellow, Institute of Managers and Leaders"
+   },
+   "holder": "unspecified",
+   "source_id": "2a789615-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Life Member, Midland Agricultural Association"
+   },
+   "holder": "unspecified",
+   "source_id": "40789615-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor, Tasmanian Division of the Liberal Party"
+   },
+   "holder": "unspecified",
+   "source_id": "d69dbe1b-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Donor, ‘Partner’, Gatenby Investment Trust"
+   },
+   "holder": "unspecified",
+   "source_id": "8cfc4822-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Liberal Party of Australia (Tas Division)"
+   },
+   "holder": "unspecified",
+   "source_id": "8e704528-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Launceston Chamber of Commerce"
+   },
+   "holder": "unspecified",
+   "source_id": "c0704528-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, North Melbourne Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "07a24e2e-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Tasmania Devils Football Club"
+   },
+   "holder": "unspecified",
+   "source_id": "34a24e2e-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Tasmanian Online Lions Club"
+   },
+   "holder": "unspecified",
+   "source_id": "ace8d984-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Harvest Market, Launceston"
+   },
+   "holder": "unspecified",
+   "source_id": "e6d33a8b-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Tasmanian Turf Club"
+   },
+   "holder": "unspecified",
+   "source_id": "00d43a8b-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Melbourne Cricket Club"
+   },
+   "holder": "unspecified",
+   "source_id": "70c88e91-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Old Launcestonians Football Club Social"
+   },
+   "holder": "unspecified",
+   "source_id": "1468f797-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Associate Member, Northern Midlands Business Association (free)"
+   },
+   "holder": "unspecified",
+   "source_id": "5468f797-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, The Launceston Club"
+   },
+   "holder": "unspecified",
+   "source_id": "f85cf29d-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Member, Friends of QVMAG"
+   },
+   "holder": "unspecified",
+   "source_id": "a963fba3-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Old Geelong Grammarian"
+   },
+   "holder": "unspecified",
+   "source_id": "552e34aa-d5af-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Old Launcestonian"
+   },
+   "holder": "unspecified",
+   "source_id": "972e34aa-d5af-f111-aaac-70a8a553fe6c"
+  }
+ ],
+ "last_updated": "2026-09-14",
+ "notes": [],
+ "parliament": 48,
+ "party": "Liberal Party of Australia",
+ "source": {
+  "fetched_at": "2026-09-14T18:10:27Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/324140.json",
+  "sha256": "b4db351f5f83e261594014db5ae56cbc0bccadcd28082f46480cf2dc904c4bff",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=324140"
+ },
+ "state": "Tasmania"
+}
