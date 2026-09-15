@@ -230,6 +230,17 @@
    "kind": "addition",
    "sequence": 21,
    "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-09-15",
+   "date_submitted": "2026-09-15",
+   "details": "No longer Patron of Shellharbour U3A.",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 22,
+   "source_id": null
   }
  ],
  "aph_id": "23497",
@@ -307,15 +318,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-16",
+ "last_updated": "2026-09-15",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-15T18:23:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/23497.pdf",
-  "sha256": "317741b70a7a4445a4cdb80ad4c3dc8175cfceec479ccf9cd764147aa55e0048",
+  "sha256": "90b9468f01e81b651dba94f0bac54564c0d78d65a306e43e65fc46284892a9b3",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/23497/statement/48"
  },
  "state": "NSW"

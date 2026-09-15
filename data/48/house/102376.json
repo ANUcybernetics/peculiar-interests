@@ -2408,15 +2408,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-07",
+ "last_updated": "2026-09-15",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-15T18:23:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/102376.pdf",
-  "sha256": "795461fe7838b7c366e16819a04e6cf353b1545975504784cf55823ada089ceb",
+  "sha256": "60e72cec465b9b7f955f6d4e1fd8f1f3e14dcb9aa611ca8149e6b537b3813e92",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/102376/statement/48"
  },
  "state": "WA"

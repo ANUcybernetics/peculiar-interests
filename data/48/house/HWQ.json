@@ -274,6 +274,17 @@
    "kind": "addition",
    "sequence": 25,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-15",
+   "date_submitted": "2026-09-15",
+   "details": "2 ticket to NFL San Francisco 49ers vs. Los Angeles Rams game in a corporate suite at Melbourne Cricket Ground (MCG), Friday 11 September 2026. Tickets provided by Netflix.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
   }
  ],
  "aph_id": "HWQ",
@@ -288,7 +299,7 @@
  },
  "family_name": "Marles",
  "given_names": "Richard",
- "honorific": "Hon",
+ "honorific": null,
  "interests": [
   {
    "category": "shareholdings",
@@ -1106,16 +1117,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-18",
+ "last_updated": "2026-09-15",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-15T18:23:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWQ.pdf",
-  "sha256": "f9b4840676514a9071bcb25dbcfdac9cc7495b46cedb9ab9ba739d7dd26e50a5",
+  "sha256": "ba42c83f54eb5efd642c5cb114b9a788ead73c656fa9deff572c6af30d70229e",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWQ/statement/48"
  },
- "state": "VIC"
+ "state": null
 }
