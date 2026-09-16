@@ -115,7 +115,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "1e10977d-947d-f011-b4cc-7c1e522a6625",
-  "lastDateUpdated": "6/30/2026 6:30:28 PM",
+  "lastDateUpdated": "9/15/2026 9:07:01 AM",
   "lodgementDate": "8/18/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Ayres, Tim",
@@ -171,6 +171,18 @@
     "createdOn": "2025-09-30T10:00:00Z",
     "details": "2 x tickets to the NRL & NRLW grand final courtesy of NRL events",
     "id": "55108076-4f9e-f011-bbd3-6045bde63b9a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-14T22:00:00Z",
+    "details": "2 x tickets to Midwinter Ball courtesy of Fortescue",
+    "id": "77cba6e6-57b1-f111-aaab-70a8a553d3a2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-14T22:30:00Z",
+    "details": "1 x ticket to the National Press Club courtesy of Woolworths Group",
+    "id": "a9dda0ed-57b1-f111-aaab-70a8a553d3a2"
    },
    {
     "alterationType": "Addition",

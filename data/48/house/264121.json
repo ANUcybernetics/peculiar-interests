@@ -351,6 +351,28 @@
    "kind": "addition",
    "sequence": 32,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-16",
+   "date_submitted": "2026-09-16",
+   "details": "Tickets to the NFL Game - LA Rams v San Fran 49ers - Guest of the NFL on the 11 September 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-16",
+   "date_submitted": "2026-09-16",
+   "details": "Tickets to the AFL Game - Lions v Crows - Guest of the Brisbane Lions on the 12 September 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 34,
+   "source_id": null
   }
  ],
  "aph_id": "264121",
@@ -365,7 +387,7 @@
  },
  "family_name": "Wells",
  "given_names": "Anika",
- "honorific": null,
+ "honorific": "Hon",
  "interests": [
   {
    "category": "real-estate",
@@ -585,16 +607,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-08",
+ "last_updated": "2026-09-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-08T18:12:19Z",
+  "fetched_at": "2026-09-16T18:13:40Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/264121.pdf",
-  "sha256": "ff869df32f765291779f82ad98be4a238637488d3011a60cb1ce3f13248bcbd8",
+  "sha256": "5184d420156dc7a0eeb22960e7805b9d8308760b57dcae6593303a2e344d94a3",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/264121/statement/48"
  },
- "state": null
+ "state": "QLD"
 }

@@ -98,6 +98,28 @@
    "kind": "addition",
    "sequence": 9,
    "source_id": "24797a90-5674-f111-ab0f-00224810b694"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-14",
+   "details": "2 x tickets to Midwinter Ball courtesy of Fortescue",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "77cba6e6-57b1-f111-aaab-70a8a553d3a2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-14",
+   "details": "1 x ticket to the National Press Club courtesy of Woolworths Group",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "a9dda0ed-57b1-f111-aaab-70a8a553d3a2"
   }
  ],
  "aph_id": "16913",
@@ -252,15 +274,15 @@
    "source_id": "6d10977d-947d-f011-b4cc-7c1e522a6625"
   }
  ],
- "last_updated": "2026-06-30",
+ "last_updated": "2026-09-15",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-16T18:13:20Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/16913.json",
-  "sha256": "96b2ca79591d2ba796f9bf98eb883a57c671e65bf1db5d8241a82ede8aab2991",
+  "sha256": "588061af17a1e631b194f5f20fab356908ac8578518f65467c933b4654f035a3",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=16913"
  },
  "state": "New South Wales"

@@ -307,6 +307,17 @@
    "kind": "addition",
    "sequence": 28,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-16",
+   "date_submitted": "2026-09-16",
+   "details": "1 x ticket to post-Budget Press Club lunch, Great Hall, Parliament House, 13 May 2026, from Eli Lilly Australia, valued at $450",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 29,
+   "source_id": null
   }
  ],
  "aph_id": "316550",
@@ -708,15 +719,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-02",
+ "last_updated": "2026-09-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-16T18:13:40Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316550.pdf",
-  "sha256": "63ff270525d513d2eb06cb1ddf10463c73daf750ed7fbd8bd77962571a79a0d3",
+  "sha256": "2d92a8b288a2c3bdb88732ef61d58030ef5b2da2d1303e3cb1530aca54a0fd38",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316550/statement/48"
  },
  "state": "WA"
