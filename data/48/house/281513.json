@@ -21,6 +21,17 @@
    "kind": "deletion",
    "sequence": 2,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-17",
+   "date_submitted": "2026-09-17",
+   "details": "Tickets x 4 and hospitality from the Penrith Panthers for the women's and men's double header home game at Commbank Stadium. Thursday, 16 July 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
   }
  ],
  "aph_id": "281513",
@@ -279,15 +290,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-06-18",
+ "last_updated": "2026-09-17",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-17T18:07:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/281513.pdf",
-  "sha256": "bb922c786ee55de67f1583d6b0c542a3e213af07951c8c9e3d0fbd1ad663e3c6",
+  "sha256": "1408a17d93e73c84acc73645d88198271a4db09d8d23325d0e53f582ed205f85",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/281513/statement/48"
  },
  "state": "NSW"

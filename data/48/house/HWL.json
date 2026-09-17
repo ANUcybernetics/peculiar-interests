@@ -1519,15 +1519,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-07",
+ "last_updated": "2026-09-17",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-17T18:07:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWL.pdf",
-  "sha256": "e572ea8c8b7a8246449105e1bcc373cf9f0f27f8d7cb46f31e1737ac89c22c35",
+  "sha256": "3bf03287fe5e771d613fb603446bf85e2964091efb959985c991d87c387bbf60",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWL/statement/48"
  },
  "state": "NSW"

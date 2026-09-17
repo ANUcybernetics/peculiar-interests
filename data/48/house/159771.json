@@ -120,6 +120,17 @@
    "kind": "addition",
    "sequence": 11,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-17",
+   "date_submitted": "2026-09-17",
+   "details": "Tickets and hospitality for the Eels vs Knights game on Sunday 30 August for self, spouse and daughters (4) as guests of Parramatta Eels",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
   }
  ],
  "aph_id": "159771",
@@ -367,15 +378,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-06",
+ "last_updated": "2026-09-17",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-17T18:07:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/159771.pdf",
-  "sha256": "60cdda7ddddbf3e70bad769088bfe2e37d5cc1fa3ff154fee39499214da56075",
+  "sha256": "e8c0f738f02dd4db4d0eda409cb0c9882f2f852411892c377b04a55f969a302c",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/159771/statement/48"
  },
  "state": "NSW"

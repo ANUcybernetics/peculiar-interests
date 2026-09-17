@@ -340,6 +340,17 @@
    "kind": "addition",
    "sequence": 31,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-17",
+   "date_submitted": "2026-09-17",
+   "details": "Tickets to the Rabbitohs v Roosters game at Alliance Stadium on 4 September 2026 supplied by NSW Ports",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
   }
  ],
  "aph_id": "182468",
@@ -642,15 +653,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-13",
+ "last_updated": "2026-09-17",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-17T18:07:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/182468.pdf",
-  "sha256": "1a05d5b9470e13e79eb6e6428761b34393074effcf25eb377f1df2d9011afa36",
+  "sha256": "70baba838eccb3140d91ba3d5645ab4ddc4e59fcd54d461338e89751be848a5f",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/182468/statement/48"
  },
  "state": "NSW"
