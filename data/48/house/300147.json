@@ -98,6 +98,39 @@
    "kind": "addition",
    "sequence": 9,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-18",
+   "date_submitted": "2026-09-18",
+   "details": "4 tickets General Admission - Collingwood vs Western Bulldogs Wildcard Final",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-18",
+   "date_submitted": "2026-09-18",
+   "details": "Provided by Telstra",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-18",
+   "date_submitted": "2026-09-18",
+   "details": "Car Drive in Luxury Car around the Yarra Valley by Drive Me Exotics",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
   }
  ],
  "aph_id": "300147",
@@ -435,15 +468,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-31",
+ "last_updated": "2026-09-18",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-18T18:19:34Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/300147.pdf",
-  "sha256": "677d31927ab58a4525dec30314817580faefa991dc43b154c67d9a577b650bec",
+  "sha256": "31ecbdef7f946fc20c2eb2b853cd05e9ef11fa74d0ce7f724e156a4efb1173c8",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/300147/statement/48"
  },
  "state": "VIC"

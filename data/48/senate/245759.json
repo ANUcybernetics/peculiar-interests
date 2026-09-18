@@ -186,6 +186,17 @@
    "kind": "addition",
    "sequence": 17,
    "source_id": "ad5c0972-2292-f111-8076-70a8a553d3a2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-16",
+   "details": "AFL provided 2 x corporate tickets to Brisbane Lions v Adelaide Crows at the Gabba on 12 September 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": "41d068d5-f5b2-f111-aaac-6045bdc2f293"
   }
  ],
  "aph_id": "245759",
@@ -343,15 +354,15 @@
    "source_id": "e591262e-be7c-f011-b4cc-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-08-07",
+ "last_updated": "2026-09-17",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-18T18:19:19Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/245759.json",
-  "sha256": "62cb43b573440d4d9a28447d3c934b56580841ed5739514f87c161e7ceddb14d",
+  "sha256": "2d7253856556426e2300eb4f2aa7cc675fff843e4fde18c73862a5bfecfee6d1",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=245759"
  },
  "state": "Queensland"

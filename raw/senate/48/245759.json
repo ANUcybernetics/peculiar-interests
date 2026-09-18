@@ -167,7 +167,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "c791262e-be7c-f011-b4cc-7c1e5262c1f2",
-  "lastDateUpdated": "8/7/2026 4:10:56 PM",
+  "lastDateUpdated": "9/17/2026 12:07:07 PM",
   "lodgementDate": "8/17/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Watt, Murray",
@@ -199,6 +199,12 @@
     "createdOn": "2026-01-12T02:00:00Z",
     "details": "4 x General Admission tickets to the Brisbane Roar FC v Auckland FC on Friday 9 January 2026 at Suncorp Stadium, gifted by Suncorp.",
     "id": "a6d16740-2bf0-f011-8407-6045bdc2987e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-16T22:00:00Z",
+    "details": "AFL provided 2 x corporate tickets to Brisbane Lions v Adelaide Crows at the Gabba on 12 September 2026",
+    "id": "41d068d5-f5b2-f111-aaac-6045bdc2f293"
    },
    {
     "alterationType": "Addition",
