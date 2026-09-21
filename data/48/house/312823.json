@@ -65,6 +65,39 @@
    "kind": "addition",
    "sequence": 6,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-21",
+   "date_submitted": "2026-09-21",
+   "details": "Unrequested flight upgrade from Qantas on 06/09/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-21",
+   "date_submitted": "2026-09-21",
+   "details": "Honorary patron of St George Chinese Community Memorial Committee",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-21",
+   "date_submitted": "2026-09-21",
+   "details": "Ticket to and hospitality at Davis Cup Australia vs Poland - 19/09/26 held in Moreton electorate. Gift of Tennis Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
   }
  ],
  "aph_id": "312823",
@@ -341,15 +374,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-06-29",
+ "last_updated": "2026-09-21",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-21T18:13:07Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/312823.pdf",
-  "sha256": "7014920e78f8a86249e287201765e177177900d681ac07e007fdf27586b19d44",
+  "sha256": "39573792de47a6f072bd711592c5f91bdcea8ffcbfbd6d6cb59dbbac298a6612",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/312823/statement/48"
  },
  "state": "QLD"

@@ -43,6 +43,50 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-21",
+   "date_submitted": "2026-09-19",
+   "details": "Tickets to Bathurst 1000 and luncheon from Bathurst Regional Council/Supercars",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-21",
+   "date_submitted": "2026-09-19",
+   "details": "Patron Oberon Hospital Auxiliary",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-09-21",
+   "date_submitted": "2026-09-19",
+   "details": "Mortgage on home",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-09-21",
+   "date_submitted": "2026-09-19",
+   "details": "Mortgage on home",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": null
   }
  ],
  "aph_id": "261393",
@@ -453,15 +497,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-02-11",
+ "last_updated": "2026-09-19",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-21T18:13:07Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/261393.pdf",
-  "sha256": "331394a643c3f4ebab2bbf19e141942eb4763c136d9e7ffcb8c6f245c845e63f",
+  "sha256": "8fc221f935ba076df422230675372c978ea52cc347646d5e70665ee015ac889a",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/261393/statement/48"
  },
  "state": "NSW"
