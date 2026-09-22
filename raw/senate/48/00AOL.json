@@ -1,7 +1,14 @@
 {
  "errors": null,
  "gifts": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-21T05:30:00Z",
+    "details": "15 September 2026 - Signed Tasmanian Devils Football Club VFL Jersey courtesy of the Tasmania Football Club ",
+    "id": "ff352e0d-80b5-f111-aaac-7ced8da2d8e0"
+   }
+  ],
   "interests": [
    {
     "detailOfGifts": "Complimentary Subscription Television (Foxtel) provided by ASTRA",
@@ -140,7 +147,7 @@
  "senatorInterestStatement": {
   "electorateState": "Tasmania",
   "id": "d9138e9d-d462-f011-bec2-000d3ad2a284",
-  "lastDateUpdated": "8/31/2026 2:22:08 PM",
+  "lastDateUpdated": "9/21/2026 9:31:49 AM",
   "lodgementDate": "7/16/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Colbeck, Richard",

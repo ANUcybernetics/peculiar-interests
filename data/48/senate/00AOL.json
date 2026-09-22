@@ -54,6 +54,17 @@
    "kind": "addition",
    "sequence": 5,
    "source_id": "eeabbf80-f1a4-f111-b8de-6045bdc2f293"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-21",
+   "details": "15 September 2026 - Signed Tasmanian Devils Football Club VFL Jersey courtesy of the Tasmania Football Club ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "ff352e0d-80b5-f111-aaac-7ced8da2d8e0"
   }
  ],
  "aph_id": "00AOL",
@@ -260,17 +271,17 @@
    "source_id": "6c5cd6b1-db65-f011-bec3-6045bde5c56a"
   }
  ],
- "last_updated": "2026-08-31",
+ "last_updated": "2026-09-21",
  "notes": [
   "Received through PIRS 17 July 2025; checked by Shaun 21 July 2025"
  ],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-22T18:22:59Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/00AOL.json",
-  "sha256": "90cf980808dd4e988fc187f8e3912771766b6817f4e873f0ddb39a7f9e8190e1",
+  "sha256": "630141acaef40ac120dba9392454b9813270c9b041b20c0ce8b4ac8a3865b227",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=00AOL"
  },
  "state": "Tasmania"
