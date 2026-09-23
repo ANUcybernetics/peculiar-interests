@@ -905,18 +905,18 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-14",
+ "last_updated": "2026-09-19",
  "notes": [
   "Transcribed from 17 page images: pages 1-5 the lodged statement, page 6 an alteration notification bound with it, pages 7-17 further alteration notifications (page 11 blank)."
  ],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-23T18:23:06Z",
   "kind": "house-static-pdf",
   "raw_path": "raw/house/48/R36.pdf",
-  "sha256": "2e743041759bfaecc8699b0422cad4217ec5a60437977937c4bec5244615bc98",
-  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/AB/Albanese_48P.pdf?rev=fa206964bbea4ca5888b3b617f760485&hash=477C22908F44B7805199DB93199EB4F7"
+  "sha256": "3d4afc1949dfecfdbbdb03db1ab805775624d8f02dc861c563bb2fc1d8a33f4a",
+  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/AB/Albanese_48P.pdf?rev=afabc3b4c02f4fd89481dca69ec53daa"
  },
  "state": "NSW"
 }
