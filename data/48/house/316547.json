@@ -109,6 +109,39 @@
    "kind": "addition",
    "sequence": 10,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-24",
+   "date_submitted": "2026-09-24",
+   "details": "Member, Kirra Surf Life Saving Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-24",
+   "date_submitted": "2026-09-24",
+   "details": "Member, Rotary Club of Burleigh Heads",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-09-24",
+   "date_submitted": "2026-09-24",
+   "details": "Patron, Gold Coast District Orchid Society",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
   }
  ],
  "aph_id": "316547",
@@ -220,15 +253,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-06-01",
+ "last_updated": "2026-09-24",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-24T18:22:59Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316547.pdf",
-  "sha256": "2d8fe86eccfeb1b4bf06acd5b0934609bb08d962f955850a67f669e279f00cdf",
+  "sha256": "6e0d70100b676478f6ca7cfba749aabf1ad15d86bfce1c81a03cee117dd6e882",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316547/statement/48"
  },
  "state": "QLD"

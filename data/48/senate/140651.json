@@ -142,6 +142,28 @@
    "kind": "addition",
    "sequence": 13,
    "source_id": "9f44e364-e27f-f111-ab0f-7ced8da1c86f"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-23",
+   "details": "Crystal Standing Cross - gift from National Catholic Education Commission",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "07df7ef9-a6b7-f111-aaac-7c1e5262e7d4"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-23",
+   "details": "National Press Club Lunch - Assistant Treasurer Daniel Mulino - ticket sponsored by Telstra",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "a9c54af3-a6b7-f111-aaac-70a8a553d20c"
   }
  ],
  "aph_id": "140651",
@@ -401,15 +423,15 @@
    "source_id": "b90e24b0-6e7d-f011-b4cc-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-07-16",
+ "last_updated": "2026-09-24",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-24T18:22:50Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/140651.json",
-  "sha256": "4c3cc3d5ff837b4d596b19e5feb9795ba22cd07434b8e20d1fca36bb09620ae3",
+  "sha256": "2f6f8042d6a79399188383e194c74997a4823153447ca84e6288b3f4cf4edf4a",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=140651"
  },
  "state": "New South Wales"

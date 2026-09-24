@@ -1,7 +1,14 @@
 {
  "errors": null,
  "gifts": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-23T21:30:00Z",
+    "details": "Crystal Standing Cross - gift from National Catholic Education Commission",
+    "id": "07df7ef9-a6b7-f111-aaac-7c1e5262e7d4"
+   }
+  ],
   "interests": [
    {
     "detailOfGifts": "Foxtel in electorate office",
@@ -216,7 +223,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "70d29a70-6d7d-f011-b4cc-7c1e5262c1f2",
-  "lastDateUpdated": "7/16/2026 10:35:17 AM",
+  "lastDateUpdated": "9/24/2026 9:50:32 AM",
   "lodgementDate": "8/19/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "O'Neill, Deborah",
@@ -257,6 +264,12 @@
     "createdOn": "2025-12-03T10:00:00Z",
     "details": "Sponsored Economy flight and accommodation sponsored by Inter-Parliamentary Alliance on China - Brussels summit 2025",
     "id": "e5dbf5e6-ecd6-f011-8544-6045bdc49d4e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-23T22:00:00Z",
+    "details": "National Press Club Lunch - Assistant Treasurer Daniel Mulino - ticket sponsored by Telstra",
+    "id": "a9c54af3-a6b7-f111-aaac-70a8a553d20c"
    },
    {
     "alterationType": "Addition",
