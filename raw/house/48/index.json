@@ -566,14 +566,14 @@
   },
   {
    "aph_id": "316550",
-   "display_name": "French, Tom",
+   "display_name": "French, Thomas",
    "electorate": "Moore",
    "family_name": "French",
-   "given_names": "Tom",
-   "honorific": "Mr",
+   "given_names": "Thomas",
+   "honorific": null,
    "kind": "api",
-   "last_updated": "2026-09-16",
-   "state": "WA",
+   "last_updated": "2026-09-24",
+   "state": null,
    "url": "https://interests-register-api-public.aph.gov.au/api/members/316550/statement/48"
   },
   {
@@ -1928,7 +1928,7 @@
   "316537": "2026-09-07T08:23:41+00:00",
   "316540": "2026-09-07T08:23:41+00:00",
   "316547": "2026-09-24T18:22:59+00:00",
-  "316550": "2026-09-16T18:13:40+00:00",
+  "316550": "2026-09-25T18:09:33+00:00",
   "316551": "2026-09-07T08:23:41+00:00",
   "316660": "2026-09-07T08:23:41+00:00",
   "316915": "2026-09-07T08:23:41+00:00",

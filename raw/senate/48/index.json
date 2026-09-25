@@ -326,6 +326,19 @@
    "title": "Senator"
   },
   {
+   "cdapId": "25813",
+   "id": "834a90a0-8bb8-f111-aaac-7c1e5262eaeb",
+   "lastDateUpdated": "2026-09-25T13:27:13",
+   "lodgmentDate": "2026-09-25T09:56:41Z",
+   "name": "Bleyer, Vanessa",
+   "postNominal": "",
+   "publishNotes": false,
+   "senatorParty": "Australian Greens",
+   "state": "Tasmania",
+   "statementNotes": "",
+   "title": "Senator"
+  },
+  {
    "cdapId": "259819",
    "id": "1456f82e-4873-f011-b4cd-000d3ad2a284",
    "lastDateUpdated": "2026-07-14T16:13:34",
@@ -1002,6 +1015,7 @@
   "256063": "2026-09-11T18:23:16+00:00",
   "256136": "2026-09-07T08:12:21+00:00",
   "257613": "2026-09-07T08:12:21+00:00",
+  "25813": "2026-09-25T18:09:05+00:00",
   "259819": "2026-09-07T08:12:21+00:00",
   "263418": "2026-09-07T08:12:21+00:00",
   "263528": "2026-09-07T08:12:21+00:00",

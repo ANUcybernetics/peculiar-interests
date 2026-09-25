@@ -1,0 +1,170 @@
+{
+ "alterations": [],
+ "aph_id": "25813",
+ "chamber": "senate",
+ "date_lodged": "2026-09-25",
+ "display_name": "Bleyer, Vanessa",
+ "electorate": null,
+ "extraction": {
+  "method": "senate-api",
+  "notes": [],
+  "version": 1
+ },
+ "family_name": "Bleyer",
+ "given_names": "Vanessa",
+ "honorific": "Senator",
+ "interests": [
+  {
+   "category": "shareholdings",
+   "fields": {
+    "company": "Bleyer Lawyers Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "a74a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "trusts",
+   "fields": {
+    "beneficial_interest": "Primary beneficiary",
+    "name": "Bleyer Lawyers Trust",
+    "nature": "Legal services",
+    "role": "beneficiary"
+   },
+   "holder": "unspecified",
+   "source_id": "a94a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "Stanley, Tas",
+    "purpose": "Primary residence"
+   },
+   "holder": "unspecified",
+   "source_id": "9e4a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "real-estate",
+   "fields": {
+    "location": "West Launceston, Tas",
+    "purpose": "Secondary residence"
+   },
+   "holder": "unspecified",
+   "source_id": "a04a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "directorships",
+   "fields": {
+    "activities": "Legal services",
+    "company": "Bleyer Lawyers Pty Ltd"
+   },
+   "holder": "unspecified",
+   "source_id": "a24a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "liabilities",
+   "fields": {
+    "creditor": "National Australia Bank Limited",
+    "nature": "Mortgage on secondary residence"
+   },
+   "holder": "unspecified",
+   "source_id": "944a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Legal Super",
+    "type": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "8c4a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "investments",
+   "fields": {
+    "body": "Australian Super",
+    "type": "Superannuation"
+   },
+   "holder": "unspecified",
+   "source_id": "924a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "National Australia Bank Limited (NAB)",
+    "nature": "Savings"
+   },
+   "holder": "unspecified",
+   "source_id": "a44a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Trust"
+   },
+   "holder": "unspecified",
+   "source_id": "a54a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "accounts",
+   "fields": {
+    "institution": "NAB",
+    "nature": "Office"
+   },
+   "holder": "unspecified",
+   "source_id": "a64a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "other-assets",
+   "fields": {
+    "nature": "Motor vehicle"
+   },
+   "holder": "unspecified",
+   "source_id": "9c4a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "gifts",
+   "fields": {
+    "details": "Subscription from Foxtel for electorate office"
+   },
+   "holder": "unspecified",
+   "source_id": "894a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Australian Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "964a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Tasmanian Greens"
+   },
+   "holder": "unspecified",
+   "source_id": "984a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "memberships",
+   "fields": {
+    "organisation": "Asia Pacific Greens Federation"
+   },
+   "holder": "unspecified",
+   "source_id": "9a4a90a0-8bb8-f111-aaac-7c1e5262eaeb"
+  }
+ ],
+ "last_updated": "2026-09-25",
+ "notes": [],
+ "parliament": 48,
+ "party": "Australian Greens",
+ "source": {
+  "fetched_at": "2026-09-25T18:09:05Z",
+  "kind": "senate-api",
+  "raw_path": "raw/senate/48/25813.json",
+  "sha256": "37c1b1faaa713af9db7e644a52f4df277a684c867590d9750c24681218a2c43c",
+  "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=25813"
+ },
+ "state": "Tasmania"
+}

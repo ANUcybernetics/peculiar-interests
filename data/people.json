@@ -288,15 +288,17 @@
   "state": "VIC"
  },
  {
-  "aph_id": "roster:bleyer-vanessa",
-  "aph_url": null,
+  "aph_id": "25813",
+  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=25813",
   "chamber": "senate",
   "electorate": null,
   "family_name": "Bleyer",
   "gender": "Female",
   "given_names": "Vanessa Elizabeth",
   "honorific": "Senator",
-  "parliaments": [],
+  "parliaments": [
+   48
+  ],
   "party": "Australian Greens",
   "party_code": "AG",
   "post_nominals": null,
