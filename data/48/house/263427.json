@@ -87,6 +87,72 @@
    "kind": "addition",
    "sequence": 8,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "AFL Grand Final: Hospitality & ticket to match on 26/09/26 provided by Endeavour Group",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "Rams vs 49ers NFL Game: Hospitality & ticket to match on 09/11/26 provided by NFL",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "Honorary Membership: Melbourne Royal 2026/27",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "Tickets & hospitality to Melbourne Fringe Festival Program Launch on 7/08/26 provided by Melbourne Fringe Festival",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "AFL Grand Final: Hospitality & ticket to match on 26/09/26 provided by Endeavour Group",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "Santos",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
   }
  ],
  "aph_id": "263427",
@@ -427,15 +493,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-24",
+ "last_updated": "2026-09-28",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-28T18:08:50Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/263427.pdf",
-  "sha256": "2a88fa67f53879acd215cb9dca939f36829fd8e3415b5061fc0985ba6f0ea3d3",
+  "sha256": "97455e8334dc5830318ffeb9d2873d14e607dd88c18c3ece87d543c7f351baa0",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/263427/statement/48"
  },
  "state": "VIC"

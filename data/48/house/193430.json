@@ -153,6 +153,39 @@
    "kind": "addition",
    "sequence": 14,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "McKinnon Institute International Scholarship to attend the Executive Program: Cambridge and NUS Global Leadership Programme : Navigating Future Trends at National University of Singapore, from 14 to 17 September 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "I accepted an invitation from Singapore’s Minister for Foreign Affairs, Dr Vivian Balakrishnan to participate in the S R Nathan Fellowship from 18 to 23 September 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-28",
+   "date_submitted": "2026-09-28",
+   "details": "The Ministry of Foreign Affairs Singapore provided flights, accommodation, ground transport and hospitality.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
   }
  ],
  "aph_id": "193430",
@@ -628,15 +661,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-17",
+ "last_updated": "2026-09-28",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-28T18:08:50Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/193430.pdf",
-  "sha256": "7b8733d74fde4c45381691efd75bc5d4af513878fa36c701e84444f9c00e3fce",
+  "sha256": "1e7e346b0a09fcdf3993d0d371ff8a6152a09d51a3c4d9e452221018700fcb0e",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/193430/statement/48"
  },
  "state": "VIC"

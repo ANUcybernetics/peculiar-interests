@@ -167,7 +167,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "c791262e-be7c-f011-b4cc-7c1e5262c1f2",
-  "lastDateUpdated": "9/17/2026 12:07:07 PM",
+  "lastDateUpdated": "9/28/2026 2:57:25 PM",
   "lodgementDate": "8/17/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Watt, Murray",
@@ -241,6 +241,12 @@
     "createdOn": "2026-08-07T05:30:00Z",
     "details": "One night’s accommodation at Government House on Norfolk Island, as a guest of the Norfolk Island Administrator, during official visit in August 2026.",
     "id": "ad5c0972-2292-f111-8076-70a8a553d3a2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-28T04:30:00Z",
+    "details": "2 x corporate tickets gifted by Asahi to 2026 AFL Grand Final in Melbourne",
+    "id": "8919f8be-f7ba-f111-aaae-70a8a553fe6c"
    },
    {
     "alterationType": "Addition",
