@@ -417,6 +417,28 @@
    "kind": "addition",
    "sequence": 38,
    "source_id": "a5dfd757-a69b-f111-b8db-70a8a553d3a2"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Japanese Art Frame - 7th September 2026 - Gifted by President Sekiguchi ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 39,
+   "source_id": "99892cd9-c6bb-f111-aaae-70a8a553d3a2"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Silk Scarf and Lacquer Box - 14th August 2026 - From His Excellency, Mr. To Lam, General Secretary of the Central Committee of the Communist Party of Viet Nam, President of the Socialist Republic of Viet Nam (GOG)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 40,
+   "source_id": "a60d55d9-c6bb-f111-aaae-70a8a553fe6c"
   }
  ],
  "aph_id": "112096",
@@ -648,15 +670,15 @@
    "source_id": "4d514b14-a478-f011-b4cb-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-08-19",
+ "last_updated": "2026-09-29",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-29T18:22:56Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/112096.json",
-  "sha256": "77a6c1f98c6a673f48efc9c18df0918a1298375f92523935e8f9abbf7dc64a48",
+  "sha256": "597bc40fa6bcd276eb1efeb68c9ed508789f27c8dff1461e13bee0ea09a250a9",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=112096"
  },
  "state": "Western Australia"

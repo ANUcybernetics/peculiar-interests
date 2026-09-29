@@ -131,6 +131,61 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": "e6b2efe8-ed39-f111-88b4-7ced8da1c86f"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-09-28",
+   "details": "Mortgage on residential property - CBA",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "26ec89ef-90bb-f111-aaae-7ced8da2d8e0"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-09-28",
+   "details": "Mortgage on residential property - Ubank",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": "35ec89ef-90bb-f111-aaae-7ced8da2d8e0"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-28",
+   "details": "Advanced Political Leadership 2026 Scholarship provided by McKinnon Institute for Political Leadership (MKI)\nInduction, 12 – 13 June 2026, Victoria \nResidential Intensive, 12 – 17 July 2026, South Australia \nWorkshop & Graduation, 11 – 12 September 2026, Australian Capital Territory \nValue - $32,000.00 (excluding GST) ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "8f1e10f9-90bb-f111-aaae-7c1e5262eaeb"
+  },
+  {
+   "category": "accounts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Mortgage Offset - CBA",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": "b1485ee1-99bb-f111-aaae-70a8a553fe6c"
+  },
+  {
+   "category": "accounts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Mortgage Offset - Ubank",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 17,
+   "source_id": "cf895be7-99bb-f111-aaae-70a8a553fe6c"
   }
  ],
  "aph_id": "306168",
@@ -451,15 +506,15 @@
    "source_id": "df881655-bd7c-f011-b4cc-6045bdc29378"
   }
  ],
- "last_updated": "2026-04-17",
+ "last_updated": "2026-09-29",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-29T18:22:56Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/306168.json",
-  "sha256": "344a3626c023273a0315a4bee1621f0df422cd6b3125227ecd20316d15169e2c",
+  "sha256": "fc1dc84b4c503ca4358504c5fdeb89d39c55d86c474958374d5b9b2cfd4d5265",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=306168"
  },
  "state": "New South Wales"

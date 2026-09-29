@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-09-29",
+   "date_submitted": "2026-09-29",
+   "details": "Member of a bipartisan Australian Parliamentary delegation to Taiwan between 20 September - 27 September 2026 including sponsored international travel, accommodation and meals organised by the Taipei Economic and Cultural Office in Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
   }
  ],
  "aph_id": "124514",
@@ -145,7 +156,7 @@
  },
  "family_name": "McKenzie",
  "given_names": "Zoe",
- "honorific": "Ms",
+ "honorific": null,
  "interests": [
   {
    "category": "real-estate",
@@ -223,16 +234,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-03-09",
+ "last_updated": "2026-09-29",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-29T18:23:07Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/124514.pdf",
-  "sha256": "978241c2b4e159c2b7ab0514834f385f2ee1c1c73e13269f18cebd94dead0039",
+  "sha256": "9186a7b2c8c688d4c6d248ccb7a409c09eef3e88866222e046c0297ceb64859f",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/124514/statement/48"
  },
- "state": "VIC"
+ "state": null
 }

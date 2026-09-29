@@ -70,6 +70,12 @@
    },
    {
     "alterationType": "Addition",
+    "createdOn": "2026-09-29T04:00:00Z",
+    "details": "Japanese Art Frame - 7th September 2026 - Gifted by President Sekiguchi ",
+    "id": "99892cd9-c6bb-f111-aaae-70a8a553d3a2"
+   },
+   {
+    "alterationType": "Addition",
     "createdOn": "2026-08-18T22:00:00Z",
     "details": "Tais (purple,orange and red) - April - 2026 - gifted by FOKUPERS Womens & Children Shelter - East Timor ",
     "id": "6edfd757-a69b-f111-b8db-70a8a553d3a2"
@@ -139,6 +145,12 @@
     "createdOn": "2026-08-19T03:30:00Z",
     "details": "Odara Cotton Pants and Top, Navy Blue with circles, August 2026 - gifted by Dara Falade ",
     "id": "a5dfd757-a69b-f111-b8db-70a8a553d3a2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T04:30:00Z",
+    "details": "Silk Scarf and Lacquer Box - 14th August 2026 - From His Excellency, Mr. To Lam, General Secretary of the Central Committee of the Communist Party of Viet Nam, President of the Socialist Republic of Viet Nam (GOG)",
+    "id": "a60d55d9-c6bb-f111-aaae-70a8a553fe6c"
    }
   ],
   "interests": [
@@ -295,7 +307,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "1a514b14-a478-f011-b4cb-7c1e5262c1f2",
-  "lastDateUpdated": "8/19/2026 4:55:33 PM",
+  "lastDateUpdated": "9/29/2026 4:01:52 PM",
   "lodgementDate": "8/12/2025 1:05:10 PM",
   "publishNotes": false,
   "senatorName": "Lines, Sue",

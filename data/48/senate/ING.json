@@ -109,6 +109,17 @@
    "kind": "addition",
    "sequence": 10,
    "source_id": "4614b26f-1575-f111-ab0f-00224810b694"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Donation to Prostate Cancer Foundation of Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "7d764628-cabb-f111-aaae-70a8a553fe6c"
   }
  ],
  "aph_id": "ING",
@@ -235,15 +246,15 @@
    "source_id": "4eeeec91-7f76-f011-b4cb-6045bdc323b4"
   }
  ],
- "last_updated": "2026-07-01",
+ "last_updated": "2026-09-29",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-29T18:22:56Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/ING.json",
-  "sha256": "de97df29784956baed1452a3353e05d3f1f9a39c7c90969df8ab1e1dc32e6f38",
+  "sha256": "f26c0b76caa401e2886ff32a9b5b0a6b1be19c53c75b070e37e45334c421b2cc",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=ING"
  },
  "state": "Australian Capital Territory"

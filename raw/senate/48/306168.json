@@ -9,6 +9,12 @@
     "id": "55dfe6f3-ed39-f111-88b3-6045bdc3f566"
    },
    {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-28T06:30:00Z",
+    "details": "Advanced Political Leadership 2026 Scholarship provided by McKinnon Institute for Political Leadership (MKI)\nInduction, 12 – 13 June 2026, Victoria \nResidential Intensive, 12 – 17 July 2026, South Australia \nWorkshop & Graduation, 11 – 12 September 2026, Australian Capital Territory \nValue - $32,000.00 (excluding GST) ",
+    "id": "8f1e10f9-90bb-f111-aaae-7c1e5262eaeb"
+   },
+   {
     "alterationType": "Deletion",
     "createdOn": "2025-11-17T21:00:00Z",
     "details": "Tickets (x2) to Mid Winter Ball, Canberra, June 2023. Hosted by Australian Investment Council. ",
@@ -51,6 +57,18 @@
     "createdOn": "2026-04-16T08:00:00Z",
     "details": "Credit Card AMEX",
     "id": "96c0fbee-ed39-f111-88b4-6045bdc3f4ad"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-28T06:00:00Z",
+    "details": "Mortgage on residential property - CBA",
+    "id": "26ec89ef-90bb-f111-aaae-7ced8da2d8e0"
+   },
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-09-28T06:00:00Z",
+    "details": "Mortgage on residential property - Ubank",
+    "id": "35ec89ef-90bb-f111-aaae-7ced8da2d8e0"
    }
   ],
   "interests": [
@@ -153,7 +171,20 @@
   ]
  },
  "savingsOrInvestmentAccounts": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T00:00:00Z",
+    "details": "Mortgage Offset - CBA",
+    "id": "b1485ee1-99bb-f111-aaae-70a8a553fe6c"
+   },
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-09-29T00:30:00Z",
+    "details": "Mortgage Offset - Ubank",
+    "id": "cf895be7-99bb-f111-aaae-70a8a553fe6c"
+   }
+  ],
   "interests": [
    {
     "id": "426b115b-bd7c-f011-b4cc-6045bdc29378",
@@ -180,7 +211,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "c7881655-bd7c-f011-b4cc-6045bdc29378",
-  "lastDateUpdated": "4/17/2026 9:44:00 AM",
+  "lastDateUpdated": "9/29/2026 4:01:51 PM",
   "lodgementDate": "8/17/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Kovacic, Maria",

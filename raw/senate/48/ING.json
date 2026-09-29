@@ -61,6 +61,12 @@
     "createdOn": "2025-10-11T10:00:00Z",
     "details": "Donation to Wildcare Queanbeyan Inc",
     "id": "595ad085-a4a8-f011-bbd3-6045bde49b50"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T06:00:00Z",
+    "details": "Donation to Prostate Cancer Foundation of Australia",
+    "id": "7d764628-cabb-f111-aaae-70a8a553fe6c"
    }
   ],
   "interests": [
@@ -148,7 +154,7 @@
  "senatorInterestStatement": {
   "electorateState": "Australian Capital Territory",
   "id": "068df48b-7f76-f011-b4cb-6045bdc323b4",
-  "lastDateUpdated": "7/1/2026 4:39:57 PM",
+  "lastDateUpdated": "9/29/2026 4:02:00 PM",
   "lodgementDate": "8/11/2025 12:49:47 PM",
   "publishNotes": false,
   "senatorName": "Gallagher, Katy",

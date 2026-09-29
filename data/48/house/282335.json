@@ -615,6 +615,50 @@
    "kind": "addition",
    "sequence": 56,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-29",
+   "date_submitted": "2026-09-29",
+   "details": "07-Sep-26- Book: New Games, New Rules by Allan Behm from The Australia Institute",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 57,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-29",
+   "date_submitted": "2026-09-29",
+   "details": "07-Sep-26 - Book: More Fool Me by Richard Denniss from The Australia Institute",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 58,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-29",
+   "date_submitted": "2026-09-29",
+   "details": "08-Sep-26 - Pin and note book from the Australian Public Sector Anti Corruption conference",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 59,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-09-29",
+   "date_submitted": "2026-09-29",
+   "details": "23-Sep-26 - Third Prize ($100 IGA gift card) in the Euroa Gazette footy tipping competition - the prize was then donated to Euroa FoodShare",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 60,
+   "source_id": null
   }
  ],
  "aph_id": "282335",
@@ -826,15 +870,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-17",
+ "last_updated": "2026-09-29",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-09-29T18:23:07Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/282335.pdf",
-  "sha256": "931bfa278d7e97e7161d9c2762ad0434f1705e8aaad70d235b2eb465fac5346b",
+  "sha256": "d2d934a43dbbc284b5a7d8d816e6dadc64542a2b12772ec54a7e5bdaef38a3bc",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/282335/statement/48"
  },
  "state": "VIC"
