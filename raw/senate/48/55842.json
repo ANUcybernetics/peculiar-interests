@@ -125,7 +125,7 @@
  "senatorInterestStatement": {
   "electorateState": "Tasmania",
   "id": "20be703a-f577-f011-b4cb-6045bdc29378",
-  "lastDateUpdated": "7/14/2026 12:13:41 PM",
+  "lastDateUpdated": "9/30/2026 10:29:53 AM",
   "lodgementDate": "8/10/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Dowling, Richard",
@@ -173,6 +173,12 @@
     "createdOn": "2025-11-17T21:00:00Z",
     "details": "2 tickets and hospitality to the Billie Jean King Cup tennis in Hobart on 16 November 2025 as a guest of Tennis Australia.",
     "id": "f3c17d67-ccc4-f011-bbd3-6045bde5f32c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T23:00:00Z",
+    "details": "20/09/26 - 27/09/26: Flights, accommodation and hospitality in Taiwan - Taipei Economic & Cultural Office in Australia",
+    "id": "fcc730b8-63bc-f111-aaae-70a8a553fe6c"
    }
   ],
   "interests": []

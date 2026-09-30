@@ -65,6 +65,17 @@
    "kind": "deletion",
    "sequence": 6,
    "source_id": "a982613f-287f-f111-ab0f-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "20/09/26 - 27/09/26: Flights, accommodation and hospitality in Taiwan - Taipei Economic & Cultural Office in Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "fcc730b8-63bc-f111-aaae-70a8a553fe6c"
   }
  ],
  "aph_id": "55842",
@@ -207,15 +218,15 @@
    "source_id": "46976b40-f577-f011-b4cb-6045bdc29378"
   }
  ],
- "last_updated": "2026-07-14",
+ "last_updated": "2026-09-30",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-09-30T18:10:09Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/55842.json",
-  "sha256": "3c036f425dd9a4ea9f3fcbd263094fad4ad972d76adea76b7ec1eae5a27ebfad",
+  "sha256": "5eaf60dc6b2c0691d18891db803c06515bd398ce4f93f7fd5d569ba5cfc67560",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=55842"
  },
  "state": "Tasmania"
