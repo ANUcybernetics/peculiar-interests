@@ -373,6 +373,50 @@
    "kind": "deletion",
    "sequence": 34,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-01",
+   "date_submitted": "2026-09-30",
+   "details": "Tickets to the NRL Game - Dolphins v Sydney Roosters - Guest of the NRL on the 25 September 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 35,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-01",
+   "date_submitted": "2026-09-30",
+   "details": "Tickets/hospitality to the 2026 AFL Grand Final - Guest of the AFL on the 26 September 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 36,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-01",
+   "date_submitted": "2026-09-30",
+   "details": "Tickets to the Queensland Football Series - Australia v Brazil - Guest of Football Australia on the 29 September 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-01",
+   "date_submitted": "2026-09-30",
+   "details": "Tickets/hospitality to the 2026 NRL & NRLW Grand Final - Guest of the NRL on the 4 October 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
   }
  ],
  "aph_id": "264121",
@@ -607,15 +651,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-16",
+ "last_updated": "2026-09-30",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-16T18:13:40Z",
+  "fetched_at": "2026-10-01T18:10:23Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/264121.pdf",
-  "sha256": "5184d420156dc7a0eeb22960e7805b9d8308760b57dcae6593303a2e344d94a3",
+  "sha256": "0e9d1c0cd81203070fac18aec625d6cb7b4e9b5d4d972889171b28f99bb014e2",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/264121/statement/48"
  },
  "state": "QLD"
