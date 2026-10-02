@@ -307,7 +307,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "1a514b14-a478-f011-b4cb-7c1e5262c1f2",
-  "lastDateUpdated": "9/29/2026 4:01:52 PM",
+  "lastDateUpdated": "10/2/2026 3:28:49 PM",
   "lodgementDate": "8/12/2025 1:05:10 PM",
   "publishNotes": false,
   "senatorName": "Lines, Sue",
@@ -387,6 +387,12 @@
     "createdOn": "2025-11-26T21:00:00Z",
     "details": "2 x tickets from National Gallery of Australia - to attend Gala Event - $1500.00 ",
     "id": "f0dbf750-06cf-f011-8544-7ced8d34843b"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-02T03:00:00Z",
+    "details": "Three entry tickets to WA Royal Show Claremont - Gifted Royal Agriculture Society - September 2026",
+    "id": "be2fb5f8-18be-f111-aaae-7ced8da176db"
    },
    {
     "alterationType": "Addition",

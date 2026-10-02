@@ -439,6 +439,17 @@
    "kind": "addition",
    "sequence": 40,
    "source_id": "a60d55d9-c6bb-f111-aaae-70a8a553fe6c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-02",
+   "details": "Three entry tickets to WA Royal Show Claremont - Gifted Royal Agriculture Society - September 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 41,
+   "source_id": "be2fb5f8-18be-f111-aaae-7ced8da176db"
   }
  ],
  "aph_id": "112096",
@@ -670,15 +681,15 @@
    "source_id": "4d514b14-a478-f011-b4cb-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-09-29",
+ "last_updated": "2026-10-02",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-29T18:22:56Z",
+  "fetched_at": "2026-10-02T18:23:59Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/112096.json",
-  "sha256": "597bc40fa6bcd276eb1efeb68c9ed508789f27c8dff1461e13bee0ea09a250a9",
+  "sha256": "fd79a9cd2021af0fac3b5efbfe6eaa1c361ca13ac42bee67a430d53dd88ee9c1",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=112096"
  },
  "state": "Western Australia"

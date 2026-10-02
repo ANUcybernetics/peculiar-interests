@@ -989,6 +989,127 @@
    "kind": "addition",
    "sequence": 90,
    "source_id": "ed064373-8489-f111-ab0f-70a8a553d3a2"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Lapel Pin - Gifted by Australian Railway Association",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 91,
+   "source_id": "abaab387-28bd-f111-aaae-7c1e5262eaeb"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Tote Bag, Coffee Cup and Thomas & Friends Mini - Gifted by Parliamentary Friends of Rail",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 92,
+   "source_id": "b0aab387-28bd-f111-aaae-7c1e5262eaeb"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Lapel Pin - Gifted by Children's Cancer Institute",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 93,
+   "source_id": "b5aab387-28bd-f111-aaae-7c1e5262eaeb"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-29",
+   "details": "Scarf - Gifted by Netball Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 94,
+   "source_id": "baaab387-28bd-f111-aaae-7c1e5262eaeb"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-30",
+   "details": "T-Shirt and Cap - Gifted by Cricket ACT",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 95,
+   "source_id": "05b3258c-28bd-f111-aaae-70a8a553fd4a"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-30",
+   "details": "Box of Fresh Fruit - Gifted by Australian Fresh Produce Alliance",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 96,
+   "source_id": "0ab3258c-28bd-f111-aaae-70a8a553fd4a"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-30",
+   "details": "Tie, Flag and Earrings - Gifted by Mates",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 97,
+   "source_id": "14b3258c-28bd-f111-aaae-70a8a553fd4a"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-30",
+   "details": "Books - New Game New Rules - by Allan Behm - More Fool Me - Richard Denniss - Gifted by the Australia Institute",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 98,
+   "source_id": "19b3258c-28bd-f111-aaae-70a8a553fd4a"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-30",
+   "details": "Book - 100 of the Best Books for Men - Author David Maywald - Gifted by David Maywald",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 99,
+   "source_id": "bfaab387-28bd-f111-aaae-7c1e5262eaeb"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-30",
+   "details": "Lolly Dispenser - Gifted by The Pharmacy Guild of Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 100,
+   "source_id": "f5b2258c-28bd-f111-aaae-70a8a553fd4a"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-30",
+   "details": "1 x Ticket AFL Grand Final Breakfast - Gifted by North Melbourne Football Club",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 101,
+   "source_id": "0fb3258c-28bd-f111-aaae-70a8a553fd4a"
   }
  ],
  "aph_id": "207825",
@@ -1091,15 +1212,15 @@
    "source_id": "043ec18c-6376-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2026-07-27",
+ "last_updated": "2026-09-30",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-02T18:23:59Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/207825.json",
-  "sha256": "e6758ca8e0f6c0f56624460222ab6e33e2993fee591a4ca466d92348f1f7e3af",
+  "sha256": "337859fcf7da5ac2115afe0e2005abead39d3c9ec4e9890779e7f8fa74546f8d",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=207825"
  },
  "state": "Victoria"

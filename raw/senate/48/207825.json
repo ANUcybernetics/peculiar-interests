@@ -406,6 +406,66 @@
    },
    {
     "alterationType": "Addition",
+    "createdOn": "2026-09-30T01:00:00Z",
+    "details": "Lolly Dispenser - Gifted by The Pharmacy Guild of Australia",
+    "id": "f5b2258c-28bd-f111-aaae-70a8a553fd4a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-30T01:30:00Z",
+    "details": "T-Shirt and Cap - Gifted by Cricket ACT",
+    "id": "05b3258c-28bd-f111-aaae-70a8a553fd4a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-30T02:00:00Z",
+    "details": "Box of Fresh Fruit - Gifted by Australian Fresh Produce Alliance",
+    "id": "0ab3258c-28bd-f111-aaae-70a8a553fd4a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-30T03:00:00Z",
+    "details": "Tie, Flag and Earrings - Gifted by Mates",
+    "id": "14b3258c-28bd-f111-aaae-70a8a553fd4a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-30T03:30:00Z",
+    "details": "Books - New Game New Rules - by Allan Behm - More Fool Me - Richard Denniss - Gifted by the Australia Institute",
+    "id": "19b3258c-28bd-f111-aaae-70a8a553fd4a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T22:00:00Z",
+    "details": "Lapel Pin - Gifted by Australian Railway Association",
+    "id": "abaab387-28bd-f111-aaae-7c1e5262eaeb"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T22:30:00Z",
+    "details": "Tote Bag, Coffee Cup and Thomas & Friends Mini - Gifted by Parliamentary Friends of Rail",
+    "id": "b0aab387-28bd-f111-aaae-7c1e5262eaeb"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T23:00:00Z",
+    "details": "Lapel Pin - Gifted by Children's Cancer Institute",
+    "id": "b5aab387-28bd-f111-aaae-7c1e5262eaeb"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-29T23:30:00Z",
+    "details": "Scarf - Gifted by Netball Australia",
+    "id": "baaab387-28bd-f111-aaae-7c1e5262eaeb"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-30T00:00:00Z",
+    "details": "Book - 100 of the Best Books for Men - Author David Maywald - Gifted by David Maywald",
+    "id": "bfaab387-28bd-f111-aaae-7c1e5262eaeb"
+   },
+   {
+    "alterationType": "Addition",
     "createdOn": "2025-10-27T21:00:00Z",
     "details": "Day for Daniel Badge - Gifted by Daniel Morecombe Foundation",
     "id": "e3be34cb-17b6-f011-bbd2-7ced8d34843b"
@@ -561,7 +621,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "f43dc18c-6376-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "7/27/2026 11:06:32 AM",
+  "lastDateUpdated": "9/30/2026 10:59:44 AM",
   "lodgementDate": "8/11/2025 11:59:35 AM",
   "publishNotes": false,
   "senatorName": "McKenzie, Bridget",
@@ -617,6 +677,12 @@
     "createdOn": "2026-07-26T22:00:00Z",
     "details": "Accommodation - London 15th, 16th & 17th July 2026 - Gifted by CPAC Great Britain",
     "id": "ed064373-8489-f111-ab0f-70a8a553d3a2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-30T02:30:00Z",
+    "details": "1 x Ticket AFL Grand Final Breakfast - Gifted by North Melbourne Football Club",
+    "id": "0fb3258c-28bd-f111-aaae-70a8a553fd4a"
    },
    {
     "alterationType": "Addition",
