@@ -76,6 +76,116 @@
    "kind": "addition",
    "sequence": 7,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "McKinnon Institute for Political Leadership (MKI)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "Name of the Program: Advanced Political Leadership 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "Dates:",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "Induction, 12 – 13 June 2026, Victoria",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "Residential Intensive, 12 – 17 July 2026, South Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "Workshop & Graduation, 11 – 12 September 2026, Australian Capital Territory",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "Scholarship Value: $32,000.00 (excluding GST)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "What this Scholarship covers: The nine-day professional development program for successful applicants of MKI's Advanced Political Leadership 2026 program. The scholarship covers the cost of program tuition, including international and domestic subject matter experts, accommodation and catering.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "Summary of the program: In its sixth year, the Advanced Political Leadership program is a practical and cohort-based, non-partisan program purpose designed to prepare MPs to be effective ministers. Developed by experienced political leaders, shaped by detailed feedback from past participants and grounded in applied research and contemporary insights, the program translates leadership theory into practical ministerial capability. Participants build the judgement, discipline and strategic skill required to govern effectively, with a clear understanding of their democratic stewardship responsibilities.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "3 General Tickets to the NRL grand final Knight versus Roosters Game on 4 October 2026 from the NRL. No hospitality or travel, just tickets to the game.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
   }
  ],
  "aph_id": "298840",
@@ -371,15 +481,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-10",
+ "last_updated": "2026-10-06",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-06T17:23:57Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/298840.pdf",
-  "sha256": "4c1bfb758c54c4afd8841a0fb6022af471903df791c409b36fa9d711e4a54daa",
+  "sha256": "ab19f5833687a5e3bb4ae157b83e4240417facc79bde94d943cd4051143a5f0d",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/298840/statement/48"
  },
  "state": "NSW"

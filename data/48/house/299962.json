@@ -32,6 +32,28 @@
    "kind": "deletion",
    "sequence": 3,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-05",
+   "details": "Fabrics of unknown value, gifted during overseas delegation, 20th - 25th April 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-05",
+   "details": "Registration for \"Women Deliver 2026\" Conference from Australian Parliamentary Friends of Population and Development (APGPD) Family Planning Australia, value $950 USD. 27 April 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
   }
  ],
  "aph_id": "299962",
@@ -152,15 +174,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2025-11-21",
+ "last_updated": "2026-10-05",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-06T17:23:57Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/299962.pdf",
-  "sha256": "85013a0485fa935d8db6a359d33f10261c1bce7524933b47a493783613f7acad",
+  "sha256": "183c35a4d0a9302bb12b044868c8ec2f55ea161f2cfc90049c20c76a833f66cf",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/299962/statement/48"
  },
  "state": "VIC"

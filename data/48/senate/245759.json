@@ -208,6 +208,17 @@
    "kind": "addition",
    "sequence": 19,
    "source_id": "8919f8be-f7ba-f111-aaae-70a8a553fe6c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-06",
+   "details": "Football Australia gifted 4 x tickets to Socceroos v Brazil match at Suncorp Stadium Brisbane on 29 September 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": "e9cc330f-25c1-f111-aaaf-70a8a553d3a2"
   }
  ],
  "aph_id": "245759",
@@ -365,15 +376,15 @@
    "source_id": "e591262e-be7c-f011-b4cc-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-09-28",
+ "last_updated": "2026-10-06",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-28T18:08:35Z",
+  "fetched_at": "2026-10-06T17:23:43Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/245759.json",
-  "sha256": "f6163861ff01394fd85a0efb09c29b4c2dc2380afcdbd5a2a68061173bab13af",
+  "sha256": "1825bc810b4ec2b84d11e4a3238748f36692ae1b1619dab9c97d70cf5ec1f799",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=245759"
  },
  "state": "Queensland"

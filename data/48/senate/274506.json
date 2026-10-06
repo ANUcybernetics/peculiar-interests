@@ -1,5 +1,17 @@
 {
- "alterations": [],
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-05",
+   "details": "Hosted by Telstra at NRL Grand Final 4 October 2026 (1 person only)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "9ec3b059-17c1-f111-aaad-6045bdc2f293"
+  }
+ ],
  "aph_id": "274506",
  "chamber": "senate",
  "date_lodged": "2025-08-04",
@@ -97,15 +109,15 @@
    "source_id": "4757de74-8772-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2025-08-04",
+ "last_updated": "2026-10-06",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-06T17:23:43Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/274506.json",
-  "sha256": "1dfb16cdc26c245ad01210a46858ba414387dfb2cd47ea818f976e35af5cc394",
+  "sha256": "8a14e8dc7d9b2a841eb0a4c3cff2617d6caebc3571ad49798236454313eeee45",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=274506"
  },
  "state": "New South Wales"

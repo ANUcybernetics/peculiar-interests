@@ -153,6 +153,28 @@
    "kind": "addition",
    "sequence": 14,
    "source_id": "e61ff419-65aa-f111-aaac-6045bdc2f293"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-04",
+   "details": "2 x tickets to AFL Grand Final - Fremantle Dockers v Brisbane Lions - at Melbourne Cricket Ground on 26 September 2026, courtesy of Australian Football League.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "a9eea952-17c1-f111-aaaf-7ced8da2d8e0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-04",
+   "details": "1 night accommodation at Caves House Hotel to speak at the Piddington Society Margaret River Conference, 19 September 2026, courtesy of the Piddington Society.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": "d2eea952-17c1-f111-aaaf-7ced8da2d8e0"
   }
  ],
  "aph_id": "257613",
@@ -465,15 +487,15 @@
    "source_id": "70d2d10f-06af-f011-bbd2-002248990cce"
   }
  ],
- "last_updated": "2026-09-07",
+ "last_updated": "2026-10-04",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-06T17:23:43Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/257613.json",
-  "sha256": "68d042fae8ad6a14cb2939080c77683f3501aaf67114e5e1d235643948240365",
+  "sha256": "213fd4380f041733e6b0904e32d98fbc676e3b02c03e208d31dd16b19c833f70",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=257613"
  },
  "state": "Western Australia"

@@ -197,6 +197,17 @@
    "kind": "addition",
    "sequence": 18,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "WA Parliamentary Familiarisation Tour - Hosted by Minerals Council of Australia (Includes Flights & Accommodation)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
   }
  ],
  "aph_id": "IPZ",
@@ -211,7 +222,7 @@
  },
  "family_name": "Chester",
  "given_names": "Darren",
- "honorific": "Hon",
+ "honorific": null,
  "interests": [
   {
    "category": "shareholdings",
@@ -375,16 +386,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-17",
+ "last_updated": "2026-10-06",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-06T17:23:57Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/IPZ.pdf",
-  "sha256": "087811f5691f048a47472130f2db577d70e6a3f4be3151ae01dee48fc2e1523f",
+  "sha256": "41ba738a96da69a192a11324ee928a6158f18f9ff181c9ab4149cedcfadc94c4",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/IPZ/statement/48"
  },
- "state": "VIC"
+ "state": null
 }

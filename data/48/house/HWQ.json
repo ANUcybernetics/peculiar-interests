@@ -285,6 +285,17 @@
    "kind": "addition",
    "sequence": 26,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-06",
+   "date_submitted": "2026-10-06",
+   "details": "2 tickets to 2026 Toyota AFL Grand Final Commission lunch and football match in a Corporate Suite at Brisbane Lions Vs Freemantle Dockers on Saturday 26 September 2026 at MCG. Tickets provided by AFL.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
   }
  ],
  "aph_id": "HWQ",
@@ -1117,15 +1128,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-06",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-15T18:23:04Z",
+  "fetched_at": "2026-10-06T17:23:57Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWQ.pdf",
-  "sha256": "ba42c83f54eb5efd642c5cb114b9a788ead73c656fa9deff572c6af30d70229e",
+  "sha256": "00949189ceb98b37783f0ed4ae794e347cce4d8a600a7452b23025126872150e",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWQ/statement/48"
  },
  "state": null

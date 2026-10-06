@@ -81,7 +81,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "1357de74-8772-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "8/4/2025 3:39:30 PM",
+  "lastDateUpdated": "10/6/2026 4:56:45 PM",
   "lodgementDate": "8/4/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Sharma, Dave",
@@ -100,7 +100,14 @@
   ]
  },
  "sponsoredTravelOrHospitality": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-05T23:00:00Z",
+    "details": "Hosted by Telstra at NRL Grand Final 4 October 2026 (1 person only)",
+    "id": "9ec3b059-17c1-f111-aaad-6045bdc2f293"
+   }
+  ],
   "interests": []
  },
  "trusts": {

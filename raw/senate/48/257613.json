@@ -205,7 +205,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "3bd2d10f-06af-f011-bbd2-002248990cce",
-  "lastDateUpdated": "9/7/2026 12:44:04 PM",
+  "lastDateUpdated": "10/4/2026 4:56:55 PM",
   "lodgementDate": "8/14/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Ghosh, Varun",
@@ -280,6 +280,18 @@
     "createdOn": "2026-07-28T01:00:00Z",
     "details": "Ticket and hospitality to AFL game - Adelaide Crows vs Collingwood Magpies - at Adelaide Oval on 23 July 2026, guest of Adelaide Crows Football Club",
     "id": "14087168-218a-f111-ab10-7c1e5262e7d4"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-04T06:00:00Z",
+    "details": "2 x tickets to AFL Grand Final - Fremantle Dockers v Brisbane Lions - at Melbourne Cricket Ground on 26 September 2026, courtesy of Australian Football League.",
+    "id": "a9eea952-17c1-f111-aaaf-7ced8da2d8e0"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-04T06:30:00Z",
+    "details": "1 night accommodation at Caves House Hotel to speak at the Piddington Society Margaret River Conference, 19 September 2026, courtesy of the Piddington Society.",
+    "id": "d2eea952-17c1-f111-aaaf-7ced8da2d8e0"
    },
    {
     "alterationType": "Addition",
