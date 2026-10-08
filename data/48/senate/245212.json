@@ -87,6 +87,17 @@
    "kind": "addition",
    "sequence": 8,
    "source_id": "1644fe37-74aa-f111-aaac-6045bdc2f293"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-08",
+   "details": "Four (4) tickets to Australia v Brazil at Suncorp Stadium in Brisbane on 29 September 2026 were provided by Football Australia ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "d34c3502-b6c2-f111-aaaf-7ced8da2d8e0"
   }
  ],
  "aph_id": "245212",
@@ -220,15 +231,15 @@
    "source_id": "dc15dfcb-ce7c-f011-b4cc-6045bdc2966c"
   }
  ],
- "last_updated": "2026-09-07",
+ "last_updated": "2026-10-08",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-08T17:06:15Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/245212.json",
-  "sha256": "b826fcdc20fb618f08467df9d672a7dc5f585cb037c27d4b744af6bbc0197c59",
+  "sha256": "d2042e774bb4605e7a405d89ba518413dad978cf4e8a36ea651328bb8a529e3a",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=245212"
  },
  "state": "Queensland"

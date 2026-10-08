@@ -120,7 +120,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "ca15dfcb-ce7c-f011-b4cc-6045bdc2966c",
-  "lastDateUpdated": "9/7/2026 3:55:12 PM",
+  "lastDateUpdated": "10/8/2026 1:27:12 PM",
   "lodgementDate": "8/19/2025 3:16:31 PM",
   "publishNotes": false,
   "senatorName": "Canavan, Matthew",
@@ -176,6 +176,12 @@
     "createdOn": "2026-08-04T22:00:00Z",
     "details": "Two tickets provided by FIFA to attend a Quarter Finals Game in Los Angeles on 10th July 2026",
     "id": "8ef5677c-8f90-f111-8076-70a8a553fe6c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-08T00:30:00Z",
+    "details": "Four (4) tickets to Australia v Brazil at Suncorp Stadium in Brisbane on 29 September 2026 were provided by Football Australia ",
+    "id": "d34c3502-b6c2-f111-aaaf-7ced8da2d8e0"
    }
   ],
   "interests": []
