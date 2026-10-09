@@ -142,6 +142,17 @@
    "kind": "addition",
    "sequence": 13,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-09",
+   "date_submitted": "2026-10-09",
+   "details": "Canberra accommodation, petrol, etags and dinner donated for fundraiser - total $1200 courtesy of Cr Jim Memeti",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
   }
  ],
  "aph_id": "299964",
@@ -329,15 +340,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-04-20",
+ "last_updated": "2026-10-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-09T17:30:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/299964.pdf",
-  "sha256": "30b24af4d2faec6366dbbad0168f269dfb79859f27bf58ceb6e270dac8d78bc3",
+  "sha256": "bef3294ee82724d912c7c56f46ec9944d5086ffdb3d1b9d8896abcc963c213e4",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/299964/statement/48"
  },
  "state": "VIC"

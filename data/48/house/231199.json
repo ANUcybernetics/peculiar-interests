@@ -417,6 +417,28 @@
    "kind": "addition",
    "sequence": 38,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-09",
+   "date_submitted": "2026-10-09",
+   "details": "KI Community Radio sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 39,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-09",
+   "date_submitted": "2026-10-09",
+   "details": "Burnie Indian Cultural Society sponsorship",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 40,
+   "source_id": null
   }
  ],
  "aph_id": "231199",
@@ -603,15 +625,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-02",
+ "last_updated": "2026-10-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-09T17:30:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/231199.pdf",
-  "sha256": "f137e240205ce3c79a9fb322a0f24b1cf097630ace50e51e3daba08690f18d3c",
+  "sha256": "80e4ec99c6c6c9a8c8701fcfe582d816e08715c4bb35b8e0073852fc4251560d",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/231199/statement/48"
  },
  "state": "TAS"

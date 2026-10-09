@@ -43,6 +43,17 @@
    "kind": "deletion",
    "sequence": 4,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-09",
+   "date_submitted": "2026-10-09",
+   "details": "Charter flights from Perth to Kalgoorlie, Kalgoorlie to Ginbata Airport (Roy Hill) and Ginbata Airport to Perth with 1 night accomodation in Kalgoorlie. Hosted by Minerals Council of Australia for the Parliamentary Friends of Resources Western Australia Tour from 29 to 30 September 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
   }
  ],
  "aph_id": "315478",
@@ -287,15 +298,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-09",
+ "last_updated": "2026-10-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-09T18:05:26Z",
+  "fetched_at": "2026-10-09T17:30:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/315478.pdf",
-  "sha256": "f6bf0f9e7e48b5a80c274dadf6957587da3c646cfca25ac09d23c7c84eb800f3",
+  "sha256": "53b4045e5a18420e98624b51215a48c753dc20b8f6c675823b2bd178c0badcfa",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/315478/statement/48"
  },
  "state": "QLD"

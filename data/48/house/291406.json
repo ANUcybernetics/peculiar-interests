@@ -120,6 +120,17 @@
    "kind": "addition",
    "sequence": 11,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-09",
+   "date_submitted": "2026-10-08",
+   "details": "Return flights, accommodation, meals and ancillary ground expenses associated with the Taiwan-Australia Cross-Party Parliamentary Delegation 22-26 September 2026, sponsored by the Taipei Economic and Cultural Office.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
   }
  ],
  "aph_id": "291406",
@@ -701,15 +712,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-03",
+ "last_updated": "2026-10-08",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-09T17:30:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/291406.pdf",
-  "sha256": "a8ac152428056a82054e1494ba36fced2eb325b031b67d0c51f1c49faa5627ff",
+  "sha256": "49251f2c1551d49a2e086f324b4a758a18c02ccb30eaff1c36cbbce0ac581b7d",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/291406/statement/48"
  },
  "state": "WA"
