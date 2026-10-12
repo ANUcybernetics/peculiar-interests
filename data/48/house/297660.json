@@ -109,6 +109,17 @@
    "kind": "addition",
    "sequence": 10,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-12",
+   "date_submitted": "2026-10-12",
+   "details": "2 tickets to performance of The Spare Room from The Board of Victorian Opera",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
   }
  ],
  "aph_id": "297660",
@@ -240,15 +251,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-28",
+ "last_updated": "2026-10-12",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-12T17:09:43Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/297660.pdf",
-  "sha256": "b1cfa1672a2ea4505acdd0a547b36d84b1c5c6f0739e3893408b2a6b46bbcdc4",
+  "sha256": "707d7014bda60b6f86fbb2d37f4a2836964d8cf3b7b65df5677b98551d8c0c1b",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/297660/statement/48"
  },
  "state": "VIC"

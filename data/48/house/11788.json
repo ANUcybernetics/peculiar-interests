@@ -54,6 +54,39 @@
    "kind": "addition",
    "sequence": 5,
    "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-10-12",
+   "date_submitted": "2026-10-12",
+   "details": "Attendance at the McKinnon Institute for Political Leadership's 2026 Advanced Political Leadership Program.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-12",
+   "date_submitted": "2026-10-12",
+   "details": "Member of a bipartisan Australian Parliamentary delegation to Taiwan between 20 September - 27 September 2026 including sponsored international travel, accommodation and meals organised by the Taipei Economic and Cultural Office in Australia.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-12",
+   "date_submitted": "2026-10-12",
+   "details": "Complimentary 12 month subscription to Communications Day.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
   }
  ],
  "aph_id": "11788",
@@ -175,15 +208,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-14",
+ "last_updated": "2026-10-12",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-12T17:09:43Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/11788.pdf",
-  "sha256": "f777b3ee34104fb182a9fde330bf75f35bf9d6537d4d69d5b39ac8afabce46e6",
+  "sha256": "a72febd03521d12cc190d1801d9f07274e5795565d5ae6e15ad48d51ec4dfe17",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/11788/statement/48"
  },
  "state": "VIC"
