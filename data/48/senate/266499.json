@@ -87,6 +87,17 @@
    "kind": "addition",
    "sequence": 8,
    "source_id": "c8f3687e-a997-f111-8075-7c1e5262e7d4"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-12",
+   "details": "1 x Ticket to Mazda North Melbourne Grand Final Breakfast from the AFL Commission and North Melbourne Football Club",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": "5522df13-b2c6-f111-aaad-7c1e52628eb9"
   }
  ],
  "aph_id": "266499",
@@ -287,15 +298,15 @@
    "source_id": "b3ecc92a-5873-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2026-08-17",
+ "last_updated": "2026-10-13",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-13T17:09:44Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/266499.json",
-  "sha256": "78297306a020ddc0fe5f1f61cecc88ac0fed25b3ccf745688338908b2deb867c",
+  "sha256": "b3c92c64cb501d6881162be4f4b70a3330c0cd7a300299e08c1be1e17803dc0f",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=266499"
  },
  "state": "Victoria"

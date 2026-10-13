@@ -175,7 +175,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "fe74d124-5873-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "8/17/2026 11:51:43 AM",
+  "lastDateUpdated": "10/13/2026 2:56:55 PM",
   "lodgementDate": "8/7/2025 1:29:05 PM",
   "publishNotes": false,
   "senatorName": "Hume, Jane",
@@ -207,6 +207,12 @@
     "createdOn": "2026-08-14T05:30:00Z",
     "details": "4 x A reserve tickets to Collingwood vs St Kilda Match at MCG on 8th March 2026 from AFL House",
     "id": "449f4b76-a997-f111-8075-70a8a553d3a2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-12T21:00:00Z",
+    "details": "1 x Ticket to Mazda North Melbourne Grand Final Breakfast from the AFL Commission and North Melbourne Football Club",
+    "id": "5522df13-b2c6-f111-aaad-7c1e52628eb9"
    },
    {
     "alterationType": "Addition",
