@@ -1110,6 +1110,17 @@
    "kind": "addition",
    "sequence": 101,
    "source_id": "0fb3258c-28bd-f111-aaae-70a8a553fd4a"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-13",
+   "details": "Desk Name Tag in Braille - Gifted by Braille House",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 102,
+   "source_id": "ab4a3eb7-58c7-f111-aaad-7ced8dd14f5b"
   }
  ],
  "aph_id": "207825",
@@ -1212,15 +1223,15 @@
    "source_id": "043ec18c-6376-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2026-09-30",
+ "last_updated": "2026-10-14",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-10-02T18:23:59Z",
+  "fetched_at": "2026-10-14T17:01:44Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/207825.json",
-  "sha256": "337859fcf7da5ac2115afe0e2005abead39d3c9ec4e9890779e7f8fa74546f8d",
+  "sha256": "2670f6d4689b631391ee9a3aefbfaa3993c9e0bae02557d975db0d1227a56316",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=207825"
  },
  "state": "Victoria"

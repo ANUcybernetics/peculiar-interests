@@ -142,6 +142,28 @@
    "kind": "addition",
    "sequence": 13,
    "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-10-14",
+   "date_submitted": "2026-10-14",
+   "details": "Investment property in Nanango (Held by Young family trust)",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-10-14",
+   "date_submitted": "2026-10-14",
+   "details": "Investment property in Nanango (Held by Young family trust)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 15,
+   "source_id": null
   }
  ],
  "aph_id": "201906",
@@ -475,15 +497,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-03",
+ "last_updated": "2026-10-14",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-14T17:01:55Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/201906.pdf",
-  "sha256": "f7bd5951f4f46ff28063232a431aed6b1c4b1d3d3a8babf1584a5b4d98667769",
+  "sha256": "c3e60fe54cb4cbfd4bb919b8823db30dc5d33ad4dd7f45b1d9f936b3dce21034",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/201906/statement/48"
  },
  "state": "QLD"

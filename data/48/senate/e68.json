@@ -21,6 +21,17 @@
    "kind": "addition",
    "sequence": 2,
    "source_id": "e7d1171e-fb2b-f111-88b3-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-14",
+   "details": "Return flights provided by Crestlink from Broome to Koolan Island and Cockatoo Island for a site visit on Monday, 5 October 2026.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "f6fd6b70-79c7-f111-aaad-7ced8dd1428e"
   }
  ],
  "aph_id": "e68",
@@ -184,15 +195,15 @@
    "source_id": "204fb25b-e870-f011-b4cd-0022489727de"
   }
  ],
- "last_updated": "2026-03-30",
+ "last_updated": "2026-10-14",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-14T17:01:44Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/e68.json",
-  "sha256": "d9f858f7cbad15abe43bea2be3fcd7d9aacd9496fc4d9e2195305fa8c12f12cc",
+  "sha256": "2a28aaa9a6173ae722283e3c14cfff57d01b66af155baee38cae0c0f8eba09ff",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=e68"
  },
  "state": "Western Australia"

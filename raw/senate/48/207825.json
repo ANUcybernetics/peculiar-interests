@@ -487,6 +487,12 @@
     "createdOn": "2026-06-30T07:00:00Z",
     "details": "Book - Magnifica Humanitas - The Grandeur of Humanity - Gifted by Australian Catholic Bishops Conference",
     "id": "d7f5ed4e-5674-f111-ab0f-7ced8da1c86f"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-13T23:30:00Z",
+    "details": "Desk Name Tag in Braille - Gifted by Braille House",
+    "id": "ab4a3eb7-58c7-f111-aaad-7ced8dd14f5b"
    }
   ],
   "interests": [
@@ -621,7 +627,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "f43dc18c-6376-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "9/30/2026 10:59:44 AM",
+  "lastDateUpdated": "10/14/2026 10:26:42 AM",
   "lodgementDate": "8/11/2025 11:59:35 AM",
   "publishNotes": false,
   "senatorName": "McKenzie, Bridget",

@@ -21,6 +21,28 @@
    "kind": "addition",
    "sequence": 2,
    "source_id": "28b26899-031d-f111-8342-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-13",
+   "details": "Upgrade on Qantas flight from Adelaide to Canberra on Sunday 11 October - economy class to business class ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "b2c9523d-54c7-f111-aaad-00224893e2bc"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-13",
+   "details": "Flights, accommodation, transfers and meals to and from New York City - The Hilary Rodham Clinton Women’s Leadership Program at the Clinton Foundation",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "b85f4e37-54c7-f111-aaad-00224893e2bc"
   }
  ],
  "aph_id": "281603",
@@ -365,15 +387,15 @@
    "source_id": "960e2762-ce7c-f011-b4cc-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-03-11",
+ "last_updated": "2026-10-14",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-14T17:01:44Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/281603.json",
-  "sha256": "4e9da81d0325e3617f7aa43ab69f5fb9c6e92445b1316832c55e5c27972f9634",
+  "sha256": "63f404344b25c1cbfa56bc1d1df4543008b7a93330692f4d2394d4a7cf591e4a",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=281603"
  },
  "state": "South Australia"

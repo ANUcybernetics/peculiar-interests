@@ -132,7 +132,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "dd4eb25b-e870-f011-b4cd-0022489727de",
-  "lastDateUpdated": "3/30/2026 4:30:36 PM",
+  "lastDateUpdated": "10/14/2026 2:08:57 PM",
   "lodgementDate": "7/28/2025 11:05:52 AM",
   "publishNotes": false,
   "senatorName": "Sterle, Glenn",
@@ -158,6 +158,12 @@
     "createdOn": "2026-03-30T05:30:00Z",
     "details": "Accommodation and Hospitality supplied by Victorian Transport Association to attend their state conference on Sunday 22 March at Silverwater Resort San Remo",
     "id": "e7d1171e-fb2b-f111-88b3-6045bdc3fcd7"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-14T02:30:00Z",
+    "details": "Return flights provided by Crestlink from Broome to Koolan Island and Cockatoo Island for a site visit on Monday, 5 October 2026.",
+    "id": "f6fd6b70-79c7-f111-aaad-7ced8dd1428e"
    }
   ],
   "interests": []

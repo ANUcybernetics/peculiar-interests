@@ -212,7 +212,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "b3ad8f55-c97c-f011-b4cc-7c1e5262c1f2",
-  "lastDateUpdated": "3/11/2026 5:06:29 PM",
+  "lastDateUpdated": "10/14/2026 9:26:57 AM",
   "lodgementDate": "8/15/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Smith, Marielle",
@@ -236,6 +236,18 @@
  },
  "sponsoredTravelOrHospitality": {
   "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-13T22:00:00Z",
+    "details": "Flights, accommodation, transfers and meals to and from New York City - The Hilary Rodham Clinton Women’s Leadership Program at the Clinton Foundation",
+    "id": "b85f4e37-54c7-f111-aaad-00224893e2bc"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-13T22:30:00Z",
+    "details": "Upgrade on Qantas flight from Adelaide to Canberra on Sunday 11 October - economy class to business class ",
+    "id": "b2c9523d-54c7-f111-aaad-00224893e2bc"
+   },
    {
     "alterationType": "Addition",
     "createdOn": "2026-03-11T04:30:00Z",
