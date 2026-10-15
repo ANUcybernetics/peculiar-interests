@@ -32,6 +32,50 @@
    "kind": "addition",
    "sequence": 3,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-15",
+   "date_submitted": "2026-10-15",
+   "details": "Patron of Jubilee Bowls Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-15",
+   "date_submitted": "2026-10-15",
+   "details": "Patron of Spartans Rugby Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "real-estate",
+   "date_processed": "2026-10-15",
+   "date_submitted": "2026-10-15",
+   "details": "Sold residential property in Townsville QLD",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "liabilities",
+   "date_processed": "2026-10-15",
+   "date_submitted": "2026-10-15",
+   "details": "Mortgage NAB",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": null
   }
  ],
  "aph_id": "281826",
@@ -157,15 +201,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2025-09-02",
+ "last_updated": "2026-10-15",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-15T17:18:53Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/281826.pdf",
-  "sha256": "24344aa5ec0294d0ef0a1c2f899fc25935743a8a9975f0a97953673ed19ce8d5",
+  "sha256": "ead733a7d23f510966be090a691dbfd16007be7762968a00f781ec79c2001253",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/281826/statement/48"
  },
  "state": "QLD"

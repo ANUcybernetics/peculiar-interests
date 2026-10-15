@@ -32,6 +32,28 @@
    "kind": "addition",
    "sequence": 3,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-15",
+   "date_submitted": "2026-10-15",
+   "details": "Tickets to Ports Australia Biennial Conference function, attended 22 & 23 September 2026. (Tickets supplied by Ports Australia).",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-15",
+   "date_submitted": "2026-10-15",
+   "details": "Vice Patron of Wide Bay Capricorn Surf Lifesaving Branch",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
   }
  ],
  "aph_id": "299498",
@@ -479,15 +501,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-28",
+ "last_updated": "2026-10-15",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-15T17:18:53Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/299498.pdf",
-  "sha256": "ce69344f9a3950d0b3f002a11278c1c04ed5869f2892f8f802ff565a7e5d6daf",
+  "sha256": "d3efa4ca9f93ffaf55b58960e714867d1a37cc6dac103cf495a19e566c40c063",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/299498/statement/48"
  },
  "state": "QLD"
