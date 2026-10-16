@@ -109,6 +109,94 @@
    "kind": "addition",
    "sequence": 10,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Seaside Tennis Club - patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "West Torrens Cricket Club - co- patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Grange Surf Life Saving Club - patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Glenelg Baseball Club - patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Henley and Grange Arts Society - patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "National Railway Museum - patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Westward Ho Golf Club - co-patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Rosewater Bowling Club - co-patron",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
   }
  ],
  "aph_id": "HWK",
@@ -253,15 +341,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-09",
+ "last_updated": "2026-10-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-16T17:05:43Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWK.pdf",
-  "sha256": "4b2f5ebe4848d43b094695993f9fd68262e05f89203ade2d1ce43e995dc3c7cd",
+  "sha256": "20eef45547ddced4f094424491c922839ca34b073bef203de27d602a16d79d73",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWK/statement/48"
  },
  "state": "SA"

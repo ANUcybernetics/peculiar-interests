@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": "84853f73-d46a-f111-a826-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-15",
+   "details": "On 11/10/26 I was booked on QF1468 (Melbourne to Canberra) where an economy ticket was purchased by CTM. I was moved by the airline to QF1524. I was upgraded at the gate to business. This upgrade was unsolicited.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "b5b2aa09-ffc8-f111-aaad-7ced8dd14f5b"
   }
  ],
  "aph_id": "316935",
@@ -293,7 +304,7 @@
   "fetched_at": "2026-09-07T08:12:21Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/316935.json",
-  "sha256": "f26d65847ab0b44d49cdad7a58a27ab9a6ccccd4105a82b42701e11ad99239c2",
+  "sha256": "c97a1c8666ed715a3a2338a1cc77d0ed91165aab72bff5534ac64a7420a0a676",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=316935"
  },
  "state": "Tasmania"

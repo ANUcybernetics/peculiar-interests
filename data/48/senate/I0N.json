@@ -153,6 +153,17 @@
    "kind": "addition",
    "sequence": 14,
    "source_id": "66af11ae-58b5-f111-aaac-70a8a553d3a2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-16",
+   "details": "2 tickets to the Royal Adelaide Show at the Wayville Showgrounds courtesy of The Royal Agricultural and Horticultural Society of SA on 12 September 2026.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "839384df-23c9-f111-aaad-7c1e52628eb9"
   }
  ],
  "aph_id": "I0N",
@@ -445,7 +456,7 @@
   "fetched_at": "2026-09-21T18:12:55Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/I0N.json",
-  "sha256": "727909feeb04b0e595c51c07b61bfa493300f131d38a2a82ff14a0d9b49338d3",
+  "sha256": "49792e9ebf7625868af3d081e34e90afab9331cdbb6cb5d99d44a9be765266e1",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=I0N"
  },
  "state": "South Australia"

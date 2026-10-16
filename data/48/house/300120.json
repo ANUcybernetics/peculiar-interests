@@ -21,6 +21,83 @@
    "kind": "addition",
    "sequence": 2,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Surf Life Saving Queensland South Coast Branch",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Redlands Touch Association",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Capalaba Sporting Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Capalaba Warriors Rugby League Football Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Redlands Cricket Inc.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Redland City Lions Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "RAAF Association, Redlands Branch",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
   }
  ],
  "aph_id": "300120",
@@ -208,15 +285,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-01-12",
+ "last_updated": "2026-10-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-16T17:05:43Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/300120.pdf",
-  "sha256": "f42a0e12f78a38e95e9b712511df40abe5cb434e426f260d324999acd915b59b",
+  "sha256": "e08c0f7bcbe33402cc6aca191c0cb1a8cbabcf0a5baff414c98d27bd3c2803e8",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/300120/statement/48"
  },
  "state": "QLD"

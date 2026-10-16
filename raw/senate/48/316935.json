@@ -187,7 +187,7 @@
  "senatorInterestStatement": {
   "electorateState": "Tasmania",
   "id": "73a1de65-6472-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "6/18/2026 4:47:40 PM",
+  "lastDateUpdated": "10/16/2026 1:41:41 PM",
   "lodgementDate": "8/4/2025 11:11:09 AM",
   "publishNotes": false,
   "senatorName": "Dolega, Josh",
@@ -207,6 +207,12 @@
     "createdOn": "2026-05-13T05:00:00Z",
     "details": "26/04/26 - 03/05/26: Flights, accommodation and hospitality in Taiwan - Taipei Economic & Cultural Office in Australia",
     "id": "f0ef65d5-954e-f111-bec6-6045bdc25de2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-15T23:00:00Z",
+    "details": "On 11/10/26 I was booked on QF1468 (Melbourne to Canberra) where an economy ticket was purchased by CTM. I was moved by the airline to QF1524. I was upgraded at the gate to business. This upgrade was unsolicited.",
+    "id": "b5b2aa09-ffc8-f111-aaad-7ced8dd14f5b"
    }
   ],
   "interests": [

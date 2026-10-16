@@ -1198,6 +1198,50 @@
    "kind": "addition",
    "sequence": 109,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Five books from M.J. Lowry - received on 28 September 2026 - valued at $135",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 110,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "AFL Premiership Pin from Ladder Project Foundation - received on 25 September 2026 - valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 111,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Book from Monash University Publishing - received on 9 October 2026 - valued at $19",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 112,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Braille sign from Braille House - received on 16 October 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 113,
+   "source_id": null
   }
  ],
  "aph_id": "HWL",
@@ -1519,15 +1563,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-17",
+ "last_updated": "2026-10-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-17T18:07:04Z",
+  "fetched_at": "2026-10-16T17:05:43Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWL.pdf",
-  "sha256": "3bf03287fe5e771d613fb603446bf85e2964091efb959985c991d87c387bbf60",
+  "sha256": "b83ba893d759b9decd465b912c20a823de24ebe9ea21a3f46a305628206db93e",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWL/statement/48"
  },
  "state": "NSW"

@@ -153,6 +153,28 @@
    "kind": "addition",
    "sequence": 14,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "One ticket to the SANFL Grand Final pre-game function and game (20 September 2026)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "One ticket to the SANFL Grand Final pre-game function and game (20 September 2026)",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 16,
+   "source_id": null
   }
  ],
  "aph_id": "316101",
@@ -387,15 +409,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-03",
+ "last_updated": "2026-10-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-16T17:05:43Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316101.pdf",
-  "sha256": "32612fb416216555b0082f329b16945bf09b9e8ca99400a7e3af55568adcbd09",
+  "sha256": "7a3b76eb191db61a6a26164c9395d8c2c80395d37a3d684027ec3948ea0dcd36",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316101/statement/48"
  },
  "state": "SA"
