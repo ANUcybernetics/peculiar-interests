@@ -186,6 +186,28 @@
    "kind": "addition",
    "sequence": 17,
    "source_id": "9e67c58d-f1a4-f111-b8de-6045bdc2f293"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-16",
+   "details": "Tickets and hospitality to the 2026 AFL Grand Final, Brisbane Lions vs Fremantle Dockers, 26 September 2026, MCG Melbourne, courtesy of AFL.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": "5750a703-43cb-f111-a05a-7ced8dd1428e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-16",
+   "details": "Feedlot Tour with Stanbroke - visiting Bottle Tree Feedlot and Rangers Feedlot on private plane with hospitality.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": "6250a703-43cb-f111-a05a-7ced8dd1428e"
   }
  ],
  "aph_id": "39801",
@@ -370,15 +392,15 @@
    "source_id": "f4839ced-bc7c-f011-b4cc-6045bdc323b4"
   }
  ],
- "last_updated": "2026-08-30",
+ "last_updated": "2026-10-16",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-19T17:04:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/39801.json",
-  "sha256": "ebfa73432f17f5333e3d9b1edda85fe0cb3e7abe251a75e1e9235676a85992d5",
+  "sha256": "2399a79a84936f639dc2cbd84fe355bea7c3b2de627d8e998e71a550f8c1a95d",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=39801"
  },
  "state": "Queensland"

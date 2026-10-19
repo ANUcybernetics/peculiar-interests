@@ -184,7 +184,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "143cd177-6472-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "7/27/2026 10:13:45 AM",
+  "lastDateUpdated": "10/19/2026 1:16:23 PM",
   "lodgementDate": "8/6/2025 10:30:28 AM",
   "publishNotes": false,
   "senatorName": "Paterson, James",
@@ -240,6 +240,12 @@
     "createdOn": "2026-07-26T22:00:00Z",
     "details": "Return flights and accommodation in Sydney to deliver the 2026 Commencement Address to the Ramsay Postgraduate Scholars, 23-24 July, courtesy Ramsay Centre for Western Civilisation",
     "id": "bd800642-4789-f111-ab0f-70a8a553d3a2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-19T01:00:00Z",
+    "details": "Return flights, accommodation and hospitality to participate in Consilium conference, Gold Coast, 16-17 October, courtesy Centre for Independent Studies ",
+    "id": "9f26523e-5bcb-f111-a05a-7ced8dd14f5b"
    }
   ],
   "interests": [

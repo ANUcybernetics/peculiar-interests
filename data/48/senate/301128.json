@@ -76,6 +76,17 @@
    "kind": "addition",
    "sequence": 7,
    "source_id": "41659d84-9a37-f111-88b4-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-19",
+   "details": "Self - Airfares and accommodation to participate in ICA US/UK/EU Study Tour  (29 September – 7 October 2026) provided by the Insurance Council of Australia (ICA).",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "e198eb5b-5bcb-f111-a05a-7ced8da0b973"
   }
  ],
  "aph_id": "301128",
@@ -186,15 +197,15 @@
    "source_id": "b0b389cb-4a89-f011-b4cc-000d3ad253b4"
   }
  ],
- "last_updated": "2026-04-14",
+ "last_updated": "2026-10-19",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-19T17:04:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/301128.json",
-  "sha256": "8051465c947765f03fbe73c5f4e5b8831161b2419fb2dae4e6b3fe4541841241",
+  "sha256": "22073970c723ca117108448cf02be0ae38e49a42f98372fea698e2b23b55cc33",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=301128"
  },
  "state": "Victoria"

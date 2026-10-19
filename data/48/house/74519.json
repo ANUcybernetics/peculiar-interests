@@ -329,6 +329,17 @@
    "kind": "addition",
    "sequence": 30,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-19",
+   "date_submitted": "2026-10-19",
+   "details": "I have paid for a membership of the Perth Bears Rugby League Club.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
   }
  ],
  "aph_id": "74519",
@@ -623,15 +634,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-19",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-15T18:23:04Z",
+  "fetched_at": "2026-10-19T17:04:28Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/74519.pdf",
-  "sha256": "3db84adef82b63a4d08a4da36b1e266f861d4dd4bfa69532f69f41cadf4a3f6b",
+  "sha256": "597fc9ad790f528559fbd8ee8e43ed33fc2f917afcbdb5d189d3465c8828e075",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/74519/statement/48"
  },
  "state": "WA"

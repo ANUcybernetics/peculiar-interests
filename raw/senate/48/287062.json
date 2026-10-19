@@ -186,7 +186,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "fb7c809c-bd7c-f011-b4cc-6045bdc29378",
-  "lastDateUpdated": "7/9/2026 8:39:26 AM",
+  "lastDateUpdated": "10/19/2026 1:16:18 PM",
   "lodgementDate": "8/18/2025 11:07:05 AM",
   "publishNotes": false,
   "senatorName": "McLachlan, Andrew",
@@ -208,6 +208,12 @@
     "createdOn": "2025-10-28T01:00:00Z",
     "details": "SFIF  - Seed Financial Income Fund Active ETF",
     "id": "0a00f6aa-17b6-f011-bbd2-6045bde5f32c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-19T01:00:00Z",
+    "details": "L1 Global Long Short Fund (GLS) ",
+    "id": "33543e40-5bcb-f111-a05a-7ced8dd1428e"
    },
    {
     "alterationType": "Deletion",

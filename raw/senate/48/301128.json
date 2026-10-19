@@ -135,7 +135,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "d13dc18c-6376-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "4/14/2026 10:46:40 AM",
+  "lastDateUpdated": "10/19/2026 1:16:17 PM",
   "lodgementDate": "8/11/2025 10:07:33 AM",
   "publishNotes": false,
   "senatorName": "Darmanin, Lisa",
@@ -155,6 +155,12 @@
     "createdOn": "2025-09-01T08:00:00Z",
     "details": "On 31 August 2025, I boarded Qantas flight QF1278 Canberra to Melbourne, booked as an economy fare. Prior to boarding, my seat was upgraded to business fare. The upgrade was unsolicited.",
     "id": "9c361e5c-1d87-f011-b4cc-7c1e5262c1f2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-19T01:00:00Z",
+    "details": "Self - Airfares and accommodation to participate in ICA US/UK/EU Study Tour  (29 September – 7 October 2026) provided by the Insurance Council of Australia (ICA).",
+    "id": "e198eb5b-5bcb-f111-a05a-7ced8da0b973"
    }
   ],
   "interests": [

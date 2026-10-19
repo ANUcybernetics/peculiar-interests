@@ -76,6 +76,17 @@
    "kind": "addition",
    "sequence": 7,
    "source_id": "0e0f8531-747a-f111-ab0f-6045bdc3f4ad"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-10-19",
+   "details": "L1 Global Long Short Fund (GLS) ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "33543e40-5bcb-f111-a05a-7ced8dd1428e"
   }
  ],
  "aph_id": "287062",
@@ -574,15 +585,15 @@
    "source_id": "297d809c-bd7c-f011-b4cc-6045bdc29378"
   }
  ],
- "last_updated": "2026-07-09",
+ "last_updated": "2026-10-19",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-19T17:04:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/287062.json",
-  "sha256": "580bf44df127e16a131c0ae23179fa133bcc6fcfba9406f401c4b4787ca1b5c9",
+  "sha256": "f14923ebad22976774c0e3e3972e196aea03dea48bff1a0ecb08b7e91b01690e",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=287062"
  },
  "state": "South Australia"

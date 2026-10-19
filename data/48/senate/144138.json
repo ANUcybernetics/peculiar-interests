@@ -164,6 +164,17 @@
    "kind": "addition",
    "sequence": 15,
    "source_id": "bd800642-4789-f111-ab0f-70a8a553d3a2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-19",
+   "details": "Return flights, accommodation and hospitality to participate in Consilium conference, Gold Coast, 16-17 October, courtesy Centre for Independent Studies ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": "9f26523e-5bcb-f111-a05a-7ced8dd14f5b"
   }
  ],
  "aph_id": "144138",
@@ -346,15 +357,15 @@
    "source_id": "3c3cd177-6472-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2026-07-27",
+ "last_updated": "2026-10-19",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-19T17:04:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/144138.json",
-  "sha256": "5a5ede2624517010038dda8699703647f19307c065030a132aedd90eef2233d6",
+  "sha256": "192acedb4dd56fdd715d333a35a83bc14d56274c69b46041aa3d7994bced3b55",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=144138"
  },
  "state": "Victoria"

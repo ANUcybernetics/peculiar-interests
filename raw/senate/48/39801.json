@@ -133,7 +133,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "ca839ced-bc7c-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "8/30/2026 2:22:14 PM",
+  "lastDateUpdated": "10/16/2026 12:03:17 PM",
   "lodgementDate": "8/18/2025 11:57:47 AM",
   "publishNotes": false,
   "senatorName": "Chisholm, Anthony",
@@ -249,6 +249,18 @@
     "createdOn": "2026-07-03T04:00:00Z",
     "details": "2 x tickets and hospitality to Ladbrokes Stradbroke Day Committee Function on Saturday 13 June 2026 at Eagle Farm Racecourse, Brisbane, QLD, guest of Brisbane Racing Club",
     "id": "a81a36bb-9476-f111-ab0f-7ced8da1c86f"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-16T09:00:00Z",
+    "details": "Tickets and hospitality to the 2026 AFL Grand Final, Brisbane Lions vs Fremantle Dockers, 26 September 2026, MCG Melbourne, courtesy of AFL.",
+    "id": "5750a703-43cb-f111-a05a-7ced8dd1428e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-16T09:30:00Z",
+    "details": "Feedlot Tour with Stanbroke - visiting Bottle Tree Feedlot and Rangers Feedlot on private plane with hospitality.",
+    "id": "6250a703-43cb-f111-a05a-7ced8dd1428e"
    }
   ],
   "interests": [
