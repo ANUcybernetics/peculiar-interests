@@ -2,6 +2,8 @@
 
 aph.gov.au and its Azure API front doors answer plain requests but 403 the
 default python-httpx user agent, so every client here presents a browser UA.
+The Senate API also throws the odd transient 500 for a single statement, so
+every client retries 5xx responses with backoff before letting one through.
 Downloads are written atomically and hashed so a re-fetch can be compared with
 what is already committed.
 """
@@ -9,7 +11,8 @@ what is already committed.
 from __future__ import annotations
 
 import hashlib
-from collections.abc import Iterable, Mapping
+import time
+from collections.abc import Callable, Iterable, Mapping
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -22,11 +25,50 @@ USER_AGENT = (
 )
 
 
-def client(**headers: str) -> httpx.Client:
+# Seconds to wait before each retry of a 5xx; the last 5xx is returned as is.
+RETRY_DELAYS = (2.0, 5.0, 15.0, 30.0)
+
+
+class RetryTransport(httpx.BaseTransport):
+    """Retry 5xx responses from `inner`, sleeping `delays[i]` before retry i."""
+
+    def __init__(
+        self,
+        inner: httpx.BaseTransport,
+        delays: tuple[float, ...] = RETRY_DELAYS,
+        sleep: Callable[[float], None] = time.sleep,
+    ) -> None:
+        self._inner = inner
+        self._delays = delays
+        self._sleep = sleep
+
+    def handle_request(self, request: httpx.Request) -> httpx.Response:
+        for delay in self._delays:
+            response = self._inner.handle_request(request)
+            if response.status_code < 500:
+                return response
+            response.close()
+            logger.warning(
+                "{} from {}; retrying in {:.0f}s",
+                response.status_code,
+                request.url,
+                delay,
+            )
+            self._sleep(delay)
+        return self._inner.handle_request(request)
+
+    def close(self) -> None:
+        self._inner.close()
+
+
+def client(
+    transport: httpx.BaseTransport | None = None, **headers: str
+) -> httpx.Client:
     return httpx.Client(
         headers={"User-Agent": USER_AGENT, **headers},
         timeout=httpx.Timeout(60.0),
         follow_redirects=True,
+        transport=RetryTransport(transport or httpx.HTTPTransport()),
     )
 
 
