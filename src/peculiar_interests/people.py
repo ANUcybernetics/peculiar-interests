@@ -25,8 +25,12 @@ LISTING_URL = (
     "https://www.aph.gov.au/Senators_and_Members/Contacting_Senators_and_Members/"
     "Address_labels_and_CSV_files"
 )
+# The page also links FamilynameRepsCSV.csv, but APH stopped updating that one
+# in December 2025 (it still lists members replaced at by-elections).
 ROSTER_FILES = {
-    "reps.csv": re.compile(r"FamilynameRepsCSV\.csv", re.IGNORECASE),
+    "reps.csv": re.compile(
+        r"All_members_by_name/All_members_by_name\.csv", re.IGNORECASE
+    ),
     "senators.csv": re.compile(r"Senators/allsenel\.csv", re.IGNORECASE),
 }
 
@@ -96,10 +100,16 @@ def fetch_roster() -> list[Path]:
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
+    """Rows keyed by header. A trailing comma on every row (APH's members CSV)
+    yields one empty unnamed field, which is dropped; anything more raises."""
     with path.open(newline="", encoding="utf-8-sig") as f:
-        return [
-            {k.strip(): v.strip() for k, v in row.items()} for row in csv.DictReader(f)
-        ]
+        rows = []
+        for row in csv.DictReader(f, restkey="_extra"):
+            extra = row.pop("_extra", [])
+            if any(v.strip() for v in extra):
+                raise ValueError(f"{path}: unexpected extra fields {extra!r}")
+            rows.append({k.strip(): v.strip() for k, v in row.items()})
+        return rows
 
 
 def _roster_rows(chamber: Chamber) -> list[dict[str, str]]:

@@ -1033,7 +1033,7 @@
   "family_name": "Cook",
   "gender": "Female",
   "given_names": "Patricia Ann",
-  "honorific": "Ms",
+  "honorific": "Dr",
   "parliaments": [
    48
   ],
@@ -1211,16 +1211,16 @@
   "chamber": "house",
   "electorate": "Farrer",
   "family_name": "Farley",
-  "gender": null,
+  "gender": "Male",
   "given_names": "David",
   "honorific": "Mr",
   "parliaments": [
    48
   ],
-  "party": null,
-  "party_code": null,
-  "post_nominals": null,
-  "preferred_name": null,
+  "party": "One Nation",
+  "party_code": "ON",
+  "post_nominals": "MP",
+  "preferred_name": "David",
   "state": "NSW"
  },
  {
@@ -1829,8 +1829,8 @@
   "parliaments": [
    48
   ],
-  "party": "Pauline Hanson's One Nation",
-  "party_code": "PHON",
+  "party": "One Nation",
+  "party_code": "ON",
   "post_nominals": "MP",
   "preferred_name": "Barnaby",
   "state": "NSW"
@@ -2111,15 +2111,15 @@
   "chamber": "house",
   "electorate": "Farrer",
   "family_name": "Ley",
-  "gender": "Female",
-  "given_names": "Sussan Penelope",
-  "honorific": "Hon",
+  "gender": null,
+  "given_names": "Sussan",
+  "honorific": "Ms",
   "parliaments": [
    48
   ],
-  "party": "Liberal Party of Australia",
-  "party_code": "LP",
-  "post_nominals": "MP",
+  "party": null,
+  "party_code": null,
+  "post_nominals": null,
   "preferred_name": null,
   "state": "NSW"
  },
