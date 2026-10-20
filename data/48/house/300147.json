@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-20",
+   "date_submitted": "2026-10-20",
+   "details": "Flights and Accommodation for Study tour hosted by the Insurance Council of Australia - US, Switzerland, England.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
   }
  ],
  "aph_id": "300147",
@@ -468,15 +479,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-18",
+ "last_updated": "2026-10-20",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-18T18:19:34Z",
+  "fetched_at": "2026-10-20T17:17:20Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/300147.pdf",
-  "sha256": "31ecbdef7f946fc20c2eb2b853cd05e9ef11fa74d0ce7f724e156a4efb1173c8",
+  "sha256": "e30374ff09d969feab12abbc34a9ae9d0bc32ecb339b9084790c1efd01ebcc97",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/300147/statement/48"
  },
  "state": "VIC"
