@@ -2,6 +2,6 @@
 # pnpm is the one deliberate "latest" (the deploy workflow resolves the same
 # value via jdx/mise-action); everything else is pinned.
 python = "3.14"
-uv = "0.12.10"
+uv = "0.13.2"
 node = "24"
 pnpm = "latest"

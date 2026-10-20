@@ -14,7 +14,7 @@ Project has its own `mise.toml`: prefix commands with `mise exec --`.
   sequence; `transcribe PDF` shells out to `claude -p`.
 - `uv run python -m pytest` (parallel; `-m live` adds tests that hit aph.gov.au)
 - `uv run ruff check . && uv run ruff format --check .`
-- `uvx ty check`
+- `uv run ty check`
 - Site: `cd site && pnpm run {dev,build,lint,lint:css,typecheck,test,format}`
 
 ## Sources

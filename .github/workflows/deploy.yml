@@ -43,7 +43,7 @@ jobs:
         run: uv run python -m pytest
 
       - name: Python typecheck
-        run: uv run --with ty==0.0.75 ty check
+        run: uv run ty check
 
       - name: Check data/ is in step with raw/ and the parsers
         run: |
