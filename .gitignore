@@ -5,7 +5,7 @@ dist/
 .pytest_cache/
 .ruff_cache/
 logs/
-# Page renders for `pollie transcribe`; only the resulting overrides are committed.
+# Page renders for `peculiar transcribe`; only the resulting overrides are committed.
 raw/transcribe/
 site/node_modules/
 site/dist/
