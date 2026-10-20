@@ -32,6 +32,12 @@ only signal the site presents as confirmed. Top-level keys must come before the
     date_submitted = 2026-03-04
     date_processed = 2026-03-06
     sequence = 1
+
+A person override at `paths.person_override_path(aph_id)` supplies `Person`
+fields for someone the current roster no longer lists (a member who left
+mid-term), whose register entry carries little more than a name. Any of
+`given_names`, `preferred_name`, `honorific`, `post_nominals`, `gender` and
+`party_code`; cite the source in a comment.
 """
 
 from __future__ import annotations
@@ -60,6 +66,25 @@ class Override(BaseModel):
     notes: list[str] = Field(default_factory=list)
     interests: list[Interest] = Field(default_factory=list)
     alterations: list[Alteration] = Field(default_factory=list)
+
+
+class PersonOverride(BaseModel):
+    model_config = ConfigDict(frozen=True, extra="forbid")
+
+    given_names: str | None = None
+    preferred_name: str | None = None
+    honorific: str | None = None
+    post_nominals: str | None = None
+    gender: str | None = None
+    party_code: str | None = None
+
+
+def find_person(aph_id: str) -> PersonOverride | None:
+    path = paths.person_override_path(aph_id)
+    if not path.exists():
+        return None
+    with path.open("rb") as f:
+        return PersonOverride.model_validate(tomllib.load(f))
 
 
 def load(path: Path) -> Override:

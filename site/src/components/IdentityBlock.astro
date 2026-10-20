@@ -18,6 +18,7 @@ const fields: [string, string | null | undefined][] =
         ["Electoral division", s.electorate ?? person?.electorate],
         ["State", s.state ?? person?.state],
         ["Party", party],
+        ["Status", person?.current === false ? "Former member" : null],
       ]
     : [
         ["Family name", s.family_name],

@@ -14,6 +14,7 @@ const rows = statements.map((s) => {
     s,
     party: person?.party ?? s.party ?? "",
     place: s.chamber === "house" ? (s.electorate ?? person?.electorate ?? "") : (s.state ?? person?.state ?? ""),
+    former: person?.current === false,
     declared: s.interests.length,
     changes: s.alterations.length,
   };
@@ -45,7 +46,7 @@ const rows = statements.map((s) => {
       </thead>
       <tbody>
         {
-          rows.map(({ s, party, place, declared, changes }) => (
+          rows.map(({ s, party, place, former, declared, changes }) => (
             <tr
               data-chamber={s.chamber}
               data-party={party}
@@ -64,7 +65,10 @@ const rows = statements.map((s) => {
                 <ChamberMark chamber={s.chamber} />
               </td>
               <td>{party}</td>
-              <td>{place}</td>
+              <td>
+                {place}
+                {former && <span class="muted"> (former member)</span>}
+              </td>
               <td class="num">
                 {s.extraction.method === "pending" ? <span class="muted">pending</span> : declared}
               </td>

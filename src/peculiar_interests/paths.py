@@ -8,6 +8,7 @@ defined once.
     data/{parliament}/{chamber}/{aph_id}.json   one Statement per person
     data/people.json                        the Person roster
     overrides/{parliament}/{chamber}/{aph_id}.toml  hand-confirmed statements
+    overrides/people/{aph_id}.toml          person details the roster lacks
 """
 
 from __future__ import annotations
@@ -41,6 +42,10 @@ def statement_path(chamber: Chamber, parliament: int, aph_id: str) -> Path:
 
 def override_path(chamber: Chamber, parliament: int, aph_id: str) -> Path:
     return OVERRIDES / str(parliament) / chamber.value / f"{aph_id}.toml"
+
+
+def person_override_path(aph_id: str) -> Path:
+    return OVERRIDES / "people" / f"{aph_id}.toml"
 
 
 def relative(path: Path) -> str:

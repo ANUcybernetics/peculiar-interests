@@ -18,7 +18,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from loguru import logger
 
-from peculiar_interests import fetch, paths, store
+from peculiar_interests import fetch, overrides, paths, store
 from peculiar_interests.schema import Chamber, Person
 
 LISTING_URL = (
@@ -175,6 +175,9 @@ def build(parliament: int = 48) -> list[Person]:
     for chamber in Chamber:
         entries = _index_entries(chamber, parliament)
         matched: set[str] = set()
+        # House seats whose roster member matched a register entry: a second,
+        # unmatched entry for one of these is a member who left mid-term.
+        held_seats: set[str] = set()
         for row in _roster_rows(chamber):
             entry = _match(row, chamber, entries)
             aph_id = _register_identity(chamber, entry)[0] if entry else None
@@ -187,6 +190,8 @@ def build(parliament: int = 48) -> list[Person]:
                 )
             else:
                 matched.add(aph_id or "")
+                if chamber is Chamber.HOUSE:
+                    held_seats.add(fold(row["Electorate"]))
             party_code = row["Political Party"] or None
             people.append(
                 Person(
@@ -215,12 +220,21 @@ def build(parliament: int = 48) -> list[Person]:
             aph_id, family, given, place = _register_identity(chamber, entry)
             if aph_id in matched:
                 continue
-            logger.warning(
-                "{} {} {} is on the register but not the roster",
-                chamber.value,
-                given,
-                family,
-            )
+            former = chamber is Chamber.HOUSE and fold(place or "") in held_seats
+            if former:
+                logger.info(
+                    "house {} {} has left: {} is held by someone else on the roster",
+                    given,
+                    family,
+                    place,
+                )
+            else:
+                logger.warning(
+                    "{} {} {} is on the register but not the roster",
+                    chamber.value,
+                    given,
+                    family,
+                )
             people.append(
                 Person(
                     aph_id=aph_id,
@@ -232,11 +246,23 @@ def build(parliament: int = 48) -> list[Person]:
                     state=place if chamber is Chamber.SENATE else entry.get("state"),
                     electorate=place if chamber is Chamber.HOUSE else None,
                     parliaments=[parliament],
+                    current=not former,
                     aph_url=f"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID={aph_id}",
                 )
             )
+    people = [_with_override(p) for p in people]
     people.sort(key=lambda p: (fold(p.family_name), fold(p.given_names)))
     return people
+
+
+def _with_override(person: Person) -> Person:
+    override = overrides.find_person(person.aph_id)
+    if override is None:
+        return person
+    update = override.model_dump(exclude_none=True)
+    if code := update.get("party_code"):
+        update["party"] = PARTY_NAMES.get(code, code)
+    return person.model_copy(update=update)
 
 
 def write(people: list[Person]) -> Path:

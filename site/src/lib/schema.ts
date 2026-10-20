@@ -99,6 +99,7 @@ export const PersonSchema = z.object({
   state: z.string().nullable(),
   electorate: z.string().nullable(),
   parliaments: z.array(z.number().int()),
+  current: z.boolean(),
   aph_url: z.string().nullable(),
 });
 export type Person = z.infer<typeof PersonSchema>;

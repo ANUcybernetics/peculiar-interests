@@ -223,6 +223,9 @@ class Person(BaseModel):
     electorate: str | None = None
     # Which parliaments we hold a statement for, in either chamber.
     parliaments: list[int] = Field(default_factory=list)
+    # False for someone who left mid-term: their statement is still on the
+    # register, but APH's current roster has someone else in their seat.
+    current: bool = True
     aph_url: str | None = None
 
 
