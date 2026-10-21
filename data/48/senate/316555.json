@@ -32,6 +32,28 @@
    "kind": "addition",
    "sequence": 3,
    "source_id": "dda10631-9042-f111-88b4-6045bdc3f4ad"
+  },
+  {
+   "category": "other-income",
+   "date_processed": null,
+   "date_submitted": "2026-10-20",
+   "details": "Occasional rental income ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "56590830-f5cc-f111-a05a-00224893e2bc"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-20",
+   "details": "Sponsored economy flights, accomodation and travel allowance paid by European Union Visitor Program September 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "36e50dde-f5cc-f111-a05a-7ced8da0b973"
   }
  ],
  "aph_id": "316555",
@@ -116,15 +138,15 @@
    "source_id": "c3bbd2e6-ca7b-f011-b4cc-6045bdc323b4"
   }
  ],
- "last_updated": "2026-04-28",
+ "last_updated": "2026-10-21",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-21T17:23:44Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/316555.json",
-  "sha256": "5d097a03da7425783889697729d3e02517749b4960bc39087ac9e0921037308f",
+  "sha256": "04a484c3b38a1a70648013ca0837787149af53577c335c79542b91d659549467",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=316555"
  },
  "state": "Western Australia"

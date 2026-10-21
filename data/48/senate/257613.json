@@ -175,6 +175,17 @@
    "kind": "addition",
    "sequence": 16,
    "source_id": "d2eea952-17c1-f111-aaaf-7ced8da2d8e0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-19",
+   "details": "Two tickets to 2026 Telethon Ball in Perth on 17 October 2026, guest of Australian Capital Equity",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": "3b0c20c6-0fcc-f111-a05a-7ced8da0b973"
   }
  ],
  "aph_id": "257613",
@@ -487,15 +498,15 @@
    "source_id": "70d2d10f-06af-f011-bbd2-002248990cce"
   }
  ],
- "last_updated": "2026-10-04",
+ "last_updated": "2026-10-20",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-10-06T17:23:43Z",
+  "fetched_at": "2026-10-21T17:23:44Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/257613.json",
-  "sha256": "213fd4380f041733e6b0904e32d98fbc676e3b02c03e208d31dd16b19c833f70",
+  "sha256": "f1e291a4ca620bb9a2dfb4f8261b7840af3fc19576573adc6d892abb775ddfd5",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=257613"
  },
  "state": "Western Australia"

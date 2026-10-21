@@ -472,6 +472,17 @@
    "kind": "addition",
    "sequence": 43,
    "source_id": "3487c2ad-d06d-f111-ab0d-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-20",
+   "details": "Being a former employee and dedicated supporter of my local NRL team the mighty Newcastle Knights, the transformation from 2025 wooden spooners to 2026 grand finalists was electrifying for our passionate region, and while initial plans for the big day were to gather the 3 generations of Cadell men together to watch the spectacle on TV those plans changed thanks to the NRL’s Anthony Trimarchi and his team of dream facilitators who gifted me 4 general admission tickets in section 626 row 25 so my father, sons and I could join 80,000 other league fanatics experience the spectacle that was the 2026 NRL grand final live.  While our Knights were unable to become the first team in the NRL era to win the premiership from outside the top four our big hearted team played strong and did us proud, forcing our opponents to have to come back from 12-0 down at half time to wrestle the trophy from us in what was an absolute thriller of a game – Cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 44,
+   "source_id": "189f1ca5-fccc-f111-a05a-7ced8da0b973"
   }
  ],
  "aph_id": "300134",
@@ -666,15 +677,15 @@
    "source_id": "a015ed46-d566-f011-bec3-0022489727de"
   }
  ],
- "last_updated": "2026-06-22",
+ "last_updated": "2026-10-21",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-21T17:23:44Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/300134.json",
-  "sha256": "aa807dae7aa7bb60d5f3bbce626f52a4a202ada29474a722c12501da7d1d1bbf",
+  "sha256": "d3535177b447ee578858d97948097653cacd0bfe914924ad7ddc9ae9e0894d15",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300134"
  },
  "state": "New South Wales"

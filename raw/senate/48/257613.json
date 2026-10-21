@@ -205,7 +205,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "3bd2d10f-06af-f011-bbd2-002248990cce",
-  "lastDateUpdated": "10/4/2026 4:56:55 PM",
+  "lastDateUpdated": "10/20/2026 3:51:36 PM",
   "lodgementDate": "8/14/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Ghosh, Varun",
@@ -280,6 +280,12 @@
     "createdOn": "2026-07-28T01:00:00Z",
     "details": "Ticket and hospitality to AFL game - Adelaide Crows vs Collingwood Magpies - at Adelaide Oval on 23 July 2026, guest of Adelaide Crows Football Club",
     "id": "14087168-218a-f111-ab10-7c1e5262e7d4"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-19T07:00:00Z",
+    "details": "Two tickets to 2026 Telethon Ball in Perth on 17 October 2026, guest of Australian Capital Equity",
+    "id": "3b0c20c6-0fcc-f111-a05a-7ced8da0b973"
    },
    {
     "alterationType": "Addition",

@@ -369,7 +369,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "8015ed46-d566-f011-bec3-0022489727de",
-  "lastDateUpdated": "6/22/2026 11:09:15 AM",
+  "lastDateUpdated": "10/21/2026 4:17:12 PM",
   "lodgementDate": "7/22/2025 6:24:24 PM",
   "publishNotes": false,
   "senatorName": "Cadell, Ross",
@@ -418,6 +418,12 @@
     "createdOn": "2025-11-09T21:00:00Z",
     "details": "As a guest of the Port of Newcastle I was fortunate to see in person the special effects and amazing high energy stunts performed last Saturday night by Nitro Circus at McDonald Jones Stadium.  Apart from the always hot but delicious party pies in hospitality I particularly enjoyed seeing the local boys performing along side the worlds best, defying gravity and physics by jumping bikes, rollerblades, wheelchairs & lounges with unbelievable skill – Cost Unknown",
     "id": "66ac9a05-1cc0-f011-bbd3-6045bde5f32c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-20T21:00:00Z",
+    "details": "Being a former employee and dedicated supporter of my local NRL team the mighty Newcastle Knights, the transformation from 2025 wooden spooners to 2026 grand finalists was electrifying for our passionate region, and while initial plans for the big day were to gather the 3 generations of Cadell men together to watch the spectacle on TV those plans changed thanks to the NRL’s Anthony Trimarchi and his team of dream facilitators who gifted me 4 general admission tickets in section 626 row 25 so my father, sons and I could join 80,000 other league fanatics experience the spectacle that was the 2026 NRL grand final live.  While our Knights were unable to become the first team in the NRL era to win the premiership from outside the top four our big hearted team played strong and did us proud, forcing our opponents to have to come back from 12-0 down at half time to wrestle the trophy from us in what was an absolute thriller of a game – Cost unknown",
+    "id": "189f1ca5-fccc-f111-a05a-7ced8da0b973"
    },
    {
     "alterationType": "Addition",

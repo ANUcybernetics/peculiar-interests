@@ -52,7 +52,14 @@
   ]
  },
  "otherIncome": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-20T07:00:00Z",
+    "details": "Occasional rental income ",
+    "id": "56590830-f5cc-f111-a05a-00224893e2bc"
+   }
+  ],
   "interests": []
  },
  "otherInterest": {
@@ -102,7 +109,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "98bbd2e6-ca7b-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "4/28/2026 9:25:09 AM",
+  "lastDateUpdated": "10/21/2026 1:35:20 PM",
   "lodgementDate": "8/14/2025 12:48:27 PM",
   "publishNotes": false,
   "senatorName": "Whiteaker, Ellie",
@@ -122,6 +129,12 @@
     "createdOn": "2026-04-24T08:00:00Z",
     "details": "Pilbara Familiarisation Tour, accomodation, flights and meals - Chamber of Minerals and Energy WA. ",
     "id": "dda10631-9042-f111-88b4-6045bdc3f4ad"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-20T07:30:00Z",
+    "details": "Sponsored economy flights, accomodation and travel allowance paid by European Union Visitor Program September 2026",
+    "id": "36e50dde-f5cc-f111-a05a-7ced8da0b973"
    }
   ],
   "interests": []
