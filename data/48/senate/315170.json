@@ -43,6 +43,39 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": "b80f9759-f0d6-f011-8544-6045bdc2987e"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-10-20",
+   "details": "Liberal Club",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": "8ccb779c-98cd-f111-a05a-7ced8da2daaf"
+  },
+  {
+   "category": "trusts",
+   "date_processed": null,
+   "date_submitted": "2026-10-20",
+   "details": "Liberal Party of Australia (SA Division)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 6,
+   "source_id": "762b5996-98cd-f111-a05a-7ced8da2daaf"
+  },
+  {
+   "category": "trusts",
+   "date_processed": null,
+   "date_submitted": "2026-10-20",
+   "details": "Liberal Party of Australia (SA Division)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "91cb779c-98cd-f111-a05a-7ced8da2daaf"
   }
  ],
  "aph_id": "315170",
@@ -221,15 +254,15 @@
    "source_id": "579a4cab-fe70-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2025-12-11",
+ "last_updated": "2026-10-22",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-22T17:23:48Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/315170.json",
-  "sha256": "566aaeb3bfcb0136b5ed80d75ed756d503e7d629e8b7b60ceeb98c599bc76245",
+  "sha256": "63753bed6f42782a5fb7399651bb726ea03dc9e6c1d94b68e10314b1d548003f",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=315170"
  },
  "state": "South Australia"

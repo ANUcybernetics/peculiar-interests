@@ -329,6 +329,17 @@
    "kind": "addition",
    "sequence": 30,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-22",
+   "date_submitted": "2026-10-21",
+   "details": "Ticket to the Business Leaders’ Summit and Gala Dinner, Parliament House, Canberra, 13 October 2026. Provided by the Australian Chamber of Commerce and Industry.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 31,
+   "source_id": null
   }
  ],
  "aph_id": "316550",
@@ -343,7 +354,7 @@
  },
  "family_name": "French",
  "given_names": "Thomas",
- "honorific": null,
+ "honorific": "Mr",
  "interests": [
   {
    "category": "shareholdings",
@@ -730,16 +741,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-24",
+ "last_updated": "2026-10-21",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-25T18:09:33Z",
+  "fetched_at": "2026-10-22T17:23:58Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316550.pdf",
-  "sha256": "790127fdad747b3661fea520506458f752fdc057855ab3422278cb8cf7346f0d",
+  "sha256": "de69728510372f1a6f9478249fe6836b6fe039324eb9c7b046b07401a045f45d",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316550/statement/48"
  },
- "state": null
+ "state": "WA"
 }

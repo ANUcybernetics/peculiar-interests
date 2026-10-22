@@ -109,6 +109,17 @@
    "kind": "addition",
    "sequence": 10,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-22",
+   "date_submitted": "2026-10-22",
+   "details": "3 x tickets to Hahn Australia Cup final on 10 October 2026, courtesy of football Australia. Value unknown.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
   }
  ],
  "aph_id": "101351",
@@ -347,15 +358,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-24",
+ "last_updated": "2026-10-22",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-22T17:23:58Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/101351.pdf",
-  "sha256": "3c8246019a674ab41a409677be2c70cc5225fafdd6074952e75cf25e22fabf11",
+  "sha256": "61ebfca4dda32de3f7bae76ca269d700473e1600007527126e9d9f20da7133a6",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/101351/statement/48"
  },
  "state": "VIC"

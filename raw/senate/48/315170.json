@@ -139,7 +139,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "d2601b5e-fd70-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "12/11/2025 4:30:02 PM",
+  "lastDateUpdated": "10/22/2026 10:25:09 AM",
   "lodgementDate": "7/25/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Blyth, Leah",
@@ -149,7 +149,14 @@
   "statementNotes": ""
  },
  "shareHoldings": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-10-20T21:30:00Z",
+    "details": "Liberal Club",
+    "id": "8ccb779c-98cd-f111-a05a-7ced8da2daaf"
+   }
+  ],
   "interests": [
    {
     "id": "ed62907c-fd70-f011-b4cd-000d3ad2a284",
@@ -175,7 +182,20 @@
   "interests": []
  },
  "trusts": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-10-20T21:00:00Z",
+    "details": "Liberal Party of Australia (SA Division)",
+    "id": "762b5996-98cd-f111-a05a-7ced8da2daaf"
+   },
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-10-20T22:00:00Z",
+    "details": "Liberal Party of Australia (SA Division)",
+    "id": "91cb779c-98cd-f111-a05a-7ced8da2daaf"
+   }
+  ],
   "interests": [
    {
     "id": "65f8d3ac-fd70-f011-b4cd-000d3ad2a284",
