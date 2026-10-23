@@ -175,6 +175,17 @@
    "kind": "addition",
    "sequence": 16,
    "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-10-23",
+   "date_submitted": "2026-10-23",
+   "details": "Self - Car - Mazda MX5",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 17,
+   "source_id": null
   }
  ],
  "aph_id": "181810",
@@ -547,15 +558,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-22",
+ "last_updated": "2026-10-23",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-22T17:23:58Z",
+  "fetched_at": "2026-10-23T17:14:37Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/181810.pdf",
-  "sha256": "da08bd55ec924be1691dbfc0f1fdb1a9abec2899feb0dc026c75355242d1683d",
+  "sha256": "ddc554fe7f26896ef783431a1b29fbf02af27819c38323b1d54769fece365e29",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/181810/statement/48"
  },
  "state": "NSW"
