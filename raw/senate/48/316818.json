@@ -1,7 +1,14 @@
 {
  "errors": null,
  "gifts": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-26T03:00:00Z",
+    "details": "An Automated External Defibrillator courtesy of St John. The defibrillator was donated to the South Australian Country Women's Association Ligurian Ladies on Kangaroo Island.",
+    "id": "7c1b4a9d-fbd0-f111-a059-00224893e2bc"
+   }
+  ],
   "interests": []
  },
  "investments": {
@@ -134,7 +141,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "e31be930-a678-f011-b4cb-6045bdc29378",
-  "lastDateUpdated": "8/24/2026 1:52:52 PM",
+  "lastDateUpdated": "10/26/2026 4:43:43 PM",
   "lodgementDate": "8/13/2025 12:33:17 PM",
   "publishNotes": false,
   "senatorName": "Walker, Charlotte",

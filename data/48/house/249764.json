@@ -54,6 +54,17 @@
    "kind": "addition",
    "sequence": 5,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-26",
+   "date_submitted": "2026-10-26",
+   "details": "2 tickets to Heart of Australia Gala. Complimentary tickets provided by Heart of Australia",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
   }
  ],
  "aph_id": "249764",
@@ -323,15 +334,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-05-08",
+ "last_updated": "2026-10-26",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-26T17:23:12Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/249764.pdf",
-  "sha256": "94ddd3dd8456fa97d6e9927ea7e189e2c54a8886fd4a4c817fb58de98429ffd5",
+  "sha256": "e948fe55b3b30f9d64e33df4f225bcea4fdfac3a2e60d72b5c335fc389b2ab35",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/249764/statement/48"
  },
  "state": "QLD"

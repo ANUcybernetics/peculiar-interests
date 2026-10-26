@@ -120,6 +120,17 @@
    "kind": "addition",
    "sequence": 11,
    "source_id": "054ed7b4-1fa0-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-26",
+   "details": "An Automated External Defibrillator courtesy of St John. The defibrillator was donated to the South Australian Country Women's Association Ligurian Ladies on Kangaroo Island.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "7c1b4a9d-fbd0-f111-a059-00224893e2bc"
   }
  ],
  "aph_id": "316818",
@@ -243,15 +254,15 @@
    "source_id": "07c6e336-a678-f011-b4cb-6045bdc29378"
   }
  ],
- "last_updated": "2026-08-24",
+ "last_updated": "2026-10-26",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-26T17:23:02Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/316818.json",
-  "sha256": "a54981b2cdeca8b381136fcfee48f1a39200bb4ccba0eba23dae6db4cfbc9a25",
+  "sha256": "55944b4fa99977b9288da3a3fdc8e362c3cfafaea605988e2175a5390862eff4",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=316818"
  },
  "state": "South Australia"

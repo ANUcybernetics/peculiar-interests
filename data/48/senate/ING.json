@@ -120,6 +120,17 @@
    "kind": "addition",
    "sequence": 11,
    "source_id": "7d764628-cabb-f111-aaae-70a8a553fe6c"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-10-26",
+   "details": "Donation to Save the Children Australia ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "6969366e-e0d0-f111-a059-7ced8da0b973"
   }
  ],
  "aph_id": "ING",
@@ -246,15 +257,15 @@
    "source_id": "4eeeec91-7f76-f011-b4cb-6045bdc323b4"
   }
  ],
- "last_updated": "2026-09-29",
+ "last_updated": "2026-10-26",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-29T18:22:56Z",
+  "fetched_at": "2026-10-26T17:23:02Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/ING.json",
-  "sha256": "f26c0b76caa401e2886ff32a9b5b0a6b1be19c53c75b070e37e45334c421b2cc",
+  "sha256": "23ab8a93351f5318983680d2e082cb110915b63d6283d42b1932d0d087927cd3",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=ING"
  },
  "state": "Australian Capital Territory"

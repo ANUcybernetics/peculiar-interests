@@ -1223,15 +1223,15 @@
    "source_id": "043ec18c-6376-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2026-10-14",
+ "last_updated": "2026-10-23",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-10-14T17:01:44Z",
+  "fetched_at": "2026-10-26T17:23:02Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/207825.json",
-  "sha256": "2670f6d4689b631391ee9a3aefbfaa3993c9e0bae02557d975db0d1227a56316",
+  "sha256": "b7cb79970c542299bf367f80fb6367bb27660721e64e0272c6e7d4ea4f70b140",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=207825"
  },
  "state": "Victoria"

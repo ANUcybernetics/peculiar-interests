@@ -703,6 +703,17 @@
    "kind": "addition",
    "sequence": 64,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-26",
+   "date_submitted": "2026-10-26",
+   "details": "Tickets to Constellation Cup 25 October 2026 - Netball Australia, Australia vs New Zealand",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 65,
+   "source_id": null
   }
  ],
  "aph_id": "299174",
@@ -1022,15 +1033,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-05",
+ "last_updated": "2026-10-26",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-26T17:23:12Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/299174.pdf",
-  "sha256": "47f78de6f3d0a689a9ca2913ba7d369a9bf1eafcb63e7e82894c3d36330287bb",
+  "sha256": "dcd6a902236dff0d49efae2365d3a2251c2072d9011342f8627d1806aac032dd",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/299174/statement/48"
  },
  "state": "NSW"
