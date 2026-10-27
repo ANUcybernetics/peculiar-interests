@@ -340,6 +340,17 @@
    "kind": "addition",
    "sequence": 31,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-27",
+   "date_submitted": "2026-10-26",
+   "details": "Room upgrade at the Shangri-La Hotel in Sydney for my stay on 18-20 October 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
   }
  ],
  "aph_id": "74519",
@@ -634,15 +645,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-19",
+ "last_updated": "2026-10-26",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-19T17:04:28Z",
+  "fetched_at": "2026-10-27T17:02:41Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/74519.pdf",
-  "sha256": "597fc9ad790f528559fbd8ee8e43ed33fc2f917afcbdb5d189d3465c8828e075",
+  "sha256": "4775d1f490833a61df4b8def4454a44b4dfa55b53114ba7593209fc2348989a9",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/74519/statement/48"
  },
  "state": "WA"

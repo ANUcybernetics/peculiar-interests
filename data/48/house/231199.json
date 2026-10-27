@@ -439,6 +439,17 @@
    "kind": "addition",
    "sequence": 40,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-27",
+   "date_submitted": "2026-10-27",
+   "details": "Just Cats Tasmania donation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 41,
+   "source_id": null
   }
  ],
  "aph_id": "231199",
@@ -625,15 +636,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-09",
+ "last_updated": "2026-10-27",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-09T17:30:22Z",
+  "fetched_at": "2026-10-27T17:02:41Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/231199.pdf",
-  "sha256": "80e4ec99c6c6c9a8c8701fcfe582d816e08715c4bb35b8e0073852fc4251560d",
+  "sha256": "d4407d31c8fcacff9be283ee76c88cb033e40429f3ab4078085fab3f4ba99f8e",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/231199/statement/48"
  },
  "state": "TAS"

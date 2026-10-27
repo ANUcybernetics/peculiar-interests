@@ -857,6 +857,17 @@
    "kind": "addition",
    "sequence": 78,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-27",
+   "date_submitted": "2026-10-27",
+   "details": "Travel Sydney-Gold Coast return and overnight accommodation by Climate 200 for community town hall event.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 79,
+   "source_id": null
   }
  ],
  "aph_id": "26417",
@@ -1295,15 +1306,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-21",
+ "last_updated": "2026-10-27",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-27T17:02:41Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/26417.pdf",
-  "sha256": "6310d8654ae244084f55cf05f12ff92cf218855fc74f6bfe6329af74c809ccb4",
+  "sha256": "becbb59dfeace5980c6ef3bb3545fdae2a48f93387f8fed667891e536377626a",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/26417/statement/48"
  },
  "state": "NSW"

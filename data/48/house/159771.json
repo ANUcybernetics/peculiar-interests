@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-27",
+   "date_submitted": "2026-10-27",
+   "details": "Ticket (self) and hospitality from Venues NSW to Bledisloe Cup - Wallabies vs All Blacks at Accor Stadium in Sydney on 17 October 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
   }
  ],
  "aph_id": "159771",
@@ -378,15 +389,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-17",
+ "last_updated": "2026-10-27",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-17T18:07:04Z",
+  "fetched_at": "2026-10-27T17:02:41Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/159771.pdf",
-  "sha256": "e8c0f738f02dd4db4d0eda409cb0c9882f2f852411892c377b04a55f969a302c",
+  "sha256": "c266beb02c873f69a543f1b6ac3f03f1aa7b9a78b20f8de2fe364f5b85a16733",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/159771/statement/48"
  },
  "state": "NSW"

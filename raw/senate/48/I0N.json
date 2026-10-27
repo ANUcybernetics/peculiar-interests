@@ -187,7 +187,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "b564e705-bd7c-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "10/16/2026 5:11:05 PM",
+  "lastDateUpdated": "10/27/2026 10:22:56 AM",
   "lodgementDate": "8/18/2025 4:54:05 PM",
   "publishNotes": false,
   "senatorName": "Farrell, Don",
@@ -207,6 +207,12 @@
     "createdOn": "2025-10-10T10:00:00Z",
     "details": "2 tickets and hospitality to the Brisbane Festival’s Riverfire 2025 at Sky Deck, Brisbane courtesy of Queensland Tourism Industry Council and Airbnb on 6 September 2025.",
     "id": "6975497b-a4a8-f011-bbd3-000d3ad253b4"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-26T21:00:00Z",
+    "details": "Clare Valley Festival of the Lamb Dinner courtesy of the Mintaro Progress Association on 24 September 2026.",
+    "id": "391abb20-8ed1-f111-a059-00224893e2bc"
    },
    {
     "alterationType": "Addition",
@@ -285,6 +291,12 @@
     "createdOn": "2026-10-16T05:30:00Z",
     "details": "2 tickets to the Royal Adelaide Show at the Wayville Showgrounds courtesy of The Royal Agricultural and Horticultural Society of SA on 12 September 2026.",
     "id": "839384df-23c9-f111-aaad-7c1e52628eb9"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-26T21:30:00Z",
+    "details": "2 tickets and hospitality to the AFL Grand Final at the Melbourne Cricket Ground courtesy of The Australian Football League on 26 September 2026.",
+    "id": "e1bcb723-8ed1-f111-a059-7ced8dd14f5b"
    }
   ],
   "interests": [

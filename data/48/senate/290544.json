@@ -63,7 +63,7 @@
   {
    "category": "real-estate",
    "fields": {
-    "location": "Porepunkah, Vic",
+    "location": "Indi, Vic",
     "purpose": "Residential/investment"
    },
    "holder": "unspecified",
@@ -90,7 +90,7 @@
   {
    "category": "real-estate",
    "fields": {
-    "location": "Canterbury, VIC",
+    "location": "Melbourne, VIC",
     "purpose": "Residential/investment"
    },
    "holder": "unspecified",
@@ -180,10 +180,10 @@
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-27T17:02:22Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/290544.json",
-  "sha256": "a0dc24951ef910e2d2d4e0013a788a4fc06ce321d7241cd6ee0757f0cc37bcc2",
+  "sha256": "44db351d4946b37521c9d36d3f0e5ea85dd7477a37dfd2f24386f7c2080ac0e7",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=290544"
  },
  "state": "Victoria"
