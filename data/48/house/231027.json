@@ -43,6 +43,39 @@
    "kind": "deletion",
    "sequence": 4,
    "source_id": null
+  },
+  {
+   "category": "directorships",
+   "date_processed": "2026-10-28",
+   "date_submitted": "2026-10-28",
+   "details": "Mrs Louise Taylor (Clegg) has stepped down as a Director of the United States Studies Centre board October 2026",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-28",
+   "date_submitted": "2026-10-28",
+   "details": "26 September 2026 - Tickets & Hospitality - AFL Grand Final courtesy of the AFL.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-10-28",
+   "date_submitted": "2026-10-28",
+   "details": "4 October 2026 - Tickets & Hospitality - NRL Grand Final courtesy of the NRL.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
   }
  ],
  "aph_id": "231027",
@@ -678,15 +711,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-05-05",
+ "last_updated": "2026-10-28",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-28T17:10:13Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/231027.pdf",
-  "sha256": "6324b98d2cfa18126d19e81da9985c859e5d8966202d22ad42de35c4f34c4d24",
+  "sha256": "6eb3c916503bc26bff9a7515b6658f55785c86026d74d04a9fd8ab360e6d782a",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/231027/statement/48"
  },
  "state": "NSW"

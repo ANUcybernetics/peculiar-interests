@@ -186,6 +186,17 @@
    "kind": "deletion",
    "sequence": 17,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-28",
+   "date_submitted": "2026-10-28",
+   "details": "Two tickets to My Fair Lady - Opera Australia - Saturday 10 October 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
   }
  ],
  "aph_id": "181810",
@@ -558,15 +569,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-23",
+ "last_updated": "2026-10-28",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-23T17:14:37Z",
+  "fetched_at": "2026-10-28T17:10:13Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/181810.pdf",
-  "sha256": "ddc554fe7f26896ef783431a1b29fbf02af27819c38323b1d54769fece365e29",
+  "sha256": "aee09aadb0f45103d7f2838866a4b958e68f86b7d6f8c8e2d8a4570bfc4d3775",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/181810/statement/48"
  },
  "state": "NSW"
