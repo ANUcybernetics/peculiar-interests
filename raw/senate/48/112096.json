@@ -151,6 +151,12 @@
     "createdOn": "2026-09-29T04:30:00Z",
     "details": "Silk Scarf and Lacquer Box - 14th August 2026 - From His Excellency, Mr. To Lam, General Secretary of the Central Committee of the Communist Party of Viet Nam, President of the Socialist Republic of Viet Nam (GOG)",
     "id": "a60d55d9-c6bb-f111-aaae-70a8a553fe6c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-29T02:30:00Z",
+    "details": "20 October 2026 - Flower & Mantra Ray hand blown glass gifted by H.E. Surangel S. Whipps Jr., President of the Republic of Palau",
+    "id": "9aba7b29-51d3-f111-a059-7ced8dd14f5b"
    }
   ],
   "interests": [
@@ -307,7 +313,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "1a514b14-a478-f011-b4cb-7c1e5262c1f2",
-  "lastDateUpdated": "10/2/2026 3:28:49 PM",
+  "lastDateUpdated": "10/29/2026 3:46:04 PM",
   "lodgementDate": "8/12/2025 1:05:10 PM",
   "publishNotes": false,
   "senatorName": "Lines, Sue",

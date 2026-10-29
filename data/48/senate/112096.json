@@ -450,6 +450,17 @@
    "kind": "addition",
    "sequence": 41,
    "source_id": "be2fb5f8-18be-f111-aaae-7ced8da176db"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-29",
+   "details": "20 October 2026 - Flower & Mantra Ray hand blown glass gifted by H.E. Surangel S. Whipps Jr., President of the Republic of Palau",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 42,
+   "source_id": "9aba7b29-51d3-f111-a059-7ced8dd14f5b"
   }
  ],
  "aph_id": "112096",
@@ -681,15 +692,15 @@
    "source_id": "4d514b14-a478-f011-b4cb-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-10-02",
+ "last_updated": "2026-10-29",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-10-02T18:23:59Z",
+  "fetched_at": "2026-10-29T17:18:59Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/112096.json",
-  "sha256": "fd79a9cd2021af0fac3b5efbfe6eaa1c361ca13ac42bee67a430d53dd88ee9c1",
+  "sha256": "d9755759e0c1d08cbbd2f3bf2065d11c7aa00eb0fb3b556a5965b361f4801a45",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=112096"
  },
  "state": "Western Australia"

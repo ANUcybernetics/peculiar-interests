@@ -65,6 +65,28 @@
    "kind": "deletion",
    "sequence": 6,
    "source_id": "29bf98d5-368a-f111-ab0f-6045bdc2f293"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-28",
+   "details": "Qantas Chairmans Lounge Membership - provider Qantas",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 7,
+   "source_id": "98605fb0-95d2-f111-a059-00224893e2bc"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-28",
+   "details": "Virgin Club Membership - provider Virgin",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 8,
+   "source_id": "ae605fb0-95d2-f111-a059-00224893e2bc"
   }
  ],
  "aph_id": "300707",
@@ -214,15 +236,15 @@
    "source_id": "6fb74bb8-bd7c-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2026-07-28",
+ "last_updated": "2026-10-28",
  "notes": [],
  "parliament": 48,
  "party": "Australia's Voice",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-29T17:18:59Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/300707.json",
-  "sha256": "9293b3304ec019a542effedf99cf4998040c75836baf72e4cb828ba985021371",
+  "sha256": "a0d4e4e6d069dfbf826418f6c794640febfaf4621baead6e57a8ad9186d62050",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300707"
  },
  "state": "Western Australia"

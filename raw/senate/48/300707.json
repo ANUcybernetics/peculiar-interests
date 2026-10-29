@@ -130,7 +130,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "34b74bb8-bd7c-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "7/28/2026 2:54:48 PM",
+  "lastDateUpdated": "10/28/2026 9:35:45 AM",
   "lodgementDate": "8/17/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Payman, Fatima",
@@ -156,6 +156,18 @@
     "createdOn": "2025-12-04T05:00:00Z",
     "details": "2x Tickets to the Ashes West Test Day 2 - Cricket Australia",
     "id": "b047db79-b7d3-f011-8544-6045bdc49d4e"
+   },
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-10-28T05:00:00Z",
+    "details": "Qantas Chairmans Lounge Membership - provider Qantas",
+    "id": "98605fb0-95d2-f111-a059-00224893e2bc"
+   },
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-10-28T05:30:00Z",
+    "details": "Virgin Club Membership - provider Virgin",
+    "id": "ae605fb0-95d2-f111-a059-00224893e2bc"
    }
   ],
   "interests": [
