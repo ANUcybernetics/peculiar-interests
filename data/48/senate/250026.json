@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": "d91c5622-4191-f111-8076-70a8a553fe6c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-29",
+   "details": "QANTAS CHAIRMANS LOUNGE expiry September 2028",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "7974d919-f8d3-f111-a059-7ced8dd14f5b"
   }
  ],
  "aph_id": "250026",
@@ -191,15 +202,15 @@
    "source_id": "a3a588df-ce7c-f011-b4cc-7c1e522a6625"
   }
  ],
- "last_updated": "2026-08-06",
+ "last_updated": "2026-10-30",
  "notes": [],
  "parliament": 48,
  "party": "Jacqui Lambie Network",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-10-30T17:20:10Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/250026.json",
-  "sha256": "3bc1bb2f5f3f14d5937f78fe9b40e4d4207e7d260b251d8d2ee8618be1c7196b",
+  "sha256": "3c369eb89e6bca673c2658798cd925d5dbab158c4a30d3d52e0dc01bc75ae044",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=250026"
  },
  "state": "Tasmania"

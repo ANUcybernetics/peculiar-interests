@@ -10,6 +10,94 @@
    "kind": "addition",
    "sequence": 1,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "2 x tickets to 2025 Boost Mobile Gold Coast 500 Supercars",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "4 x tickets to 2026 Gold Coast Air Show gifted by Experience Gold Coast.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Virgin Beyond Membership",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Superannuation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "2 x tickets to 2026 International Champagne Day at Boost Mobile Gold Coast 500 Supercars",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Ringers Western apparel",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Virgin Beyond Membership",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Superannuation",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
   }
  ],
  "aph_id": "306489",
@@ -174,15 +262,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2025-09-04",
+ "last_updated": "2026-10-30",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-10-30T17:20:23Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/306489.pdf",
-  "sha256": "f91e37df769c7d4177e2f1b0e29a9b0bf961b56b94373c6f40ca7ada2c38b112",
+  "sha256": "299c51bd3a1d89359be7df55526fd4fbe3bbce2edc01aa59f9a9dfc0c91a8eeb",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/306489/statement/48"
  },
  "state": "QLD"

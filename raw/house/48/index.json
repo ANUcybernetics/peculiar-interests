@@ -22,7 +22,7 @@
    "kind": "static",
    "last_updated": "2026-09-19",
    "state": "NSW",
-   "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/AB/Albanese_48P.pdf?rev=afabc3b4c02f4fd89481dca69ec53daa"
+   "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/AB/Albanese_48P.pdf?rev=016a398533374979a18d19d1f56c9bb8"
   },
   {
    "aph_id": "11788",
@@ -248,7 +248,7 @@
    "given_names": "Cameron",
    "honorific": "Mr",
    "kind": "api",
-   "last_updated": "2025-09-04",
+   "last_updated": "2026-10-30",
    "state": "QLD",
    "url": "https://interests-register-api-public.aph.gov.au/api/members/306489/statement/48"
   },
@@ -1748,7 +1748,7 @@
    "given_names": "Tim",
    "honorific": "Hon",
    "kind": "api",
-   "last_updated": "2026-09-09",
+   "last_updated": "2026-10-30",
    "state": "VIC",
    "url": "https://interests-register-api-public.aph.gov.au/api/members/IMW/statement/48"
   },
@@ -1910,7 +1910,7 @@
   "300129": "2026-09-07T08:23:41+00:00",
   "300130": "2026-09-07T08:23:41+00:00",
   "300147": "2026-10-20T17:17:20+00:00",
-  "306489": "2026-09-07T08:23:41+00:00",
+  "306489": "2026-10-30T17:20:23+00:00",
   "309484": "2026-09-07T08:23:41+00:00",
   "312323": "2026-10-20T17:17:20+00:00",
   "312393": "2026-09-07T08:23:41+00:00",
@@ -1959,11 +1959,11 @@
   "HWQ": "2026-10-06T17:23:57+00:00",
   "HX4": "2026-09-07T08:23:41+00:00",
   "I8M": "2026-09-07T08:23:41+00:00",
-  "IMW": "2026-09-09T18:05:26+00:00",
+  "IMW": "2026-10-30T17:20:23+00:00",
   "IPZ": "2026-10-06T17:23:57+00:00",
   "LTU": "2026-09-07T08:23:41+00:00",
   "M3E": "2026-09-07T08:23:41+00:00",
-  "R36": "2026-09-23T18:23:06+00:00",
+  "R36": "2026-10-30T17:20:23+00:00",
   "e5d": "2026-09-07T08:23:41+00:00"
  },
  "parliament": 48,

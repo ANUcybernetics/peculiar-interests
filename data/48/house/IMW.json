@@ -197,6 +197,61 @@
    "kind": "addition",
    "sequence": 18,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Berrima District Credit Union (BDCU) Limited",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Entry and attendance at Derby Day for the Melbourne Cup Carnival courtesy of Don Julio, Mumm, TAB and Asahi",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Attendance at the Melbourne Racing Club Committee Room for Caulfield Cup",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Entry and attendance at Derby Day for the Melbourne Cup Carnival courtesy of Don Julio, Mumm, TAB and Asahi",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-30",
+   "date_submitted": "2026-10-30",
+   "details": "Attendance at the Melbourne Racing Club Committee Room for Caulfield Cup",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
   }
  ],
  "aph_id": "IMW",
@@ -514,15 +569,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-09",
+ "last_updated": "2026-10-30",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-09T18:05:26Z",
+  "fetched_at": "2026-10-30T17:20:23Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/IMW.pdf",
-  "sha256": "05a7220b37163df543e97a40a1937829e5644437b7a806dd919b6907e216e913",
+  "sha256": "79b554476aa5f559c13e27c39aa026dbe7ad0c621245b7229a3aeae83f271e68",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/IMW/statement/48"
  },
  "state": "VIC"

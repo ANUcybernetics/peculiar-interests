@@ -912,11 +912,11 @@
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-23T18:23:06Z",
+  "fetched_at": "2026-10-30T17:20:23Z",
   "kind": "house-static-pdf",
   "raw_path": "raw/house/48/R36.pdf",
-  "sha256": "3d4afc1949dfecfdbbdb03db1ab805775624d8f02dc861c563bb2fc1d8a33f4a",
-  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/AB/Albanese_48P.pdf?rev=afabc3b4c02f4fd89481dca69ec53daa"
+  "sha256": "6a4f5b4b2548f9c71c5b0a6f893f1eee0100fe644c012fe573d880ee8455502c",
+  "url": "https://static.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/AB/Albanese_48P.pdf?rev=016a398533374979a18d19d1f56c9bb8"
  },
  "state": "NSW"
 }
