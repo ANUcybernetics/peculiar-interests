@@ -115,7 +115,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "a1b4b9b8-ce7c-f011-b4cc-7c1e5262c1f2",
-  "lastDateUpdated": "2/4/2026 5:30:55 PM",
+  "lastDateUpdated": "11/3/2026 4:39:15 PM",
   "lodgementDate": "8/19/2025 12:33:16 PM",
   "publishNotes": false,
   "senatorName": "Brockman, Slade",
@@ -129,7 +129,14 @@
   "interests": []
  },
  "sponsoredTravelOrHospitality": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-03T04:00:00Z",
+    "details": "September 20 - 27, 2026\nTaipei Economic & Cultural Office in Australia - flights, accommodation & hospitality in Taiwan",
+    "id": "a976b0f3-45d7-f111-a05b-00224893e2bc"
+   }
+  ],
   "interests": [
    {
     "detailOfTravelHospitality": "Perth Airport Parking Permit",

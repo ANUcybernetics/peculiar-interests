@@ -10,6 +10,17 @@
    "kind": "addition",
    "sequence": 1,
    "source_id": "428319b0-6caa-f111-aaac-000d3a6a8f58"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-10-30",
+   "details": "Location: Russell Lea, NSW 2046\nPurpose for which owned: Inheritance",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "994dc086-0bd7-f111-a05b-7ced8dd14f5b"
   }
  ],
  "aph_id": "122087",
@@ -199,15 +210,15 @@
    "source_id": "4c64919c-947d-f011-b4cc-6045bdc2966c"
   }
  ],
- "last_updated": "2026-09-07",
+ "last_updated": "2026-10-30",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-03T17:19:25Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/122087.json",
-  "sha256": "1a2a9b1b05b84e9e9eae42dca90a9b4641aebb96950849326faaca81bdf024fe",
+  "sha256": "6b248662028b24076441ed7baed869f6ba3a89292b3426202a8d23a05281e2ca",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=122087"
  },
  "state": "Northern Territory"

@@ -43,6 +43,17 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": "426ba19d-6008-f111-8407-6045bdc25de2"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-03",
+   "details": "September 20 - 27, 2026\nTaipei Economic & Cultural Office in Australia - flights, accommodation & hospitality in Taiwan",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "a976b0f3-45d7-f111-a05b-00224893e2bc"
   }
  ],
  "aph_id": "30484",
@@ -152,15 +163,15 @@
    "source_id": "aab4b9b8-ce7c-f011-b4cc-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-02-04",
+ "last_updated": "2026-11-03",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-03T17:19:25Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/30484.json",
-  "sha256": "e27bc9c7e11ace7ec0471d20a54f1e9a5d243be7ebe6f0ed89e6914080d47721",
+  "sha256": "0d931380acbf2ccd1fd2a5f770ec45ad5c282e6c63969bfa103550f23dc43e47",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=30484"
  },
  "state": "Western Australia"

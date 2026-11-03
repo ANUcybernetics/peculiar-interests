@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": "d48a86cc-a28b-f111-ab0f-7c1e5262eaeb"
+  },
+  {
+   "category": "directorships",
+   "date_processed": null,
+   "date_submitted": "2026-11-02",
+   "details": "Liberal Club Limited",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 13,
+   "source_id": "546a6990-0bd7-f111-a05b-00224893e2bc"
   }
  ],
  "aph_id": "269375",
@@ -272,15 +283,15 @@
    "source_id": "7b40cd61-7c72-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-11-02",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-10-15T17:18:39Z",
+  "fetched_at": "2026-11-03T17:19:25Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/269375.json",
-  "sha256": "12256b5371c4836b77d834799e66a9fa3c8ebec31c99cfceb46420cffb0616ef",
+  "sha256": "cf887eeb46dd0d561eff2c96ed8716bf35d31b88e22bb9d5a07960d572a2eaf1",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=269375"
  },
  "state": "South Australia"

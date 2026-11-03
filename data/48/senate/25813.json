@@ -1,5 +1,17 @@
 {
- "alterations": [],
+ "alterations": [
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-10-30",
+   "details": "Donor - Just Cats",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "3bec996e-18d7-f111-a05b-7ced8da0b973"
+  }
+ ],
  "aph_id": "25813",
  "chamber": "senate",
  "date_lodged": "2026-09-25",
@@ -155,15 +167,15 @@
    "source_id": "9a4a90a0-8bb8-f111-aaac-7c1e5262eaeb"
   }
  ],
- "last_updated": "2026-09-25",
+ "last_updated": "2026-10-30",
  "notes": [],
  "parliament": 48,
  "party": "Australian Greens",
  "source": {
-  "fetched_at": "2026-09-25T18:09:05Z",
+  "fetched_at": "2026-11-03T17:19:25Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/25813.json",
-  "sha256": "37c1b1faaa713af9db7e644a52f4df277a684c867590d9750c24681218a2c43c",
+  "sha256": "e02f41224df6b67eb9a02371709139356f99e08589a75cfb22f1f9fa8aac7140",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=25813"
  },
  "state": "Tasmania"

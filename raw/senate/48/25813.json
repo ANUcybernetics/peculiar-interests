@@ -35,7 +35,14 @@
   ]
  },
  "officeHolderDonating": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-30T03:00:00Z",
+    "details": "Donor - Just Cats",
+    "id": "3bec996e-18d7-f111-a05b-7ced8da0b973"
+   }
+  ],
   "interests": [
    {
     "id": "964a90a0-8bb8-f111-aaac-7c1e5262eaeb",
@@ -120,7 +127,7 @@
  "senatorInterestStatement": {
   "electorateState": "Tasmania",
   "id": "834a90a0-8bb8-f111-aaac-7c1e5262eaeb",
-  "lastDateUpdated": "9/25/2026 1:27:13 PM",
+  "lastDateUpdated": "10/30/2026 1:00:57 PM",
   "lodgementDate": "9/25/2026 9:56:41 AM",
   "publishNotes": false,
   "senatorName": "Bleyer, Vanessa",

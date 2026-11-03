@@ -120,6 +120,50 @@
    "kind": "addition",
    "sequence": 11,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-03",
+   "date_submitted": "2026-11-03",
+   "details": "Accepted tickets from the ARLC for myself and guests to attend the NRLW and NRL Grand Finals in Sydney on 4 October, meeting with the ARLC on the Pacific Pathways program, and meeting with the visiting PNG delegation including Trade Minister Maru.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-03",
+   "date_submitted": "2026-11-03",
+   "details": "Accepted tickets from the Australian Rugby Union for myself and a guest to attend the Wallabies vs All Blacks game (Bledisloe Cup) in Sydney on 17 October.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-03",
+   "date_submitted": "2026-11-03",
+   "details": "Tickets for 4 October events, as noted against \"Self\".",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-03",
+   "date_submitted": "2026-11-03",
+   "details": "Ticket for 17 October event, as noted against \"Self\".",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
   }
  ],
  "aph_id": "249127",
@@ -516,15 +560,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-07",
+ "last_updated": "2026-11-03",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-03T17:19:35Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/249127.pdf",
-  "sha256": "f76c642673cbcab8e0a9074d80e3ad584f3590d0f15a28c203da35f27eca9610",
+  "sha256": "34702460db475b6c69c76cf382a3c302fe7cb65334a8c2494ac418b30b8ad6ee",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/249127/statement/48"
  },
  "state": "NSW"

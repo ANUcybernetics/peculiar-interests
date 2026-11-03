@@ -77,7 +77,14 @@
   "interests": []
  },
  "realEstate": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-30T06:00:00Z",
+    "details": "Location: Russell Lea, NSW 2046\nPurpose for which owned: Inheritance",
+    "id": "994dc086-0bd7-f111-a05b-7ced8dd14f5b"
+   }
+  ],
   "interests": [
    {
     "id": "e19287a2-947d-f011-b4cc-6045bdc2966c",
@@ -138,7 +145,7 @@
  "senatorInterestStatement": {
   "electorateState": "Northern Territory",
   "id": "3d64919c-947d-f011-b4cc-6045bdc2966c",
-  "lastDateUpdated": "9/7/2026 3:55:18 PM",
+  "lastDateUpdated": "10/30/2026 9:59:20 AM",
   "lodgementDate": "8/18/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "McCarthy, Malarndirri",
