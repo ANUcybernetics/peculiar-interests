@@ -1201,9 +1201,9 @@
   },
   {
    "category": "gifts",
-   "date_processed": "2026-10-16",
-   "date_submitted": "2026-10-16",
-   "details": "Five books from M.J. Lowry - received on 28 September 2026 - valued at $135",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-04",
+   "details": "Pin from PanKind Foundation for World Pancreatic Cancer Day - received on 3 November 2026 - valued at $10",
    "fields": {},
    "holder": "self",
    "kind": "addition",
@@ -1212,9 +1212,9 @@
   },
   {
    "category": "gifts",
-   "date_processed": "2026-10-16",
-   "date_submitted": "2026-10-16",
-   "details": "AFL Premiership Pin from Ladder Project Foundation - received on 25 September 2026 - valued at $10",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-04",
+   "details": "Trucker cap and four books from Find Ya Feet - received on 3 November 2026 - valued at $130",
    "fields": {},
    "holder": "self",
    "kind": "addition",
@@ -1223,9 +1223,9 @@
   },
   {
    "category": "gifts",
-   "date_processed": "2026-10-16",
-   "date_submitted": "2026-10-16",
-   "details": "Book from Monash University Publishing - received on 9 October 2026 - valued at $19",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-04",
+   "details": "Two pins for Remembrance Day from Cumberland RSL sub-Branch - received on 3 November 2026 - valued at $4",
    "fields": {},
    "holder": "self",
    "kind": "addition",
@@ -1236,11 +1236,44 @@
    "category": "gifts",
    "date_processed": "2026-10-16",
    "date_submitted": "2026-10-16",
-   "details": "Braille sign from Braille House - received on 16 October 2026 - valued at $20",
+   "details": "Five books from M.J. Lowry - received on 28 September 2026 - valued at $135",
    "fields": {},
    "holder": "self",
    "kind": "addition",
    "sequence": 113,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "AFL Premiership Pin from Ladder Project Foundation - received on 25 September 2026 - valued at $10",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 114,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Book from Monash University Publishing - received on 9 October 2026 - valued at $19",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 115,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-10-16",
+   "date_submitted": "2026-10-16",
+   "details": "Braille sign from Braille House - received on 16 October 2026 - valued at $20",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 116,
    "source_id": null
   }
  ],
@@ -1563,15 +1596,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-11-04",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-16T17:05:43Z",
+  "fetched_at": "2026-11-04T17:07:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWL.pdf",
-  "sha256": "b83ba893d759b9decd465b912c20a823de24ebe9ea21a3f46a305628206db93e",
+  "sha256": "c40a110904cd0085ebeff9eff0b0147c66ae4da91fe79305c7fa101a9a82f103",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWL/statement/48"
  },
  "state": "NSW"

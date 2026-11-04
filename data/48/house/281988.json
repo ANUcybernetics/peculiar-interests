@@ -54,6 +54,17 @@
    "kind": "addition",
    "sequence": 5,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-03",
+   "details": "Received from Papua New Guinea Chiefs (PNG Chiefs): inaugural PNG Chiefs Supporter Jersey valued at $159, and inaugural PNG Chiefs Cap valued at $40. October 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
   }
  ],
  "aph_id": "281988",
@@ -496,15 +507,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-12",
+ "last_updated": "2026-11-03",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-04T17:07:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/281988.pdf",
-  "sha256": "3ba5e422e064db341252e419eed223309a1dabe4d6b390bd192901e63d267d6f",
+  "sha256": "253b449e70614eaa5fd15fe1f48c4d2a302d3990153551d7f66e3fdac11d4bfb",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/281988/statement/48"
  },
  "state": "NSW"

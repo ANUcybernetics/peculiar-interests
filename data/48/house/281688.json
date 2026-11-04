@@ -395,6 +395,39 @@
    "kind": "addition",
    "sequence": 36,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-04",
+   "details": "2 tickets between the Asahi Marquee and TAB Marquee at Melbourne Cup Day",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 37,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-04",
+   "details": "2 tickets to the Nine Marquee at Lexus Melbourne Cup Day",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 38,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-04",
+   "details": "2 tickets to the AHA National Board Luncheon at South Yarra",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 39,
+   "source_id": null
   }
  ],
  "aph_id": "281688",
@@ -728,15 +761,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-24",
+ "last_updated": "2026-11-04",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-04T17:07:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/281688.pdf",
-  "sha256": "7b98f67d8f200d1b5aa776e01080f9580238209dc225697048ee1d6053ec4078",
+  "sha256": "f278f6451cca10b5c9869ba944185a639e45bfcdf429dc20bb9f376ac5623b90",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/281688/statement/48"
  },
  "state": "VIC"

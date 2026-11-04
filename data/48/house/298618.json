@@ -76,6 +76,17 @@
    "kind": "addition",
    "sequence": 7,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-04",
+   "date_submitted": "2026-11-03",
+   "details": "Wallaroos vs Scotland and Wallabies vs All Blacks - 2 x Hospitality Tickets as guest of Rugby Australia - 17 October 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
   }
  ],
  "aph_id": "298618",
@@ -364,15 +375,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-13",
+ "last_updated": "2026-11-03",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-04T17:07:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/298618.pdf",
-  "sha256": "3d4139faa47c8371e648a06af7f16c73bd67ede0234e28f99940b07557b8161e",
+  "sha256": "a92c62123288dad710e0d4e3bc99c6d2dd7474bbe6c1fa373795a5fec778be5c",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/298618/statement/48"
  },
  "state": "NSW"
