@@ -22,15 +22,11 @@ function isCurrent(href: string): boolean {
   <a class="wordmark" href={withBase("/")}>Peculiar Interests</a>
   <nav aria-label="Site">
     <ul>
-      {
-        links.map((l) => (
-          <li>
-            <a href={withBase(l.href)} aria-current={isCurrent(l.href) ? "page" : undefined}>
-              {l.label}
-            </a>
-          </li>
-        ))
-      }
+      {links.map((l) => <li>
+        <a href={withBase(l.href)} aria-current={isCurrent(l.href) ? "page" : undefined}>
+          {l.label}
+        </a>
+      </li>)}
     </ul>
   </nav>
 </header>

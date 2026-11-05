@@ -23,8 +23,8 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
   <section class="hero">
     <h1>The interests declared by Australia's federal politicians.</h1>
     <p class="hero__lede prose">
-      Search declarations from the <ChamberMark chamber="house" /> and <ChamberMark chamber="senate" /> registers,
-      including property, shares, gifts and travel.
+      Search declarations from the <ChamberMark chamber="house" /> and
+      <ChamberMark chamber="senate" /> registers, including property, shares, gifts and travel.
       {`This site has ${pluralise(totalInterests, "declared interest")} from ${pluralise(house.length, "member")} and ${pluralise(senate.length, "senator")} in the ${statements[0]?.parliament ?? 48}th Parliament.`}
       {`It also records ${pluralise(ledger.length, "alteration")} to those statements.`}
       <a href={withBase("/data")}>Download the data</a> as JSON or CSV.
@@ -48,25 +48,25 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
       <div>
         <h3>By item</h3>
         <ol class="items" role="list">
-          {
-            CATEGORIES.map((c) => (
-              <li>
-                <a href={categoryPath(c)}>
-                  <span class="items__num">{CATEGORY_INFO[c].item}.</span> {CATEGORY_INFO[c].short}
-                </a>
-                <span class="muted tnum">{(counts[c] ?? 0).toLocaleString("en-AU")}</span>
-              </li>
-            ))
-          }
+          {CATEGORIES.map((c) => <li>
+            <a href={categoryPath(c)}>
+              <span class="items__num">{CATEGORY_INFO[c].item}.</span> {CATEGORY_INFO[c].short}
+            </a>
+            <span class="muted tnum">{(counts[c] ?? 0).toLocaleString("en-AU")}</span>
+          </li>)}
         </ol>
       </div>
       <div>
         <h3>By person</h3>
         <ul class="plain" role="list">
           <li>
-            <a href={withBase("/people?chamber=house")}>{pluralise(house.length, "member")} of the House</a>
+            <a href={withBase("/people?chamber=house")}
+              >{pluralise(house.length, "member")} of the House</a
+            >
           </li>
-          <li><a href={withBase("/people?chamber=senate")}>{pluralise(senate.length, "senator")}</a></li>
+          <li>
+            <a href={withBase("/people?chamber=senate")}>{pluralise(senate.length, "senator")}</a>
+          </li>
           <li><a href={withBase("/people")}>All MPs and senators</a></li>
         </ul>
         <h3>Frequently named organisations</h3>
@@ -75,27 +75,19 @@ const busiest = mentions.filter((m) => mentionPeople(m) >= 3).slice(0, 12);
           <a href={withBase("/mentions")}>All names</a>
         </p>
         <ul class="plain" role="list">
-          {
-            busiest.map((m) => (
-              <li>
-                <a href={mentionPath(m.slug)}>{m.name}</a>
-                <span class="muted tnum">{mentionPeople(m)}</span>
-              </li>
-            ))
-          }
+          {busiest.map((m) => <li>
+            <a href={mentionPath(m.slug)}>{m.name}</a>
+            <span class="muted tnum">{mentionPeople(m)}</span>
+          </li>)}
         </ul>
       </div>
     </div>
   </section>
 
-  {
-    pending > 0 && (
-      <p class="notice small">
-        {pluralise(pending, "statement is", "statements are")} awaiting transcription.
-        Those person pages link to the official documents.
-      </p>
-    )
-  }
+  {pending > 0 && <p class="notice small">
+    {pluralise(pending, "statement is", "statements are")} awaiting transcription. Those person
+    pages link to the official documents.
+  </p>}
 </Layout>
 
 <style>

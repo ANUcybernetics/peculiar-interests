@@ -8,7 +8,10 @@ const { ledger } = dataset();
 const additions = ledger.filter((e) => e.alteration.kind === "addition").length;
 ---
 
-<Layout title="Changes" description="Changes recorded in MPs' and senators' declarations, newest first.">
+<Layout
+  title="Changes"
+  description="Changes recorded in MPs' and senators' declarations, newest first."
+>
   <h1>Changes to declarations</h1>
   <p class="prose muted">
     {`${pluralise(ledger.length, "alteration")} across both chambers: ${additions} additions and ${ledger.length - additions} deletions, newest first.`}

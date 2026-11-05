@@ -1,5 +1,6 @@
 {
   "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "astro": { "compressHTML": "html" },
   "svelte": true,
   "ignorePatterns": ["dist/**", ".astro/**"]
 }

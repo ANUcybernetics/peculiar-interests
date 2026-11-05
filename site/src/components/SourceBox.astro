@@ -16,7 +16,8 @@ const METHOD: Record<Statement["extraction"]["method"], string> = {
   manual: "Transcribed from a scanned document and checked by a person.",
   pending: "Awaiting transcription from the scanned document.",
 };
-const officialName = s.chamber === "house" ? "Register of Members' Interests" : "Register of Senators' Interests";
+const officialName =
+  s.chamber === "house" ? "Register of Members' Interests" : "Register of Senators' Interests";
 const repoRaw = `https://github.com/anucybernetics/peculiar-interests/blob/main/${s.source.raw_path}`;
 ---
 
@@ -45,7 +46,9 @@ const repoRaw = `https://github.com/anucybernetics/peculiar-interests/blob/main/
       <dt>How it was read</dt>
       <dd>
         {METHOD[s.extraction.method]} Parser version {s.extraction.version}.
-        {s.extraction.notes.length > 0 && <ul>{s.extraction.notes.map((n) => <li>{n}</li>)}</ul>}
+        {s.extraction.notes.length > 0 && <ul>
+          {s.extraction.notes.map((n) => <li>{n}</li>)}
+        </ul>}
       </dd>
     </div>
     <div>

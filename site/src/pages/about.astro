@@ -3,38 +3,47 @@ import Layout from "@/components/Layout.astro";
 import { withBase } from "@/lib/paths";
 ---
 
-<Layout title="About" description="What Peculiar Interests is, where the data comes from, and how it is read.">
+<Layout
+  title="About"
+  description="What Peculiar Interests is, where the data comes from, and how it is read."
+>
   <div class="prose">
     <h1>About</h1>
     <p>
-      Peculiar Interests brings together the interests declared by Australia's federal MPs and senators.
-      You can look up a politician, see who has declared shares in a company, or read the latest changes.
-      The data is also available to <a href={withBase("/data")}>download as JSON and CSV</a>.
+      Peculiar Interests brings together the interests declared by Australia's federal MPs and
+      senators. You can look up a politician, see who has declared shares in a company, or read the
+      latest changes. The data is also available to
+      <a href={withBase("/data")}>download as JSON and CSV</a>.
     </p>
     <p>
-      The House publishes statements as PDFs; the Senate uses a web app. This site extracts the declarations from
-      both sources and checks for updates each night. Each politician's page links to their official statement.
+      The House publishes statements as PDFs; the Senate uses a web app. This site extracts the
+      declarations from both sources and checks for updates each night. Each politician's page links
+      to their official statement.
     </p>
 
     <h2>How we extract the data</h2>
     <p>
-      Senate declarations come from the data service behind the official register. For most House statements, we
-      extract the text from PDF tables. Handwritten scans are transcribed using Claude, then checked against the
-      document by a person. Transcriptions awaiting review are labelled on the politician's page.
+      Senate declarations come from the data service behind the official register. For most House
+      statements, we extract the text from PDF tables. Handwritten scans are transcribed using
+      Claude, then checked against the document by a person. Transcriptions awaiting review are
+      labelled on the politician's page.
     </p>
     <p>
-      We keep the wording of the declarations, treating placeholders such as "Not Applicable" as empty entries.
-      The <a href={withBase("/mentions")}>mentions</a> pages group names from company, bank and other organisation
-      fields so you can see who declared them.
+      We keep the wording of the declarations, treating placeholders such as "Not Applicable" as
+      empty entries. The <a href={withBase("/mentions")}>mentions</a> pages group names from
+      company, bank and other organisation fields so you can see who declared them.
     </p>
 
     <h2 id="corrections">Corrections</h2>
     <p>
-      If we have misread a declaration, <a href="https://github.com/anucybernetics/peculiar-interests/issues">open a GitHub issue</a>
-      or email <a href="mailto:ben.swift@anu.edu.au">ben.swift@anu.edu.au</a> with the person's name and the error.
-      For errors in the official statement, contact the
-      <a href="https://www.aph.gov.au/Senators_and_Members/Members/Register">Registrar of Members' Interests</a> or
-      the
+      If we have misread a declaration,
+      <a href="https://github.com/anucybernetics/peculiar-interests/issues">open a GitHub issue</a>
+      or email <a href="mailto:ben.swift@anu.edu.au">ben.swift@anu.edu.au</a> with the person's name
+      and the error. For errors in the official statement, contact the
+      <a href="https://www.aph.gov.au/Senators_and_Members/Members/Register"
+        >Registrar of Members' Interests</a
+      >
+      or the
       <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests"
         >Senate Standing Committee of Senators' Interests</a
       >.
@@ -42,12 +51,11 @@ import { withBase } from "@/lib/paths";
 
     <h2>About the project</h2>
     <p>
-      Peculiar Interests is a <a href="https://cybernetics.anu.edu.au">Cybernetic Studio</a> project by
-      <a href="https://benswift.me">Ben Swift</a> at the ANU School of Cybernetics.
-      Ben also makes the
-      <a href="https://apsaitracker.app">Australian Government AI Tracker</a>.
-      The code is licensed under MIT and the dataset under CC BY 4.0.
-      The project is independent of the Parliament of Australia and political parties.
+      Peculiar Interests is a <a href="https://cybernetics.anu.edu.au">Cybernetic Studio</a> project
+      by <a href="https://benswift.me">Ben Swift</a> at the ANU School of Cybernetics. Ben also
+      makes the <a href="https://apsaitracker.app">Australian Government AI Tracker</a>. The code is
+      licensed under MIT and the dataset under CC BY 4.0. The project is independent of the
+      Parliament of Australia and political parties.
     </p>
   </div>
 </Layout>

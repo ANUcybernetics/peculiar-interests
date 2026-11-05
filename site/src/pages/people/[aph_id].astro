@@ -48,86 +48,69 @@ const description = `${name}'s register of interests: ${pluralise(s.interests.le
 <Layout title={title} description={description}>
   <header class="head">
     <p class="head__kicker">
-      Register of <ChamberMark chamber={s.chamber} form="member" />s' Interests, {s.parliament}th Parliament
+      Register of <ChamberMark chamber={s.chamber} form="member" />s' Interests, {s.parliament}th
+      Parliament
     </p>
     <h1>{name}</h1>
   </header>
 
   <IdentityBlock statement={s} person={person} />
 
-  {
-    pending && (
-      <div class="notice">
-        <p>
-          <strong>This scanned statement is awaiting transcription.</strong>
-          You can read the official document using the link below.
-        </p>
-      </div>
-    )
-  }
-  {
-    unreviewed && (
-      <div class="notice">
-        <p>
-          <strong>This transcription has not yet been checked by a person.</strong>
-          Claude read it from a scanned document. Check entries against the official document linked below before using them.
-        </p>
-      </div>
-    )
-  }
+  {pending && <div class="notice">
+    <p>
+      <strong>This scanned statement is awaiting transcription.</strong>
+      You can read the official document using the link below.
+    </p>
+  </div>}
+  {unreviewed && <div class="notice">
+    <p>
+      <strong>This transcription has not yet been checked by a person.</strong>
+      Claude read it from a scanned document. Check entries against the official document linked
+      below before using them.
+    </p>
+  </div>}
   {s.notes.length > 0 && <div class="notice">{s.notes.map((n) => <p>{n}</p>)}</div>}
 
-  {
-    !pending && (
-      <section class="items">
-        <h2 id="statement">Statement of registrable interests</h2>
-        <p class="muted small">
-          Entries follow the fourteen categories on the declaration form.{" "}
-          {s.chamber === "house"
-            ? "Each row says whose interest it is: the member's own, their spouse or partner's, or a dependent child's."
-            : "The Senate publishes the senator's own interests. Declarations for partners and dependent children are confidential to the Committee of Senators' Interests."}
-        </p>
-        <div class="items__list">
-          {CATEGORIES.map((c) => (
-            <ItemBlock
-              category={c}
-              interests={s.interests.filter((i) => i.category === c)}
-              showHolder={s.chamber === "house"}
-            >
-              {c === "gifts" && gifts.entries > 0 && (
-                <p class="gift-total small">
-                  {gifts.valued > 0 ? (
-                    <>
-                      <strong>At least {formatMoney(gifts.total)} in gifts</strong>{giftClause}
-                    </>
-                  ) : (
-                    giftSource
-                  )}{" "}
-                  <span class="muted">The register asks what was given, not what it was worth.</span>
-                </p>
-              )}
-            </ItemBlock>
-          ))}
-        </div>
-      </section>
-    )
-  }
+  {!pending && <section class="items">
+    <h2 id="statement">Statement of registrable interests</h2>
+    <p class="muted small">
+      Entries follow the fourteen categories on the declaration form.{" "}
+      {s.chamber === "house"
+        ? "Each row says whose interest it is: the member's own, their spouse or partner's, or a dependent child's."
+        : "The Senate publishes the senator's own interests. Declarations for partners and dependent children are confidential to the Committee of Senators' Interests."}
+    </p>
+    <div class="items__list">
+      {CATEGORIES.map((c) => <ItemBlock
+        category={c}
+        interests={s.interests.filter((i) => i.category === c)}
+        showHolder={s.chamber === "house"}
+      >
+        {c === "gifts" && gifts.entries > 0 && <p class="gift-total small">
+          {gifts.valued > 0 ? (
+            <> <strong>At least {formatMoney(gifts.total)} in gifts</strong>{giftClause} </>
+          ) : (
+            giftSource
+          )}{" "}
+          <span class="muted">The register asks what was given, not what it was worth.</span>
+        </p>}
+      </ItemBlock>)}
+    </div>
+  </section>}
 
   <section class="section">
     <h2 id="alterations">Alterations</h2>
-    {
-      ledger.length === 0 ? (
-        <p class="muted">No alterations notified since the statement was lodged.</p>
-      ) : (
-        <>
-          <p class="muted small">
-            {`${pluralise(ledger.length, "change")} notified since lodgement, newest first.`}
-            A plus marks an addition; a minus marks a deletion. Details use the wording of the declaration.
-          </p>
-          <Ledger entries={ledger} showPerson={false} />
-        </>
-      )
-    }
+    {ledger.length === 0 ? (
+      <p class="muted">No alterations notified since the statement was lodged.</p>
+    ) : (
+      <>
+        <p class="muted small">
+          {`${pluralise(ledger.length, "change")} notified since lodgement, newest first.`}
+          A plus marks an addition; a minus marks a deletion. Details use the wording of the
+          declaration.
+        </p>
+        <Ledger entries={ledger} showPerson={false} />
+      </>
+    )}
   </section>
 
   <SourceBox statement={s} />

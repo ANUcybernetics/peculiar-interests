@@ -32,32 +32,26 @@ const id = `item-${info.item}`;
     <span class="item__label muted small">{info.label}</span>
   </h3>
   <div class="item__body">
-    {
-      interests.length === 0 ? (
-        <p class="item__nil muted">Nothing declared</p>
-      ) : (
-        <table>
-          <thead class="visually-hidden">
-            <tr>
-              {showHolder && <th scope="col">Held by</th>}
-              {fieldNames.map((f) => (
-                <th scope="col">{FIELD_LABELS[f] ?? f}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {interests.map((i) => (
-              <tr>
-                {showHolder && <td class="item__holder muted">{HOLDER_LABELS[i.holder] || "—"}</td>}
-                {fieldNames.map((f, idx) => (
-                  <td class:list={{ "item__primary": idx === 0 }}>{i.fields[f] ?? ""}</td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      )
-    }
+    {interests.length === 0 ? (
+      <p class="item__nil muted">Nothing declared</p>
+    ) : (
+      <table>
+        <thead class="visually-hidden">
+          <tr>
+            {showHolder && <th scope="col">Held by</th>}
+            {fieldNames.map((f) => <th scope="col">{FIELD_LABELS[f] ?? f}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {interests.map((i) => <tr>
+            {showHolder && <td class="item__holder muted">{HOLDER_LABELS[i.holder] || "—"}</td>}
+            {fieldNames.map((f, idx) => <td class:list={{ item__primary: idx === 0 }}>
+              {i.fields[f] ?? ""}
+            </td>)}
+          </tr>)}
+        </tbody>
+      </table>
+    )}
     <slot />
   </div>
 </section>

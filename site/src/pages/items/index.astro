@@ -11,26 +11,39 @@ const changeCounts = Object.fromEntries(
   CATEGORIES.map((c) => [c, ledger.filter((e) => e.alteration.category === c).length]),
 ) as Record<string, number>;
 const declaring = Object.fromEntries(
-  CATEGORIES.map((c) => [c, new Set(statements.filter((s) => s.interests.some((i) => i.category === c)).map((s) => s.aph_id)).size]),
+  CATEGORIES.map((c) => [
+    c,
+    new Set(
+      statements.filter((s) => s.interests.some((i) => i.category === c)).map((s) => s.aph_id),
+    ).size,
+  ]),
 ) as Record<string, number>;
 ---
 
-<Layout title="Items" description="Browse MPs' and senators' declarations by category, including shares, property, gifts and travel.">
+<Layout
+  title="Items"
+  description="Browse MPs' and senators' declarations by category, including shares, property, gifts and travel."
+>
   <h1>Interest categories</h1>
   <p class="prose muted">
     Declarations are grouped into fourteen categories. Choose one to see entries from both chambers.
     The requirements are set out in the
-    <a href="https://static.aph.gov.au/-/media/05_About_Parliament/53_HoR/532_PPP/Resolutions/9Oct1984.pdf"
+    <a
+      href="https://static.aph.gov.au/-/media/05_About_Parliament/53_HoR/532_PPP/Resolutions/9Oct1984.pdf"
       >House resolution</a
-    > and
-    <a href="https://www.aph.gov.au/-/media/Committees/Senate/committee/interests_ctte/reg_interests.pdf"
+    >
+    and
+    <a
+      href="https://www.aph.gov.au/-/media/Committees/Senate/committee/interests_ctte/reg_interests.pdf"
       >Senate resolution</a
-    >. Item 13 differs between chambers: the House asks about memberships that could create a conflict;
-    the Senate asks about office-holding and donations.
+    >. Item 13 differs between chambers: the House asks about memberships that could create a
+    conflict; the Senate asks about office-holding and donations.
   </p>
   <div class="table-scroll">
     <table>
-      <caption class="visually-hidden">The fourteen items and what has been declared under each</caption>
+      <caption class="visually-hidden">
+        The fourteen items and what has been declared under each
+      </caption>
       <thead>
         <tr>
           <th scope="col">Item</th>
@@ -41,21 +54,15 @@ const declaring = Object.fromEntries(
         </tr>
       </thead>
       <tbody>
-        {
-          CATEGORIES.map((c) => (
-            <tr>
-              <td class="rubric">
-                <a href={categoryPath(c)}>
-                  {CATEGORY_INFO[c].item}. {CATEGORY_INFO[c].short}
-                </a>
-              </td>
-              <td class="muted">{CATEGORY_INFO[c].label}</td>
-              <td class="num">{declaring[c]}</td>
-              <td class="num">{counts[c] ?? 0}</td>
-              <td class="num">{changeCounts[c]}</td>
-            </tr>
-          ))
-        }
+        {CATEGORIES.map((c) => <tr>
+          <td class="rubric">
+            <a href={categoryPath(c)}> {CATEGORY_INFO[c].item}. {CATEGORY_INFO[c].short} </a>
+          </td>
+          <td class="muted">{CATEGORY_INFO[c].label}</td>
+          <td class="num">{declaring[c]}</td>
+          <td class="num">{counts[c] ?? 0}</td>
+          <td class="num">{changeCounts[c]}</td>
+        </tr>)}
       </tbody>
     </table>
   </div>

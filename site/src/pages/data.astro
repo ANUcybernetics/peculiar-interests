@@ -6,23 +6,38 @@ import { withBase } from "@/lib/paths";
 const { statements, generatedAt } = dataset();
 const endpoints = [
   ["people.json", "MPs and senators, with names, chamber, party, state or electorate, and APH ID."],
-  ["statements.json", "Every statement in full: interests, alterations, notes, source and extraction metadata."],
+  [
+    "statements.json",
+    "Every statement in full: interests, alterations, notes, source and extraction metadata.",
+  ],
   ["statements/{aph_id}.json", "A politician's statement, identified by their APH ID."],
-  ["interests.csv", "One row per field in a declared interest, with the person, category, holder and value."],
-  ["alterations.csv", "One row per alteration: person, chamber, date, addition or deletion, item, details."],
-  ["ledger.json", "Dated alterations from both chambers, newest first, including each politician's details."],
+  [
+    "interests.csv",
+    "One row per field in a declared interest, with the person, category, holder and value.",
+  ],
+  [
+    "alterations.csv",
+    "One row per alteration: person, chamber, date, addition or deletion, item, details.",
+  ],
+  [
+    "ledger.json",
+    "Dated alterations from both chambers, newest first, including each politician's details.",
+  ],
   ["schema.json", "JSON Schema for a statement, generated from the Python models."],
 ];
 ---
 
-<Layout title="Data" description="Download the register of interests dataset as JSON and CSV, or read it through the static API.">
+<Layout
+  title="Data"
+  description="Download the register of interests dataset as JSON and CSV, or read it through the static API."
+>
   <h1>Data</h1>
   <div class="prose">
     <p>
-      Download the declarations as JSON or CSV using the links below. The extracted dataset is licensed under
-      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>; credit Peculiar Interests when you reuse it.
-      The original documents have a separate licence, CC BY-NC-ND 4.0. Each politician's page links to the official
-      copy on Parliament's website.
+      Download the declarations as JSON or CSV using the links below. The extracted dataset is
+      licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>; credit
+      Peculiar Interests when you reuse it. The original documents have a separate licence, CC
+      BY-NC-ND 4.0. Each politician's page links to the official copy on Parliament's website.
     </p>
     <h2>Static API</h2>
     <p>
@@ -32,7 +47,9 @@ const endpoints = [
   </div>
   <div class="table-scroll">
     <table>
-      <caption class="visually-hidden">Files in the static API</caption>
+      <caption class="visually-hidden">
+        Files in the static API
+      </caption>
       <thead>
         <tr>
           <th scope="col">File</th>
@@ -40,41 +57,40 @@ const endpoints = [
         </tr>
       </thead>
       <tbody>
-        {
-          endpoints.map(([file, what]) => (
-            <tr>
-              <td>
-                <code>
-                  {file.includes("{") ? file : <a href={withBase(`/api/v1/${file}`)}>{file}</a>}
-                </code>
-              </td>
-              <td>{what}</td>
-            </tr>
-          ))
-        }
+        {endpoints.map(([file, what]) => <tr>
+          <td>
+            <code>
+              {file.includes("{") ? file : <a href={withBase(`/api/v1/${file}`)}>{file}</a>}
+            </code>
+          </td>
+          <td>{what}</td>
+        </tr>)}
       </tbody>
     </table>
   </div>
   <div class="prose">
     <h2>Data structure</h2>
     <p>
-      Each statement contains <code>interests</code> from the lodged form and <code>alterations</code> recording
-      subsequent additions and deletions. Interests use named fields within fourteen categories; alterations contain
-      free text and a category where one is recorded.
+      Each statement contains <code>interests</code> from the lodged form and
+      <code>alterations</code> recording subsequent additions and deletions. Interests use named
+      fields within fourteen categories; alterations contain free text and a category where one is
+      recorded.
     </p>
     <p>
-      For House statements, <code>holder</code> identifies interests belonging to the member, their spouse or partner,
-      or dependent children. Senate statements contain only the senator's published interests, with
-      <code>holder</code> set to <code>unspecified</code>.
-      The <code>extraction.method</code> field records how we read the statement:
-      <code>senate-api</code>, <code>pdf-text</code>, <code>ocr</code> (unreviewed), <code>manual</code>
-      (reviewed) or <code>pending</code>.
+      For House statements, <code>holder</code> identifies interests belonging to the member, their
+      spouse or partner, or dependent children. Senate statements contain only the senator's
+      published interests, with <code>holder</code> set to <code>unspecified</code>. The
+      <code>extraction.method</code> field records how we read the statement: <code>senate-api</code
+      >, <code>pdf-text</code>, <code>ocr</code> (unreviewed), <code>manual</code> (reviewed) or
+      <code>pending</code>.
     </p>
-    <pre tabindex="0"><code>{`curl ${Astro.site ?? ""}${withBase("/api/v1/statements/")}${statements[0]?.aph_id ?? "HWK"}.json`}</code></pre>
+    <pre
+      tabindex="0"
+    ><code>{`curl ${Astro.site ?? ""}${withBase("/api/v1/statements/")}${statements[0]?.aph_id ?? "HWK"}.json`}</code></pre>
     <h2>Source code and raw documents</h2>
     <p>
-      The <a href="https://github.com/anucybernetics/peculiar-interests">GitHub repository</a> contains the site's code
-      and the documents we downloaded, stored under <code>raw/</code>.
+      The <a href="https://github.com/anucybernetics/peculiar-interests">GitHub repository</a>
+      contains the site's code and the documents we downloaded, stored under <code>raw/</code>.
       Changes found during nightly updates are committed to git, where you can compare versions.
     </p>
     <p class="muted small">Site built on {generatedAt.slice(0, 10)}.</p>

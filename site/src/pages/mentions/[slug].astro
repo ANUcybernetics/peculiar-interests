@@ -17,22 +17,25 @@ const { byId } = dataset();
 const rows = mention.rows.toSorted((a, b) => a.display_name.localeCompare(b.display_name));
 ---
 
-<Layout title={mention.name} description={`Who declared ${mention.name} on the register of interests.`}>
+<Layout
+  title={mention.name}
+  description={`Who declared ${mention.name} on the register of interests.`}
+>
   <header class="head">
     <p class="muted">Named in the register</p>
     <h1>{mention.name}</h1>
     <p class="prose">
       {`Declared by ${pluralise(mentionPeople(mention), "parliamentarian")} in ${pluralise(rows.length, "line item")}.`}
-      {
-        mention.variants.length > 1 && (
-          <span class="muted">Also written as {mention.variants.slice(1).join("; ")}.</span>
-        )
-      }
+      {mention.variants.length > 1 && <span class="muted"
+        >Also written as {mention.variants.slice(1).join("; ")}.</span
+      >}
     </p>
   </header>
   <div class="table-scroll">
     <table>
-      <caption class="visually-hidden">Who declared {mention.name}</caption>
+      <caption class="visually-hidden">
+        {`Who declared ${mention.name}`}
+      </caption>
       <thead>
         <tr>
           <th scope="col">Who</th>
@@ -43,40 +46,34 @@ const rows = mention.rows.toSorted((a, b) => a.display_name.localeCompare(b.disp
         </tr>
       </thead>
       <tbody>
-        {
-          rows.map((r) => {
-            const s = byId.get(r.aph_id)!;
-            return (
-              <tr>
-                <td>
-                  <PersonLink
-                    aph_id={s.aph_id}
-                    given_names={s.given_names}
-                    family_name={s.family_name}
-                    chamber={s.chamber}
-                    surnameFirst
-                  />
-                </td>
-                <td>
-                  <ChamberMark chamber={s.chamber} />
-                </td>
-                <td>
-                  <a href={categoryPath(r.category)}>
-                    {CATEGORY_INFO[r.category].item}. {CATEGORY_INFO[r.category].short}
-                  </a>
-                </td>
-                <td class="muted">{HOLDER_LABELS[r.holder]}</td>
-                <td>
-                  {fieldOrder(r.category, [r.interest]).map((k) => (
-                    <div>
-                      <span class="muted small">{FIELD_LABELS[k] ?? k}:</span> {r.interest.fields[k]}
-                    </div>
-                  ))}
-                </td>
-              </tr>
-            );
-          })
-        }
+        {rows.map((r) => {
+          const s = byId.get(r.aph_id)!;
+          return <tr>
+            <td>
+              <PersonLink
+                aph_id={s.aph_id}
+                given_names={s.given_names}
+                family_name={s.family_name}
+                chamber={s.chamber}
+                surnameFirst
+              />
+            </td>
+            <td>
+              <ChamberMark chamber={s.chamber} />
+            </td>
+            <td>
+              <a href={categoryPath(r.category)}>
+                {CATEGORY_INFO[r.category].item}. {CATEGORY_INFO[r.category].short}
+              </a>
+            </td>
+            <td class="muted">{HOLDER_LABELS[r.holder]}</td>
+            <td>
+              {fieldOrder(r.category, [r.interest]).map((k) => <div>
+                <span class="muted small">{FIELD_LABELS[k] ?? k}:</span> {r.interest.fields[k]}
+              </div>)}
+            </td>
+          </tr>;
+        })}
       </tbody>
     </table>
   </div>

@@ -29,16 +29,12 @@ const fields: [string, string | null | undefined][] =
 ---
 
 <dl class:list={["identity", s.chamber]}>
-  {
-    fields
-      .filter(([, v]) => v)
-      .map(([k, v]) => (
-        <div class="identity__field">
-          <dt>{k}</dt>
-          <dd>{v}</dd>
-        </div>
-      ))
-  }
+  {fields
+    .filter(([, v]) => v)
+    .map(([k, v]) => <div class="identity__field">
+      <dt>{k}</dt>
+      <dd>{v}</dd>
+    </div>)}
   <div class="identity__field">
     <dt>Chamber</dt>
     <dd><ChamberMark chamber={s.chamber} /></dd>

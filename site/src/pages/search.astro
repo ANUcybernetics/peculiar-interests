@@ -7,10 +7,14 @@ import Layout from "@/components/Layout.astro";
 import { withBase } from "@/lib/paths";
 ---
 
-<Layout title="Search" description="Search every declared interest, alteration and name across both registers.">
+<Layout
+  title="Search"
+  description="Search every declared interest, alteration and name across both registers."
+>
   <h1>Search</h1>
   <p class="prose muted">
-    Search by politician or organisation, or look for words in a declaration such as a gift or travel destination.
+    Search by politician or organisation, or look for words in a declaration such as a gift or
+    travel destination.
   </p>
   <div id="search"></div>
   <noscript>
@@ -25,7 +29,12 @@ import { withBase } from "@/lib/paths";
     s.src = base;
     s.onload = () => {
       const params = new URLSearchParams(location.search);
-      const ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false, autofocus: true });
+      const ui = new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: false,
+        autofocus: true,
+      });
       const q = params.get("q");
       if (q) ui.triggerSearch(q);
     };

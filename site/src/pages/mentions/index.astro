@@ -11,17 +11,23 @@ const shared = mentions.filter((m) => mentionPeople(m) >= 2);
 const single = mentions.length - shared.length;
 ---
 
-<Layout title="Mentions" description="Companies, banks, trusts and other organisations named in declarations, and the politicians who declared them.">
+<Layout
+  title="Mentions"
+  description="Companies, banks, trusts and other organisations named in declarations, and the politicians who declared them."
+>
   <h1>Names in the register</h1>
   <p class="prose muted">
     Find which politicians declared an interest in a company, bank, trust or other organisation.
-    Names come from the organisation fields in statements and are grouped by spelling; different names may refer to the same organisation.
-    Gift and travel descriptions are available through search.
+    Names come from the organisation fields in statements and are grouped by spelling; different
+    names may refer to the same organisation. Gift and travel descriptions are available through
+    search.
     {`${pluralise(shared.length, "name appears", "names appear")} in two or more politicians' statements; ${single.toLocaleString("en-AU")} appear in one politician's statement each.`}
   </p>
   <div class="table-scroll">
     <table>
-      <caption class="visually-hidden">Names in the register and who declared them</caption>
+      <caption class="visually-hidden">
+        Names in the register and who declared them
+      </caption>
       <thead>
         <tr>
           <th scope="col">Name</th>
@@ -31,20 +37,16 @@ const single = mentions.length - shared.length;
         </tr>
       </thead>
       <tbody>
-        {
-          mentions.map((m) => (
-            <tr>
-              <td>
-                <a href={mentionPath(m.slug)}>{m.name}</a>
-              </td>
-              <td class="num">{mentionPeople(m)}</td>
-              <td class="num">{m.rows.length}</td>
-              <td class="muted small">
-                {[...new Set(m.rows.map((r) => CATEGORY_INFO[r.category].short))].join(", ")}
-              </td>
-            </tr>
-          ))
-        }
+        {mentions.map((m) => <tr>
+          <td>
+            <a href={mentionPath(m.slug)}>{m.name}</a>
+          </td>
+          <td class="num">{mentionPeople(m)}</td>
+          <td class="num">{m.rows.length}</td>
+          <td class="muted small">
+            {[...new Set(m.rows.map((r) => CATEGORY_INFO[r.category].short))].join(", ")}
+          </td>
+        </tr>)}
       </tbody>
     </table>
   </div>
