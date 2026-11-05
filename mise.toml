@@ -3,5 +3,5 @@
 # value via jdx/mise-action); everything else is pinned.
 python = "3.14"
 uv = "0.13.2"
-node = "24"
+node = "26"
 pnpm = "latest"
