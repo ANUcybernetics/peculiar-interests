@@ -42,6 +42,11 @@ jobs:
       - name: Python tests
         run: uv run python -m pytest
 
+      - name: Python lint
+        run: |
+          uv run ruff check
+          uv run ruff format --check
+
       - name: Python typecheck
         run: uv run ty check
 
