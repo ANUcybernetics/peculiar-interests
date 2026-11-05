@@ -274,6 +274,39 @@
    "kind": "addition",
    "sequence": 25,
    "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-05",
+   "date_submitted": "2026-11-04",
+   "details": "Patron Northern Magpies",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 26,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-05",
+   "date_submitted": "2026-11-04",
+   "details": "Patron Westbury Cricket Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-05",
+   "date_submitted": "2026-11-04",
+   "details": "Patron Prospect Junior FC",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
   }
  ],
  "aph_id": "224102",
@@ -457,15 +490,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-09",
+ "last_updated": "2026-11-04",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-05T17:08:15Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/224102.pdf",
-  "sha256": "af2b7dc0d38ff346d62ba4e50ab8362395a436f909d05e21fccd94e56d94064c",
+  "sha256": "be50b491b98cf08523fbbe62892ed3295a68da98bf272e3a7dfa9087bf12ec91",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/224102/statement/48"
  },
  "state": "TAS"
