@@ -197,7 +197,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "a0854688-1b7e-f011-b4cc-7c1e5262c1f2",
-  "lastDateUpdated": "5/7/2026 9:45:37 AM",
+  "lastDateUpdated": "11/5/2026 9:20:31 AM",
   "lodgementDate": "8/19/2025 3:30:31 PM",
   "publishNotes": false,
   "senatorName": "McAllister, Jenny",
@@ -217,6 +217,12 @@
  },
  "sponsoredTravelOrHospitality": {
   "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-05T04:30:00Z",
+    "details": "One ticket to the NRL Grand Final provided by National Rugby League.",
+    "id": "764e59dc-dfd8-f111-a05b-00224893f414"
+   },
    {
     "alterationType": "Addition",
     "createdOn": "2025-12-05T03:30:00Z",

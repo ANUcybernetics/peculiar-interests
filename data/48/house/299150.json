@@ -76,6 +76,94 @@
    "kind": "addition",
    "sequence": 7,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Patron Swan Districts Football Club (ongoing)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "patron Ellenbrook Bowls",
+   "fields": {},
+   "holder": "self",
+   "kind": "deletion",
+   "sequence": 9,
+   "source_id": null
+  },
+  {
+   "category": "other-income",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Rental income, Kingston ACT.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "McKinnon Institute for Political Leadership: Advanced Political Leadership course 2026, associated accommodation, transfers, catering",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "McKinnon Institute Course in Advanced Political Leadership 2026: Course Tuition",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "McKinnon Institute Course in Advanced Political Leadership 2026: Course Tuition",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "McKinnon Institute Course in Advanced Political Leadership 2026: Associated transfers, meals and accommodation",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Airfares, transfers, meals and accommodation to participate in ICA US/UK/EU Study Tour (29 September – 7 October 2026) provided by the Insurance Council of Australia (ICA)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
   }
  ],
  "aph_id": "299150",
@@ -344,15 +432,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-06-22",
+ "last_updated": "2026-11-06",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-06T17:19:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/299150.pdf",
-  "sha256": "cbd996edad01601479bb437e9361dbc659fac2cbe2d0001feb3a3bc217596021",
+  "sha256": "350d0cdf1b658b2f0f148590e2442b87d7aa1822ed2372b33f826aa63555f4fc",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/299150/statement/48"
  },
  "state": "WA"

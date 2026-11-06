@@ -65,6 +65,28 @@
    "kind": "addition",
    "sequence": 6,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Arts Centre Melbourne - Theatre ticket to The Gospel According to Paul.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Arts Centre Melbourne - Theatre ticket to The Gospel According to Paul.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
   }
  ],
  "aph_id": "86256",
@@ -273,15 +295,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-02-03",
+ "last_updated": "2026-11-06",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-06T17:19:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/86256.pdf",
-  "sha256": "08693494b0bb7ecfee0dc7252ce57333f44f7543b38014e68496db63b62c999a",
+  "sha256": "5d4aa873cbf85687266dd89c667e544ee1f013ef811ddfe3de5909411bb33cb0",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/86256/statement/48"
  },
  "state": "VIC"

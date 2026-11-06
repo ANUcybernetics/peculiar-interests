@@ -98,6 +98,17 @@
    "kind": "addition",
    "sequence": 9,
    "source_id": "c8afc4ac-6b4a-f111-bec5-6045bdc3fcd7"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-05",
+   "details": "One ticket to the NRL Grand Final provided by National Rugby League.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "764e59dc-dfd8-f111-a05b-00224893f414"
   }
  ],
  "aph_id": "121628",
@@ -442,15 +453,15 @@
    "source_id": "dd854688-1b7e-f011-b4cc-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-05-07",
+ "last_updated": "2026-11-05",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-06T17:19:11Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/121628.json",
-  "sha256": "dba43bdc4e55c2de8a2e80d9488ad5b7474ef2c1694ab1805e0e72fa3ce85cd5",
+  "sha256": "591980d5d7c4ac2a296f1e020204f2637ac36524b7046f0fce84bdd27e16f0f6",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=121628"
  },
  "state": "New South Wales"

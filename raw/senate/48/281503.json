@@ -142,7 +142,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "8ebaeb83-8572-f011-b4cd-0022489727de",
-  "lastDateUpdated": "5/25/2026 5:07:53 PM",
+  "lastDateUpdated": "11/6/2026 3:58:12 PM",
   "lodgementDate": "8/4/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Ciccone, Raff",
@@ -209,6 +209,12 @@
     "createdOn": "2026-05-25T08:00:00Z",
     "details": "2 x tickets to Geelong v Collingwood on 9 May 2026 at the Melbourne Cricket Ground guest of the Weekly Times ",
     "id": "cd0cac58-0858-f111-bec7-7ced8da1c86f"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-05T21:00:00Z",
+    "details": "1 x ticket and hospitality to Caulfield Cup on 17 October 2026 at the Caulfield Racecourse guest of the Melbourne Racing Club ",
+    "id": "63f8dc05-9cd9-f111-a05b-7ced8dd14f5b"
    }
   ],
   "interests": []

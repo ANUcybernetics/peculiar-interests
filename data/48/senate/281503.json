@@ -98,6 +98,17 @@
    "kind": "addition",
    "sequence": 9,
    "source_id": "cd0cac58-0858-f111-bec7-7ced8da1c86f"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-05",
+   "details": "1 x ticket and hospitality to Caulfield Cup on 17 October 2026 at the Caulfield Racecourse guest of the Melbourne Racing Club ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "63f8dc05-9cd9-f111-a05b-7ced8dd14f5b"
   }
  ],
  "aph_id": "281503",
@@ -282,15 +293,15 @@
    "source_id": "a1baeb83-8572-f011-b4cd-0022489727de"
   }
  ],
- "last_updated": "2026-05-25",
+ "last_updated": "2026-11-06",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-06T17:19:11Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/281503.json",
-  "sha256": "aa793cbd17d9596c5f33564c467b31d23d40c48c1ba908702b2089e392a8d57b",
+  "sha256": "ca375b92649c0758d344b4caeeabde8cca9e8db45022a76caa5d820f9ed1d147",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=281503"
  },
  "state": "Victoria"

@@ -43,6 +43,50 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "National Press Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Qantas Frequent Flyer",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Qantas Frequent Flyer",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-06",
+   "date_submitted": "2026-11-06",
+   "details": "Qantas Frequent Flyer",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": null
   }
  ],
  "aph_id": "300006",
@@ -403,15 +447,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-02",
+ "last_updated": "2026-11-06",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-06T17:19:22Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/300006.pdf",
-  "sha256": "562964937b6c4bfe242944a1d84fd0aef144950ba25c081a04f8f9408d08537d",
+  "sha256": "8ed7c49570e33bc7cfa5bf69eefa5eff3bd9aef7edd5e3a9364a8db129e274bf",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/300006/statement/48"
  },
  "state": "WA"
