@@ -35,7 +35,7 @@ mise exec -- uv run peculiar status   # what we hold; which scans still need a p
 cd site && mise exec -- pnpm dev    # the site, live
 ```
 
-See `CLAUDE.md` for the layout and the source endpoints, `PRODUCT.md` and
+See `AGENTS.md` for the layout and the source endpoints, `PRODUCT.md` and
 `DESIGN.md` for the site's intent.
 
 ## Contributing
