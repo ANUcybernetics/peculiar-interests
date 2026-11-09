@@ -43,6 +43,17 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-09",
+   "date_submitted": "2026-11-09",
+   "details": "Lunch at National Press Club on 4 Nov 26 valued at $120, as guest of AUKUS Public Inquiry seated on Westpac corporate table.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
   }
  ],
  "aph_id": "C2T",
@@ -373,15 +384,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-31",
+ "last_updated": "2026-11-09",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-09T17:23:19Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/C2T.pdf",
-  "sha256": "bae4644daa61099f14414b622a05ebd4413e8cbddef0d3a3c2ae27a4b2a6c8a2",
+  "sha256": "911062577df8991dc925d47a46abd318b9bf0e13d04dccaf4d1f3ff67ecbaa9f",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/C2T/statement/48"
  },
  "state": "TAS"

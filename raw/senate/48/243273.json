@@ -78,7 +78,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "38a414b5-967d-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "7/13/2026 9:17:00 AM",
+  "lastDateUpdated": "11/9/2026 3:26:18 PM",
   "lodgementDate": "8/18/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Ruston, Anne",
@@ -209,9 +209,21 @@
    },
    {
     "alterationType": "Addition",
+    "createdOn": "2026-11-09T00:30:00Z",
+    "details": "2 x tickets to Australia v Türkiye in Vancouver, Saturday 13 June 2026, guest of Football Australia.",
+    "id": "a43f8506-e3db-f111-84e8-7ced8da0b973"
+   },
+   {
+    "alterationType": "Addition",
     "createdOn": "2026-07-09T22:00:00Z",
     "details": "Attended the 2026 Women's Australian Open on Sunday 15 March 2026, hosted by Golf Australia.",
     "id": "145869b9-457e-f111-ab0f-7ced8da1c86f"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-09T01:00:00Z",
+    "details": "Ticket to Australia v USA in Seattle, Friday 19 June 2026, guest of Football Australia.",
+    "id": "88c0fc9d-f5db-f111-84e8-7ced8dd1428e"
    }
   ],
   "interests": []
