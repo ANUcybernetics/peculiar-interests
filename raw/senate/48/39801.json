@@ -133,7 +133,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "ca839ced-bc7c-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "10/16/2026 12:03:17 PM",
+  "lastDateUpdated": "11/9/2026 1:37:44 PM",
   "lodgementDate": "8/18/2025 11:57:47 AM",
   "publishNotes": false,
   "senatorName": "Chisholm, Anthony",
@@ -261,6 +261,12 @@
     "createdOn": "2026-10-16T09:30:00Z",
     "details": "Feedlot Tour with Stanbroke - visiting Bottle Tree Feedlot and Rangers Feedlot on private plane with hospitality.",
     "id": "6250a703-43cb-f111-a05a-7ced8dd1428e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-09T09:00:00Z",
+    "details": "Ticket to the Foo Fighters Concert, Thursday 05 November 2026, Suncorp Stadium, Brisbane courtesy of ANACTA  ",
+    "id": "9922b14f-97dc-f111-84e8-7ced8dd14f5b"
    }
   ],
   "interests": [

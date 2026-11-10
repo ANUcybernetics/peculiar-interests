@@ -120,6 +120,17 @@
    "kind": "addition",
    "sequence": 11,
    "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-10",
+   "date_submitted": "2026-11-10",
+   "details": "Appointed Board Member, Brisbane Writer's Festival",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": null
   }
  ],
  "aph_id": "37998",
@@ -461,15 +472,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-07-30",
+ "last_updated": "2026-11-10",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-10T17:07:14Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/37998.pdf",
-  "sha256": "2060fcdc0baf2841c10175875499ff26208ab95569f20cde013ced5b56690d29",
+  "sha256": "73b0dea891eada5d81bcd8f4c3e165e005445735823a95111637588cf6be4660",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/37998/statement/48"
  },
  "state": "QLD"

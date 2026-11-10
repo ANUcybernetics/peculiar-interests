@@ -85,6 +85,12 @@
     "createdOn": "2026-07-12T22:00:00Z",
     "details": "Smith Family monthly donation $444 per month from 1 July 2026",
     "id": "dfb8081a-687e-f111-ab0f-7ced8da1c86f"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-09T21:00:00Z",
+    "details": "2026 Deloraine Truck Show $500 sponsorship",
+    "id": "3d85493e-b1dc-f111-84e8-7ced8dd14f5b"
    }
   ],
   "interests": [
@@ -137,7 +143,7 @@
  "senatorInterestStatement": {
   "electorateState": "Tasmania",
   "id": "9ca588df-ce7c-f011-b4cc-7c1e522a6625",
-  "lastDateUpdated": "10/30/2026 11:48:35 AM",
+  "lastDateUpdated": "11/10/2026 2:00:36 PM",
   "lodgementDate": "8/19/2025 3:45:34 PM",
   "publishNotes": false,
   "senatorName": "Lambie, Jacqui",

@@ -142,6 +142,17 @@
    "kind": "addition",
    "sequence": 13,
    "source_id": "7974d919-f8d3-f111-a059-7ced8dd14f5b"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-11-09",
+   "details": "2026 Deloraine Truck Show $500 sponsorship",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "3d85493e-b1dc-f111-84e8-7ced8dd14f5b"
   }
  ],
  "aph_id": "250026",
@@ -202,15 +213,15 @@
    "source_id": "a3a588df-ce7c-f011-b4cc-7c1e522a6625"
   }
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-11-10",
  "notes": [],
  "parliament": 48,
  "party": "Jacqui Lambie Network",
  "source": {
-  "fetched_at": "2026-10-30T17:20:10Z",
+  "fetched_at": "2026-11-10T17:07:04Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/250026.json",
-  "sha256": "3c369eb89e6bca673c2658798cd925d5dbab158c4a30d3d52e0dc01bc75ae044",
+  "sha256": "40a7662d130c73983435686e39bb4c23d8eabcddcbd6b4d059e67e54d452990d",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=250026"
  },
  "state": "Tasmania"

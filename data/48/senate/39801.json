@@ -208,6 +208,17 @@
    "kind": "addition",
    "sequence": 19,
    "source_id": "6250a703-43cb-f111-a05a-7ced8dd1428e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-09",
+   "details": "Ticket to the Foo Fighters Concert, Thursday 05 November 2026, Suncorp Stadium, Brisbane courtesy of ANACTA  ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": "9922b14f-97dc-f111-84e8-7ced8dd14f5b"
   }
  ],
  "aph_id": "39801",
@@ -392,15 +403,15 @@
    "source_id": "f4839ced-bc7c-f011-b4cc-6045bdc323b4"
   }
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-11-09",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-10-19T17:04:16Z",
+  "fetched_at": "2026-11-10T17:07:04Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/39801.json",
-  "sha256": "2399a79a84936f639dc2cbd84fe355bea7c3b2de627d8e998e71a550f8c1a95d",
+  "sha256": "4a89cac45d94df42055f38ac240ddbf6bb35890911476a79aa68f560ea8460f5",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=39801"
  },
  "state": "Queensland"
