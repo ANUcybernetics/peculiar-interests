@@ -146,12 +146,23 @@
   {
    "category": "travel-hospitality",
    "date_processed": null,
+   "date_submitted": "2026-09-11",
+   "details": "2 tickets to The Australian Ballet on Tour at Adelaide Festival Theatre on 8 August 2026, courtesy of The Australian Ballet.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "027051e9-a7ad-f111-aaac-7c1e5262eaeb"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
    "date_submitted": "2026-09-17",
    "details": "2 tickets and hospitality to the Adelaide Crows v GWS Giants at Adelaide Oval, on the 22 August 2026, courtesy of the Adelaide Football Club.",
    "fields": {},
    "holder": "unspecified",
    "kind": "addition",
-   "sequence": 14,
+   "sequence": 15,
    "source_id": "66af11ae-58b5-f111-aaac-70a8a553d3a2"
   },
   {
@@ -162,7 +173,7 @@
    "fields": {},
    "holder": "unspecified",
    "kind": "addition",
-   "sequence": 15,
+   "sequence": 16,
    "source_id": "839384df-23c9-f111-aaad-7c1e52628eb9"
   },
   {
@@ -173,7 +184,7 @@
    "fields": {},
    "holder": "unspecified",
    "kind": "addition",
-   "sequence": 16,
+   "sequence": 17,
    "source_id": "391abb20-8ed1-f111-a059-00224893e2bc"
   },
   {
@@ -184,7 +195,7 @@
    "fields": {},
    "holder": "unspecified",
    "kind": "addition",
-   "sequence": 17,
+   "sequence": 18,
    "source_id": "e1bcb723-8ed1-f111-a059-7ced8dd14f5b"
   },
   {
@@ -195,7 +206,7 @@
    "fields": {},
    "holder": "unspecified",
    "kind": "addition",
-   "sequence": 18,
+   "sequence": 19,
    "source_id": "d0b3548d-0bd7-f111-a05b-7ced8da0b973"
   }
  ],
@@ -486,10 +497,10 @@
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-11-03T17:19:25Z",
+  "fetched_at": "2026-11-11T17:23:05Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/I0N.json",
-  "sha256": "d02f392f07dd9fe711f1b603f12e63dc1fffbd7dd5a83ecbf9ecd89a28f4ec8c",
+  "sha256": "440412ae8211439eb82f6a6e60ce71354555006363670f91b4e03344a98f8501",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=I0N"
  },
  "state": "South Australia"

@@ -21,6 +21,39 @@
    "kind": "addition",
    "sequence": 2,
    "source_id": "e7383c6b-54a9-f011-bbd3-6045bde49b50"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-09-11",
+   "details": "Loan on property - ANZ Bank ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "40712eec-a7ad-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-09-11",
+   "details": "Loan on property - National Australia Bank ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": "46712eec-a7ad-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-11",
+   "details": "Tickets to AFL finals - Australian Football League ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "687094ef-a7ad-f111-aaab-7ced8da2d8e0"
   }
  ],
  "aph_id": "256063",
@@ -142,15 +175,15 @@
    "source_id": "09aa7718-c78e-f011-b4cc-6045bde63b9a"
   }
  ],
- "last_updated": "2026-09-11",
+ "last_updated": "2026-11-09",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-11T18:23:16Z",
+  "fetched_at": "2026-11-11T17:23:05Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/256063.json",
-  "sha256": "c7904471ce7910982c7622a90fcac9573cedb637beee979911f5be209e0c3678",
+  "sha256": "b546d4071eed5f5f5c675207634a1898aae8704a55758f2e06e9f9d76a4ebc3c",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=256063"
  },
  "state": "New South Wales"

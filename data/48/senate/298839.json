@@ -32,6 +32,17 @@
    "kind": "addition",
    "sequence": 3,
    "source_id": "45a9f190-b44e-f111-bec6-6045bdc3f4ad"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-10",
+   "details": "Book: \"The Weight of Witness: The experiences of Australian & New Zealand medics in Gaza\", received by post from P. Conder on behalf of the authors.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 4,
+   "source_id": "e6ae6183-86dd-f111-84e8-7ced8da0b973"
   }
  ],
  "aph_id": "298839",
@@ -167,15 +178,15 @@
    "source_id": "2fe0d6d5-ca7b-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2026-05-13",
+ "last_updated": "2026-11-11",
  "notes": [],
  "parliament": 48,
  "party": "Australian Greens",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-11T17:23:05Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/298839.json",
-  "sha256": "5bb988f454a37ff844bf9252830e6fe32ecafd2d8c1a0fc774306027805146a6",
+  "sha256": "dd010ad3feee1125871c8b5edc14c914f7ed8afcc931a31d316eec4adce33131",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=298839"
  },
  "state": "Queensland"

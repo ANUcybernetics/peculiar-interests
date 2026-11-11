@@ -133,6 +133,50 @@
    "source_id": "d48a86cc-a28b-f111-ab0f-7c1e5262eaeb"
   },
   {
+   "category": "trusts",
+   "date_processed": null,
+   "date_submitted": "2026-10-14",
+   "details": "Trustee of the Liberal Party of Australia (SA Division)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "35398082-24c8-f111-aaad-00224893e2bc"
+  },
+  {
+   "category": "directorships",
+   "date_processed": null,
+   "date_submitted": "2026-10-14",
+   "details": "Liberal Club Limited",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": "2b1a9583-24c8-f111-aaad-7c1e52628eb9"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-14",
+   "details": "Concessions from Jones and Partners",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": "dcb05988-24c8-f111-aaad-00224893f414"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-14",
+   "details": "Return economy class airfare from Adelaide to Brisbane from Liberal Party of Australia (SA Division)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": "72089589-24c8-f111-aaad-7c1e52628eb9"
+  },
+  {
    "category": "directorships",
    "date_processed": null,
    "date_submitted": "2026-11-02",
@@ -140,7 +184,7 @@
    "fields": {},
    "holder": "unspecified",
    "kind": "deletion",
-   "sequence": 13,
+   "sequence": 17,
    "source_id": "546a6990-0bd7-f111-a05b-00224893e2bc"
   }
  ],
@@ -288,10 +332,10 @@
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-11-03T17:19:25Z",
+  "fetched_at": "2026-11-11T17:23:05Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/269375.json",
-  "sha256": "cf887eeb46dd0d561eff2c96ed8716bf35d31b88e22bb9d5a07960d572a2eaf1",
+  "sha256": "0ee048b451ca2880e118402fb80c9d22d4a04729f1812fe52fd048b7dc212b16",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=269375"
  },
  "state": "South Australia"

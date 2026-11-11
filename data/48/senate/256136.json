@@ -175,6 +175,50 @@
    "kind": "addition",
    "sequence": 16,
    "source_id": "92d3fc08-4489-f111-ab0f-000d3a6a8f58"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-09",
+   "details": "Singlet and 2 x t-shirts from Basketball Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": "8636013f-cfac-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-09",
+   "details": "Polo shirt from Cricket ACT",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": "8c7ec21f-cfac-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-09-09",
+   "details": "Various books sent to my office",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": "e34e6051-cfac-f111-aaac-70a8a553fe6c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-09-09",
+   "details": "Dinner at ACT Farmers Association Centenary Dinner",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": "cc05e9ec-cfac-f111-aaac-70a8a553fe6c"
   }
  ],
  "aph_id": "256136",
@@ -331,17 +375,17 @@
    "source_id": "264f3252-8a7d-f011-b4cc-6045bdc29378"
   }
  ],
- "last_updated": "2026-07-24",
+ "last_updated": "2026-09-10",
  "notes": [
   "Note: The trusts in which Senator Pocock holds a beneficial interest (under item (2)(i)) were included in his full statement of interests, lodged on 19 August 2025. Due to an administrative error on the part of the Registrar, the trusts were not published on the statement and were included as additions, dated 10 November 2025 to rectify the issue."
  ],
  "parliament": 48,
  "party": "Independent",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-11T17:23:05Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/256136.json",
-  "sha256": "b85f5e87d1dcabce229ce6120e00ac05ba6746a60bd298119448b7c5a9d4b970",
+  "sha256": "83372b078e0567f6f5dae4bf32da420a875e25e393214056a5f4588abf825465",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=256136"
  },
  "state": "Australian Capital Territory"

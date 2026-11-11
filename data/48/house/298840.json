@@ -186,6 +186,17 @@
    "kind": "addition",
    "sequence": 17,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-11",
+   "date_submitted": "2026-11-11",
+   "details": "Received a bottle of 2024 Black Shiraz from Garth Eather at Meerea Park Vineyard valued at $350",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
   }
  ],
  "aph_id": "298840",
@@ -481,15 +492,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-11-11",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-16T17:05:43Z",
+  "fetched_at": "2026-11-11T17:23:20Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/298840.pdf",
-  "sha256": "f704874324585b7e7ef898678290e70b79398c7c6d3e0a626c5393b21f276caf",
+  "sha256": "0717ebc6965a2de42762cbb643d6fcf21d4ed154cd8b40e805fa536f98ed85c2",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/298840/statement/48"
  },
  "state": "NSW"

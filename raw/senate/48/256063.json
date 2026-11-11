@@ -26,7 +26,20 @@
   "interests": []
  },
  "liabilities": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-11T05:00:00Z",
+    "details": "Loan on property - ANZ Bank ",
+    "id": "40712eec-a7ad-f111-aaac-70a8a553fe6c"
+   },
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-09-11T05:30:00Z",
+    "details": "Loan on property - National Australia Bank ",
+    "id": "46712eec-a7ad-f111-aaac-70a8a553fe6c"
+   }
+  ],
   "interests": [
    {
     "creditor": "National Australia Bank",
@@ -108,7 +121,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "1bda96e9-6272-f011-b4cd-0022489727de",
-  "lastDateUpdated": "9/11/2026 5:11:40 PM",
+  "lastDateUpdated": "11/9/2026 2:39:59 PM",
   "lodgementDate": "8/4/2025 12:07:52 PM",
   "publishNotes": false,
   "senatorName": "Bragg, Andrew",
@@ -134,6 +147,12 @@
     "createdOn": "2025-10-14T10:00:00Z",
     "details": "Tickets to the AFL Grand Final - Australian Football League ",
     "id": "e7383c6b-54a9-f011-bbd3-6045bde49b50"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-11T06:00:00Z",
+    "details": "Tickets to AFL finals - Australian Football League ",
+    "id": "687094ef-a7ad-f111-aaab-7ced8da2d8e0"
    }
   ],
   "interests": []

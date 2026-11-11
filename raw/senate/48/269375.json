@@ -10,6 +10,12 @@
    },
    {
     "alterationType": "Addition",
+    "createdOn": "2026-10-14T23:30:00Z",
+    "details": "Concessions from Jones and Partners",
+    "id": "dcb05988-24c8-f111-aaad-00224893f414"
+   },
+   {
+    "alterationType": "Addition",
     "createdOn": "2026-02-23T02:00:00Z",
     "details": "Variation to earlier flight from Sydney to Adelaide on 21 February 2026 from QANTAS - cost unknown",
     "id": "45ed606d-6310-f111-8407-6045bdc3f4ad"
@@ -150,6 +156,12 @@
  "registeredDirectorshipsOfCompanies": {
   "alterations": [
    {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-14T22:30:00Z",
+    "details": "Liberal Club Limited",
+    "id": "2b1a9583-24c8-f111-aaad-7c1e52628eb9"
+   },
+   {
     "alterationType": "Deletion",
     "createdOn": "2026-11-02T01:00:00Z",
     "details": "Liberal Club Limited",
@@ -194,7 +206,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "4440cd61-7c72-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "11/2/2026 9:58:25 AM",
+  "lastDateUpdated": "11/2/2026 1:34:56 PM",
   "lodgementDate": "8/6/2025 1:05:09 PM",
   "publishNotes": false,
   "senatorName": "Antic, Alex",
@@ -214,12 +226,25 @@
     "createdOn": "2026-02-23T01:00:00Z",
     "details": "Return business class flights from Adelaide to Sydney, travel to and from airport, accommodation, entry tickets, 2 x dinners and hospitality associated with my speaking role at Advance Australia Conference between 19 February 2026 and 21 February 2026 from Advance Australia.",
     "id": "aff225e7-6410-f111-8407-6045bdc25de2"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-14T23:00:00Z",
+    "details": "Return economy class airfare from Adelaide to Brisbane from Liberal Party of Australia (SA Division)",
+    "id": "72089589-24c8-f111-aaad-7c1e52628eb9"
    }
   ],
   "interests": []
  },
  "trusts": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-14T22:00:00Z",
+    "details": "Trustee of the Liberal Party of Australia (SA Division)",
+    "id": "35398082-24c8-f111-aaad-00224893e2bc"
+   }
+  ],
   "interests": []
  },
  "wasSuccessful": true

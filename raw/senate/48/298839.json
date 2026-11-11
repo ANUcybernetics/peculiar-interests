@@ -7,6 +7,12 @@
     "createdOn": "2026-05-13T09:00:00Z",
     "details": "Shirt from Football Australia offered to all MPs and Senators to commemorate the Socceroos at the 2026 World Cup",
     "id": "45a9f190-b44e-f111-bec6-6045bdc3f4ad"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-10T21:00:00Z",
+    "details": "Book: \"The Weight of Witness: The experiences of Australian & New Zealand medics in Gaza\", received by post from P. Conder on behalf of the authors.",
+    "id": "e6ae6183-86dd-f111-84e8-7ced8da0b973"
    }
   ],
   "interests": []
@@ -132,7 +138,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "c4ded6d5-ca7b-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "5/13/2026 9:06:50 AM",
+  "lastDateUpdated": "11/11/2026 3:35:54 PM",
   "lodgementDate": "8/14/2025 1:31:50 PM",
   "publishNotes": false,
   "senatorName": "Allman-Payne, Penny",

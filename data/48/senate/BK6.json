@@ -230,6 +230,28 @@
    "kind": "addition",
    "sequence": 21,
    "source_id": "22174acf-368a-f111-ab0f-7ced8da176db"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-08",
+   "details": "Flight from Brisbane to Canberra. 12 October 2026. Hancock Prospecting Pty Ltd.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": "cf115678-86dd-f111-84e8-7c1e52628eb9"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-10",
+   "details": "7 November 2026. Flight return trip Brisbane to Regional Victoria. Courtesy of TBM 700C21 PTY LTD.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": "29b3717e-86dd-f111-84e8-00224893e2bc"
   }
  ],
  "aph_id": "BK6",
@@ -298,15 +320,15 @@
    "source_id": "bb0ec078-0c7f-f011-b4cc-6045bdc323b4"
   }
  ],
- "last_updated": "2026-07-28",
+ "last_updated": "2026-11-11",
  "notes": [],
  "parliament": 48,
  "party": "One Nation",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-11T17:23:05Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/BK6.json",
-  "sha256": "743e5095268a0a102dce59b1537180218c980b3d3d86c57320e45ab2b871cae4",
+  "sha256": "dc34c3f631f710ffe0b07b948a9c3f99d5c4a15bd8e9fc64e20ee0da9eda62bc",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=BK6"
  },
  "state": "Queensland"

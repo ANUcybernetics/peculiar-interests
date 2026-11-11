@@ -121,7 +121,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "86905dd8-0b7f-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "7/28/2026 9:12:32 AM",
+  "lastDateUpdated": "11/11/2026 3:35:56 PM",
   "lodgementDate": "8/20/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Hanson, Pauline",
@@ -170,6 +170,12 @@
   "alterations": [
    {
     "alterationType": "Addition",
+    "createdOn": "2026-11-10T21:00:00Z",
+    "details": "7 November 2026. Flight return trip Brisbane to Regional Victoria. Courtesy of TBM 700C21 PTY LTD.",
+    "id": "29b3717e-86dd-f111-84e8-00224893e2bc"
+   },
+   {
+    "alterationType": "Addition",
     "createdOn": "2025-12-16T06:30:00Z",
     "details": "Hospitality Mrs G Rinehart 27/10/2025 - 11/11/2025",
     "id": "2d9c6b19-51ef-f011-8407-00224898b4a7"
@@ -215,6 +221,12 @@
     "createdOn": "2025-12-16T06:00:00Z",
     "details": "Return flights from Brisbane to Florida 26/10/2025 - 11/11/2025. Hancock Prospecting Pty Ltd.",
     "id": "b4c11948-50ef-f011-8407-6045bde5f32c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-08T21:00:00Z",
+    "details": "Flight from Brisbane to Canberra. 12 October 2026. Hancock Prospecting Pty Ltd.",
+    "id": "cf115678-86dd-f111-84e8-7c1e52628eb9"
    },
    {
     "alterationType": "Addition",

@@ -132,7 +132,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "dd4eb25b-e870-f011-b4cd-0022489727de",
-  "lastDateUpdated": "10/14/2026 2:08:57 PM",
+  "lastDateUpdated": "10/14/2026 2:41:27 PM",
   "lodgementDate": "7/28/2025 11:05:52 AM",
   "publishNotes": false,
   "senatorName": "Sterle, Glenn",
@@ -152,6 +152,12 @@
     "createdOn": "2025-11-26T21:00:00Z",
     "details": "Travel to Bangkok (18/11/25 - 21/11/25) which included airfares, accommodation and hospitality to open 4 Season Co’s latest supplement warehouse provided by 4 Season Company Pty Ltd.",
     "id": "d4fdd04d-06cf-f011-8544-00224898b4a7"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-09T22:00:00Z",
+    "details": "Accommodation and hospitality supplied by TWU NSW to attend their 2026 Delegates Conference on 26-28 August 2026 at Rooty Hill NSW",
+    "id": "4c33149f-ceac-f111-aaac-6045bdc2f293"
    },
    {
     "alterationType": "Addition",

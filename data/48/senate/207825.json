@@ -1115,12 +1115,89 @@
    "category": "gifts",
    "date_processed": null,
    "date_submitted": "2026-10-13",
-   "details": "Desk Name Tag in Braille - Gifted by Braille House",
+   "details": "Child size cap, Little Ace Match Set and Puzzle - Gifted by Tennis Australia",
    "fields": {},
    "holder": "unspecified",
    "kind": "addition",
    "sequence": 102,
+   "source_id": "984a3eb7-58c7-f111-aaad-7ced8dd14f5b"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-13",
+   "details": "Desk Name Tag in Braille - Gifted by Braille House",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 103,
    "source_id": "ab4a3eb7-58c7-f111-aaad-7ced8dd14f5b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-13",
+   "details": "Lunch Tickets x 2 - Shadow Cabinet Luncheon - Gifted by Melbourne Royal",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 104,
+   "source_id": "9e4a3eb7-58c7-f111-aaad-7ced8dd14f5b"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-13",
+   "details": "Ticket x 1 for Conference & Dinners plus Accommodation (2 Nights) - Gifted by CPAC",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 105,
+   "source_id": "a54a3eb7-58c7-f111-aaad-7ced8dd14f5b"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-23",
+   "details": "Bunch of Fresh Native Flowers - Gifted by Lvly",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 106,
+   "source_id": "da17dc54-bed0-f111-a059-7ced8dd1428e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-23",
+   "details": "Box of assorted chocolates - Gifted by Mars Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 107,
+   "source_id": "df17dc54-bed0-f111-a059-7ced8dd1428e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-10-23",
+   "details": "Apple Strudel - Gifted by Austrian Embassy",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 108,
+   "source_id": "e917dc54-bed0-f111-a059-7ced8dd1428e"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-10-23",
+   "details": "Return Airfares, Accommodation (3 Nights) and Conference Pass (including Meals) - Gifted by Centre for Independent Studies",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 109,
+   "source_id": "d517dc54-bed0-f111-a059-7ced8dd1428e"
   }
  ],
  "aph_id": "207825",
@@ -1223,15 +1300,15 @@
    "source_id": "043ec18c-6376-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2026-10-23",
+ "last_updated": "2026-11-11",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-10-26T17:23:02Z",
+  "fetched_at": "2026-11-11T17:23:05Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/207825.json",
-  "sha256": "b7cb79970c542299bf367f80fb6367bb27660721e64e0272c6e7d4ea4f70b140",
+  "sha256": "2d593126ff38639e22e3d546cbeb1dae066d34bc876f1873d9c566ff4ea9eacc",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=207825"
  },
  "state": "Victoria"

@@ -43,6 +43,24 @@
     "createdOn": "2025-11-10T08:00:00Z",
     "details": "Various books (less than $300) – provided by Penguin Books Australia, constituents and people from other states",
     "id": "4b3290c2-e6c0-f011-bbd3-6045bde5f32c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-09T22:00:00Z",
+    "details": "Polo shirt from Cricket ACT",
+    "id": "8c7ec21f-cfac-f111-aaac-70a8a553fe6c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-09T22:30:00Z",
+    "details": "Singlet and 2 x t-shirts from Basketball Australia",
+    "id": "8636013f-cfac-f111-aaac-70a8a553fe6c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-09T23:00:00Z",
+    "details": "Various books sent to my office",
+    "id": "e34e6051-cfac-f111-aaac-70a8a553fe6c"
    }
   ],
   "interests": []
@@ -190,7 +208,7 @@
  "senatorInterestStatement": {
   "electorateState": "Australian Capital Territory",
   "id": "959c978f-897d-f011-b4cc-6045bdc29378",
-  "lastDateUpdated": "7/24/2026 10:13:05 AM",
+  "lastDateUpdated": "9/10/2026 2:41:32 PM",
   "lodgementDate": "8/19/2025 12:00:00 AM",
   "publishNotes": true,
   "senatorName": "Pocock, David",
@@ -220,7 +238,14 @@
   ]
  },
  "sponsoredTravelOrHospitality": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-09-09T23:30:00Z",
+    "details": "Dinner at ACT Farmers Association Centenary Dinner",
+    "id": "cc05e9ec-cfac-f111-aaac-70a8a553fe6c"
+   }
+  ],
   "interests": []
  },
  "trusts": {

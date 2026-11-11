@@ -109,6 +109,17 @@
    "kind": "addition",
    "sequence": 10,
    "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-11",
+   "date_submitted": "2026-11-11",
+   "details": "Chair of the Board of Inquiry into Aboriginal and Torres Strait Islander deaths in custody in the Alexander Maconochie Centre",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": null
   }
  ],
  "aph_id": "316537",
@@ -459,15 +470,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-08-07",
+ "last_updated": "2026-11-11",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-11T17:23:20Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316537.pdf",
-  "sha256": "fb2a73797ef68c95cba9c31f1bf6a4f37d17c907a1af89f550f763b890e217a3",
+  "sha256": "f7c5e51efb8cbf31910bb692020a518fee37d18ea32d94a1cd9ae082acf4eafc",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316537/statement/48"
  },
  "state": "QLD"

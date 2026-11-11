@@ -490,6 +490,30 @@
    },
    {
     "alterationType": "Addition",
+    "createdOn": "2026-10-23T00:30:00Z",
+    "details": "Bunch of Fresh Native Flowers - Gifted by Lvly",
+    "id": "da17dc54-bed0-f111-a059-7ced8dd1428e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-23T01:00:00Z",
+    "details": "Box of assorted chocolates - Gifted by Mars Australia",
+    "id": "df17dc54-bed0-f111-a059-7ced8dd1428e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-23T02:00:00Z",
+    "details": "Apple Strudel - Gifted by Austrian Embassy",
+    "id": "e917dc54-bed0-f111-a059-7ced8dd1428e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-13T22:00:00Z",
+    "details": "Child size cap, Little Ace Match Set and Puzzle - Gifted by Tennis Australia",
+    "id": "984a3eb7-58c7-f111-aaad-7ced8dd14f5b"
+   },
+   {
+    "alterationType": "Addition",
     "createdOn": "2026-10-13T23:30:00Z",
     "details": "Desk Name Tag in Braille - Gifted by Braille House",
     "id": "ab4a3eb7-58c7-f111-aaad-7ced8dd14f5b"
@@ -627,7 +651,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "f43dc18c-6376-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "10/23/2026 10:26:42 AM",
+  "lastDateUpdated": "11/11/2026 2:43:12 PM",
   "lodgementDate": "8/11/2025 11:59:35 AM",
   "publishNotes": false,
   "senatorName": "McKenzie, Bridget",
@@ -725,6 +749,24 @@
     "createdOn": "2026-06-30T07:00:00Z",
     "details": "Complimentary 3 Day Speakers Ticket to ARC Conference and Events - Gifted by Alliance for Responsible Citizenship Ltd (ARC)",
     "id": "932b6a55-5674-f111-ab0f-7ced8da1c86f"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-23T00:00:00Z",
+    "details": "Return Airfares, Accommodation (3 Nights) and Conference Pass (including Meals) - Gifted by Centre for Independent Studies",
+    "id": "d517dc54-bed0-f111-a059-7ced8dd1428e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-13T22:30:00Z",
+    "details": "Lunch Tickets x 2 - Shadow Cabinet Luncheon - Gifted by Melbourne Royal",
+    "id": "9e4a3eb7-58c7-f111-aaad-7ced8dd14f5b"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-10-13T23:00:00Z",
+    "details": "Ticket x 1 for Conference & Dinners plus Accommodation (2 Nights) - Gifted by CPAC",
+    "id": "a54a3eb7-58c7-f111-aaad-7ced8dd14f5b"
    }
   ],
   "interests": []
