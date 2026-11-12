@@ -186,6 +186,17 @@
    "kind": "addition",
    "sequence": 17,
    "source_id": "3b0c20c6-0fcc-f111-a05a-7ced8da0b973"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-11",
+   "details": "Guest of BRI Ferrier at Melbourne Cup Lunch, Crown Perth, 3 November 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": "dbec0f14-21de-f111-84e8-002248119d1d"
   }
  ],
  "aph_id": "257613",
@@ -498,15 +509,15 @@
    "source_id": "70d2d10f-06af-f011-bbd2-002248990cce"
   }
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-11-11",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-10-21T17:23:44Z",
+  "fetched_at": "2026-11-12T17:10:59Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/257613.json",
-  "sha256": "f1e291a4ca620bb9a2dfb4f8261b7840af3fc19576573adc6d892abb775ddfd5",
+  "sha256": "3f8c8bf9ff7234a6bc8d5b873afe9dd8649e5a1e9f311463eb0a1bd0553f0430",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=257613"
  },
  "state": "Western Australia"

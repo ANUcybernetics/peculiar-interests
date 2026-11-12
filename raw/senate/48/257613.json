@@ -205,7 +205,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "3bd2d10f-06af-f011-bbd2-002248990cce",
-  "lastDateUpdated": "10/20/2026 3:51:36 PM",
+  "lastDateUpdated": "11/11/2026 9:57:48 AM",
   "lodgementDate": "8/14/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Ghosh, Varun",
@@ -244,6 +244,12 @@
     "createdOn": "2025-12-27T01:00:00Z",
     "details": "Ticket to Australia v England test match at Adelaide Oval on 20 November 2025 and 21 November 2025, courtesy of South Australian Cricket Association",
     "id": "ed2a1718-e6e9-f011-8544-000d3ad2551a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-11T09:00:00Z",
+    "details": "Guest of BRI Ferrier at Melbourne Cup Lunch, Crown Perth, 3 November 2026",
+    "id": "dbec0f14-21de-f111-84e8-002248119d1d"
    },
    {
     "alterationType": "Addition",

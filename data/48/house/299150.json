@@ -164,6 +164,28 @@
    "kind": "addition",
    "sequence": 15,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-12",
+   "date_submitted": "2026-11-12",
+   "details": "Upgrade of general admission tickets to hospitality stand, by Motorcycling Australia for the MotoGP, Victoria 23,25 October 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-12",
+   "date_submitted": "2026-11-12",
+   "details": "Upgrade of general admission tickets to hospitality stand, by Motorcycling Australia for the MotoGP, Victoria 23,25 October 2026",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
   }
  ],
  "aph_id": "299150",
@@ -432,15 +454,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-11-06",
+ "last_updated": "2026-11-12",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-11-06T17:19:22Z",
+  "fetched_at": "2026-11-12T17:11:11Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/299150.pdf",
-  "sha256": "350d0cdf1b658b2f0f148590e2442b87d7aa1822ed2372b33f826aa63555f4fc",
+  "sha256": "e147986fa5a11f6d1ed6b3a1e25b56dd9ba7e0dbf1573e4778ea56615e85db77",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/299150/statement/48"
  },
  "state": "WA"
