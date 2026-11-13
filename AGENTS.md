@@ -7,15 +7,10 @@ Astro site on GitHub Pages, nightly cron on weddle).
 
 ## Commands
 
-Project has its own `mise.toml`: prefix commands with `mise exec --`.
-
-- `uv run peculiar --help` for the CLI: `fetch`/`parse` take a target (`house`,
-  `senate`, `roster`, `all`); `people`, `schema`, `status`; `run` is the nightly
-  sequence; `transcribe PDF` shells out to `claude -p`.
+- `uv run peculiar --help` lists the CLI; `run` is the nightly sequence and
+  `transcribe PDF` shells out to `claude -p`
 - `uv run python -m pytest` (parallel; `-m live` adds tests that hit aph.gov.au)
-- `uv run ruff check . && uv run ruff format --check .`
-- `uv run ty check`
-- Site: `cd site && pnpm run {dev,build,lint,lint:css,typecheck,test,format}`
+- the site's commands are in `site/package.json`
 
 ## Sources
 
@@ -59,9 +54,3 @@ pushes; the Pages workflow rebuilds the site from the committed data and refuses
 to deploy if `data/` is not in step with `raw/` and the parsers. No model, no
 secrets, anywhere in that path. A failed run pages through the `unit-oncall`
 drop-in, which lives in `~/.dotfiles` rather than `ops/systemd/`.
-
-## Code patterns
-
-Pydantic models at the boundary, pure functions over them inside. Loguru, not
-print. Exceptions bubble; a parser that meets a layout it doesn't recognise
-raises rather than guessing, so a form change is loud.
