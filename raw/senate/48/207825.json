@@ -436,6 +436,18 @@
    },
    {
     "alterationType": "Addition",
+    "createdOn": "2026-11-12T04:00:00Z",
+    "details": "Clothing and Towel - Gifted by Tennis Australia",
+    "id": "ebeb1e6d-5bde-f111-84e8-70a8a55650de"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-12T05:00:00Z",
+    "details": "Lapel Pin - Gifted by Gifted Pancreatic Cancer Australia",
+    "id": "1cec1e6d-5bde-f111-84e8-70a8a55650de"
+   },
+   {
+    "alterationType": "Addition",
     "createdOn": "2026-09-29T22:00:00Z",
     "details": "Lapel Pin - Gifted by Australian Railway Association",
     "id": "abaab387-28bd-f111-aaae-7c1e5262eaeb"
@@ -651,7 +663,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "f43dc18c-6376-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "11/11/2026 2:43:12 PM",
+  "lastDateUpdated": "11/12/2026 3:32:19 PM",
   "lodgementDate": "8/11/2025 11:59:35 AM",
   "publishNotes": false,
   "senatorName": "McKenzie, Bridget",
@@ -713,6 +725,18 @@
     "createdOn": "2026-09-30T02:30:00Z",
     "details": "1 x Ticket AFL Grand Final Breakfast - Gifted by North Melbourne Football Club",
     "id": "0fb3258c-28bd-f111-aaae-70a8a553fd4a"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-12T04:30:00Z",
+    "details": "Tickets to Melbourne Cup including hospitality - Gifted by Sportsbet",
+    "id": "15ec1e6d-5bde-f111-84e8-70a8a55650de"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-12T05:30:00Z",
+    "details": "Lunch - Gifted by Niko Niko",
+    "id": "22ec1e6d-5bde-f111-84e8-70a8a55650de"
    },
    {
     "alterationType": "Addition",

@@ -104,6 +104,12 @@
     "createdOn": "2026-02-05T21:00:00Z",
     "details": "Pauline Hanson’s One Nation Limited (ACN: 652 415 337)",
     "id": "e283609f-9f07-f111-8406-6045bdc3fcd7"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-12T06:00:00Z",
+    "details": "PAULINE HANSON'S ONE NATION TASMANIA LIMITED \nEffective 26 August 2026",
+    "id": "0561dd11-5ede-f111-84e8-7ced8dd1428e"
    }
   ],
   "interests": []
@@ -121,7 +127,7 @@
  "senatorInterestStatement": {
   "electorateState": "Queensland",
   "id": "86905dd8-0b7f-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "11/11/2026 3:35:56 PM",
+  "lastDateUpdated": "11/12/2026 3:32:59 PM",
   "lodgementDate": "8/20/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Hanson, Pauline",
@@ -149,6 +155,12 @@
     "createdOn": "2026-02-05T21:30:00Z",
     "details": "A Pauline Production Pty Ltd (ACN: 692 287 648)",
     "id": "dc83609f-9f07-f111-8406-6045bdc3fcd7"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-12T05:30:00Z",
+    "details": "Glencore Plc (GLC:ASX)",
+    "id": "fe60dd11-5ede-f111-84e8-7ced8dd1428e"
    }
   ],
   "interests": [

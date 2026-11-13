@@ -252,6 +252,28 @@
    "kind": "addition",
    "sequence": 23,
    "source_id": "29b3717e-86dd-f111-84e8-00224893e2bc"
+  },
+  {
+   "category": "shareholdings",
+   "date_processed": null,
+   "date_submitted": "2026-11-12",
+   "details": "Glencore Plc (GLC:ASX)",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": "fe60dd11-5ede-f111-84e8-7ced8dd1428e"
+  },
+  {
+   "category": "directorships",
+   "date_processed": null,
+   "date_submitted": "2026-11-12",
+   "details": "PAULINE HANSON'S ONE NATION TASMANIA LIMITED \nEffective 26 August 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": "0561dd11-5ede-f111-84e8-7ced8dd1428e"
   }
  ],
  "aph_id": "BK6",
@@ -320,15 +342,15 @@
    "source_id": "bb0ec078-0c7f-f011-b4cc-6045bdc323b4"
   }
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-12",
  "notes": [],
  "parliament": 48,
  "party": "One Nation",
  "source": {
-  "fetched_at": "2026-11-11T17:23:05Z",
+  "fetched_at": "2026-11-13T17:20:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/BK6.json",
-  "sha256": "dc34c3f631f710ffe0b07b948a9c3f99d5c4a15bd8e9fc64e20ee0da9eda62bc",
+  "sha256": "a65cafffda628c2079652359e31d5fe413f0616c0853961c8c9d89e3b37ae106",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=BK6"
  },
  "state": "Queensland"

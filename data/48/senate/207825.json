@@ -1198,6 +1198,50 @@
    "kind": "addition",
    "sequence": 109,
    "source_id": "d517dc54-bed0-f111-a059-7ced8dd1428e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-12",
+   "details": "Lapel Pin - Gifted by Gifted Pancreatic Cancer Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 110,
+   "source_id": "1cec1e6d-5bde-f111-84e8-70a8a55650de"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-12",
+   "details": "Clothing and Towel - Gifted by Tennis Australia",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 111,
+   "source_id": "ebeb1e6d-5bde-f111-84e8-70a8a55650de"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-12",
+   "details": "Tickets to Melbourne Cup including hospitality - Gifted by Sportsbet",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 112,
+   "source_id": "15ec1e6d-5bde-f111-84e8-70a8a55650de"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-12",
+   "details": "Lunch - Gifted by Niko Niko",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 113,
+   "source_id": "22ec1e6d-5bde-f111-84e8-70a8a55650de"
   }
  ],
  "aph_id": "207825",
@@ -1300,15 +1344,15 @@
    "source_id": "043ec18c-6376-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-12",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-11-11T17:23:05Z",
+  "fetched_at": "2026-11-13T17:20:16Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/207825.json",
-  "sha256": "2d593126ff38639e22e3d546cbeb1dae066d34bc876f1873d9c566ff4ea9eacc",
+  "sha256": "fbe00d456491214e0dde18856db44c1cf5038439fc09c2e759e571b448a4ae32",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=207825"
  },
  "state": "Victoria"

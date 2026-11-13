@@ -115,7 +115,7 @@
  "senatorInterestStatement": {
   "electorateState": "Western Australia",
   "id": "1c9061f5-ce7c-f011-b4cc-002248962181",
-  "lastDateUpdated": "11/27/2025 9:40:25 AM",
+  "lastDateUpdated": "11/10/2026 3:29:26 PM",
   "lodgementDate": "8/19/2025 10:00:53 AM",
   "publishNotes": false,
   "senatorName": "Smith, Dean",
@@ -140,6 +140,12 @@
     "createdOn": "2025-11-26T21:00:00Z",
     "details": "In country accommodation, land transport and meals as guest of Royal Kingdom of Bhutan as a member of the inaugural delegation of the Australian Parliamentary Friendship Group for Bhutan visit to Bhutan - 23 September to 2 October 2025.\n\nEconomy return flights from Perth to Bhutan and overnight transit accommodation at Bangkok Airport (23 September) were self funded.",
     "id": "0951ad62-06cf-f011-8544-6045bdc2987e"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-09T21:00:00Z",
+    "details": "Participation in Insurance Council of Australia (ICA) and American Chamber of Commerce Insurance and Disaster Mitigation Study Tour of USA from 21 July 2024 to 26 July 2026 including business class air-travel to USA; domestic airfares to Washington DC and Sacramento, California; and all meals, accommodation and land transport in the USA.",
+    "id": "98e81132-59dd-f111-84e8-7ced8dd1428e"
    }
   ],
   "interests": []
