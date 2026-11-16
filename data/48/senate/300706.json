@@ -54,6 +54,17 @@
    "kind": "addition",
    "sequence": 5,
    "source_id": "df2ad372-b72b-f111-88b3-7ced8da1c86f"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-11-15",
+   "details": "www.getstaunch.com an online retailer selling clothing, accessories and other merchandise.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 6,
+   "source_id": "d922b5df-76e1-f111-84e8-7c1e52628eb9"
   }
  ],
  "aph_id": "300706",
@@ -104,15 +115,15 @@
    "source_id": "985d9aca-6272-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2026-03-30",
+ "last_updated": "2026-11-16",
  "notes": [],
  "parliament": 48,
  "party": "United Australia Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-16T17:24:09Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/300706.json",
-  "sha256": "6f901c510ce68587167ce3b284f93edaf35960b4107b027396c25bdd6e98dce9",
+  "sha256": "12b00ad7dcc6e164ad683236bbadc9b67e40de52387b99d9a0dbb7e6be8e8fb3",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300706"
  },
  "state": "Victoria"

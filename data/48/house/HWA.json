@@ -43,6 +43,17 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-16",
+   "date_submitted": "2026-11-16",
+   "details": "Hallett Cove Beach Tennis club",
+   "fields": {},
+   "holder": "dependent",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": null
   }
  ],
  "aph_id": "HWA",
@@ -642,15 +653,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-05-04",
+ "last_updated": "2026-11-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-16T17:24:27Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWA.pdf",
-  "sha256": "51e6de9e2d5657a5779754514cb0da2a977ed7e4924ee6c8938fc9e4cb290c7f",
+  "sha256": "8ac58b7c30b766b445596914905aaf612aeedac205dca3490d194e335868fcec",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWA/statement/48"
  },
  "state": "SA"

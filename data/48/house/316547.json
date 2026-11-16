@@ -153,6 +153,17 @@
    "kind": "addition",
    "sequence": 14,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-16",
+   "date_submitted": "2026-11-16",
+   "details": "1–10 November 2026 – Return international airfares and conference accommodation sponsored by the Inter-Parliamentary Alliance on China (IPAC) to attend the 6th Annual IPAC Summit, held in The Hague, Netherlands, on 5–6 November 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
   }
  ],
  "aph_id": "316547",
@@ -264,15 +275,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-27",
+ "last_updated": "2026-11-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-27T17:02:41Z",
+  "fetched_at": "2026-11-16T17:24:27Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316547.pdf",
-  "sha256": "6c86809f7d6c5ea3eafd55c9cd3b2cd864df52a080af49046968a32853963174",
+  "sha256": "c317e43c98c9752e89dbd5d2eb1b6a87538b603bb060e4cd4ed7827a19764bc4",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316547/statement/48"
  },
  "state": "QLD"

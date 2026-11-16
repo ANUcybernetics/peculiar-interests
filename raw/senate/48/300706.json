@@ -41,7 +41,14 @@
   "interests": []
  },
  "otherInterest": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-15T21:00:00Z",
+    "details": "www.getstaunch.com an online retailer selling clothing, accessories and other merchandise.",
+    "id": "d922b5df-76e1-f111-84e8-7c1e52628eb9"
+   }
+  ],
   "interests": []
  },
  "partnerships": {
@@ -83,7 +90,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "3b048fc4-6272-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "3/30/2026 5:39:05 PM",
+  "lastDateUpdated": "11/16/2026 5:51:54 PM",
   "lodgementDate": "8/1/2025 11:43:17 AM",
   "publishNotes": false,
   "senatorName": "Babet, Ralph",

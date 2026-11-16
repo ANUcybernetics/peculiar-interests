@@ -1275,6 +1275,28 @@
    "kind": "addition",
    "sequence": 116,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-16",
+   "date_submitted": "2026-11-12",
+   "details": "Book from S. Corben - received on 5 November 2026 - valued at $25",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 117,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-16",
+   "date_submitted": "2026-11-12",
+   "details": "Ticket from Sydney Theatre Company - received on 10 November 2026 - valued at $199",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 118,
+   "source_id": null
   }
  ],
  "aph_id": "HWL",
@@ -1596,15 +1618,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-11-04",
+ "last_updated": "2026-11-12",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-11-04T17:07:22Z",
+  "fetched_at": "2026-11-16T17:24:27Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/HWL.pdf",
-  "sha256": "c40a110904cd0085ebeff9eff0b0147c66ae4da91fe79305c7fa101a9a82f103",
+  "sha256": "6247af2fbcce589e0946c3936419a1df4066ea2fab787673414c04992d49860d",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/HWL/statement/48"
  },
  "state": "NSW"

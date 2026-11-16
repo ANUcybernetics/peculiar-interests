@@ -285,6 +285,28 @@
    "kind": "addition",
    "sequence": 26,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-16",
+   "date_submitted": "2026-11-16",
+   "details": "Unrequested flight upgrade from Qantas on 22/10/2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 27,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-16",
+   "date_submitted": "2026-11-16",
+   "details": "Donation of miscellanous food and hygiene items from Woodturners Society of Queensland to the Electorate Office \"Kidness Cupboard\". All donated items are being made available to local community members in need of support. Estimated value: $400.00",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 28,
+   "source_id": null
   }
  ],
  "aph_id": "312323",
@@ -695,15 +717,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-11-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-20T17:17:20Z",
+  "fetched_at": "2026-11-16T17:24:27Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/312323.pdf",
-  "sha256": "986e8dbff8d0fa0805c67adafd803b11f4861cc6825a7132e655729120025b64",
+  "sha256": "b5e029ad30ff48e25d86cad00f1f809a4ef28dbc766138a29beaa8f75b425032",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/312323/statement/48"
  },
  "state": "QLD"
