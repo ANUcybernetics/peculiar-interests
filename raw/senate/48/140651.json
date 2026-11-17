@@ -223,7 +223,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "70d29a70-6d7d-f011-b4cc-7c1e5262c1f2",
-  "lastDateUpdated": "9/24/2026 9:50:32 AM",
+  "lastDateUpdated": "11/17/2026 3:45:43 PM",
   "lodgementDate": "8/19/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "O'Neill, Deborah",
@@ -270,6 +270,12 @@
     "createdOn": "2026-09-23T22:00:00Z",
     "details": "National Press Club Lunch - Assistant Treasurer Daniel Mulino - ticket sponsored by Telstra",
     "id": "a9c54af3-a6b7-f111-aaac-70a8a553d20c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-16T21:00:00Z",
+    "details": "Inter-Parliamentary Alliance on China - airfare (economy) and accommodation to attend annual conference, Netherlands",
+    "id": "06fe65c4-16e2-f111-84e8-7c1e52628eb9"
    },
    {
     "alterationType": "Addition",

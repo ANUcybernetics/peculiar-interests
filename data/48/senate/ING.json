@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": "6969366e-e0d0-f111-a059-7ced8da0b973"
+  },
+  {
+   "category": "memberships",
+   "date_processed": null,
+   "date_submitted": "2026-11-15",
+   "details": "Donation to Menslink Great Walk 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "ea58f5bf-16e2-f111-84e8-7ced8dd1428e"
   }
  ],
  "aph_id": "ING",
@@ -257,15 +268,15 @@
    "source_id": "4eeeec91-7f76-f011-b4cb-6045bdc323b4"
   }
  ],
- "last_updated": "2026-10-26",
+ "last_updated": "2026-11-16",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-10-26T17:23:02Z",
+  "fetched_at": "2026-11-17T17:15:37Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/ING.json",
-  "sha256": "23ab8a93351f5318983680d2e082cb110915b63d6283d42b1932d0d087927cd3",
+  "sha256": "5f232245631b391bdbe6dfccffab323cee6760fc2c86cc4837885413a9d9795f",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=ING"
  },
  "state": "Australian Capital Territory"

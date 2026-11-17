@@ -164,6 +164,17 @@
    "kind": "addition",
    "sequence": 15,
    "source_id": "a9c54af3-a6b7-f111-aaac-70a8a553d20c"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-16",
+   "details": "Inter-Parliamentary Alliance on China - airfare (economy) and accommodation to attend annual conference, Netherlands",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": "06fe65c4-16e2-f111-84e8-7c1e52628eb9"
   }
  ],
  "aph_id": "140651",
@@ -423,15 +434,15 @@
    "source_id": "b90e24b0-6e7d-f011-b4cc-7c1e5262c1f2"
   }
  ],
- "last_updated": "2026-09-24",
+ "last_updated": "2026-11-17",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-24T18:22:50Z",
+  "fetched_at": "2026-11-17T17:15:37Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/140651.json",
-  "sha256": "2f6f8042d6a79399188383e194c74997a4823153447ca84e6288b3f4cf4edf4a",
+  "sha256": "6da56cdf61c070f2efc154ca177d81b8b738d0c3b233a6ee3d5d083d708e653b",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=140651"
  },
  "state": "New South Wales"

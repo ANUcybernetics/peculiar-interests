@@ -13,6 +13,12 @@
     "createdOn": "2026-04-14T08:00:00Z",
     "details": "Registration for Women Deliver 2026 from Australian Parliamentary Friends of Population and Development (APGPD) Family Planning Australia, value $950 USD\n",
     "id": "41659d84-9a37-f111-88b4-6045bdc3fcd7"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-15T21:00:00Z",
+    "details": "15 November 2026 - economy ticket on QF1560 Canberra to Melbourne was upgraded to business seat at the gate, due to airline having oversold economy fares. The upgrade was unsolicited.",
+    "id": "0cc0d1c6-16e2-f111-84e8-7ced8da0b973"
    }
   ],
   "interests": []
@@ -135,7 +141,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "d13dc18c-6376-f011-b4cb-000d3ad253b4",
-  "lastDateUpdated": "10/19/2026 1:16:17 PM",
+  "lastDateUpdated": "11/16/2026 3:45:52 PM",
   "lodgementDate": "8/11/2025 10:07:33 AM",
   "publishNotes": false,
   "senatorName": "Darmanin, Lisa",

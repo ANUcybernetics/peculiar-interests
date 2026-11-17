@@ -87,6 +87,17 @@
    "kind": "deletion",
    "sequence": 8,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-17",
+   "date_submitted": "2026-11-17",
+   "details": "Unrequested flight upgrade from Qantas on 11 November 2026 - Brisbane to Canberra.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 9,
+   "source_id": null
   }
  ],
  "aph_id": "298574",
@@ -345,15 +356,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-06-26",
+ "last_updated": "2026-11-17",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-17T17:15:51Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/298574.pdf",
-  "sha256": "35c66282fc161585a76d076280c87ff52e3b4a0d97823ea15d875c428deecca4",
+  "sha256": "b02baab04f03e5a7bc0c4fa0cc95639ee7160bec095af91f30c8eba5bbcc6711",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/298574/statement/48"
  },
  "state": "QLD"

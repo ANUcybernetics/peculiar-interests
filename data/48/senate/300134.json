@@ -483,6 +483,39 @@
    "kind": "addition",
    "sequence": 44,
    "source_id": "189f1ca5-fccc-f111-a05a-7ced8da0b973"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-17",
+   "details": "The winning horse of the 1958 Kentucky Derby may have lent its name, but Arnott’s famous two malted biscuits sandwiching a chocolate cream filling, all dipped in a smooth milk chocolate coating will forever be an Australian classic and I'm very grateful to the team at Christian Schools Australia and Adventist Education Australia who dropped into my office today to share warmest Christian wishes to myself, my family and staff and gifting us a delicious 200g packet of Arnott’s Original style Tim Tam’s – Cost $6.00",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 45,
+   "source_id": "b6a3a9e6-3de2-f111-84e8-7c1e52628eb9"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-17",
+   "details": "My former employer the Port of Newcastle gifted me 3 tickets to join friends, former colleagues and 29,710, mostly passionate Tongan fans (the 3rd-highest crowd in Newcastle stadium history) at the historic double-header of the Rugby League World Cup 2026 semi-finals at McDonald Jones Stadium in Newcastle, highlighted by both the New Zealand men's and women's teams advancing to their respective World Cup.  Cross-code star Stacey Waaka was a standout performer for New Zealand and brilliant to watch, scoring a dominant hat-trick of tries to lead her side into the Women's World Cup Final, while Newcastle very own Captain and New Zealand national team fullback Kalyn Ponga made a triumphant return just 23 days after suffering a broken arm in the tournament opener, earning Player of the Match honours just over the monster southerly that hit in the second half – Cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 46,
+   "source_id": "fdfa9de0-3de2-f111-84e8-7c1e52628eb9"
+  },
+  {
+   "category": "other-interests",
+   "date_processed": null,
+   "date_submitted": "2026-11-17",
+   "details": "On the 12th Day of September 2026 I was recognised by The Cadets and Staff of 3 Wing Australian Air Force Cadets and awarded the honour of induction into the 3 Wing Hall of Fame.\nIn a citation presented to me the recognition stated “Throughout your life you have demonstrated a commitment to service, community and ensuring the voices of others are heard. From your early ambitions to your distinguished career in public life, you have remained determined to make a positive contribution to Australia and its communities.\nFrom your experience with 16 Flight, Air Training Corps, where you rose to the rank of Cadet Under Officer, we trust that your experiences within the Air Training Corps helped foster the qualities of perseverance, teamwork and service that you have carried throughout your career.\nWe hope that your appointment to the 3 Wing Hall of Fame demonstrates our appreciation for your achievements and enduring connection to the Australian Air Force Cadets, and inspires today's youth to pursue their ambitions, serve their communities and always strive to achieve their personal best.” As authorised by Chris Gibson, Wing Commander (AAFC) Officer Commanding, 3 Wing Australian Air Force Cadets\n",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 47,
+   "source_id": "739789e4-3de2-f111-84e8-7ced8dd14f5b"
   }
  ],
  "aph_id": "300134",
@@ -677,15 +710,15 @@
    "source_id": "a015ed46-d566-f011-bec3-0022489727de"
   }
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-11-17",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-10-21T17:23:44Z",
+  "fetched_at": "2026-11-17T17:15:37Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/300134.json",
-  "sha256": "d3535177b447ee578858d97948097653cacd0bfe914924ad7ddc9ae9e0894d15",
+  "sha256": "82b593564ddf34ad2e08d49cb919ffe530dbb87a19cf4a45d103923c49244541",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300134"
  },
  "state": "New South Wales"

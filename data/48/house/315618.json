@@ -186,6 +186,28 @@
    "kind": "addition",
    "sequence": 17,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-17",
+   "date_submitted": "2026-11-16",
+   "details": "Use of a meeting room at St George Leagues Club at no cost for the purpose of hosting a Barton community not-for-profit forum.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-17",
+   "date_submitted": "2026-11-16",
+   "details": "Use of a meeting room at Ramsgate RSL at no cost for the purpose of hosting a Barton Defence Community Council meeting.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
   }
  ],
  "aph_id": "315618",
@@ -518,15 +540,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-30",
+ "last_updated": "2026-11-16",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-01T18:10:23Z",
+  "fetched_at": "2026-11-17T17:15:51Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/315618.pdf",
-  "sha256": "1f9723615b6e0b309595c75d36c39bb0864f89b2a9f7d6b2957de6442663a3f9",
+  "sha256": "2d7cbc1fded768602dce1616f40cf5312d06579c6bdf1f7a03d5fa290e6ffbfd",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/315618/statement/48"
  },
  "state": "NSW"
