@@ -37,6 +37,12 @@
     "createdOn": "2026-05-13T04:30:00Z",
     "details": "Socceroos 2026 World Cup Jersey from Football Australia",
     "id": "205d48dc-954e-f111-bec6-7ced8da1c86f"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-17T04:00:00Z",
+    "details": "Bundle of coffee vouchers from Zarraffas Coffee Enfield delivered to electorate office",
+    "id": "616b9abb-40e2-f111-84e8-7ced8dd1428e"
    }
   ],
   "interests": [
@@ -206,7 +212,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "4440cd61-7c72-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "11/2/2026 1:34:56 PM",
+  "lastDateUpdated": "11/17/2026 1:13:25 PM",
   "lodgementDate": "8/6/2025 1:05:09 PM",
   "publishNotes": false,
   "senatorName": "Antic, Alex",

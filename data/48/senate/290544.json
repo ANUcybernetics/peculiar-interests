@@ -1,5 +1,17 @@
 {
- "alterations": [],
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-17",
+   "details": "Outbound flight from Melbourne, internal travel within UK and Europe, accommodation and hospitality for an industry delegation on digital and AI sovereignty approaches across Europe from 1 to 14 November 2026, courtesy of Commpete.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": "3479652c-fde2-f111-84e8-7ced8dd1428e"
+  }
+ ],
  "aph_id": "290544",
  "chamber": "senate",
  "date_lodged": "2025-08-13",
@@ -175,15 +187,15 @@
    "source_id": "6930ad8f-a078-f011-b4cb-000d3ad253b4"
   }
  ],
- "last_updated": "2025-08-13",
+ "last_updated": "2026-11-18",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-10-27T17:02:22Z",
+  "fetched_at": "2026-11-18T17:06:19Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/290544.json",
-  "sha256": "44db351d4946b37521c9d36d3f0e5ea85dd7477a37dfd2f24386f7c2080ac0e7",
+  "sha256": "a97b92f35e78f1108b7560a7c9613dccdac5614efa3edef5b735fe30a8f7400f",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=290544"
  },
  "state": "Victoria"

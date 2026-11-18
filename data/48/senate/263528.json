@@ -10,6 +10,17 @@
    "kind": "addition",
    "sequence": 1,
    "source_id": "4dae15c0-978f-f011-b4cc-6045bde49b50"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-16",
+   "details": "Assorted apparel from Ringers Western (Gold Coast) - 23 September 2026.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 2,
+   "source_id": "1b9e80b5-40e2-f111-84e8-7ced8dd14f5b"
   }
  ],
  "aph_id": "263528",
@@ -139,17 +150,17 @@
    "source_id": "ddc04632-cd7b-f011-b4cc-6045bdc29378"
   }
  ],
- "last_updated": "2025-09-11",
+ "last_updated": "2026-11-16",
  "notes": [
   "Under item 11, gifts, refer to the linked document for details of contributions to legal fund, declared on 11 September 2025 (The document was updated on 16 September 2025 to correct a typographical error in a single row in the originally loaded document)."
  ],
  "parliament": 48,
  "party": "Country Liberal Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-18T17:06:19Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/263528.json",
-  "sha256": "232592161d0ca8477b9f9b89a87a7f96ec454753b3191fb790a3948cd9f80229",
+  "sha256": "549ac3b84c78e3b5911fafd42d9f8b17afdd978703cd04f01d2cd816afd01e6f",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=263528"
  },
  "state": "Northern Territory"

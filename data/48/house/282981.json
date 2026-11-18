@@ -142,6 +142,50 @@
    "kind": "addition",
    "sequence": 13,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-18",
+   "date_submitted": "2026-11-18",
+   "details": "Honorary Vice President of Kurrawa SLSC",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 14,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-18",
+   "date_submitted": "2026-11-18",
+   "details": "28.08.2026 2 x tickets to GC Chinatown Year of the Horse Night Race gifted by GC Chinatown Association Inc",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 15,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-18",
+   "date_submitted": "2026-11-18",
+   "details": "19.09.2026 1 x ticket to The 2026 Gold Coast SUNS AFL Club Champion invited by Gold Coast SUNS",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-18",
+   "date_submitted": "2026-11-18",
+   "details": "29.09.2026 1 x ticket to Gold Coast Titans 2026 Club Awards. Invited by Gold Coast Titans",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
   }
  ],
  "aph_id": "282981",
@@ -493,15 +537,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-01",
+ "last_updated": "2026-11-18",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-01T18:10:23Z",
+  "fetched_at": "2026-11-18T17:06:31Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/282981.pdf",
-  "sha256": "46838927c781fcbc1b908c0676a0e9fe9382c00b4440ca803af287ae72774b78",
+  "sha256": "9f798bc27d888fb646fe83229ac41ee09edf09bee6bf91607f78d09c46e2e040",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/282981/statement/48"
  },
  "state": "QLD"

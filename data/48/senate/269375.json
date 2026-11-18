@@ -186,6 +186,17 @@
    "kind": "deletion",
    "sequence": 17,
    "source_id": "546a6990-0bd7-f111-a05b-00224893e2bc"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-17",
+   "details": "Bundle of coffee vouchers from Zarraffas Coffee Enfield delivered to electorate office",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": "616b9abb-40e2-f111-84e8-7ced8dd1428e"
   }
  ],
  "aph_id": "269375",
@@ -327,15 +338,15 @@
    "source_id": "7b40cd61-7c72-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2026-11-02",
+ "last_updated": "2026-11-17",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-11-11T17:23:05Z",
+  "fetched_at": "2026-11-18T17:06:19Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/269375.json",
-  "sha256": "0ee048b451ca2880e118402fb80c9d22d4a04729f1812fe52fd048b7dc212b16",
+  "sha256": "76ddfedb7a8a0faf9755c5cd0a2de87896a64c3dd7b7838b9d9dbe000522da70",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=269375"
  },
  "state": "South Australia"
