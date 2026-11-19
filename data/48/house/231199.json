@@ -450,6 +450,17 @@
    "kind": "addition",
    "sequence": 41,
    "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-19",
+   "date_submitted": "2026-11-19",
+   "details": "Rotary Club of Burnie sponsorship Golf Day",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 42,
+   "source_id": null
   }
  ],
  "aph_id": "231199",
@@ -636,15 +647,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-27",
+ "last_updated": "2026-11-19",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-27T17:02:41Z",
+  "fetched_at": "2026-11-19T17:24:25Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/231199.pdf",
-  "sha256": "d4407d31c8fcacff9be283ee76c88cb033e40429f3ab4078085fab3f4ba99f8e",
+  "sha256": "e33f8adb0ce64b22b08329d10cbd019372b31de8404282fb621a5f8b5344e074",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/231199/statement/48"
  },
  "state": "TAS"

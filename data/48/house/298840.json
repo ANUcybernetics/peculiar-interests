@@ -197,6 +197,17 @@
    "kind": "addition",
    "sequence": 18,
    "source_id": null
+  },
+  {
+   "category": "other-assets",
+   "date_processed": "2026-11-19",
+   "date_submitted": "2026-11-19",
+   "details": "Purchased a 5% stake in a racehorse named Twenty-One Guns",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
   }
  ],
  "aph_id": "298840",
@@ -492,15 +503,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-19",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-11-11T17:23:20Z",
+  "fetched_at": "2026-11-19T17:24:25Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/298840.pdf",
-  "sha256": "0717ebc6965a2de42762cbb643d6fcf21d4ed154cd8b40e805fa536f98ed85c2",
+  "sha256": "e01a645446a6386160ca4b6e78768a864e337f07c99793353992904b574bc97c",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/298840/statement/48"
  },
  "state": "NSW"
