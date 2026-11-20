@@ -21,6 +21,39 @@
    "kind": "addition",
    "sequence": 2,
    "source_id": "5935293c-854e-f111-bec6-6045bdc25de2"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-11-19",
+   "details": "Sandy Bay, Tasmania - Residential",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 3,
+   "source_id": "966d055b-7ae4-f111-84e8-00224893e2bc"
+  },
+  {
+   "category": "real-estate",
+   "date_processed": null,
+   "date_submitted": "2026-11-19",
+   "details": "Leslie Vale, Tasmania - Residential",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 4,
+   "source_id": "e66d055b-7ae4-f111-84e8-00224893e2bc"
+  },
+  {
+   "category": "liabilities",
+   "date_processed": null,
+   "date_submitted": "2026-11-19",
+   "details": "Credit Line - Latitude Finance",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "deletion",
+   "sequence": 5,
+   "source_id": "ed6d055b-7ae4-f111-84e8-00224893e2bc"
   }
  ],
  "aph_id": "F49",
@@ -245,15 +278,15 @@
    "source_id": "70c491bf-ce7c-f011-b4cc-00224898d08b"
   }
  ],
- "last_updated": "2026-05-13",
+ "last_updated": "2026-11-19",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-20T17:23:46Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/F49.json",
-  "sha256": "5ebcf5d4de968a175dab9f542bd33ed668fff1884cdf3f967d4495aadb941ceb",
+  "sha256": "6c2b98db4fd8619d3299de2dfcb436d36e73d34bd82177a254d55f77ea28cda2",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=F49"
  },
  "state": "Tasmania"

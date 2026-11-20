@@ -164,6 +164,17 @@
    "kind": "addition",
    "sequence": 15,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-20",
+   "date_submitted": "2026-11-19",
+   "details": "Thrive Health Band wearable health monitoring device, gifted by Optihealth Group Holdings Pty Ltd, a Gold Coast-based health technology company. Estimated retail value of $589. Received 19 November 2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
   }
  ],
  "aph_id": "316547",
@@ -275,15 +286,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-11-16",
+ "last_updated": "2026-11-19",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-11-16T17:24:27Z",
+  "fetched_at": "2026-11-20T17:24:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316547.pdf",
-  "sha256": "c317e43c98c9752e89dbd5d2eb1b6a87538b603bb060e4cd4ed7827a19764bc4",
+  "sha256": "8aadc23631c3374253f38d774ec4721cadd692d1846e378345c553255c7772c9",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316547/statement/48"
  },
  "state": "QLD"

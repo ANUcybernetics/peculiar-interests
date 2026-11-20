@@ -201,7 +201,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "c4eb57cc-947d-f011-b4cc-6045bdc29378",
-  "lastDateUpdated": "8/19/2026 4:56:41 PM",
+  "lastDateUpdated": "11/19/2026 12:11:51 PM",
   "lodgementDate": "8/18/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Wong, Penny",
@@ -257,6 +257,12 @@
     "createdOn": "2026-08-18T23:00:00Z",
     "details": "Accommodation and Ground Transport provided by the Government of The Republic of the Philippines, 21-23 July 2026",
     "id": "03fd7551-a69b-f111-b8db-7ced8da2d8e0"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-18T21:00:00Z",
+    "details": "Accommodation provided by the Government of Indonesia, 21-23 October 2026",
+    "id": "b785d053-7ae4-f111-84e8-7ced8dd14f5b"
    }
   ],
   "interests": []

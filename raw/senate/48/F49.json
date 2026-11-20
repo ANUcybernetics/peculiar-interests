@@ -9,7 +9,14 @@
   "interests": []
  },
  "liabilities": {
-  "alterations": [],
+  "alterations": [
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-11-19T01:30:00Z",
+    "details": "Credit Line - Latitude Finance",
+    "id": "ed6d055b-7ae4-f111-84e8-00224893e2bc"
+   }
+  ],
   "interests": [
    {
     "creditor": "Bank of Queensland",
@@ -91,6 +98,18 @@
  "realEstate": {
   "alterations": [
    {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-19T00:30:00Z",
+    "details": "Sandy Bay, Tasmania - Residential",
+    "id": "966d055b-7ae4-f111-84e8-00224893e2bc"
+   },
+   {
+    "alterationType": "Deletion",
+    "createdOn": "2026-11-19T01:00:00Z",
+    "details": "Leslie Vale, Tasmania - Residential",
+    "id": "e66d055b-7ae4-f111-84e8-00224893e2bc"
+   },
+   {
     "alterationType": "Deletion",
     "createdOn": "2026-01-14T03:00:00Z",
     "details": "Bruny Island, Tasmania - 1/4 Share Shack",
@@ -153,7 +172,7 @@
  "senatorInterestStatement": {
   "electorateState": "Tasmania",
   "id": "13c491bf-ce7c-f011-b4cc-00224898d08b",
-  "lastDateUpdated": "5/13/2026 4:26:42 PM",
+  "lastDateUpdated": "11/19/2026 12:11:17 PM",
   "lodgementDate": "8/19/2025 2:38:25 PM",
   "publishNotes": false,
   "senatorName": "Brown, Carol",

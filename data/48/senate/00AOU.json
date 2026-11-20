@@ -175,6 +175,17 @@
    "kind": "deletion",
    "sequence": 16,
    "source_id": "21fd7551-a69b-f111-b8db-7ced8da2d8e0"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-18",
+   "details": "Accommodation provided by the Government of Indonesia, 21-23 October 2026",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": "b785d053-7ae4-f111-84e8-7ced8dd14f5b"
   }
  ],
  "aph_id": "00AOU",
@@ -368,15 +379,15 @@
    "source_id": "e3eb57cc-947d-f011-b4cc-6045bdc29378"
   }
  ],
- "last_updated": "2026-08-19",
+ "last_updated": "2026-11-19",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-20T17:23:46Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/00AOU.json",
-  "sha256": "aa403f411f75fe120967095e304be42f6c3b5327731a238ce98fed6ca6f34065",
+  "sha256": "40df8f753082db150b3103dcd3c5059a5784c541ba0225cec90623da24ee9b47",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=00AOU"
  },
  "state": "South Australia"

@@ -197,6 +197,61 @@
    "kind": "addition",
    "sequence": 18,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-20",
+   "date_submitted": "2026-11-20",
+   "details": "11 November 2026 - Hawkesbury Local Business Awards",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-20",
+   "date_submitted": "2026-11-20",
+   "details": "Clarendon - 2 Tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-20",
+   "date_submitted": "2026-11-20",
+   "details": "13 November 2026 - Sydney Peace Prize Gala Dinner, Sydney Peace Foundation - 1 Ticket",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-20",
+   "date_submitted": "2026-11-20",
+   "details": "15 November 2026 - Beethoven's Pastoral, Australian Chamber Orchestra - 2 Tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-20",
+   "date_submitted": "2026-11-20",
+   "details": "18 November 2026 - ARIA Awards, guest of ARIA - 2 Tickets",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
   }
  ],
  "aph_id": "181810",
@@ -569,15 +624,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-11-20",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-28T17:10:13Z",
+  "fetched_at": "2026-11-20T17:24:04Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/181810.pdf",
-  "sha256": "aee09aadb0f45103d7f2838866a4b958e68f86b7d6f8c8e2d8a4570bfc4d3775",
+  "sha256": "7adc25204a68ab8a0f9a2e6dee4bdbb2f66cef38430e9867a7419407448d66cd",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/181810/statement/48"
  },
  "state": "NSW"
