@@ -164,6 +164,116 @@
    "kind": "addition",
    "sequence": 15,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "Spencer Gulf and West Coast Prawn Association Annual Dinner tickets x 2 (Member and Spouse), 23/10/2026, Port Lincoln",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 16,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "2026 Melbourne Cup (Member and Spouse)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 17,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "Patron of the Wallaroo Pistol Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "Patron of the Maitland Rifle Club",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 19,
+   "source_id": null
+  },
+  {
+   "category": "other-interests",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "Patron of the Wilmington Show",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 20,
+   "source_id": null
+  },
+  {
+   "category": "memberships",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "Patron of the Copper Coast Show",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 21,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "South Australian Cricket Association",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 22,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "2026 Whyalla Business and Tourism Awards Dinner, 1 ticket 30/10/2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 23,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "AHA National Board Luncheon presented by Treasury Wine Estates, 2/11/2026.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 24,
+   "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "AHA / SA Regional Luncheon 17/11/26",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 25,
+   "source_id": null
   }
  ],
  "aph_id": "315434",
@@ -384,15 +494,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-09-09",
+ "last_updated": "2026-11-20",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-09T18:05:26Z",
+  "fetched_at": "2026-11-23T17:09:50Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/315434.pdf",
-  "sha256": "867cdb412db04ffa7ae168595d1e4518d0c08e17806f1af138062cbfaf2ffcb1",
+  "sha256": "1e4968ce7d8e097508c75378045bf215fa4d674997cd464b61579baa05a25a64",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/315434/statement/48"
  },
  "state": "SA"

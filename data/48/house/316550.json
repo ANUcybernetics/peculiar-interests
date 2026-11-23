@@ -340,6 +340,17 @@
    "kind": "addition",
    "sequence": 31,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-20",
+   "details": "3x Perth wildcat tickets from Optus",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 32,
+   "source_id": null
   }
  ],
  "aph_id": "316550",
@@ -741,15 +752,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-11-20",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-22T17:23:58Z",
+  "fetched_at": "2026-11-23T17:09:50Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/316550.pdf",
-  "sha256": "de69728510372f1a6f9478249fe6836b6fe039324eb9c7b046b07401a045f45d",
+  "sha256": "8abd8c9fa7a146fd701c9986f653db2b8b762c11292bfc3de7005b838551c054",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/316550/statement/48"
  },
  "state": "WA"

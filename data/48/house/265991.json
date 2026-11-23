@@ -1,5 +1,17 @@
 {
- "alterations": [],
+ "alterations": [
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-23",
+   "date_submitted": "2026-11-23",
+   "details": "Flights from Brisbane to Perth on 21 October and from Perth to Canberra on 25 October provided by the Right to Life Association of WA.",
+   "fields": {},
+   "holder": "spouse",
+   "kind": "addition",
+   "sequence": 1,
+   "source_id": null
+  }
+ ],
  "aph_id": "265991",
  "chamber": "house",
  "date_lodged": "2025-07-30",
@@ -12,7 +24,7 @@
  },
  "family_name": "O'Brien",
  "given_names": "Llewellyn",
- "honorific": null,
+ "honorific": "Mr",
  "interests": [
   {
    "category": "real-estate",
@@ -247,16 +259,16 @@
    "source_id": null
   }
  ],
- "last_updated": "2025-07-30",
+ "last_updated": "2026-11-23",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-09-07T08:23:41Z",
+  "fetched_at": "2026-11-23T17:09:50Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/265991.pdf",
-  "sha256": "4ff03dda5e67fd9132d0a09691362f53a2b274e046f93a519669ef408ea4eaae",
+  "sha256": "e9b619928bb20beebc9715fe4ca1ac0d8301e410d024baec12170fbf3e658d12",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/265991/statement/48"
  },
- "state": null
+ "state": "QLD"
 }
