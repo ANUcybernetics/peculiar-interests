@@ -175,7 +175,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "fe74d124-5873-f011-b4cd-000d3ad2a284",
-  "lastDateUpdated": "10/13/2026 2:56:55 PM",
+  "lastDateUpdated": "11/23/2026 8:50:09 AM",
   "lodgementDate": "8/7/2025 1:29:05 PM",
   "publishNotes": false,
   "senatorName": "Hume, Jane",
@@ -219,6 +219,24 @@
     "createdOn": "2026-08-14T04:00:00Z",
     "details": "1 x Ticket to Midwinter Ball from Fairfax",
     "id": "c8f3687e-a997-f111-8075-7c1e5262e7d4"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-23T02:00:00Z",
+    "details": "2 x Tickets to Diageo marquee on Derby Day Sat 31st October 2026 from Tom Green Diageo",
+    "id": "c6e6a4e2-0ee7-f111-84e9-7ced8da0b973"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-23T02:30:00Z",
+    "details": "2x Tickets to Nine Marquee from Nine",
+    "id": "c214a7e8-0ee7-f111-84e9-7ced8da0b973"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-23T03:00:00Z",
+    "details": "5 x Tickets to Crown Marquee on Oaks Day Thursday 5th November 2026 from Crown Resorts",
+    "id": "ca14a7e8-0ee7-f111-84e9-7ced8da0b973"
    }
   ],
   "interests": []

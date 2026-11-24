@@ -98,6 +98,39 @@
    "kind": "addition",
    "sequence": 9,
    "source_id": "5522df13-b2c6-f111-aaad-7c1e52628eb9"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-23",
+   "details": "2x Tickets to Nine Marquee from Nine",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 10,
+   "source_id": "c214a7e8-0ee7-f111-84e9-7ced8da0b973"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-23",
+   "details": "2 x Tickets to Diageo marquee on Derby Day Sat 31st October 2026 from Tom Green Diageo",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 11,
+   "source_id": "c6e6a4e2-0ee7-f111-84e9-7ced8da0b973"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-23",
+   "details": "5 x Tickets to Crown Marquee on Oaks Day Thursday 5th November 2026 from Crown Resorts",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 12,
+   "source_id": "ca14a7e8-0ee7-f111-84e9-7ced8da0b973"
   }
  ],
  "aph_id": "266499",
@@ -298,15 +331,15 @@
    "source_id": "b3ecc92a-5873-f011-b4cd-000d3ad2a284"
   }
  ],
- "last_updated": "2026-10-13",
+ "last_updated": "2026-11-23",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-10-13T17:09:44Z",
+  "fetched_at": "2026-11-24T17:06:13Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/266499.json",
-  "sha256": "b3c92c64cb501d6881162be4f4b70a3330c0cd7a300299e08c1be1e17803dc0f",
+  "sha256": "dad5a9be44cef5487fcac3294dcc810f291f00dcdd42f38dbfafc506f166b139",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=266499"
  },
  "state": "Victoria"
