@@ -1235,8 +1235,8 @@
   "state": "VIC"
  },
  {
-  "aph_id": "263418",
-  "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263418",
+  "aph_id": "roster:duniam-jonathon",
+  "aph_url": null,
   "chamber": "senate",
   "current": true,
   "electorate": null,
@@ -1244,9 +1244,7 @@
   "gender": "Male",
   "given_names": "Jonathon Roy",
   "honorific": "Senator the Hon",
-  "parliaments": [
-   48
-  ],
+  "parliaments": [],
   "party": "Liberal Party of Australia",
   "party_code": "LP",
   "post_nominals": null,

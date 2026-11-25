@@ -131,6 +131,17 @@
    "kind": "addition",
    "sequence": 12,
    "source_id": "7c1b4a9d-fbd0-f111-a059-00224893e2bc"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "Flights, accommodation, ground transportation, and hospitality while on the Australian Political Exchange Council’s 31st delegation to Japan from 6 to 14 November 2026.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 13,
+   "source_id": "5a312187-8be8-f111-84e9-7c1e52628eb9"
   }
  ],
  "aph_id": "316818",
@@ -254,15 +265,15 @@
    "source_id": "07c6e336-a678-f011-b4cb-6045bdc29378"
   }
  ],
- "last_updated": "2026-10-26",
+ "last_updated": "2026-11-25",
  "notes": [],
  "parliament": 48,
  "party": "Australian Labor Party",
  "source": {
-  "fetched_at": "2026-10-26T17:23:02Z",
+  "fetched_at": "2026-11-25T17:21:26Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/316818.json",
-  "sha256": "55944b4fa99977b9288da3a3fdc8e362c3cfafaea605988e2175a5390862eff4",
+  "sha256": "81f109f508409a56b37755035e8cc07aea1a79e66fcf8f447c6af172cea6bb1f",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=316818"
  },
  "state": "South Australia"

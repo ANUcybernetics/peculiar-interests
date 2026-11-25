@@ -351,6 +351,28 @@
    "kind": "addition",
    "sequence": 32,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-25",
+   "date_submitted": "2026-11-25",
+   "details": "I received a room upgrade at Shangri-La Sydney during my stay dated Wednesday, 18 November 2026 to Thursday, 19 November 2026",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 33,
+   "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-25",
+   "date_submitted": "2026-11-25",
+   "details": "I accepted tickets for myself and my wife to attend the 2026 Telethon Ball held on Saturday 17 October 2026 from Seven West Media.",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 34,
+   "source_id": null
   }
  ],
  "aph_id": "74519",
@@ -645,15 +667,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-26",
+ "last_updated": "2026-11-25",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-27T17:02:41Z",
+  "fetched_at": "2026-11-25T17:21:40Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/74519.pdf",
-  "sha256": "4775d1f490833a61df4b8def4454a44b4dfa55b53114ba7593209fc2348989a9",
+  "sha256": "eaee7904c0e96ecfbd4716be71312d8c3b5a785e8d817793a9ebaff742823e95",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/74519/statement/48"
  },
  "state": "WA"

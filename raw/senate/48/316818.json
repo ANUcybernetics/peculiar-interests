@@ -141,7 +141,7 @@
  "senatorInterestStatement": {
   "electorateState": "South Australia",
   "id": "e31be930-a678-f011-b4cb-6045bdc29378",
-  "lastDateUpdated": "10/26/2026 4:43:43 PM",
+  "lastDateUpdated": "11/25/2026 4:09:14 PM",
   "lodgementDate": "8/13/2025 12:33:17 PM",
   "publishNotes": false,
   "senatorName": "Walker, Charlotte",
@@ -191,6 +191,12 @@
     "createdOn": "2026-07-29T05:00:00Z",
     "details": "Ticket to the Midwinter Ball on 1 July 2026, courtesy of News Corp Australia.",
     "id": "400eb6c2-a28b-f111-ab0f-70a8a553d20c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-25T03:30:00Z",
+    "details": "Flights, accommodation, ground transportation, and hospitality while on the Australian Political Exchange Council’s 31st delegation to Japan from 6 to 14 November 2026.",
+    "id": "5a312187-8be8-f111-84e9-7c1e52628eb9"
    },
    {
     "alterationType": "Addition",
