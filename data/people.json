@@ -335,8 +335,8 @@
   "parliaments": [
    48
   ],
-  "party": "Liberal Party of Australia",
-  "party_code": "LP",
+  "party": "One Nation",
+  "party_code": "ON",
   "post_nominals": null,
   "preferred_name": "Leah",
   "state": "SA"
@@ -1102,6 +1102,23 @@
   "state": "WA"
  },
  {
+  "aph_id": "roster:courtney-sarah",
+  "aph_url": null,
+  "chamber": "senate",
+  "current": true,
+  "electorate": null,
+  "family_name": "Courtney",
+  "gender": "Female",
+  "given_names": "Sarah Jane",
+  "honorific": "Senator the Hon",
+  "parliaments": [],
+  "party": "Liberal Party of Australia",
+  "party_code": "LP",
+  "post_nominals": null,
+  "preferred_name": "Sarah",
+  "state": "TAS"
+ },
+ {
   "aph_id": "296215",
   "aph_url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=296215",
   "chamber": "senate",
@@ -1233,23 +1250,6 @@
   "post_nominals": "MP KC",
   "preferred_name": "Mark",
   "state": "VIC"
- },
- {
-  "aph_id": "roster:duniam-jonathon",
-  "aph_url": null,
-  "chamber": "senate",
-  "current": true,
-  "electorate": null,
-  "family_name": "Duniam",
-  "gender": "Male",
-  "given_names": "Jonathon Roy",
-  "honorific": "Senator the Hon",
-  "parliaments": [],
-  "party": "Liberal Party of Australia",
-  "party_code": "LP",
-  "post_nominals": null,
-  "preferred_name": "Jonathon",
-  "state": "TAS"
  },
  {
   "aph_id": "DZW",

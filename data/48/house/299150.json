@@ -186,6 +186,17 @@
    "kind": "addition",
    "sequence": 17,
    "source_id": null
+  },
+  {
+   "category": "gifts",
+   "date_processed": "2026-11-26",
+   "date_submitted": "2026-11-26",
+   "details": "Sponsorship of radio segment on Ellenbrook Community Radio 88.5FM by Bendigo Bank branches at Ellenbrook, Bullsbrook and Bindoon",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 18,
+   "source_id": null
   }
  ],
  "aph_id": "299150",
@@ -454,15 +465,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-11-12",
+ "last_updated": "2026-11-26",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-11-12T17:11:11Z",
+  "fetched_at": "2026-11-26T17:14:41Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/299150.pdf",
-  "sha256": "e147986fa5a11f6d1ed6b3a1e25b56dd9ba7e0dbf1573e4778ea56615e85db77",
+  "sha256": "9dbd249583d511ef73e5c20027204208c8ee6d1c1c29d25ec178d3dba9fd4f91",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/299150/statement/48"
  },
  "state": "WA"

@@ -868,6 +868,17 @@
    "kind": "addition",
    "sequence": 79,
    "source_id": null
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": "2026-11-26",
+   "date_submitted": "2026-11-26",
+   "details": "Return travel to Türkiye, accommodation and food in relation to attendance at COP31, courtesy of Nixs Run Pty Ltd (registered with AEC as an associated entity)",
+   "fields": {},
+   "holder": "self",
+   "kind": "addition",
+   "sequence": 80,
+   "source_id": null
   }
  ],
  "aph_id": "26417",
@@ -1306,15 +1317,15 @@
    "source_id": null
   }
  ],
- "last_updated": "2026-10-27",
+ "last_updated": "2026-11-26",
  "notes": [],
  "parliament": 48,
  "party": null,
  "source": {
-  "fetched_at": "2026-10-27T17:02:41Z",
+  "fetched_at": "2026-11-26T17:14:41Z",
   "kind": "house-api-pdf",
   "raw_path": "raw/house/48/26417.pdf",
-  "sha256": "becbb59dfeace5980c6ef3bb3545fdae2a48f93387f8fed667891e536377626a",
+  "sha256": "56da816e8ff01ce337d01f7ce01461ed850bd8509a25ba63d5c2bb9eeae26245",
   "url": "https://interests-register-api-public.aph.gov.au/api/members/26417/statement/48"
  },
  "state": "NSW"

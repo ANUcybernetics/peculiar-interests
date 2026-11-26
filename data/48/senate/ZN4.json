@@ -76,6 +76,17 @@
    "kind": "addition",
    "sequence": 7,
    "source_id": "79911563-d075-f111-ab0f-6045bdc3f4ad"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-26",
+   "details": "Two tickets to Derby Day, Channel Nine Birdcage marquee, 31 October 2026 and one ticket to the Melbourne Cup, Channel Nine Birdcage marquee, on 3 November 2026, provided by Nine Network Australia. ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 8,
+   "source_id": "22af4391-37e9-f111-84e7-7ced8dd1428e"
   }
  ],
  "aph_id": "ZN4",
@@ -283,15 +294,15 @@
    "source_id": "70536a47-bd7c-f011-b4cc-6045bdc29378"
   }
  ],
- "last_updated": "2026-07-02",
+ "last_updated": "2026-11-26",
  "notes": [],
  "parliament": 48,
  "party": "Liberal Party of Australia",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-26T17:14:29Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/ZN4.json",
-  "sha256": "cd3aea9eb94d666c2a964087f73e7998c46c7f71d8e6657395fcb2240f62290c",
+  "sha256": "a104fe7d4400c84eeacc02d83a344d37dc02a22685b7759c78dfbc5c20df0e06",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=ZN4"
  },
  "state": "Victoria"

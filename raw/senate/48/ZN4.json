@@ -37,6 +37,12 @@
     "createdOn": "2025-09-21T10:00:00Z",
     "details": "Two tickets to the AFL Preliminary Final, Geelong v Hawthorn, 19 October 2025, provided by the AFL.",
     "id": "11046222-6b97-f011-b41b-6045bde4956c"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-26T01:00:00Z",
+    "details": "Two tickets to Derby Day, Channel Nine Birdcage marquee, 31 October 2026 and one ticket to the Melbourne Cup, Channel Nine Birdcage marquee, on 3 November 2026, provided by Nine Network Australia. ",
+    "id": "22af4391-37e9-f111-84e7-7ced8dd1428e"
    }
   ],
   "interests": []
@@ -188,7 +194,7 @@
  "senatorInterestStatement": {
   "electorateState": "Victoria",
   "id": "73d77141-bd7c-f011-b4cc-6045bdc29378",
-  "lastDateUpdated": "7/2/2026 3:00:17 PM",
+  "lastDateUpdated": "11/26/2026 12:32:55 PM",
   "lodgementDate": "8/17/2025 2:00:00 PM",
   "publishNotes": false,
   "senatorName": "Henderson, Sarah",
