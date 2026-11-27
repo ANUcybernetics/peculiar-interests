@@ -108,7 +108,7 @@
  "senatorInterestStatement": {
   "electorateState": "New South Wales",
   "id": "0623594e-067f-f011-b4cc-6045bdc323b4",
-  "lastDateUpdated": "10/22/2025 4:55:16 PM",
+  "lastDateUpdated": "11/26/2026 9:31:05 AM",
   "lodgementDate": "8/22/2025 12:00:00 AM",
   "publishNotes": false,
   "senatorName": "Shoebridge, David",
@@ -128,6 +128,12 @@
     "createdOn": "2025-10-21T21:00:00Z",
     "details": "Accommodation, food and transport for me and one staff member for three nights provided by the Democratic Autonomous Administration of North East Syria ",
     "id": "ae210b82-8db0-f011-bbd2-002248990cce"
+   },
+   {
+    "alterationType": "Addition",
+    "createdOn": "2026-11-25T23:00:00Z",
+    "details": "Aerial viewing of Takanya by helicopter sponsored by the Bob Brown Foundation",
+    "id": "ee6b0cef-58e9-f111-84e9-7ced8da0b973"
    }
   ],
   "interests": []

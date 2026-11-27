@@ -516,6 +516,83 @@
    "kind": "addition",
    "sequence": 47,
    "source_id": "739789e4-3de2-f111-84e8-7ced8dd14f5b"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "The Pharmacy Guild of Australia have made my summer very easy with a delivery to my office of a PBS Medicines branded coolerbag containing a pair of Glucojel branded Boomerang thongs along with a second set of straps in contrasting colours and 50ml bottle of SPF 50+ Dry Touch Very High Protection sunscreen lotion – Cost unknown ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 48,
+   "source_id": "2d6d1e63-eae9-f111-84e9-7ced8dd14f5b"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "As Hanukkah and Christmas approach,  the Embassy of Israel extended its warmest wishes to myself and my team for a season of peace, health and happiness with a small gift basket containing a Dreidels, bearing the traditional symbols of Hanukkah, a bottle of 3 Sisters, first cold pressed extra virgin olive oil, estate grown in Australia from an Israeli olive variety, and a Memorial Candle bearing the inscription Light Over Darkness as a symbol of remembrance for those lost at Bondi and a reminder that even a single candle can brighten the darkness – Cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 49,
+   "source_id": "6b0e745e-eae9-f111-84e9-7ced8da0b973"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "As an aviation tragic I thoroughly enjoyed a delicious dinner at Ostani as a guest of Michael Venus and Laurent Janitza from ATR discussing exciting new aviation developments and products, concluding with a much appreciated gift of a SOCATEC 1:100 detailed scale model ATR 42-600 aircraft, which now sits pride of place on my office desk – Cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 50,
+   "source_id": "87d4bc53-eae9-f111-84e7-7ced8dd1428e"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "At a meeting with a delegation from the Australian Association of Voice Actors discussing the impact of Labors AI policy on their industry I was gifted a personalised and autographed 286 page paperback “9/11 and the Art of Happiness: An Australian Story” ISBN 978-1925048087 by its author Simon Kennedy where he recounts how he processed grief, trauma, and forgiveness after his mother, Yvonne Kennedy, was killed during the September 11 terrorist attacks. She was one of 10 Australians who died that day and the only Australian aboard American Airlines Flight 77 when it crashed into the Pentagon while she was returning home from a holiday – Cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 51,
+   "source_id": "8c0e745e-eae9-f111-84e9-7ced8da0b973"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "As certain as the moon follows the sun, the very kind team at Croplife have again this year gifted my office a “Grandma’s Puddings” branded 1 Kg traditional Plum Pudding .  Croplife pudding have enthusiastically been devoured at the Cadell Christmas lunch table on several Christmas’s past and my family will thoroughly enjoy this one too when we gather for Christmas – Cost unknown  ",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 52,
+   "source_id": "afb5b45d-eae9-f111-84e9-00224893e2bc"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "With the first chair of agriculture in Australia in 1910, the University of Sydney has been a leading contributor to Australian agricultural knowledge for more than a century. Their contribution to agricultural knowledge remains vital and what they offer is highly valued by industry stakeholders, making them a leading participant in transforming Australian agriculture.  At an opportunity to meet with them to discuss the pressing issues that currently face farmers, regional communities and industry I was gifted an official University of Sydney Coffee Mug – Cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 53,
+   "source_id": "db5ac75a-eae9-f111-84e7-00224893f414"
+  },
+  {
+   "category": "gifts",
+   "date_processed": null,
+   "date_submitted": "2026-11-26",
+   "details": "I thank Josephine Johnstone of the Copyright Agency for her contribution to my summer reading pile and her proud and passionate support of Australian creativity following  her gift of the 384 page paperback titled Fierceland by Omar Musa, one of the novels shortlisted for the 2026 Miles Franklin Literary Award where she follows siblings Roz and Harun across decades and continents as they return to Malaysian Borneo for the funeral of their father, Yusuf, a wealthy palm-oil baron. Reckoning with the environmental destruction and violence behind their family's fortune, they seek redemption while haunted by the legacies of colonialism, family secrets, and the forest – Cost unknown",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 54,
+   "source_id": "7c1bba68-eae9-f111-84e9-7c1e52628eb9"
   }
  ],
  "aph_id": "300134",
@@ -710,15 +787,15 @@
    "source_id": "a015ed46-d566-f011-bec3-0022489727de"
   }
  ],
- "last_updated": "2026-11-17",
+ "last_updated": "2026-11-26",
  "notes": [],
  "parliament": 48,
  "party": "The Nationals",
  "source": {
-  "fetched_at": "2026-11-17T17:15:37Z",
+  "fetched_at": "2026-11-27T17:27:02Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/300134.json",
-  "sha256": "82b593564ddf34ad2e08d49cb919ffe530dbb87a19cf4a45d103923c49244541",
+  "sha256": "a50ccd5d4fe13e054ec6a7c8befeb2885b0e7a80301fa1bc2a76e0816591faad",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=300134"
  },
  "state": "New South Wales"

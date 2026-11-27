@@ -43,6 +43,17 @@
    "kind": "addition",
    "sequence": 4,
    "source_id": "ae210b82-8db0-f011-bbd2-002248990cce"
+  },
+  {
+   "category": "travel-hospitality",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "Aerial viewing of Takanya by helicopter sponsored by the Bob Brown Foundation",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 5,
+   "source_id": "ee6b0cef-58e9-f111-84e9-7ced8da0b973"
   }
  ],
  "aph_id": "169119",
@@ -128,15 +139,15 @@
    "source_id": "0e964785-077f-f011-b4cc-6045bdc323b4"
   }
  ],
- "last_updated": "2025-10-22",
+ "last_updated": "2026-11-26",
  "notes": [],
  "parliament": 48,
  "party": "Australian Greens",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-27T17:27:02Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/169119.json",
-  "sha256": "906c608268484204c818e1509a050a96532ab553b9f272dea775b1bdec6a1fbf",
+  "sha256": "04d03988822d88dff9685992a006b7ce5947621f380dcdcc197df2a39daf3493",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=169119"
  },
  "state": "New South Wales"

@@ -65,6 +65,17 @@
    "kind": "deletion",
    "sequence": 6,
    "source_id": "bc02d80f-e648-f111-bec6-7ced8da1c86f"
+  },
+  {
+   "category": "directorships",
+   "date_processed": null,
+   "date_submitted": "2026-11-25",
+   "details": "Director of Pauline Hanson’s One Nation Tasmania Limited from 26 August 2026 to 28 September 2026.",
+   "fields": {},
+   "holder": "unspecified",
+   "kind": "addition",
+   "sequence": 7,
+   "source_id": "5b98bbe8-58e9-f111-84e9-00224893e2bc"
   }
  ],
  "aph_id": "319142",
@@ -168,15 +179,15 @@
    "source_id": "19c41217-e3c8-f011-bbd3-6045bde5f32c"
   }
  ],
- "last_updated": "2026-05-05",
+ "last_updated": "2026-11-26",
  "notes": [],
  "parliament": 48,
  "party": "One Nation",
  "source": {
-  "fetched_at": "2026-09-07T08:12:21Z",
+  "fetched_at": "2026-11-27T17:27:02Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/319142.json",
-  "sha256": "4a965ebe88a112e782d5aa4e3cecc2201d0058339b604845f05494a06d8f507a",
+  "sha256": "e057635512db3363373a37af923cd3613346a3173f171edd4776d6a46a2e6818",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=319142"
  },
  "state": "New South Wales"

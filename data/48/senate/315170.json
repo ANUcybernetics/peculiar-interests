@@ -257,12 +257,12 @@
  "last_updated": "2026-10-22",
  "notes": [],
  "parliament": 48,
- "party": "Liberal Party of Australia",
+ "party": "One Nation",
  "source": {
-  "fetched_at": "2026-10-22T17:23:48Z",
+  "fetched_at": "2026-11-27T17:27:02Z",
   "kind": "senate-api",
   "raw_path": "raw/senate/48/315170.json",
-  "sha256": "63753bed6f42782a5fb7399651bb726ea03dc9e6c1d94b68e10314b1d548003f",
+  "sha256": "5cf08516cafa1437e99d445e9584517b21aecf119977bced50f67638e6fa76df",
   "url": "https://pbs-apim-aqcdgxhvaug7f8em.z01.azurefd.net/api/getSenatorStatement?cdapid=315170"
  },
  "state": "South Australia"
